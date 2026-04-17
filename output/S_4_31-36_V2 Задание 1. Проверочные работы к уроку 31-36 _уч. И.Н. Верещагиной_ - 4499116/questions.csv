@@ -1,0 +1,41 @@
+HTML
+<p>I haven't had lunch.......... .</p>,1,one,
+,<p>already</p>
+*,<p>yet</p>
+,<p>yesterday</p>
+<p>Workers................know Italian.</p>,1,one,
+,<p>have to</p>
+*,<p>don't have to </p>
+,<p>mustn't</p>
+<p>The raincoat looks.............. .</p>,1,one,
+*,<p>nice</p>
+,<p>nicely</p>
+,<p>well</p>
+<p>I have....................opened the window.</p>,1,one,
+*,<p>just</p>
+,<p>yet</p>
+,<p>yesterday</p>
+<p>I........................the window a minute ago.</p>,1,one,
+,<p>open</p>
+,<p>have opened</p>
+*,<p>opened</p>
+"<p>She had potato salad for lunch,.............?</p>",1,one,
+,<p>hadn't she</p>
+*,<p>didn't she</p>
+,<p>did she</p>
+"<p>She had to buy some potatoes, ...........?</p>",1,one,
+,<p>hadn't she</p>
+*,<p>didn't she</p>
+,<p>did she</p>
+<p>I have never seen such...................beautiful picture!</p>,1,one,
+,<p>-</p>
+,<p>the</p>
+*,<p>a</p>
+<p>We have got a lot of food. We..................go shopping today.</p>,1,one,
+,<p>have to</p>
+*,<p>don't have to</p>
+,<p>mustn't</p>
+<p>She........................buy two tickets yesterday.</p>,1,one,
+,<p>must</p>
+*,<p>had to</p>
+,<p>has to</p>

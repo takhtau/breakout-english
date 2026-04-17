@@ -1,0 +1,81 @@
+HTML
+<p>Where's Sara?</p>,1,one,
+*,<p>In her bedroom.</p>
+,<p>She's from Russia.</p>
+,<p>I'm in the garden.</p>
+<p>I ______  programs for computers since 2010.</p>,1,one,
+,<p>made</p>
+*,<p>have made</p>
+,<p>make</p>
+<p>I usually ______ lunch at 12 o'clock.</p>,1,one,
+*,<p>have</p>
+,<p>has</p>
+,<p>am having</p>
+<p>Who are __________ people in the street?</p>,1,one,
+,<p>this</p>
+*,<p>those</p>
+,<p>that</p>
+<p>I ______ got a small room.</p>,1,one,
+*,<p>have</p>
+,<p>has</p>
+,<p>am</p>
+<p>John ______ in Canada last year.</p>,1,one,
+*,<p>was</p>
+,<p>is</p>
+,<p>were</p>
+<p>We are in London now. We _____________________</p>,1,one,
+,<p>take photos</p>
+*,<p>are taking photos</p>
+,<p>are take photos</p>
+<p>They _____________ today.</p>,1,one,
+,<p>don't eat</p>
+,<p>doesn't eat</p>
+*,<p>haven't eaten</p>
+<p>There _________ a lot of books on the desk.</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+,<p>do</p>
+<p>How ___________ traffic is there on the road?</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+,<p>more</p>
+<p>______  you ever visited an Internet sports site?</p>,1,one,
+*,<p>have</p>
+,<p>has</p>
+,<p>did</p>
+<p>We __________ to wear life jacket all the time because the sea is dangerous.</p>,1,one,
+,<p>will go</p>
+,<p>go</p>
+*,<p>are going </p>
+"<p>When I arrived at the concert, they ___________ my favourite song.</p>",1,one,
+,<p>played</p>
+*,<p>were playing</p>
+,<p>are playing</p>
+<p>David Beckham is ___________ English footballer.</p>,1,one,
+*,<p>the most famous</p>
+,<p>more famous</p>
+,<p>much famous</p>
+<p>Is there ________ coffee?</p><p>- I don't think so.</p>,1,one,
+,<p>some</p>
+,<p>no</p>
+*,<p>any</p>
+<p>I _________ on a school project at the moment.</p>,1,one,
+*,<p>'m working</p>
+,<p>work</p>
+,<p>worked</p>
+<p>You _________ smoke in here. There isn't a smoking sign.</p>,1,one,
+*,<p>mustn't</p>
+,<p>shouldn't</p>
+,<p>can't</p>
+<p>What will you do if it _________ this weekend?</p>,1,one,
+,<p>will rain</p>
+,<p>rain</p>
+*,<p>rains</p>
+<p>She asked her daughter to take the dress ____________.</p>,1,one,
+,<p>on</p>
+,<p>after</p>
+*,<p>off</p>
+<p>What _______ your mum __________ when you came in?</p>,1,one,
+,<p>were _________ doing</p>
+*,<p>was _________ doing</p>
+,<p>did _____________ do</p>

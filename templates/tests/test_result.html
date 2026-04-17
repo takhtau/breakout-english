@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Результат теста: {{ test.title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .result-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+        .score {
+            font-size: 48px;
+            font-weight: bold;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .score.pass { color: #4CAF50; }
+        .score.fail { color: #f44336; }
+        .percent {
+            text-align: center;
+            font-size: 24px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .question-item {
+            background: #f9f9f9;
+            border-left: 4px solid #4CAF50;
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .question-text {
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        .answer-option {
+            padding: 8px 12px;
+            margin: 5px 0;
+            border-radius: 6px;
+            background: white;
+            border: 1px solid #ddd;
+        }
+        .answer-option.correct {
+            background: #d4edda;
+            border-color: #28a745;
+            color: #155724;
+        }
+        .answer-option.incorrect {
+            background: #f8d7da;
+            border-color: #dc3545;
+            color: #721c24;
+        }
+        .marker {
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        .correct-marker { color: #28a745; }
+        .incorrect-marker { color: #dc3545; }
+        .explanation {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #666;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 20px;
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        h1, h2 { text-align: center; }
+        .student-name {
+            text-align: center;
+            font-size: 18px;
+            margin: 10px 0;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-card">
+        <h1>{{ test.title }}</h1>
+        <div class="student-name">🧑‍🎓 Ученик: {{ student_name }}</div>
+        <div class="score {% if percent >= 70 %}pass{% else %}fail{% endif %}">
+            {{ score }} / {{ total }}
+        </div>
+        <div class="percent">
+            {{ percent }}%
+        </div>
+        <p style="text-align: center; font-size: 18px;">
+            {% if percent >= 80 %}
+                🎉 Отлично!
+            {% elif percent >= 60 %}
+                📘 Хорошо!
+            {% elif percent >= 40 %}
+                📖 Неплохо, но есть над чем работать.
+            {% else %}
+                📚 Попробуйте пройти тест ещё раз.
+            {% endif %}
+        </p>
+    </div>
+
+    <h2>📋 Разбор вопросов</h2>
+
+    {% for q in questions_details %}
+        <div class="question-item">
+            <div class="question-text">
+                Вопрос {{ forloop.counter }}: {{ q.question_text }}
+            </div>
+            
+            {% for answer in q.all_answers %}
+                {% if answer.id == q.user_answer_id and q.is_correct %}
+                    <div class="answer-option correct">
+                        <span class="marker correct-marker">✔</span> {{ answer.text }}
+                        <span style="float: right;">✅ Ваш ответ (правильно)</span>
+                    </div>
+                {% elif answer.id == q.user_answer_id and not q.is_correct %}
+                    <div class="answer-option incorrect">
+                        <span class="marker incorrect-marker">✘</span> {{ answer.text }}
+                        <span style="float: right;">❌ Ваш ответ (неправильно)</span>
+                    </div>
+                {% elif answer.is_correct %}
+                    <div class="answer-option correct">
+                        <span class="marker correct-marker">✔</span> {{ answer.text }}
+                        <span style="float: right;">✅ Правильный ответ</span>
+                    </div>
+                {% else %}
+                    <div class="answer-option neutral">
+                        {{ answer.text }}
+                    </div>
+                {% endif %}
+            {% endfor %}
+            
+            {% if not q.is_correct %}
+                <div class="explanation">
+                    💡 Правильный ответ: <strong>{{ q.correct_answer_text }}</strong>
+                </div>
+            {% endif %}
+        </div>
+    {% endfor %}
+
+    <div style="text-align: center;">
+    <a href="{% url 'test_detail' test.id %}" class="back-link" style="background: #4CAF50; margin-right: 10px;">🔄 Пройти заново</a>
+    <a href="{% url 'test_list' %}" class="back-link">📋 К списку тестов</a>
+    
+</div>
+</div>
+</body>
+</html>

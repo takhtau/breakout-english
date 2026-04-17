@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Список тестов</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 40px auto; padding: 20px; }
+        .test-item { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 8px; }
+        .test-title { font-size: 18px; font-weight: bold; }
+        .test-description { color: #666; margin: 5px 0; }
+        .btn { display: inline-block; margin-top: 10px; padding: 8px 15px; background: #4CAF50; color: white; text-decoration: none; border-radius: 5px; }
+        .btn:hover { background: #45a049; }
+        .info { background: #e3f2fd; color: #0c5460; padding: 12px; border-radius: 5px; margin-bottom: 20px; border: 1px solid #b8daff; }
+        .error { background: #f8d7da; color: #721c24; padding: 12px; border-radius: 5px; margin-bottom: 20px; border: 1px solid #f5c6cb; }
+    </style>
+</head>
+<body>
+    <h1>Доступные тесты</h1>
+    
+    {% if messages %}
+        {% for message in messages %}
+            <div class="{% if message.tags == 'error' %}error{% else %}info{% endif %}">
+                {{ message }}
+            </div>
+        {% endfor %}
+    {% endif %}
+    
+    {% if tests %}
+        {% for test in tests %}
+            <div class="test-item">
+                <div class="test-title">{{ test.title }}</div>
+                {% if test.description %}
+                    <div class="test-description">{{ test.description }}</div>
+                {% endif %}
+                <a href="/tests/{{ test.id }}/" class="btn">Пройти тест</a>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>Тестов пока нет. <a href="/admin/">Создайте тест в админке</a></p>
+    {% endif %}
+    
+    <hr>
+    <p><a href="/admin/">Админка</a> | <a href="/accounts/logout/">Выйти</a></p>
+</body>
+</html>

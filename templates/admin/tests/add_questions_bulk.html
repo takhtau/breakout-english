@@ -1,0 +1,51 @@
+{% extends "admin/base_site.html" %}
+
+{% block content %}
+<div style="max-width: 900px; margin: 20px;">
+    <h1>📝 Массовое добавление вопросов</h1>
+    <h2>Тест: {{ test.title }}</h2>
+    
+    <form method="post">
+        {% csrf_token %}
+        
+        <h3>Формат ввода:</h3>
+        <pre style="background: #f0f0f0; padding: 10px; border-radius: 5px; font-family: monospace;">
+Q: Текст вопроса
+A: Вариант ответа 1
+A: Правильный ответ *
+A: Вариант ответа 3
+
+Q: Следующий вопрос
+A: Ответ 1
+A: Правильный ответ *
+        </pre>
+        
+        <p><strong>Правила:</strong><br>
+        - Каждый вопрос начинается с <code>Q: </code><br>
+        - Каждый ответ начинается с <code>A: </code><br>
+        - Правильный ответ отмечается звёздочкой <code>*</code> в конце<br>
+        - Вопросы и ответы разделяются пустыми строками
+        </p>
+        
+        <textarea 
+            name="questions_data" 
+            rows="20" 
+            cols="80" 
+            style="width: 100%; font-family: monospace; font-size: 14px; padding: 10px;"
+            placeholder='Q: Как переводится "cat"?
+A: собака
+A: кошка *
+A: лошадь
+
+Q: Как переводится "dog"?
+A: кошка
+A: собака *
+A: мышь'
+        ></textarea>
+        
+                   <br><br>
+        <input type="submit" value="➕ Добавить вопросы" style="background: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+        <a href="/admin/tests/test/{{ test.id }}/change/" style="margin-left: 20px; background: #6c757d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">❌ Отмена</a>
+    </form>
+</div>
+{% endblock %}

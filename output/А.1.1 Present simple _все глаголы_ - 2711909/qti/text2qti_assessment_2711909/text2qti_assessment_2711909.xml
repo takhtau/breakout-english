@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="text2qti_assessment_2711909" title="А.1.1 Present simple (все глаголы)">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="text2qti_question_quiz-33923953" title="Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141564797,text2qti_choice_answer-141564795,text2qti_choice_answer-141564793,text2qti_choice_answer-141564791</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33923953</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;I_________to tell you about a beautiful girl.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141564797">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;am wanting&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141564795">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;want&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141564793">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;to want&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141564791">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;wants&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141564795</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924093" title="Question 2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141565279,text2qti_choice_answer-141565277,text2qti_choice_answer-141565275,text2qti_choice_answer-141565273</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924093</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Her name__________ Sally.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141565279">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;is&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565277">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;have&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565275">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565273">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;am&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141565279</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924145" title="Question 3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141565421,text2qti_choice_answer-141565419,text2qti_choice_answer-141565417,text2qti_choice_answer-141565415</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924145</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Sally _________12 years old.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141565421">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565419">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;have&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565417">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;is&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565415">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;am&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141565417</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924229" title="Question 4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141565705,text2qti_choice_answer-141565703,text2qti_choice_answer-141565701,text2qti_choice_answer-141565699</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924229</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;She _________ a friend.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141565705">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;has got&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565703">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;have got&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565701">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;is&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565699">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;am&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141565705</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924321" title="Question 5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141565987,text2qti_choice_answer-141565985,text2qti_choice_answer-141565983,text2qti_choice_answer-141565981</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924321</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;She _____ to the swimming pool.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141565987">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;go&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565985">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;gos&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565983">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;goes&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141565981">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;to go&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141565983</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924433" title="Question 6">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141566401,text2qti_choice_answer-141566399,text2qti_choice_answer-141566397,text2qti_choice_answer-141566395</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924433</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;She _______ like potato.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141566401">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;don&#x27;t&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141566399">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;doesn&#x27;t&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141566397">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;isn&#x27;t&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141566395">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;aren&#x27;t&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141566399</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924559" title="Question 7">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141566875,text2qti_choice_answer-141566873,text2qti_choice_answer-141566871,text2qti_choice_answer-141566869</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924559</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;We_____________ a book.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141566875">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;read&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141566873">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;reads&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141566871">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;to read&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141566869">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;red&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141566875</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924617" title="Question 8">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141567051,text2qti_choice_answer-141567049,text2qti_choice_answer-141567047,text2qti_choice_answer-141567045</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924617</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;What ______ you like doing?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141567051">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;do&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567049">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;does&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567047">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567045">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;is&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141567051</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924669" title="Question 9">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141567231,text2qti_choice_answer-141567229,text2qti_choice_answer-141567227,text2qti_choice_answer-141567225</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924669</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;What ______ he draw every day?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141567231">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;do&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567229">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;does&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567227">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567225">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;is&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141567229</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924717" title="Question 10">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141567421,text2qti_choice_answer-141567419,text2qti_choice_answer-141567417,text2qti_choice_answer-141567415</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924717</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;How old ________she?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141567421">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;do&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567419">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;does&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567417">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567415">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;is&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141567415</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924753" title="Question 11">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141567549,text2qti_choice_answer-141567547,text2qti_choice_answer-141567545,text2qti_choice_answer-141567543</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924753</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;How old ________you?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141567549">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;do&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567547">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;does&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567545">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567543">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;is&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141567545</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924771" title="Question 12">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141567617,text2qti_choice_answer-141567615,text2qti_choice_answer-141567613,text2qti_choice_answer-141567611</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924771</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt; ______you got a dog?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141567617">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;do&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567615">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;have&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567613">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567611">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;has&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141567615</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924853" title="Question 13">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141567835,text2qti_choice_answer-141567833,text2qti_choice_answer-141567831,text2qti_choice_answer-141567829</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924853</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;What ________ they do after school?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141567835">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;do&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567833">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;have&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567831">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141567829">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;does&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141567835</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924957" title="Question 14">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141568195,text2qti_choice_answer-141568193,text2qti_choice_answer-141568191,text2qti_choice_answer-141568189</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924957</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;_____ you at home?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141568195">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;do&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141568193">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;have&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141568191">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141568189">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;does&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141568191</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+      <item ident="text2qti_question_quiz-33924989" title="Question 15">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.00</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>text2qti_choice_answer-141568323,text2qti_choice_answer-141568321,text2qti_choice_answer-141568319,text2qti_choice_answer-141568317</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>text2qti_question_ref_quiz-33924989</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;_____ he at work?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="text2qti_choice_answer-141568323">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;do&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141568321">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;is&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141568319">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;are&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="text2qti_choice_answer-141568317">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;does&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="Yes">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+            <displayfeedback feedbacktype="Response" linkrefid="general_fb"/>
+          </respcondition>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">text2qti_choice_answer-141568321</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+        <itemfeedback ident="general_fb">
+          <flow_mat>
+            <material>
+              <mattext texttype="text/html"></mattext>
+            </material>
+          </flow_mat>
+        </itemfeedback>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

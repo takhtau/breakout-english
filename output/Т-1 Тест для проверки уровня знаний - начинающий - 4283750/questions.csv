@@ -1,0 +1,53 @@
+HTML
+<p>I'm Tom and that's ______ lamp.</p>,1,one,
+*,<p>my</p>
+,<p>his</p>
+,<p>your</p>
+<p>Ann is my friend. ______ is very nice.</p>,1,one,
+*,<p>She</p>
+,<p>He</p>
+,<p>They</p>
+"<p>Are they at school? No, __________</p>",1,one,
+,<p>they are</p>
+,<p>we are not</p>
+*,<p>they aren't</p>
+<p>Can birds read?</p>,1,one,
+,"<p>Yes, they can.</p>"
+*,"<p>No, they can't.</p>"
+,"<p>No, they.</p>"
+<p>Look at the elephant! It __________ a long nose.</p>,1,one,
+*,<p>has got</p>
+,<p>have got</p>
+,<p>hasn't got</p>
+<p>What are you doing now? __________ a picture.</p>,1,one,
+,<p>I draw</p>
+*,<p>I am drawing</p>
+,<p>I drawing</p>
+<p>__________ you go to school every day?</p>,1,one,
+*,<p>Do </p>
+,<p>Are</p>
+,<p>Does</p>
+<p>He __________ to the park yesterday.</p>,1,one,
+,<p>goes</p>
+,<p>go</p>
+*,<p>went</p>
+<p>She always ____________ her homework in the afternoon.</p>,1,one,
+,<p>do</p>
+,<p>is doing</p>
+*,<p>does</p>
+<p>The cow is _______________ than the tiger.</p>,1,one,
+*,<p>slower</p>
+,<p>more slow</p>
+,<p>slow</p>
+<p>I __________ the news last night.</p>,1,one,
+,<p>watch</p>
+*,<p>watched</p>
+,<p>am watching</p>
+<p>He ____ like frogs.</p>,1,one,
+,<p>don't</p>
+*,<p>doesn't</p>
+,<p>hasn't</p>
+<p>____ your mum cook a cake?.</p>,1,one,
+,<p>Do</p>
+*,<p>Does</p>
+,<p>Has</p>

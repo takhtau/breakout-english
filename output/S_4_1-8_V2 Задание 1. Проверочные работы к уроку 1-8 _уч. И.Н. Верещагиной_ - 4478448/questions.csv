@@ -1,0 +1,41 @@
+HTML
+<p>............clothes are in the bag.</p>,1,one,
+,<p>This</p>
+,<p>That</p>
+*,<p>The</p>
+<p>It............ . Take an umbrella.</p>,1,one,
+,<p>rains</p>
+,<p>rained</p>
+*,<p>is raining</p>
+<p>The red jacket is longer............the green jacket.</p>,1,one,
+*,<p>than</p>
+,<p>then </p>
+,<p> -</p>
+<p>............. was the weather yesterday?</p>,1,one,
+,<p>What</p>
+*,<p>How</p>
+,<p>Why</p>
+<p>..........was the weather yesterday?</p>,1,one,
+*,<p>What</p>
+,<p>How</p>
+,<p>Why</p>
+<p>What size...............?</p>,1,one,
+*,<p>is he</p>
+,<p>does he</p>
+,<p>has he</p>
+<p>What is your.............name?</p>,1,one,
+,<p>brother</p>
+*,<p>brother's</p>
+,<p>brothers'</p>
+"<p>It looks great, ............?</p>",1,one,
+,<p>does it</p>
+,<p>isn't it</p>
+*,<p>doesn't it</p>
+"<p>They bought a computer, ...........?</p>",1,one,
+,<p>did they </p>
+*,<p>didn't they</p>
+,<p>don't they</p>
+<p>It ...........snow yesterday.</p>,1,one,
+*,<p>didn't</p>
+,<p>wasn't</p>
+,<p>isn't</p>

@@ -1,0 +1,41 @@
+HTML
+<p>Do you like.........building at the end of the street?</p>,1,one,
+,<p>this</p>
+*,<p>that</p>
+,<p>those</p>
+"<p>It's been here since Friday,.......?</p>",1,one,
+,<p>isn't it</p>
+*,<p>hasn't it</p>
+,<p>has it</p>
+<p>The new rule............at the lesson.</p>,1,one,
+,<p>explained</p>
+,<p>has explained</p>
+*,<p>was explained</p>
+<p>She will...........speak French in two years.</p>,1,one,
+*,<p>be able to</p>
+,<p>can</p>
+,<p>must</p>
+<p>Is it your book or is it..............?</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>her</p>
+"<p>This is her key,.........?</p>",1,one,
+*,<p>isn't it </p>
+,<p>isn't this</p>
+,<p>isn't there</p>
+"<p>If it.................tomorrow, we'll go for a walk.</p>",1,one,
+*,<p>snows</p>
+,<p>will snow</p>
+,<p>snow</p>
+<p>I don't know if it................tomorrow.</p>,1,one,
+,<p>snows</p>
+*,<p>will snow</p>
+,<p>snow</p>
+<p>Football............a very popular game.</p>,1,one,
+,<p>is always</p>
+,<p>always was</p>
+*,<p>has always been</p>
+"<p>Boys, you must do it............... .</p>",1,one,
+,<p>yourself</p>
+*,<p>yourselves</p>
+,<p>themselves</p>

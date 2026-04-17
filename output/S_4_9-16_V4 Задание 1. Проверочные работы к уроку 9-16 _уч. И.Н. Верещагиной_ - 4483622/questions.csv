@@ -1,0 +1,41 @@
+HTML
+<p>They visit the museum four times..................year.</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+<p>Tea is cheaper...........coffee.</p>,1,one,
+*,<p>than</p>
+,<p>then</p>
+,<p>-</p>
+"<p>I am ten,...........?</p>",1,one,
+,<p>am I</p>
+,<p>isn't it</p>
+*,<p>aren't I</p>
+"<p>Mary never wears blouses, ...............?</p>",1,one,
+*,<p>does she</p>
+,<p>doesn't she</p>
+,<p>is she</p>
+<p>He didn't say............. .</p>,1,one,
+,<p>something</p>
+*,<p>anything</p>
+,<p>nothing</p>
+<p>This is...................ball I have.</p>,1,one,
+,<p>good</p>
+,<p>better</p>
+*,<p>the best</p>
+<p>It..............often rain here.</p>,1,one,
+,<p>isn't </p>
+,<p>wasn't </p>
+*,<p>doesn't </p>
+<p>What................interesting story!</p>,1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>-</p>
+<p>The puppy looks so................. .</p>,1,one,
+*,<p>happy</p>
+,<p>happily</p>
+,<p>sadly</p>
+<p>Who......................to go to the park?</p>,1,one,
+,<p>want</p>
+,<p>does want</p>
+*,<p>wants</p>

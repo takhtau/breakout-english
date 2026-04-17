@@ -1,0 +1,41 @@
+HTML
+<p>The policemen...............going to come back.</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+,<p>will</p>
+<p>Has she ever.............you to her parties?</p>,1,one,
+,<p>invite</p>
+*,<p>invited</p>
+,<p>to invite </p>
+<p>- Will you lock the door?</p><p>- But I..................it.</p>,1,one,
+,<p>locked</p>
+,<p>lock</p>
+*,<p>have locked</p>
+<p>I....................the door two minutes ago.</p>,1,one,
+*,<p>locked</p>
+,<p>lock</p>
+,<p>have locked</p>
+<p>They...................him yesterday. </p>,1,one,
+*,<p>visited </p>
+,<p>will visit</p>
+,<p>have visited </p>
+<p>She....................answered the question.</p>,1,one,
+*,<p>has</p>
+,<p>have</p>
+,<p>will</p>
+<p>She.............answer the question.</p>,1,one,
+,<p>has</p>
+,<p>have</p>
+*,<p>will</p>
+<p>When......................him?</p>,1,one,
+,<p>have you seen</p>
+,<p>you are going to see</p>
+*,<p>did you see</p>
+<p>.......................a new theatre near the park.</p>,1,one,
+,<p>There will</p>
+*,<p>There will be</p>
+,<p>It will be</p>
+<p>The theatre.................very large.</p>,1,one,
+,<p>will</p>
+,<p>there will be</p>
+*,<p>will be</p>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Результаты теста: {{ test.title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 20px;
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>{{ test.title }}</h1>
+        <h2>Результаты учеников</h2>
+        
+        {% if results %}
+            <table>
+                <thead>
+                    <tr>
+                        <th>Ученик</th>
+                        <th>Баллы</th>
+                        <th>Процент</th>
+                        <th>Дата прохождения</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for r in results %}
+                    <tr>
+                        <td>{{ r.student_name }}</td>
+                        <td>{{ r.score }} / {{ r.total }}</td>
+                        <td>{{ r.percent }}%</td>
+                        <td>{{ r.completed_at|date:"d.m.Y H:i" }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <p>Пока нет результатов.</p>
+        {% endif %}
+        
+        <a href="{% url 'test_entry' test.id %}" class="back-link">← Назад к тесту</a>
+    </div>
+</body>
+</html>
