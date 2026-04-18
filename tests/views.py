@@ -11,7 +11,6 @@ def test_list(request):
     return render(request, 'tests/test_list.html', {'tests': tests})
 
 def test_detail(request, test_id):
-    # print(f"=== USER AUTH: {request.user.is_authenticated}, USER: {request.user} ===")
     # Для гостевого режима (ученик)
     first_name = request.session.get('student_first_name', '')
     last_name = request.session.get('student_last_name', '')
@@ -20,6 +19,14 @@ def test_detail(request, test_id):
     
     test = get_object_or_404(Test, id=test_id)
     questions = Question.objects.filter(test=test)
+    
+    # Проверяем, проходил ли пользователь этот тест (только для авторизованных)
+    if request.user.is_authenticated:
+        existing_result = Result.objects.filter(student=request.user, test=test).first()
+        if existing_result:
+            print(f"=== DEBUG: User {request.user.username} already took test, score: {existing_result.score}/{existing_result.total} ===")
+            messages.info(request, f'Вы уже проходили этот тест. Ваш результат: {existing_result.score} из {existing_result.total}')
+            return redirect('test_list')
     
     # Готовим вопросы для отображения (для всех)
     questions_list = []
@@ -34,6 +41,7 @@ def test_detail(request, test_id):
         'test': test,
         'questions_list': questions_list,
     })
+
 def submit_test(request, test_id):
     test = get_object_or_404(Test, id=test_id)
     
@@ -106,7 +114,8 @@ def submit_test(request, test_id):
         for qd in questions_details
     ]
     
-    return redirect('test_result', result_id=result.id)    
+    return redirect('test_result', result_id=result.id)
+
 def test_result(request, result_id):
     result = get_object_or_404(Result, id=result_id)
     
@@ -137,6 +146,7 @@ def test_result(request, result_id):
         'student_name': student_name,
         'questions_details': questions_details,
     })
+
 def test_entry(request, test_id):
     test = get_object_or_404(Test, id=test_id)
     student_form = StudentLoginForm()
@@ -154,12 +164,11 @@ def test_entry(request, test_id):
         'test': test,
         'student_form': student_form,
     })
-# @staff_member_required
+
 def test_results(request, test_id):
     test = get_object_or_404(Test, id=test_id)
     results = Result.objects.filter(test=test).order_by('-completed_at')
     
-    # Обогатим результаты именами
     results_data = []
     for r in results:
         if r.first_name and r.last_name:
@@ -181,3 +190,8 @@ def test_results(request, test_id):
         'test': test,
         'results': results_data,
     })
+
+@staff_member_required
+def teacher_home(request):
+    tests = Test.objects.all().order_by('-created_at')
+    return render(request, 'tests/teacher_home.html', {'tests': tests})
