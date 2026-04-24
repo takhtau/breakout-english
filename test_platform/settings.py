@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ine_yw@gf&hmv!!dqegp22fwt2q5ugc^km&3rpys71v3dj6gnd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['147.45.143.127', 'localhost', '127.0.0.1']
 CSRF_TRUSTED_ORIGINS = [
     'https://*.serveousercontent.com',
     'http://*.serveousercontent.com',
@@ -109,12 +109,8 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
-
-USE_I18N = True
-
+TIME_ZONE = 'Asia/Yekaterinburg'
 USE_TZ = True
-
 
 # Static files (CSS, JavaScript, Images)
 STATIC_URL = '/static/'
@@ -136,7 +132,7 @@ import os
 
 # Безопасность (берём из переменных окружения или оставляем значения по умолчанию)
 SECRET_KEY = os.environ.get('SECRET_KEY', SECRET_KEY)
-DEBUG = os.environ.get('DEBUG', 'False') == 'True'
+# DEBUG = os.environ.get('DEBUG', 'False') == 'True'
 ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', '*').split(',')
 
 # PostgreSQL (если есть переменные окружения)

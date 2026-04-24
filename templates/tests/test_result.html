@@ -115,47 +115,44 @@
     <h2>📋 Разбор вопросов</h2>
 
     {% for q in questions_details %}
-        <div class="question-item">
-            <div class="question-text">
-                Вопрос {{ forloop.counter }}: {{ q.question_text }}
-            </div>
-            
-            {% for answer in q.all_answers %}
-                {% if answer.id == q.user_answer_id and q.is_correct %}
-                    <div class="answer-option correct">
-                        <span class="marker correct-marker">✔</span> {{ answer.text }}
-                        <span style="float: right;">✅ Ваш ответ (правильно)</span>
-                    </div>
-                {% elif answer.id == q.user_answer_id and not q.is_correct %}
-                    <div class="answer-option incorrect">
-                        <span class="marker incorrect-marker">✘</span> {{ answer.text }}
-                        <span style="float: right;">❌ Ваш ответ (неправильно)</span>
-                    </div>
-                {% elif answer.is_correct %}
-                    <div class="answer-option correct">
-                        <span class="marker correct-marker">✔</span> {{ answer.text }}
-                        <span style="float: right;">✅ Правильный ответ</span>
-                    </div>
-                {% else %}
-                    <div class="answer-option neutral">
-                        {{ answer.text }}
-                    </div>
-                {% endif %}
-            {% endfor %}
-            
-            {% if not q.is_correct %}
-                <div class="explanation">
-                    💡 Правильный ответ: <strong>{{ q.correct_answer_text }}</strong>
+    <div class="question-item">
+      <!-- Отладка: user_answer_id = {{ q.user_answer_id }}, is_correct = {{ q.is_correct }} -->
+        <div class="question-text">
+            Вопрос {{ forloop.counter }}: {{ q.question_text }}
+        </div>
+        {% for answer in q.all_answers %}
+            {% if answer.id == q.user_answer_id and q.is_correct %}
+                <div class="answer-option correct">
+                    <span class="marker correct-marker">✔</span> {{ answer.text }}
+                    <span style="float: right;">✅ Ваш ответ (правильно)</span>
+                </div>
+            {% elif answer.id == q.user_answer_id and not q.is_correct %}
+                <div class="answer-option incorrect">
+                    <span class="marker incorrect-marker">✘</span> {{ answer.text }}
+                    <span style="float: right;">❌ Ваш ответ (неправильно)</span>
+                </div>
+            {% elif answer.is_correct %}
+                <div class="answer-option correct">
+                    <span class="marker correct-marker">✔</span> {{ answer.text }}
+                    <span style="float: right;">✅ Правильный ответ</span>
+                </div>
+            {% else %}
+                <div class="answer-option neutral">
+                    {{ answer.text }}
                 </div>
             {% endif %}
-        </div>
+        {% endfor %}
+        
+        {% if not q.is_correct %}
+            <div class="explanation">
+                💡 Правильный ответ: <strong>{{ q.correct_answer_text }}</strong>
+            </div>
+        {% endif %}
+    </div>
     {% endfor %}
 
     <div style="text-align: center;">
-    <a href="{% url 'test_detail' test.id %}" class="back-link" style="background: #4CAF50; margin-right: 10px;">🔄 Пройти заново</a>
-    <a href="{% url 'test_list' %}" class="back-link">📋 К списку тестов</a>
-    
-</div>
-</div>
+        <a href="{% url 'test_list' %}" class="back-link">📋 К списку тестов</a>
+    </div>
 </body>
 </html>

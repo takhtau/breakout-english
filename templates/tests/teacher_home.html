@@ -3,61 +3,231 @@
 <head>
     <title>Панель учителя</title>
     <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: Arial, sans-serif;
-            max-width: 1200px;
-            margin: 40px auto;
-            padding: 20px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            background: #f0f2f5;
+            padding: 30px;
         }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
+        .container { max-width: 1400px; margin: 0 auto; }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 30px;
         }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background: #4CAF50;
-            color: white;
-        }
+        h1 { font-size: 28px; color: #1a1a2e; }
         .btn {
             background: #4CAF50;
             color: white;
-            padding: 6px 12px;
+            padding: 10px 20px;
             text-decoration: none;
-            border-radius: 4px;
+            border-radius: 8px;
+            font-weight: 500;
+        }
+        .stats-bar {
+            background: white;
+            padding: 12px 20px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .search-box input {
+            padding: 10px 15px;
+            width: 280px;
+            border: 1px solid #ddd;
+            border-radius: 25px;
+            font-size: 14px;
+        }
+        .filters {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .filter-tag {
+            padding: 6px 14px;
+            border-radius: 20px;
+            background: white;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            font-size: 13px;
+            transition: 0.2s;
+        }
+        .filter-tag.active {
+            background: #4CAF50;
+            color: white;
+            border-color: #4CAF50;
+        }
+        .tests-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+        .test-card {
+            background: white;
+            border-radius: 12px;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .test-title {
+            flex: 2;
+            min-width: 200px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        .test-meta {
+            flex: 1;
+            display: flex;
+            gap: 15px;
+            font-size: 13px;
+            color: #666;
+        }
+        .test-actions {
+            display: flex;
+            gap: 10px;
+        }
+        .btn-small {
+            padding: 6px 12px;
+            font-size: 13px;
+            border-radius: 6px;
+            text-decoration: none;
+            background: #f0f2f5;
+            color: #333;
+        }
+        .tags-list {
+            flex: 1;
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+        }
+        .tag {
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 500;
+            color: white;
+        }
+        .pagination {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 20px;
+        }
+        .pagination a, .pagination span {
+            padding: 8px 12px;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #333;
+            background: white;
+        }
+        .pagination .current {
+            background: #4CAF50;
+            color: white;
         }
     </style>
 </head>
 <body>
-    <h1>📊 Панель учителя</h1>
-    <p>Добро пожаловать, <strong>{{ request.user.username }}</strong>! | <a href="{% url 'admin:logout' %}">Выйти</a></p>
+<div class="container">
+    <div class="header">
+        <h1>📚 Библиотека тестов</h1>
+        <div>
+            {% if user.role == 'moderator' or user.role == 'admin' %}
+                <a href="{% url 'create_test' %}" class="btn">➕ Создать тест</a>
+            {% endif %}
+            {% if user.role == 'admin' %}
+                <a href="{% url 'admin_panel' %}" class="btn">🔧 Управление</a>
+            {% endif %}
+            <form action="{% url 'logout' %}" method="post" style="display: inline;">
+                {% csrf_token %}
+                <button type="submit" class="btn" style="background: #dc3545;">🚪 Выйти</button>
+            </form>
+        </div>
+    </div>
 
-    <h2>Список тестов</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Название теста</th>
-                <th>Вопросов</th>
-                <th>Попыток</th>
-                <th>Действия</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for test in tests %}
-            <tr>
-                <td>{{ test.title }}</td>
-                <td>{{ test.question_set.count }}</td>
-                <td>{{ test.result_set.count }}</td>
-                <td>
-                    <a class="btn" href="{% url 'test_results' test.id %}">Результаты</a>
-                </td>
-            </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+    <div class="stats-bar">
+        <div class="search-box">
+            <form method="get" action="">
+                <input type="text" name="search" placeholder="🔍 Поиск по названию..." value="{{ search_query }}">
+                <button type="submit" style="display: none;">Найти</button>
+            </form>
+        </div>
+        <div class="filters">
+    <a href="?{% if search_query %}search={{ search_query }}{% endif %}" class="filter-tag {% if not current_tag %}active{% endif %}">Все</a>
+    {% for tag in all_tags %}
+        <a href="?tag={{ tag.name }}{% if search_query %}&search={{ search_query }}{% endif %}" class="filter-tag {% if current_tag == tag.name %}active{% endif %}" style="background: {{ tag.color }}; color: white; border: none;">
+            {{ tag.name }}
+        </a>
+    {% endfor %}
+</div>
+    </div>
+
+    <div class="tests-list">
+        {% for test in page_obj %}
+        <div class="test-card">
+            <div class="test-title">{{ test.title }}</div>
+            <div class="tags-list">
+    {% for tag in test.tags.all %}
+        <span class="tag" style="background: {{ tag.color }};">{{ tag.name }}</span>
+    {% endfor %}
+</div>
+<div class="test-actions">
+    <a href="{% url 'test_results' test.id %}" class="btn-small">📊 Результаты</a>
+    <a href="{% url 'test_entry' test.id %}" class="btn-small">📋 Тест</a>
+    <a href="#" class="btn-small copy-link" data-url="{% url 'test_entry' test.id %}" style="background: #2196F3; color: white;">🔗 Копировать ссылку</a>
+    {% if user.role == 'admin' %}
+        <a href="{% url 'edit_test' test.id %}" class="btn-small" style="background: #ffc107; color: #333;">✏️ Ред.</a>
+        <a href="{% url 'delete_test' test.id %}" class="btn-small" style="background: #dc3545; color: white;" onclick="return confirm('Удалить тест «{{ test.title }}»? Все вопросы и результаты будут удалены!')">🗑️ Удалить</a>
+    {% endif %}
+</div>
+        </div>
+        {% empty %}
+        <p>Тестов не найдено.</p>
+        {% endfor %}
+    </div>
+
+    {% if page_obj.has_other_pages %}
+    <div class="pagination">
+        {% if page_obj.has_previous %}
+            <a href="?page=1{% if search_query %}&search={{ search_query }}{% endif %}">« Первая</a>
+            <a href="?page={{ page_obj.previous_page_number }}{% if search_query %}&search={{ search_query }}{% endif %}">Назад</a>
+        {% endif %}
+        <span class="current">Страница {{ page_obj.number }} из {{ page_obj.paginator.num_pages }}</span>
+        {% if page_obj.has_next %}
+            <a href="?page={{ page_obj.next_page_number }}{% if search_query %}&search={{ search_query }}{% endif %}">Вперёд</a>
+            <a href="?page={{ page_obj.paginator.num_pages }}{% if search_query %}&search={{ search_query }}{% endif %}">Последняя »</a>
+        {% endif %}
+    </div>
+    {% endif %}
+</div>
+<script>
+    document.querySelectorAll('.copy-link').forEach(btn => {
+        btn.addEventListener('click', function(e) {
+            e.preventDefault();
+            const url = this.getAttribute('data-url');
+            const fullUrl = window.location.origin + url;
+            navigator.clipboard.writeText(fullUrl).then(() => {
+                const originalText = this.innerHTML;
+                this.innerHTML = '✅ Скопировано!';
+                setTimeout(() => {
+                    this.innerHTML = originalText;
+                }, 2000);
+            }).catch(() => {
+                alert('Не удалось скопировать ссылку');
+            });
+        });
+    });
+</script>
 </body>
 </html>
