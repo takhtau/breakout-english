@@ -29,6 +29,7 @@ ALLOWED_HOSTS = ['147.45.143.127', 'localhost', '127.0.0.1']
 CSRF_TRUSTED_ORIGINS = [
     'https://*.serveousercontent.com',
     'http://*.serveousercontent.com',
+    'https://takhtau-breakout-english-5204.twc1.net',   # ← добавить
 ]
 
 # Application definition
