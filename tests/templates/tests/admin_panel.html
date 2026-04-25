@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Управление</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .btn { display: inline-block; padding: 8px 16px; background: #4CAF50; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px; }
+        .btn-secondary { background: #6c757d; }
+        /* СИНЯЯ КНОПКА */
+        .btn-blue { background: #0066CC; color: white; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background: #f2f2f2; }
+        .code { font-family: monospace; font-size: 12px; }
+        .actions { margin-top: 20px; }
+        /* Заголовок + кнопка справа */
+        .header-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+        .header-row h1 { margin: 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Заголовок и синяя кнопка справа -->
+        <div class="header-row">
+            <h1>🔧 Панель управления (админ)</h1>
+            <!-- Кнопка ведёт на управление пользователями (тот же URL, что был) -->
+            <a href="{% url 'users_list' %}" class="btn btn-blue">👥 Управление пользователями</a>
+        </div>
+        
+        <div class="actions">
+            <a href="{% url 'tags_list' %}" class="btn">🏷️ Управление тегами</a>
+        </div>
+        
+        <h2>Создать приглашение</h2>
+        <form method="post">
+            {% csrf_token %}
+            <label>Роль:</label>
+            <select name="role">
+                <option value="teacher">Учитель</option>
+                <option value="moderator">Модератор</option>
+            </select>
+            <button type="submit" class="btn">Создать ссылку-приглашение</button>
+        </form>
+        
+        <h2>Созданные приглашения</h2>
+        {% if invitations %}
+            <table>
+                <thead>
+                    <tr><th>Ссылка</th><th>Роль</th><th>Использовано</th><th>Дата создания</th></tr>
+                </thead>
+                <tbody>
+                {% for inv in invitations %}
+                    <tr>
+                        <td class="code">{{ request.build_absolute_uri }}/register/invite/{{ inv.code }}/</td>
+                        <td>{{ inv.get_role_display }}</td>
+                        <td>{% if inv.used %}✅{% else %}❌{% endif %}</td>
+                        <td>{{ inv.created_at|date:"d.m.Y H:i" }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <p>Приглашений пока нет.</p>
+        {% endif %}
+        
+        <p><a href="{% url 'teacher_home' %}" class="btn btn-secondary">← Назад в дашборд</a></p>
+    </div>
+</body>
+</html>

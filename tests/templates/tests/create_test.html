@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Создание теста</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .form-container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        button {
+            background: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+        }
+        button:hover {
+            background: #45a049;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 20px;
+            color: #666;
+        }
+        .errorlist {
+            color: red;
+            font-size: 14px;
+        }
+        .tags-group {
+            margin: 15px 0;
+            padding: 10px;
+            background: #f9f9f9;
+            border-radius: 8px;
+        }
+        .tags-group label {
+            display: inline-block;
+            margin-right: 15px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h1>📝 Создание нового теста</h1>
+        <form method="post">
+            {% csrf_token %}
+            
+            <label>Название теста:</label>
+            {{ form.title }}
+            
+            <label>Описание:</label>
+            {{ form.description }}
+            
+            <div class="tags-group">
+                <label>Теги:</label><br>
+                {% for tag in all_tags %}
+                    <label style="display: inline-block; margin-right: 15px;">
+                        <input type="checkbox" name="tags" value="{{ tag.id }}">
+                        <span style="background: {{ tag.color }}; padding: 2px 8px; border-radius: 12px; color: white;">
+                            {{ tag.name }}
+                        </span>
+                    </label>
+                {% endfor %}
+            </div>
+            
+            <button type="submit">Создать тест и продолжить</button>
+        </form>
+        <a href="{% url 'teacher_home' %}" class="back-link">← Назад к списку тестов</a>
+    </div>
+</body>
+</html>

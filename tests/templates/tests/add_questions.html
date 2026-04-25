@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Добавление вопросов: {{ test.title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        .question-group {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 15px;
+        }
+        input, textarea, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        textarea {
+            resize: vertical;
+        }
+        .answers-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .answer-item {
+            background: white;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid #eee;
+        }
+        .answer-row {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .answer-row .radio-label {
+            display: flex;
+            align-items: center;
+            gap: 3px;
+            min-width: auto;
+            font-weight: normal;
+            margin: 0;
+        }
+        .answer-row input[type="radio"] {
+            width: auto;
+            margin: 0;
+        }
+        .answer-row input[type="text"] {
+            flex: 1;
+            margin: 0;
+        }
+        .num-answers {
+            margin-bottom: 20px;
+        }
+        .num-answers select {
+            width: auto;
+            display: inline-block;
+            margin-left: 10px;
+        }
+        button {
+            background: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-right: 10px;
+        }
+        button:hover {
+            background: #45a049;
+        }
+        .btn-secondary {
+            background: #6c757d;
+        }
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 20px;
+            color: #666;
+        }
+        .actions {
+            margin-top: 30px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📝 Добавление вопросов</h1>
+        <h2>{{ test.title }}</h2>
+        
+        <form method="post" id="questionForm">
+            {% csrf_token %}
+            
+            <div class="question-group">
+                <label>Текст вопроса:</label>
+                {{ form.question_text }}
+            </div>
+            
+            <div class="num-answers">
+                <label>Количество вариантов ответа:</label>
+                <select name="num_answers" id="num_answers">
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4" selected>4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                </select>
+            </div>
+            
+            <div id="answers-container">
+                <div class="answers-grid" id="answers-grid"></div>
+            </div>
+            
+            <div class="actions">
+                <button type="submit" name="add_another">➕ Добавить ещё вопрос</button>
+                <button type="submit" name="finish" class="btn-secondary">✅ Завершить и выйти</button>
+                <a href="{% url 'test_questions' test.id %}" class="btn-secondary" style="background: #6c757d; text-decoration: none; padding: 12px 24px; border-radius: 5px; color: white;">❌ Отмена</a>
+            </div>
+        </form>
+        
+        <a href="{% url 'teacher_home' %}" class="back-link">← Назад к списку тестов</a>
+    </div>
+
+    <script>
+        function updateAnswerFields() {
+            const num = parseInt(document.getElementById('num_answers').value);
+            const grid = document.getElementById('answers-grid');
+            
+            grid.innerHTML = '';
+            
+            for (let i = 1; i <= num; i++) {
+                const div = document.createElement('div');
+                div.className = 'answer-item';
+                div.innerHTML = `
+                    <div class="answer-row">
+                        <label class="radio-label">
+                            <input type="radio" name="correct_answer" value="${i}" required>
+                            <span>✅</span>
+                        </label>
+                        <input type="text" name="answer_${i}" placeholder="Вариант ${i}" required>
+                    </div>
+                `;
+                grid.appendChild(div);
+            }
+        }
+        
+        document.getElementById('num_answers').addEventListener('change', updateAnswerFields);
+        updateAnswerFields();
+    </script>
+</body>
+</html>

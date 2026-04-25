@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% if tag %}Редактировать тег{% else %}Создать тег{% endif %}</title>
+    <style>
+        body { font-family: Arial; max-width: 500px; margin: 40px auto; padding: 20px; }
+        input, button { width: 100%; padding: 10px; margin: 10px 0; }
+        button { background: #4CAF50; color: white; border: none; cursor: pointer; }
+        .back-link { display: inline-block; margin-top: 20px; }
+        .color-palette {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 15px 0;
+        }
+        .color-option {
+            width: 40px;
+            height: 40px;
+            border-radius: 8px;
+            cursor: pointer;
+            border: 2px solid transparent;
+            transition: 0.2s;
+        }
+        .color-option:hover {
+            transform: scale(1.1);
+        }
+        .color-option.selected {
+            border-color: #333;
+            box-shadow: 0 0 0 2px white, 0 0 0 4px #333;
+        }
+        .selected-color {
+            margin-top: 10px;
+            padding: 10px;
+            background: #f0f0f0;
+            border-radius: 8px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>{% if tag %}✏️ Редактировать тег{% else %}➕ Создать тег{% endif %}</h1>
+    <form method="post" id="tag-form">
+        {% csrf_token %}
+        <label>Название тега:</label>
+        <input type="text" name="name" value="{{ tag.name|default:'' }}" required>
+        
+        <label>Цвет:</label>
+        <div class="color-palette" id="color-palette">
+            <!-- Предустановленные цвета -->
+            <div class="color-option" style="background: #4CAF50;"></div>
+            <div class="color-option" style="background: #2196F3;"></div>
+            <div class="color-option" style="background: #FF9800;"></div>
+            <div class="color-option" style="background: #f44336;"></div>
+            <div class="color-option" style="background: #9C27B0;"></div>
+            <div class="color-option" style="background: #FFEB3B;"></div>
+            <div class="color-option" style="background: #795548;"></div>
+            <div class="color-option" style="background: #607D8B;"></div>
+            <div class="color-option" style="background: #E91E63;"></div>
+            <div class="color-option" style="background: #00BCD4;"></div>
+            <div class="color-option" style="background: #8BC34A;"></div>
+            <div class="color-option" style="background: #673AB7;"></div>
+        </div>
+        
+        <input type="hidden" name="color" id="selected-color" value="{{ tag.color|default:'#4CAF50' }}">
+        
+        <div class="selected-color" id="selected-color-preview">
+            Выбран цвет: <span style="display: inline-block; width: 30px; height: 20px; background: {{ tag.color|default:'#4CAF50' }}; vertical-align: middle;"></span>
+        </div>
+        
+        <button type="submit">{% if tag %}Сохранить{% else %}Создать{% endif %}</button>
+    </form>
+    <a href="{% url 'tags_list' %}" class="back-link">← Назад к списку тегов</a>
+    
+    <script>
+        const colorOptions = document.querySelectorAll('.color-option');
+        const hiddenInput = document.getElementById('selected-color');
+        const previewDiv = document.getElementById('selected-color-preview');
+        
+        colorOptions.forEach(option => {
+            option.addEventListener('click', function() {
+                const color = this.style.backgroundColor;
+                // Конвертируем rgb в hex
+                const rgb = color.match(/\d+/g);
+                const hex = '#' + rgb.slice(0,3).map(x => {
+                    const hex = parseInt(x).toString(16);
+                    return hex.length === 1 ? '0' + hex : hex;
+                }).join('');
+                hiddenInput.value = hex;
+                previewDiv.innerHTML = 'Выбран цвет: <span style="display: inline-block; width: 30px; height: 20px; background: ' + hex + '; vertical-align: middle;"></span>';
+                
+                // Убираем выделение со всех
+                colorOptions.forEach(c => c.classList.remove('selected'));
+                this.classList.add('selected');
+            });
+            
+            // Если это текущий цвет — выделяем
+            if (hiddenInput.value) {
+                const currentRgb = option.style.backgroundColor;
+                const rgb = currentRgb.match(/\d+/g);
+                if (rgb) {
+                    const hex = '#' + rgb.slice(0,3).map(x => {
+                        const hex = parseInt(x).toString(16);
+                        return hex.length === 1 ? '0' + hex : hex;
+                    }).join('');
+                    if (hex.toLowerCase() === hiddenInput.value.toLowerCase()) {
+                        option.classList.add('selected');
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
