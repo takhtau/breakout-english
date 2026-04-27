@@ -248,6 +248,8 @@ def register_by_invite(request, code):
             user.save()
             invitation.used = True
             invitation.save()
+            # 👉 сразу удаляем
+            invitation.delete()
             login(request, user)
             messages.success(request, 'Вы успешно зарегистрированы и вошли в систему!')
             return redirect('teacher_home')

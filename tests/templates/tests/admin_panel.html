@@ -3,68 +3,234 @@
 <head>
     <title>Управление</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; }
-        .container { max-width: 800px; margin: 0 auto; }
-        .btn { display: inline-block; padding: 8px 16px; background: #4CAF50; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px; }
-        .btn-secondary { background: #6c757d; }
-        /* СИНЯЯ КНОПКА */
-        .btn-blue { background: #0066CC; color: white; }
-        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background: #f2f2f2; }
-        .code { font-family: monospace; font-size: 12px; }
-        .actions { margin-top: 20px; }
-        /* Заголовок + кнопка справа */
-        .header-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
-        .header-row h1 { margin: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            background: #f0f4f8;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            margin-bottom: 25px;
+        }
+
+        /* BUTTONS */
+
+        .btn {
+            background: #389bd9;
+            color: white;
+            padding: 10px 16px;
+            border-radius: 10px;
+            text-decoration: none;
+            display: inline-block;
+            transition: 0.2s;
+        }
+
+        .btn:hover {
+            transform: translateY(-1px);
+            filter: brightness(0.95);
+        }
+
+        .btn-danger {
+            background: #E5543F;
+        }
+
+        /* HEADER */
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+        }
+
+        /* SECTION */
+
+        .section {
+            background: white;
+            padding: 20px;
+            border-radius: 14px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+        }
+
+        .section-title {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+
+        /* TAG LIST */
+
+        .tag-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .tag-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #f9fbfd;
+            padding: 12px 15px;
+            border-radius: 10px;
+            border: 1px solid #e6edf3;
+        }
+
+        .tag-name {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 20px;
+            color: white;
+            font-size: 13px;
+        }
+
+        .tag-actions {
+            display: flex;
+            gap: 8px;
+        }
+
+        .btn-small {
+            padding: 6px 10px;
+            border-radius: 8px;
+            background: #eef3f7;
+            text-decoration: none;
+            color: #333;
+            font-size: 13px;
+            transition: 0.2s;
+        }
+
+        .btn-small:hover {
+            transform: translateY(-1px);
+            background: #e1e7ed;
+        }
+
+        .btn-small.delete {
+            background: #E5543F;
+            color: white;
+        }
+
+        .btn-small.delete:hover {
+            filter: brightness(0.9);
+        }
+
+        /* INVITES */
+
+        .invite-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #f9fbfd;
+            padding: 12px 15px;
+            border-radius: 10px;
+            border: 1px solid #e6edf3;
+        }
+
+        .invite-link {
+            font-size: 13px;
+            color: #555;
+            word-break: break-all;
+        }
+
+        .empty {
+            color: #777;
+            text-align: center;
+            padding: 20px 0;
+        }
+
     </style>
 </head>
 <body>
-    <div class="container">
-        <!-- Заголовок и синяя кнопка справа -->
-        <div class="header-row">
-            <h1>🔧 Панель управления (админ)</h1>
-            <!-- Кнопка ведёт на управление пользователями (тот же URL, что был) -->
-            <a href="{% url 'users_list' %}" class="btn btn-blue">👥 Управление пользователями</a>
-        </div>
-        
-        <div class="actions">
-            <a href="{% url 'tags_list' %}" class="btn">🏷️ Управление тегами</a>
-        </div>
-        
-        <h2>Создать приглашение</h2>
-        <form method="post">
-            {% csrf_token %}
-            <label>Роль:</label>
-            <select name="role">
-                <option value="teacher">Учитель</option>
-                <option value="moderator">Модератор</option>
-            </select>
-            <button type="submit" class="btn">Создать ссылку-приглашение</button>
-        </form>
-        
-        <h2>Созданные приглашения</h2>
-        {% if invitations %}
-            <table>
-                <thead>
-                    <tr><th>Ссылка</th><th>Роль</th><th>Использовано</th><th>Дата создания</th></tr>
-                </thead>
-                <tbody>
-                {% for inv in invitations %}
-                    <tr>
-                        <td class="code">{{ request.build_absolute_uri }}/register/invite/{{ inv.code }}/</td>
-                        <td>{{ inv.get_role_display }}</td>
-                        <td>{% if inv.used %}✅{% else %}❌{% endif %}</td>
-                        <td>{{ inv.created_at|date:"d.m.Y H:i" }}</td>
-                    </tr>
-                {% endfor %}
-                </tbody>
-            </table>
-        {% else %}
-            <p>Приглашений пока нет.</p>
-        {% endif %}
-        
-        <p><a href="{% url 'teacher_home' %}" class="btn btn-secondary">← Назад в дашборд</a></p>
+
+<div class="container">
+
+    <div class="header">
+        <h1>⚙️ Управление</h1>
+        <a href="{% url 'teacher_home' %}" class="btn">← Назад</a>
     </div>
+
+    <!-- TAGS -->
+
+    <div class="section">
+        <div class="section-title">🏷️ Теги</div>
+
+        <a href="{% url 'tags_list' %}" class="btn" style="margin-bottom: 15px;">
+            Управление тегами
+        </a>
+
+        <div class="tag-list">
+            {% for tag in tags %}
+            <div class="tag-item">
+
+                <span class="tag-name" style="background: {{ tag.color }};">
+                    {{ tag.name }}
+                </span>
+
+                <div class="tag-actions">
+                    <a href="{% url 'tag_edit' tag.id %}" class="btn-small">✏️</a>
+                    <a href="{% url 'tag_delete' tag.id %}" class="btn-small delete"
+                       onclick="return confirm('Удалить тег?')">🗑️</a>
+                </div>
+
+            </div>
+            {% empty %}
+                <div class="empty">Нет тегов</div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- INVITES -->
+
+    <div class="section">
+        <div class="section-title">🔗 Пригласительные ссылки</div>
+
+        <a href="{% url 'create_invite' %}" class="btn" style="margin-bottom: 15px;">
+            ➕ Создать ссылку
+        </a>
+
+        {% for invite in invites %}
+        <div class="invite-item">
+
+            <div class="invite-link">
+                {{ invite.url }}
+            </div>
+
+            <div style="display:flex; gap:8px;">
+                <a href="#" class="btn-small copy-link" data-url="{{ invite.url }}">📋</a>
+
+                {% if invite.is_used %}
+                    <span class="btn-small" style="background:#ccc;">Использована</span>
+                {% endif %}
+
+                <a href="{% url 'delete_invite' invite.id %}"
+                   class="btn-small delete"
+                   onclick="return confirm('Удалить ссылку?')">
+                    🗑️
+                </a>
+            </div>
+
+        </div>
+        {% empty %}
+            <div class="empty">Нет ссылок</div>
+        {% endfor %}
+    </div>
+
+</div>
+
+<script>
+document.querySelectorAll('.copy-link').forEach(btn => {
+    btn.addEventListener('click', function(e) {
+        e.preventDefault();
+        navigator.clipboard.writeText(this.dataset.url);
+        this.innerHTML = '✅';
+        setTimeout(() => this.innerHTML = '📋', 1500);
+    });
+});
+</script>
+
 </body>
 </html>

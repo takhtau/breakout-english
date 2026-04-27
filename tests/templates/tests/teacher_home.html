@@ -2,345 +2,315 @@
 <html>
 <head>
     <title>Панель учителя</title>
-<style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
-    body {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
-        background: #f4f8fb;
-        padding: 30px;
-    }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            background: #f0f4f8;
+            padding: 30px;
+        }
 
-    .container { max-width: 1400px; margin: 0 auto; }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
 
-    .header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        flex-wrap: wrap;
-        gap: 15px;
-        margin-bottom: 30px;
-    }
+        /* HEADER */
 
-    h1 { font-size: 28px; color: #1a1a2e; }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
 
-    /* 🔵 КНОПКИ (лайт голубые) */
-    .btn {
-        background: #4FB3E8;
-        color: white;
-        padding: 10px 20px;
-        text-decoration: none;
-        border-radius: 8px;
-        font-weight: 500;
-        transition: all 0.2s ease;
-    }
+        h1 {
+            font-size: 28px;
+        }
 
-    .btn:hover {
-        background: #3aa0d6;
-        transform: translateY(-1px);
-        filter: brightness(0.95);
-    }
+        /* BUTTONS */
 
-    /* 🔹 СТАТ БАР */
-    .stats-bar {
-        background: white;
-        padding: 12px 20px;
-        border-radius: 12px;
-        margin-bottom: 25px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        flex-wrap: wrap;
-        gap: 15px;
-        box-shadow: 0 2px 10px rgba(0,0,0,0.04);
-    }
+        .btn {
+            background: #389bd9;
+            color: white;
+            padding: 10px 18px;
+            border-radius: 10px;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
 
-    .search-box input {
-        padding: 10px 15px;
-        width: 280px;
-        border: 1px solid #e0e6ed;
-        border-radius: 25px;
-        font-size: 14px;
-        outline: none;
-    }
+        .btn:hover {
+            transform: translateY(-2px);
+            filter: brightness(0.95);
+        }
 
-    .search-box input:focus {
-        border-color: #4FB3E8;
-        box-shadow: 0 0 0 2px rgba(79, 179, 232, 0.2);
-    }
+        .btn-danger {
+            background: #E5543F;
+        }
 
-    .filters {
-        display: flex;
-        gap: 8px;
-        flex-wrap: wrap;
-    }
+        /* TOP BAR */
 
-    .filter-tag {
-        padding: 6px 14px;
-        border-radius: 20px;
-        background: white;
-        border: 1px solid #e0e6ed;
-        cursor: pointer;
-        font-size: 13px;
-        transition: 0.2s;
-    }
+        .top-bar {
+            background: white;
+            padding: 15px;
+            border-radius: 14px;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
 
-    .filter-tag:hover {
-        transform: translateY(-1px);
-        background: #f0f6fb;
-    }
+        .search-box input {
+            padding: 10px 14px;
+            border-radius: 20px;
+            border: 1px solid #ddd;
+            width: 260px;
+        }
 
-    .filter-tag.active {
-        background: #4FB3E8;
-        color: white;
-        border-color: #4FB3E8;
-    }
+        /* TAG FILTERS */
 
-    /* 📦 КАРТОЧКИ */
-    .tests-list {
-        display: flex;
-        flex-direction: column;
-        gap: 12px;
-        margin-bottom: 30px;
-    }
+        .filters {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
 
-    .test-card {
-        background: white;
-        border-radius: 14px;
-        padding: 16px 20px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        flex-wrap: wrap;
-        gap: 15px;
-        box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-        transition: all 0.2s ease;
-    }
+        .filter-tag {
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 13px;
+            background: #eef3f7;
+            color: #333;
+            text-decoration: none;
+            transition: 0.2s;
+        }
 
-    .test-card:hover {
-        transform: translateY(-3px);
-        box-shadow: 0 10px 25px rgba(79, 179, 232, 0.2);
-    }
+        .filter-tag:hover {
+            transform: translateY(-1px);
+        }
 
-    .test-title {
-        flex: 2;
-        min-width: 200px;
-        font-size: 18px;
-        font-weight: 600;
-    }
+        .filter-tag.active {
+            background: #389bd9;
+            color: white;
+        }
 
-    .test-actions {
-        display: flex;
-        gap: 10px;
-    }
+        /* ADD TAG BLOCK */
 
-    /* 🔘 МАЛЕНЬКИЕ КНОПКИ */
-    .btn-small {
-        padding: 8px 14px;
-        font-size: 13px;
-        border-radius: 6px;
-        text-decoration: none;
-        background: #f1f5f9;
-        color: #2c2c2c;
-        border: 1px solid #e2e8f0;
-        transition: all 0.2s ease;
-        white-space: nowrap;
-    }
+        .tag-create {
+            background: white;
+            padding: 15px;
+            border-radius: 14px;
+            margin-bottom: 20px;
+        }
 
-    .btn-small:hover {
-        background: #e2ecf5;
-        transform: translateY(-1px);
-    }
+        .tag-create form {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
 
-    /* 🔴 УДАЛЕНИЕ */
-    .btn-small.delete-btn {
-        background: #E5543F !important;
-        color: white !important;
-        border: none;
-    }
+        .tag-create input[type="text"] {
+            padding: 8px 12px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
 
-    .btn-small.delete-btn:hover {
-        background: #d43d2a !important;
-    }
+        .tag-create input[type="color"] {
+            width: 40px;
+            height: 40px;
+            border: none;
+            outline: none; /* 🔥 УБРАЛ ЧЁРНУЮ ОБВОДКУ */
+            cursor: pointer;
+        }
 
-    /* 🏷️ ТЕГИ */
-    .tags-list {
-        flex: 1;
-        display: flex;
-        gap: 6px;
-        flex-wrap: wrap;
-    }
+        /* TEST CARDS */
 
-    .tag {
-        padding: 4px 10px;
-        border-radius: 20px;
-        font-size: 11px;
-        font-weight: 500;
-        color: white;
-    }
+        .tests-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
 
-    /* 📄 ПАГИНАЦИЯ */
-    .pagination {
-        display: flex;
-        justify-content: center;
-        gap: 8px;
-        margin-top: 20px;
-    }
+        .test-card {
+            background: white;
+            padding: 18px;
+            border-radius: 14px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            transition: all 0.2s ease;
+        }
 
-    .pagination a, .pagination span {
-        padding: 8px 12px;
-        border-radius: 6px;
-        text-decoration: none;
-        color: #333;
-        background: white;
-        border: 1px solid #e0e6ed;
-    }
+        .test-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+        }
 
-    .pagination .current {
-        background: #4FB3E8;
-        color: white;
-        border-color: #4FB3E8;
-    }
-</style>
+        .test-title {
+            font-weight: 600;
+            font-size: 18px;
+        }
 
+        .tags-list {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+
+        .tag {
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            color: white;
+        }
+
+        /* ACTION BUTTONS */
+
+        .actions {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .btn-small {
+            padding: 7px 12px;
+            border-radius: 8px;
+            background: #eef3f7;
+            text-decoration: none;
+            color: #333;
+            font-size: 13px;
+            transition: 0.2s;
+        }
+
+        .btn-small:hover {
+            background: #e1e7ed;
+            transform: translateY(-1px);
+        }
+
+        .btn-small.delete-btn {
+            background: #E5543F;
+            color: white;
+        }
+
+        .btn-small.delete-btn:hover {
+            filter: brightness(0.9);
+        }
+
+    </style>
 </head>
 <body>
+
 <div class="container">
+
     <div class="header">
         <h1>📚 Библиотека тестов</h1>
+
         <div>
             {% if user.role == 'moderator' or user.role == 'admin' %}
                 <a href="{% url 'create_test' %}" class="btn">➕ Создать тест</a>
             {% endif %}
+
             {% if user.role == 'admin' %}
-                <a href="{% url 'admin_panel' %}" class="btn">🔧 Управление</a>
+                <a href="{% url 'admin_panel' %}" class="btn">⚙️ Управление</a>
             {% endif %}
-            <form action="{% url 'logout' %}" method="post" style="display: inline;">
+
+            <form action="{% url 'logout' %}" method="post" style="display:inline;">
                 {% csrf_token %}
-                <button type="submit" class="btn" style="background: #dc3545;">🚪 Выйти</button>
+                <button class="btn btn-danger">🚪 Выйти</button>
             </form>
         </div>
     </div>
 
-    <div class="stats-bar">
-    <div class="search-box">
-        <form method="get" action="">
-            <input type="text" name="search" placeholder="🔍 Поиск по названию..." value="{{ search_query }}">
-            <button type="submit" style="display: none;">Найти</button>
+    <!-- SEARCH + FILTER -->
+
+    <div class="top-bar">
+        <div class="search-box">
+            <form method="get">
+                <input type="text" name="search" placeholder="🔍 Поиск..." value="{{ search_query }}">
+            </form>
+        </div>
+
+        <div class="filters">
+            <a href="?" class="filter-tag {% if not current_tag %}active{% endif %}">Все</a>
+
+            {% for tag in all_tags %}
+                <a href="?tag={{ tag.name }}"
+                   class="filter-tag {% if current_tag == tag.name %}active{% endif %}">
+                    {{ tag.name }}
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- ADD TAG -->
+
+    {% if user.role == 'admin' %}
+    <div class="tag-create">
+        <form method="post" action="{% url 'tag_add' %}">
+            {% csrf_token %}
+
+            <input type="text" name="name" placeholder="Название тега" required>
+
+            <input type="color" name="color" value="#389bd9">
+
+            <button class="btn">➕ Добавить тег</button>
         </form>
     </div>
+    {% endif %}
 
-    <div class="filters">
-        <a href="?{% if search_query %}search={{ search_query }}{% endif %}" 
-           class="filter-tag {% if not current_tag %}active{% endif %}">
-            Все
-        </a>
-
-        {% for tag in all_tags %}
-            <a href="?tag={{ tag.name }}{% if search_query %}&search={{ search_query }}{% endif %}" 
-               class="filter-tag {% if current_tag == tag.name %}active{% endif %}" 
-               style="background: {{ tag.color }}; color: white; border: none;">
-                {{ tag.name }}
-            </a>
-        {% endfor %}
-    </div>
-</div>
-
-{% if user.role == 'admin' %}
-<div style="
-    background: white;
-    padding: 15px 20px;
-    border-radius: 12px;
-    margin-bottom: 20px;
-    display: flex;
-    gap: 10px;
-    align-items: center;
-    flex-wrap: wrap;
-">
-    <form method="post" action="{% url 'tag_add_inline' %}"
-          style="display: flex; gap: 10px; align-items: center;">
-        {% csrf_token %}
-
-        <input type="text"
-               name="name"
-               placeholder="Название тега"
-               required
-               style="padding: 8px 12px; border-radius: 8px; border: 1px solid #ddd;">
-
-        <input type="color"
-               name="color"
-               value="#4CAF50"
-               style="width: 40px; height: 40px; border: none;">
-
-        <button class="btn" style="padding: 8px 16px;">
-            ➕ Добавить тег
-        </button>
-    </form>
-</div>
-{% endif %}
+    <!-- TEST LIST -->
 
     <div class="tests-list">
         {% for test in page_obj %}
         <div class="test-card">
+
             <div class="test-title">{{ test.title }}</div>
+
             <div class="tags-list">
                 {% for tag in test.tags.all %}
                     <span class="tag" style="background: {{ tag.color }};">{{ tag.name }}</span>
                 {% endfor %}
             </div>
-            
-            <div class="test-actions">
-                <a href="{% url 'test_results' test.id %}" class="btn-small">📊 Результаты</a>
-                <a href="{% url 'test_entry' test.id %}" class="btn-small">📋 Тест</a>
-                <a href="#" class="btn-small copy-link" data-url="{% url 'test_entry' test.id %}">🔗 Копировать ссылку</a>
-                
+
+            <div class="actions">
+                <a href="{% url 'test_results' test.id %}" class="btn-small">📊</a>
+                <a href="{% url 'test_entry' test.id %}" class="btn-small">📋</a>
+                <a href="#" class="btn-small copy-link" data-url="{% url 'test_entry' test.id %}">🔗</a>
+
                 {% if user.role == 'admin' %}
-                    <a href="{% url 'edit_test' test.id %}" class="btn-small">✏️ Редактировать</a>
-                    <a href="{% url 'delete_test' test.id %}" 
-                       class="btn-small delete-btn"
-                       onclick="return confirm('Удалить тест «{{ test.title }}»? Все вопросы и результаты будут удалены!')">
-                        🗑️ Удалить
-                    </a>
+                    <a href="{% url 'edit_test' test.id %}" class="btn-small">✏️</a>
+                    <a href="{% url 'delete_test' test.id %}" class="btn-small delete-btn">🗑️</a>
                 {% endif %}
             </div>
+
         </div>
         {% empty %}
-            <p>Тестов не найдено.</p>
+            <p>Нет тестов</p>
         {% endfor %}
     </div>
 
-    {% if page_obj.has_other_pages %}
-    <div class="pagination">
-        {% if page_obj.has_previous %}
-            <a href="?page=1{% if search_query %}&search={{ search_query }}{% endif %}">« Первая</a>
-            <a href="?page={{ page_obj.previous_page_number }}{% if search_query %}&search={{ search_query }}{% endif %}">Назад</a>
-        {% endif %}
-        <span class="current">Страница {{ page_obj.number }} из {{ page_obj.paginator.num_pages }}</span>
-        {% if page_obj.has_next %}
-            <a href="?page={{ page_obj.next_page_number }}{% if search_query %}&search={{ search_query }}{% endif %}">Вперёд</a>
-            <a href="?page={{ page_obj.paginator.num_pages }}{% if search_query %}&search={{ search_query }}{% endif %}">Последняя »</a>
-        {% endif %}
-    </div>
-    {% endif %}
 </div>
 
 <script>
-    document.querySelectorAll('.copy-link').forEach(btn => {
-        btn.addEventListener('click', function(e) {
-            e.preventDefault();
-            const url = this.getAttribute('data-url');
-            const fullUrl = window.location.origin + url;
-            navigator.clipboard.writeText(fullUrl).then(() => {
-                const originalText = this.innerHTML;
-                this.innerHTML = '✅ Скопировано!';
-                setTimeout(() => {
-                    this.innerHTML = originalText;
-                }, 2000);
-            }).catch(() => {
-                alert('Не удалось скопировать ссылку');
-            });
-        });
+document.querySelectorAll('.copy-link').forEach(btn => {
+    btn.addEventListener('click', function(e) {
+        e.preventDefault();
+        const url = window.location.origin + this.dataset.url;
+        navigator.clipboard.writeText(url);
+        this.innerHTML = '✅';
+        setTimeout(() => this.innerHTML = '🔗', 1500);
     });
+});
 </script>
+
 </body>
 </html>

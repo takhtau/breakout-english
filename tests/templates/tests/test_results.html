@@ -3,42 +3,162 @@
 <head>
     <title>Результаты: {{ test.title }}</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 1000px; margin: 40px auto; padding: 20px; background: #f5f5f5; }
-        .container { background: white; padding: 30px; border-radius: 10px; }
-        .student-block { margin-bottom: 30px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; }
-        .student-name { background: #4CAF50; color: white; padding: 12px 20px; font-size: 18px; font-weight: bold; }
-        .attempt { padding: 12px 20px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
-        .attempt:last-child { border-bottom: none; }
-        .attempt-info { flex: 2; }
-        .attempt-score { font-weight: bold; margin-right: 20px; }
-        .attempt-date { color: #666; font-size: 14px; }
-        .btn-detail { background: #2196F3; color: white; padding: 6px 12px; text-decoration: none; border-radius: 5px; font-size: 13px; }
-        .btn-detail:hover { background: #1976D2; }
-        .back-link { display: inline-block; margin-top: 20px; background: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f0f4f8;
+        }
+
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 6px 24px rgba(0,0,0,0.08);
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .student-block {
+            margin-bottom: 25px;
+            border-radius: 14px;
+            overflow: hidden;
+            background: #f9fbfd;
+            border: 1px solid #e6edf3;
+        }
+
+        .student-name {
+            background: #389bd9;
+            color: white;
+            padding: 14px 20px;
+            font-size: 18px;
+            font-weight: 500;
+        }
+
+        .attempt {
+            padding: 14px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid #eef3f7;
+            transition: 0.2s;
+        }
+
+        .attempt:hover {
+            background: #f1f7fc;
+        }
+
+        .attempt-info {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .attempt-score {
+            font-weight: 600;
+            font-size: 15px;
+        }
+
+        .score-good {
+            color: #389bd9;
+        }
+
+        .score-bad {
+            color: #E5543F;
+        }
+
+        .attempt-date {
+            font-size: 13px;
+            color: #777;
+        }
+
+        .btn-detail {
+            background: #389bd9;
+            color: white;
+            padding: 6px 12px;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 13px;
+            transition: 0.2s;
+        }
+
+        .btn-detail:hover {
+            transform: translateY(-1px);
+            filter: brightness(0.95);
+        }
+
+        .empty {
+            text-align: center;
+            color: #777;
+            padding: 30px 0;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-top: 25px;
+            background: #389bd9;
+            color: white;
+            padding: 10px 18px;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: 0.2s;
+        }
+
+        .back-link:hover {
+            transform: translateY(-1px);
+            filter: brightness(0.95);
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>📊 Результаты теста: {{ test.title }}</h1>
-        
-        {% for name, attempts in students.items %}
-        <div class="student-block">
-            <div class="student-name">{{ name }}</div>
-            {% for att in attempts %}
-            <div class="attempt">
-                <div class="attempt-info">
-                    <span class="attempt-score">{{ att.percent }}% ({{ att.score }}/{{ att.total }})</span>
-                    <span class="attempt-date">{{ att.completed_at|date:"d.m.Y H:i" }}</span>
-                </div>
-                <a href="{% url 'result_detail' att.id %}" class="btn-detail">📋 Детали</a>
-            </div>
-            {% endfor %}
+
+<div class="container">
+    <h1>📊 {{ test.title }}</h1>
+
+    {% for name, attempts in students.items %}
+    <div class="student-block">
+
+        <div class="student-name">
+            🧑‍🎓 {{ name }}
         </div>
-        {% empty %}
-        <p>Пока нет результатов.</p>
+
+        {% for att in attempts %}
+        <div class="attempt">
+
+            <div class="attempt-info">
+                <span class="attempt-score {% if att.percent >= 70 %}score-good{% else %}score-bad{% endif %}">
+                    {{ att.percent }}% ({{ att.score }}/{{ att.total }})
+                </span>
+
+                <span class="attempt-date">
+                    {{ att.completed_at|date:"d.m.Y H:i" }}
+                </span>
+            </div>
+
+            <a href="{% url 'result_detail' att.id %}" class="btn-detail">
+                Детали
+            </a>
+
+        </div>
         {% endfor %}
-        
-        <a href="{% url 'teacher_home' %}" class="back-link">← Назад к списку тестов</a>
+
     </div>
+    {% empty %}
+        <div class="empty">Пока нет результатов</div>
+    {% endfor %}
+
+    <div style="text-align:center;">
+        <a href="{% url 'teacher_home' %}" class="back-link">
+            ← Назад
+        </a>
+    </div>
+
+</div>
+
 </body>
 </html>
