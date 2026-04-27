@@ -178,7 +178,7 @@
         <div class="section-title">🔗 Пригласительные ссылки</div>
 
         <!-- СОЗДАНИЕ -->
-        <form method="post" style="margin-bottom: 15px;">
+    <form method="post" style="margin-bottom: 15px;">
             {% csrf_token %}
 
             <select name="role" style="padding:8px; border-radius:8px;">
@@ -187,8 +187,7 @@
             </select>
 
             <button class="btn">➕ Создать ссылку</button>
-        </form>
-
+    </form>
         <!-- СПИСОК -->
         {% for invite in invitations %}
 
