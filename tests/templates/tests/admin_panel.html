@@ -178,7 +178,7 @@
         <div class="section-title">🔗 Пригласительные ссылки</div>
 
         <!-- СОЗДАНИЕ -->
-    <form method="post" style="margin-bottom: 15px;">
+        <form method="post" style="margin-bottom: 15px;">
             {% csrf_token %}
 
             <select name="role" style="padding:8px; border-radius:8px;">
@@ -187,22 +187,21 @@
             </select>
 
             <button class="btn">➕ Создать ссылку</button>
-    </form>
+        </form>
+
         <!-- СПИСОК -->
         {% for invite in invitations %}
-
-            {% with invite_url=request.scheme|add:"://"|add:request.get_host|add:"/register/invite/"|add:invite.code|add:"/" %}
 
             <div class="invite-item">
 
                 <div class="invite-link">
-                    {{ invite_url }}
+                    {{ invite.url }}
                 </div>
 
                 <div style="display:flex; gap:8px;">
 
                     <a href="#" class="btn-small copy-link"
-                       data-url="{{ invite_url }}">
+                       data-url="{{ invite.url }}">
                        📋
                     </a>
 
@@ -219,8 +218,6 @@
                 </div>
 
             </div>
-
-            {% endwith %}
 
         {% empty %}
             <div class="empty">Нет ссылок</div>

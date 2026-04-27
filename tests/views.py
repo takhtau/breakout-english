@@ -267,14 +267,26 @@ def admin_panel(request):
     if request.method == 'POST':
         role = request.POST.get('role')
         invitation = Invitation.objects.create(role=role)
-        messages.success(request, 'Ссылка создана')
+        messages.success(request, '✅ Ссылка создана')
         return redirect('admin_panel')
     
     invitations = Invitation.objects.all().order_by('-created_at')
     
+    # Генерируем готовые URL для шаблона
+    invitations_with_urls = []
+    for inv in invitations:
+        invitations_with_urls.append({
+            'id': inv.id,
+            'code': inv.code,
+            'role': inv.role,
+            'used': inv.used,
+            'created_at': inv.created_at,
+            'url': request.build_absolute_uri(f'/register/invite/{inv.code}/'),
+        })
+    
     return render(request, 'tests/admin_panel.html', {
-        'invitations': invitations,
-        'tags': Tag.objects.all(),  # ← ВАЖНО
+        'invitations': invitations_with_urls,
+        'tags': Tag.objects.all(),
     })
         
 @staff_member_required

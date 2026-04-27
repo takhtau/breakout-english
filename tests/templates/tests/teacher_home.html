@@ -190,6 +190,21 @@
         .btn-small.delete-btn:hover {
             filter: brightness(0.9);
         }
+
+        .pagination {
+            margin-top: 25px;
+            text-align: center;
+        }
+
+        .pagination span {
+            margin: 0 12px;
+        }
+
+        .empty-state {
+            text-align: center;
+            color: #777;
+            padding: 20px;
+        }
     </style>
 </head>
 <body>
@@ -219,14 +234,18 @@
         <div class="search-box">
             <form method="get">
                 <input type="text" name="search" placeholder="🔍 Поиск..." value="{{ search_query }}">
+                {% if current_tag %}
+                    <input type="hidden" name="tag" value="{{ current_tag }}">
+                {% endif %}
             </form>
         </div>
 
         <div class="filters">
-            <a href="?" class="filter-tag {% if not current_tag %}active{% endif %}">Все</a>
+            <a href="?search={{ search_query }}"
+               class="filter-tag {% if not current_tag %}active{% endif %}">Все</a>
 
             {% for tag in all_tags %}
-                <a href="?tag={{ tag.name }}"
+                <a href="?tag={{ tag.name }}&search={{ search_query }}"
                    class="filter-tag {% if current_tag == tag.name %}active{% endif %}">
                     {{ tag.name }}
                 </a>
@@ -260,22 +279,39 @@
             </div>
 
             <div class="actions">
-                <a href="{% url 'test_results' test.id %}" class="btn-small">📊</a>
-                <a href="{% url 'test_entry' test.id %}" class="btn-small">📋</a>
-                <a href="#" class="btn-small copy-link" data-url="{% url 'test_entry' test.id %}">🔗</a>
+                <a href="{% url 'test_results' test.id %}" class="btn-small" title="Результаты">📊</a>
+                <a href="{% url 'test_entry' test.id %}" class="btn-small" title="Пройти тест">📋</a>
+                <a href="#" class="btn-small copy-link"
+                   data-url="{{ request.scheme }}://{{ request.get_host }}{% url 'test_entry' test.id %}"
+                   title="Скопировать ссылку">🔗</a>
 
                 {% if user.role == 'admin' %}
-                    <a href="{% url 'edit_test' test.id %}" class="btn-small">✏️</a>
-                    <a href="{% url 'delete_test' test.id %}" class="btn-small delete-btn">🗑️</a>
+                    <a href="{% url 'edit_test' test.id %}" class="btn-small" title="Редактировать">✏️</a>
+                    <a href="{% url 'delete_test' test.id %}" class="btn-small delete-btn" title="Удалить">🗑️</a>
                 {% endif %}
             </div>
 
         </div>
         {% empty %}
-            <p>Нет тестов</p>
+            <p class="empty-state">Нет тестов</p>
         {% endfor %}
     </div>
 
+    <div class="pagination">
+        {% if page_obj.has_previous %}
+            <a href="?page={{ page_obj.previous_page_number }}&search={{ search_query }}&tag={{ current_tag }}" class="btn">
+                ← Назад
+            </a>
+        {% endif %}
+
+        <span>Страница {{ page_obj.number }} из {{ page_obj.paginator.num_pages }}</span>
+
+        {% if page_obj.has_next %}
+            <a href="?page={{ page_obj.next_page_number }}&search={{ search_query }}&tag={{ current_tag }}" class="btn">
+                Вперёд →
+            </a>
+        {% endif %}
+    </div>
 
 </div>
 
@@ -283,34 +319,13 @@
 document.querySelectorAll('.copy-link').forEach(btn => {
     btn.addEventListener('click', function(e) {
         e.preventDefault();
-        const url = window.location.origin + this.dataset.url;
-        navigator.clipboard.writeText(url);
-        this.innerHTML = '✅';
-        setTimeout(() => this.innerHTML = '🔗', 1500);
+        navigator.clipboard.writeText(this.dataset.url).then(() => {
+            this.innerHTML = '✅';
+            setTimeout(() => this.innerHTML = '🔗', 1500);
+        });
     });
 });
 </script>
 
-   <!-- ✅ ПАГИНАЦИЯ -->
-    <div style="margin-top: 25px; text-align:center;">
-
-        {% if page_obj.has_previous %}
-            <a href="?page={{ page_obj.previous_page_number }}&search={{ search_query }}&tag={{ current_tag }}" class="btn">
-                ← Назад
-            </a>
-        {% endif %}
-
-        <span style="margin: 0 12px;">
-            Страница {{ page_obj.number }} из {{ page_obj.paginator.num_pages }}
-        </span>
-
-        {% if page_obj.has_next %}
-            <a href="?page={{ page_obj.next_page_number }}&search={{ search_query }}&tag={{ current_tag }}" class="btn">
-                Вперёд →
-            </a>
-        {% endif %}
-
-    </div>
-    
 </body>
 </html>
