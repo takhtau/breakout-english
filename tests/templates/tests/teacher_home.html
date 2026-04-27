@@ -28,10 +28,8 @@
             font-weight: 500;
             transition: 0.2s;
         }
-
         .btn:hover {
-            opacity: 0.9;
-            transform: translateY(-1px);
+            background: red !important;
         }
         .stats-bar {
             background: white;
@@ -222,7 +220,7 @@
     align-items: center;
     flex-wrap: wrap;
 ">
-    <form method="post" action="{% url 'tag_add' %}" 
+    <form method="post" action="{% url 'tag_add_inline' %}"
           style="display: flex; gap: 10px; align-items: center;">
         {% csrf_token %}
 

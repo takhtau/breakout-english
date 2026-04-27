@@ -557,3 +557,20 @@ def delete_user(request, user_id):
     user.delete()
     messages.success(request, 'Пользователь удалён.')
     return redirect('users_list')
+    
+@staff_member_required
+def tag_add_inline(request):
+    if request.user.role != 'admin':
+        return redirect('teacher_home')
+
+    if request.method == 'POST':
+        name = request.POST.get('name', '').strip()
+        color = request.POST.get('color')
+
+        if name:
+            Tag.objects.get_or_create(
+                name=name,
+                defaults={'color': color or '#4CAF50'}
+            )
+
+    return redirect('teacher_home')
