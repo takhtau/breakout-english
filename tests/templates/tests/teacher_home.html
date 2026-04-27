@@ -16,8 +16,6 @@
             margin: 0 auto;
         }
 
-        /* HEADER */
-
         .header {
             display: flex;
             justify-content: space-between;
@@ -30,8 +28,6 @@
         h1 {
             font-size: 28px;
         }
-
-        /* BUTTONS */
 
         .btn {
             background: #389bd9;
@@ -53,8 +49,6 @@
             background: #E5543F;
         }
 
-        /* TOP BAR */
-
         .top-bar {
             background: white;
             padding: 15px;
@@ -72,8 +66,6 @@
             border: 1px solid #ddd;
             width: 260px;
         }
-
-        /* TAG FILTERS */
 
         .filters {
             display: flex;
@@ -100,8 +92,6 @@
             color: white;
         }
 
-        /* ADD TAG BLOCK */
-
         .tag-create {
             background: white;
             padding: 15px;
@@ -125,11 +115,9 @@
             width: 40px;
             height: 40px;
             border: none;
-            outline: none; /* 🔥 УБРАЛ ЧЁРНУЮ ОБВОДКУ */
+            outline: none;
             cursor: pointer;
         }
-
-        /* TEST CARDS */
 
         .tests-list {
             display: flex;
@@ -173,8 +161,6 @@
             color: white;
         }
 
-        /* ACTION BUTTONS */
-
         .actions {
             display: flex;
             gap: 8px;
@@ -204,7 +190,6 @@
         .btn-small.delete-btn:hover {
             filter: brightness(0.9);
         }
-
     </style>
 </head>
 <body>
@@ -230,8 +215,6 @@
         </div>
     </div>
 
-    <!-- SEARCH + FILTER -->
-
     <div class="top-bar">
         <div class="search-box">
             <form method="get">
@@ -251,23 +234,16 @@
         </div>
     </div>
 
-    <!-- ADD TAG -->
-
     {% if user.role == 'admin' %}
     <div class="tag-create">
         <form method="post" action="{% url 'tag_add' %}">
             {% csrf_token %}
-
             <input type="text" name="name" placeholder="Название тега" required>
-
             <input type="color" name="color" value="#389bd9">
-
             <button class="btn">➕ Добавить тег</button>
         </form>
     </div>
     {% endif %}
-
-    <!-- TEST LIST -->
 
     <div class="tests-list">
         {% for test in page_obj %}
@@ -277,8 +253,8 @@
 
             <div class="tags-list">
                 {% for tag in test.tags.all %}
-                    <span class="tag">
-                    {{ tag.name }} ({{ tag.color }})
+                    <span class="tag" style="background: {{ tag.color }}">
+                        {{ tag.name }}
                     </span>
                 {% endfor %}
             </div>
@@ -298,6 +274,27 @@
         {% empty %}
             <p>Нет тестов</p>
         {% endfor %}
+    </div>
+
+    <!-- ✅ ПАГИНАЦИЯ -->
+    <div style="margin-top: 25px; text-align:center;">
+
+        {% if page_obj.has_previous %}
+            <a href="?page={{ page_obj.previous_page_number }}&search={{ search_query }}&tag={{ current_tag }}" class="btn">
+                ← Назад
+            </a>
+        {% endif %}
+
+        <span style="margin: 0 12px;">
+            Страница {{ page_obj.number }} из {{ page_obj.paginator.num_pages }}
+        </span>
+
+        {% if page_obj.has_next %}
+            <a href="?page={{ page_obj.next_page_number }}&search={{ search_query }}&tag={{ current_tag }}" class="btn">
+                Вперёд →
+            </a>
+        {% endif %}
+
     </div>
 
 </div>
