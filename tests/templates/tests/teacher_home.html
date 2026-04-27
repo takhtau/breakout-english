@@ -98,14 +98,34 @@
             display: flex;
             gap: 10px;
         }
+
+        /* === Кнопки действий - теперь все серые === */
         .btn-small {
-            padding: 6px 12px;
+            padding: 8px 14px;
             font-size: 13px;
             border-radius: 6px;
             text-decoration: none;
-            background: #f0f2f5;
-            color: #333;
+            background: #495057;        /* красивый тёмно-серый */
+            color: white;
+            transition: all 0.2s ease;
+            border: none;
+            white-space: nowrap;
         }
+
+        .btn-small:hover {
+            background: #343a40;
+            transform: translateY(-1px);
+        }
+
+        /* Красная кнопка "Удалить" */
+        .btn-small.delete-btn {
+            background: #E5543F !important;   /* цвет из твоего брендбука */
+        }
+
+        .btn-small.delete-btn:hover {
+            background: #d43d2a !important;
+        }
+
         .tags-list {
             flex: 1;
             display: flex;
@@ -164,13 +184,15 @@
             </form>
         </div>
         <div class="filters">
-    <a href="?{% if search_query %}search={{ search_query }}{% endif %}" class="filter-tag {% if not current_tag %}active{% endif %}">Все</a>
-    {% for tag in all_tags %}
-        <a href="?tag={{ tag.name }}{% if search_query %}&search={{ search_query }}{% endif %}" class="filter-tag {% if current_tag == tag.name %}active{% endif %}" style="background: {{ tag.color }}; color: white; border: none;">
-            {{ tag.name }}
-        </a>
-    {% endfor %}
-</div>
+            <a href="?{% if search_query %}search={{ search_query }}{% endif %}" class="filter-tag {% if not current_tag %}active{% endif %}">Все</a>
+            {% for tag in all_tags %}
+                <a href="?tag={{ tag.name }}{% if search_query %}&search={{ search_query }}{% endif %}" 
+                   class="filter-tag {% if current_tag == tag.name %}active{% endif %}" 
+                   style="background: {{ tag.color }}; color: white; border: none;">
+                    {{ tag.name }}
+                </a>
+            {% endfor %}
+        </div>
     </div>
 
     <div class="tests-list">
@@ -178,22 +200,28 @@
         <div class="test-card">
             <div class="test-title">{{ test.title }}</div>
             <div class="tags-list">
-    {% for tag in test.tags.all %}
-        <span class="tag" style="background: {{ tag.color }};">{{ tag.name }}</span>
-    {% endfor %}
-</div>
-<div class="test-actions">
-    <a href="{% url 'test_results' test.id %}" class="btn-small">📊 Результаты</a>
-    <a href="{% url 'test_entry' test.id %}" class="btn-small">📋 Тест</a>
-    <a href="#" class="btn-small copy-link" data-url="{% url 'test_entry' test.id %}" style="background: #2196F3; color: white;">🔗 Копировать ссылку</a>
-    {% if user.role == 'admin' %}
-        <a href="{% url 'edit_test' test.id %}" class="btn-small" style="background: #ffc107; color: #333;">✏️ Ред.</a>
-        <a href="{% url 'delete_test' test.id %}" class="btn-small" style="background: #dc3545; color: white;" onclick="return confirm('Удалить тест «{{ test.title }}»? Все вопросы и результаты будут удалены!')">🗑️ Удалить</a>
-    {% endif %}
-</div>
+                {% for tag in test.tags.all %}
+                    <span class="tag" style="background: {{ tag.color }};">{{ tag.name }}</span>
+                {% endfor %}
+            </div>
+            
+            <div class="test-actions">
+                <a href="{% url 'test_results' test.id %}" class="btn-small">📊 Результаты</a>
+                <a href="{% url 'test_entry' test.id %}" class="btn-small">📋 Тест</a>
+                <a href="#" class="btn-small copy-link" data-url="{% url 'test_entry' test.id %}">🔗 Копировать ссылку</a>
+                
+                {% if user.role == 'admin' %}
+                    <a href="{% url 'edit_test' test.id %}" class="btn-small">✏️ Редактировать</a>
+                    <a href="{% url 'delete_test' test.id %}" 
+                       class="btn-small delete-btn"
+                       onclick="return confirm('Удалить тест «{{ test.title }}»? Все вопросы и результаты будут удалены!')">
+                        🗑️ Удалить
+                    </a>
+                {% endif %}
+            </div>
         </div>
         {% empty %}
-        <p>Тестов не найдено.</p>
+            <p>Тестов не найдено.</p>
         {% endfor %}
     </div>
 
@@ -211,6 +239,7 @@
     </div>
     {% endif %}
 </div>
+
 <script>
     document.querySelectorAll('.copy-link').forEach(btn => {
         btn.addEventListener('click', function(e) {
