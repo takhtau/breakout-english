@@ -3,49 +3,175 @@
 <head>
     <title>Детали результата</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; background: #f5f5f5; }
-        .container { background: white; padding: 30px; border-radius: 10px; }
-        .question { margin: 20px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #4CAF50; border-radius: 8px; }
-        .question-text { font-weight: bold; margin-bottom: 10px; }
-        .answer { margin: 5px 0; padding: 8px 12px; border-radius: 5px; }
-        .answer.correct { background: #d4edda; color: #155724; border-left: 3px solid #28a745; }
-        .answer.incorrect { background: #f8d7da; color: #721c24; border-left: 3px solid #dc3545; }
-        .correct-answer { margin-top: 8px; font-size: 14px; color: #28a745; font-weight: bold; }
-        .back-link { display: inline-block; margin-top: 20px; background: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            background: #f0f4f8;
+            padding: 30px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        h1 { font-size: 28px; }
+        .btn {
+            background: #389bd9;
+            color: white;
+            padding: 10px 18px;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: 0.2s;
+            display: inline-block;
+            border: none;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .btn:hover { transform: translateY(-2px); filter: brightness(0.95); }
+        .btn-danger { background: #E5543F; }
+        .btn-danger:hover { filter: brightness(0.9); }
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 14px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+        }
+        .student-info {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+            font-size: 15px;
+        }
+        .student-info strong { color: #555; }
+        .score {
+            font-size: 48px;
+            font-weight: bold;
+            text-align: center;
+            margin: 15px 0;
+        }
+        .score.pass { color: #389bd9; }
+        .score.fail { color: #E5543F; }
+        .question-card {
+            background: #f9fbfd;
+            border: 1px solid #e6edf3;
+            border-radius: 12px;
+            padding: 18px;
+            margin-bottom: 15px;
+        }
+        .question-text {
+            font-weight: 600;
+            font-size: 16px;
+            margin-bottom: 12px;
+        }
+        .answer {
+            padding: 8px 12px;
+            border-radius: 8px;
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        .answer.correct {
+            background: #e6f4ff;
+            border: 1px solid #389bd9;
+        }
+        .answer.incorrect {
+            background: #fdeaea;
+            border: 1px solid #E5543F;
+        }
+        .answer.neutral {
+            background: #fafafa;
+            border: 1px solid #ddd;
+        }
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .empty {
+            text-align: center;
+            color: #777;
+            padding: 40px 0;
+        }
     </style>
 </head>
 <body>
-    <div class="container">
+
+<div class="container">
+    <div class="header">
         <h1>📋 Детали результата</h1>
-        <p><strong>Ученик:</strong> {{ student_name }}</p>
-        <p><strong>Дата:</strong> {{ result.completed_at|date:"d.m.Y H:i" }}</p>
-        <p><strong>Результат:</strong> {{ result.score }} / {{ result.total }} ({{ percent }}%)</p>
-        
-        <h2>Ответы на вопросы</h2>
-        {% for q in questions_data %}
-        <div class="question">
-            <div class="question-text">{{ forloop.counter }}. {{ q.question.text }}</div>
-            {% if q.user_answer %}
-                <div class="answer {% if q.is_correct %}correct{% else %}incorrect{% endif %}">
-                    📌 Ответ ученика: <strong>{{ q.user_answer.text }}</strong>
+    </div>
+
+    <div class="card">
+        <div class="student-info">
+            <div><strong>Ученик:</strong> 🧑‍🎓 {{ student_name }}</div>
+            <div><strong>Дата:</strong> {{ result.completed_at|date:"d.m.Y H:i" }}</div>
+            <div><strong>Тест:</strong> {{ result.test.title }}</div>
+        </div>
+
+        <div class="score {% if percent >= 70 %}pass{% else %}fail{% endif %}">
+            {{ result.score }} / {{ result.total }}
+        </div>
+        <div style="text-align:center; font-size:16px; color:#777;">
+            {{ percent }}%
+        </div>
+    </div>
+
+    {% for q in questions_data %}
+    <div class="question-card">
+        <div class="question-text">
+            {{ forloop.counter }}. {{ q.question.text }}
+        </div>
+
+        {% for answer in q.question.answer_set.all %}
+            {% if answer == q.user_answer and q.is_correct %}
+                <div class="answer correct">
+                    ✅ {{ answer.text }} — Ваш ответ
                 </div>
-                {% if not q.is_correct %}
-                    <div class="correct-answer">
-                        ✅ Правильный ответ: <strong>{{ q.correct_answer.text }}</strong>
-                    </div>
-                {% endif %}
-            {% else %}
+            {% elif answer == q.user_answer and not q.is_correct %}
                 <div class="answer incorrect">
-                    ❌ Ответ не выбран
+                    ❌ {{ answer.text }} — Ваш ответ
                 </div>
-                <div class="correct-answer">
-                    ✅ Правильный ответ: <strong>{{ q.correct_answer.text }}</strong>
+            {% elif answer.is_correct %}
+                <div class="answer correct">
+                    ✓ {{ answer.text }} — Правильный
+                </div>
+            {% else %}
+                <div class="answer neutral">
+                    {{ answer.text }}
                 </div>
             {% endif %}
-        </div>
         {% endfor %}
-        
-        <a href="{% url 'test_results' result.test.id %}" class="back-link">← Назад к результатам теста</a>
+
+        {% if not q.is_correct and q.correct_answer %}
+        <div style="margin-top: 8px; font-size: 13px; color: #389bd9;">
+            💡 Правильный: <strong>{{ q.correct_answer.text }}</strong>
+        </div>
+        {% endif %}
     </div>
+    {% empty %}
+    <div class="empty">Нет данных</div>
+    {% endfor %}
+
+    <div class="actions">
+        <a href="{% url 'test_results' result.test.id %}" class="btn">← Назад к результатам</a>
+        <a href="{% url 'teacher_home' %}" class="btn">📚 К тестам</a>
+        <a href="{% url 'delete_result' result.id %}"
+           class="btn btn-danger"
+           onclick="return confirm('Удалить эту попытку?')">
+            🗑️ Удалить попытку
+        </a>
+    </div>
+</div>
+
 </body>
 </html>
