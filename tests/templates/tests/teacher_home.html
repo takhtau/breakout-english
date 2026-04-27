@@ -277,7 +277,9 @@
 
             <div class="tags-list">
                 {% for tag in test.tags.all %}
-                    <span class="tag" style="background: {{ tag.color }};">{{ tag.name }}</span>
+                    <span class="tag">
+                    {{ tag.name }} ({{ tag.color }})
+                    </span>
                 {% endfor %}
             </div>
 
