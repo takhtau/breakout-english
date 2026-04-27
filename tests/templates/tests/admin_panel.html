@@ -186,32 +186,40 @@
     <!-- INVITES -->
 
     <div class="section">
-        <div class="section-title">🔗 Пригласительные ссылки</div>
+       <div class="section-title">🔗 Пригласительные ссылки</div>
+               <form method="post" style="margin-bottom: 15px;">
+                 {% csrf_token %}
 
-        <a href="{% url 'create_invite' %}" class="btn" style="margin-bottom: 15px;">
-            ➕ Создать ссылку
-        </a>
+                <select name="role" style="padding:8px; border-radius:8px;">
+                    <option value="teacher">Учитель</option>
+                    <option value="moderator">Модератор</option>
+                 </select>
 
-        {% for invite in invites %}
+                 <button class="btn">➕ Создать ссылку</button>
+            </form>
+        {% for invite in invitations %}
         <div class="invite-item">
 
             <div class="invite-link">
-                {{ invite.url }}
-            </div>
+    {{ request.build_absolute_uri }}/register/invite/{{ invite.code }}/
+</div>
 
-            <div style="display:flex; gap:8px;">
-                <a href="#" class="btn-small copy-link" data-url="{{ invite.url }}">📋</a>
+<div style="display:flex; gap:8px;">
+    <a href="#" class="btn-small copy-link"
+       data-url="{{ request.build_absolute_uri }}/register/invite/{{ invite.code }}/">
+       📋
+    </a>
 
-                {% if invite.is_used %}
-                    <span class="btn-small" style="background:#ccc;">Использована</span>
-                {% endif %}
+    {% if invite.used %}
+        <span class="btn-small" style="background:#ccc;">Использована</span>
+    {% endif %}
 
-                <a href="{% url 'delete_invite' invite.id %}"
-                   class="btn-small delete"
-                   onclick="return confirm('Удалить ссылку?')">
-                    🗑️
-                </a>
-            </div>
+    <a href="{% url 'delete_invite' invite.id %}"
+       class="btn-small delete"
+       onclick="return confirm('Удалить ссылку?')">
+        🗑️
+    </a>
+</div>
 
         </div>
         {% empty %}

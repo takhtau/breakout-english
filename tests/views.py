@@ -263,15 +263,19 @@ def admin_panel(request):
     if request.user.role != 'admin':
         return redirect('teacher_home')
     
+    # создание invite (POST)
     if request.method == 'POST':
         role = request.POST.get('role')
         invitation = Invitation.objects.create(role=role)
-        invite_link = request.build_absolute_uri(f'/register/invite/{invitation.code}/')
-        messages.success(request, f'Ссылка-приглашение создана: {invite_link}')
+        messages.success(request, 'Ссылка создана')
         return redirect('admin_panel')
     
     invitations = Invitation.objects.all().order_by('-created_at')
-    return render(request, 'tests/admin_panel.html', {'invitations': invitations})
+    
+    return render(request, 'tests/admin_panel.html', {
+        'invitations': invitations,
+        'tags': Tag.objects.all(),  # ← ВАЖНО
+    })
         
 @staff_member_required
 def create_test(request):
