@@ -59,6 +59,9 @@
             font-size: 13px;
             transition: 0.2s;
         }
+        .filter-tag:hover {
+            transform: translateY(-1px);
+        }
         .filter-tag.active {
             background: #4CAF50;
             color: white;
@@ -179,23 +182,61 @@
     </div>
 
     <div class="stats-bar">
-        <div class="search-box">
-            <form method="get" action="">
-                <input type="text" name="search" placeholder="🔍 Поиск по названию..." value="{{ search_query }}">
-                <button type="submit" style="display: none;">Найти</button>
-            </form>
-        </div>
-        <div class="filters">
-            <a href="?{% if search_query %}search={{ search_query }}{% endif %}" class="filter-tag {% if not current_tag %}active{% endif %}">Все</a>
-            {% for tag in all_tags %}
-                <a href="?tag={{ tag.name }}{% if search_query %}&search={{ search_query }}{% endif %}" 
-                   class="filter-tag {% if current_tag == tag.name %}active{% endif %}" 
-                   style="background: {{ tag.color }}; color: white; border: none;">
-                    {{ tag.name }}
-                </a>
-            {% endfor %}
-        </div>
+    <div class="search-box">
+        <form method="get" action="">
+            <input type="text" name="search" placeholder="🔍 Поиск по названию..." value="{{ search_query }}">
+            <button type="submit" style="display: none;">Найти</button>
+        </form>
     </div>
+
+    <div class="filters">
+        <a href="?{% if search_query %}search={{ search_query }}{% endif %}" 
+           class="filter-tag {% if not current_tag %}active{% endif %}">
+            Все
+        </a>
+
+        {% for tag in all_tags %}
+            <a href="?tag={{ tag.name }}{% if search_query %}&search={{ search_query }}{% endif %}" 
+               class="filter-tag {% if current_tag == tag.name %}active{% endif %}" 
+               style="background: {{ tag.color }}; color: white; border: none;">
+                {{ tag.name }}
+            </a>
+        {% endfor %}
+    </div>
+</div>
+
+{% if user.role == 'admin' %}
+<div style="
+    background: white;
+    padding: 15px 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+">
+    <form method="post" action="{% url 'tag_add' %}" 
+          style="display: flex; gap: 10px; align-items: center;">
+        {% csrf_token %}
+
+        <input type="text"
+               name="name"
+               placeholder="Название тега"
+               required
+               style="padding: 8px 12px; border-radius: 8px; border: 1px solid #ddd;">
+
+        <input type="color"
+               name="color"
+               value="#4CAF50"
+               style="width: 40px; height: 40px; border: none;">
+
+        <button class="btn" style="padding: 8px 16px;">
+            ➕ Добавить тег
+        </button>
+    </form>
+</div>
+{% endif %}
 
     <div class="tests-list">
         {% for test in page_obj %}
