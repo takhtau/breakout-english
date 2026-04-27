@@ -1,0 +1,51 @@
+HTML
+<p>The car exploded before my___________eyes. </p>,1,one,
+,<p>much</p>
+,<p>far</p>
+,<p>many</p>
+*,<p>very </p>
+<p>It had been a long day and he was__________tired.</p>,~1,many,
+*,<p>much</p>
+,<p>far</p>
+,<p>many</p>
+*,<p>very</p>
+<p>The website has the__________latest music news. </p>,1,one,
+,<p>much </p>
+,<p>far</p>
+,<p>many </p>
+*,<p>very</p>
+<p>He knows________more about it. </p>,~1,many,
+*,<p>much </p>
+*,<p>far</p>
+,<p>many </p>
+,<p>very</p>
+<p>__________more people can be involved in this project.</p>,~1,many,
+,<p>much</p>
+*,<p>far</p>
+*,<p>many </p>
+,<p>very</p>
+<p>Sometimes the________thought of the world outside these walls makes her nervous. </p>,1,one,
+,<p>much</p>
+,<p>far</p>
+,<p>many </p>
+*,<p>very</p>
+<p>We've got_________more visitors than we expected. </p>,~1,many,
+,<p>much</p>
+*,<p>far</p>
+*,<p>many </p>
+,<p>very</p>
+<p>There's__________less trouble in the region than there has ever been.</p>,1,one,
+,<p>much</p>
+*,<p>far</p>
+,<p>many </p>
+,<p>very</p>
+<p>The young lady looked__________attractive. </p>,1,one,
+,<p>much</p>
+,<p>far</p>
+,<p>many </p>
+*,<p>very</p>
+<p>Our house is at the_____________end of the street. </p>,1,one,
+,<p>much</p>
+,<p>far</p>
+,<p>many </p>
+*,<p>very</p>

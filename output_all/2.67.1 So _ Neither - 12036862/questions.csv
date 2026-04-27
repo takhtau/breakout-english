@@ -1,0 +1,41 @@
+HTML
+<p>I like drawing.</p>,~1,many,
+*,<p>So do I</p>
+,<p>Neither do I</p>
+,<p>Do I</p>
+<p>I don't have breakfast.</p>,~1,many,
+,<p>So do I</p>
+*,<p>Neither do I</p>
+,<p>Do I</p>
+<p>I didn't travel to Paris.</p>,~1,many,
+,<p>So did I</p>
+*,<p>Neither did I</p>
+,<p>Neither do I</p>
+<p>I can swim.</p>,~1,many,
+*,<p>So can I</p>
+,<p>Neither can I</p>
+,<p>Neither do I</p>
+<p>We haven't eaten yet.</p>,~1,many,
+,<p>So have I</p>
+*,<p>Neither have I</p>
+,<p>Neither do I</p>
+<p>I live in Moscow.</p>,~1,many,
+*,<p>So does she</p>
+,<p>Neither has she</p>
+,<p>Neither do she</p>
+<p>I went to school yesterday.</p>,~1,many,
+*,<p>So did I</p>
+,<p>Neither did't I</p>
+,<p>Neither do I</p>
+<p>I dont't want to sleep.</p>,~1,many,
+,<p>So did I</p>
+,<p>So do I</p>
+*,<p>Neither do I</p>
+<p>I bought apples.</p>,~1,many,
+*,<p>So did I</p>
+,<p>So do I</p>
+,<p>Neither did I</p>
+<p>I do sport.</p>,~1,many,
+,<p>So did I</p>
+*,<p>So do I</p>
+,<p>Neither did I</p>

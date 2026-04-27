@@ -1,0 +1,49 @@
+HTML
+<p>The picture (draw) by the artist now.</p>,1,one,
+*,<p>is being drawn</p>
+,<p>is drawn</p>
+,<p>are being drawn</p>
+<p>We (trouble) at the moment.</p>,1,one,
+,<p>is troubled</p>
+*,<p>are being troubled</p>
+,<p>are troubled</p>
+<p>Now you (chose) to do this work. </p>,1,one,
+,<p>are chosen</p>
+,<p>am being chosen</p>
+*,<p>are being chosen</p>
+<p>The cake (not to bake) at this moment.</p>,1,one,
+*,<p>is not being baked</p>
+,<p>is not baked</p>
+,<p>are not being baked</p>
+<p>An apple (peel) by my mother at the moment.</p>,1,one,
+,<p>is peeled</p>
+*,<p>is being peeled</p>
+,<p>are peeled</p>
+<p>Your car (wash) now. </p>,1,one,
+,<p>are being washed</p>
+,<p>is washed</p>
+*,<p>is being washed</p>
+<p>At the moment the dinner (prepare) for you. </p>,1,one,
+*,<p>is being prepared</p>
+,<p>is prepared</p>
+,<p>am being prepared</p>
+<p>Look! Hippos (feed) over there.</p>,1,one,
+,<p>is being fed</p>
+*,<p>are being fed</p>
+,<p>are fed</p>
+<p>This building (reconstruct) now. </p>,1,one,
+,<p>are being reconstructed</p>
+,<p>is reconstructed</p>
+*,<p>is being reconstructed</p>
+<p>The book (write) at the moment. </p>,1,one,
+*,<p>is being written</p>
+,<p>is written</p>
+,<p>are being written</p>
+<p>I (discuss) by those two girls right now. </p>,1,one,
+,<p>is discussed</p>
+*,<p>am being discussed</p>
+,<p>am discussed</p>
+<p>The meeting (finish) now. </p>,1,one,
+,<p>am being finished</p>
+,<p>is finished</p>
+*,<p>is being finished</p>

@@ -1,0 +1,52 @@
+HTML
+<p>We have ____ bread and juice.</p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+<p>There is ____ pure water in the bottle. </p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>I’m glad that you haven’t got ____ problems with your studies.</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>Is there _____ milk in the crystal glass? </p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+<p>The baby always___________ after dinner. </p>,1,one,
+,<p>is sleeping</p>
+,<p>sleep</p>
+*,<p>sleeps</p>
+<p>What _________your mother usually________ for lunch? </p>,1,one,
+,<p>do/cooks</p>
+*,<p>does/cook</p>
+,<p>is/cooking</p>
+<p>_______ she  __________a cake now? </p>,1,one,
+,<p>Does/cook</p>
+,<p>Do/cooks</p>
+*,<p>Is/cooking</p>
+<p>My mum usually __________ at home.</p>,1,one,
+*,<p>works</p>
+,<p>is working</p>
+,<p>am working</p>
+<p>He __________ it every day. </p>,1,one,
+*,<p>does</p>
+,<p>is doing</p>
+,<p>do</p>
+<p>What’s she doing? — She __________ a dog.</p>,1,one,
+,<p>draws</p>
+,<p>are drawing</p>
+*,<p>is drawing</p>
+<p>This old woman _______ sleep at night.</p>,1,one,
+*,<p>cannot</p>
+,<p>may not</p>
+,<p>mustn't </p>
+<p>_____ I take Pete’s bag?</p>,1,one,
+,<p>can</p>
+*,<p>may</p>
+,<p>must</p>
+<p>Everybody _______ come to school on time.</p>,1,one,
+,<p>can</p>
+,<p>may</p>
+*,<p>must</p>
+<p>I _________ help my mother today.</p>,1,one,
+,<p>may</p>
+*,<p>must</p>

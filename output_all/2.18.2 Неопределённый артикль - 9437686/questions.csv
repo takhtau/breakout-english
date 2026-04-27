@@ -1,0 +1,45 @@
+HTML
+<p>I need to go to the shop to buy … milk and … loaf of bread. </p>,1,one,
+,<p>a/-</p>
+,<p>an/a</p>
+*,<p>-/a</p>
+<p>Yesterday she got … letter. The letter was from her mother.</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+<p>I have … cat. … my cat is black and white.</p>,1,one,
+*,<p>a/-</p>
+,<p>an/-</p>
+,<p>-/-</p>
+<p>… my brother works 6 days … week.</p>,1,one,
+,<p>a/an</p>
+,<p>-/an</p>
+*,<p>-/a</p>
+"<p>There is … new collection of stamps in the shop, I’d like to buy it!</p>",1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+<p>Ann and Mary are … friends of mine.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>-</p>
+<p>Mark broke his leg last weekend while riding … bicycle. </p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+<p>I wish I could buy … ticket to go to the sea right now.</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+"<p>Please give me … some water, I'm thirsty!</p>",1,one,
+,<p>a</p>
+*,<p>-</p>
+,<p>an</p>
+<p>David has been dreaming about being … doctor since his childhood.</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+"<p>Please don't scream, I’ ve got … headache!</p>",1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>

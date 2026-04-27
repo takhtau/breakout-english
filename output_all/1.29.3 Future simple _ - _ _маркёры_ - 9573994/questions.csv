@@ -1,0 +1,49 @@
+HTML
+<p>_____ you _____ (to sleep) on the grass or in the tree tonight? </p>,1,one,
+*,<p>Will/sleep</p>
+,<p>Won't/sleep</p>
+,<p>Do/sleep</p>
+<p>_____ you ______ (to go) fishing or collect fruit tomorrow? </p>,1,one,
+,<p>Won't/go</p>
+*,<p>Will/go</p>
+,<p>Do/go</p>
+<p>_____ you _____ (to swim) in the sea or in the river next summer? </p>,1,one,
+,<p>Do/swim</p>
+,<p>Won't/swim</p>
+*,<p>Will/swim</p>
+<p>Tomorrow I ______ (not to go) to school. </p>,1,one,
+*,<p>won't go</p>
+,<p>will go</p>
+,<p>don't go</p>
+<p>A father and a mother _______ (not to be) at home next week.</p>,1,one,
+,<p>will be</p>
+*,<p>won't be</p>
+,<p>don't be</p>
+<p>They _______ (to go) to meet with their friends.</p>,1,one,
+,<p>go</p>
+,<p>won't go</p>
+*,<p>will go</p>
+<p>What ______ Tanya _____ (to do) when her parents will go to meet with their friends?</p>,1,one,
+*,<p>will/do</p>
+,<p>won't/do</p>
+,<p>does/do</p>
+<p> I ___________ (to invite) my friend Nina to come home tonight. </p>,1,one,
+,<p>won't invite</p>
+*,<p>will invite</p>
+,<p>invite</p>
+<p>Tomorrow John __________ (to get up) at seven. </p>,1,one,
+,<p>won't get up</p>
+,<p>gets up</p>
+*,<p>will get up</p>
+<p>We ______ (not to play) football next weekend.</p>,1,one,
+*,<p>won't play</p>
+,<p>don't play</p>
+,<p>will play</p>
+<p>He ______ (not to come back) in three days.</p>,1,one,
+,<p>will come back</p>
+*,<p>won't come back</p>
+,<p>doesn't come back</p>
+<p>She _______ (to travel) by car next summer. </p>,1,one,
+,<p>won't travel</p>
+,<p>travels</p>
+*,<p>will travel</p>

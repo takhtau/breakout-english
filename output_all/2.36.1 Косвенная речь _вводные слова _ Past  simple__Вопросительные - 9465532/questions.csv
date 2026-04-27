@@ -1,0 +1,49 @@
+HTML
+"<p>He said to her, “Where do you usually spend your summer holidays?” - He asked her where she usually_________her summer holiday. </p>",1,one,
+*,<p>spent</p>
+,<p>spend </p>
+,<p>had spent </p>
+"<p>They said to him, “What time does the train leave?” - They asked him what time the train_________ . </p>",1,one,
+,<p>leave </p>
+*,<p>left</p>
+,<p>had left </p>
+<p>Where does he live? - Nobody knew where he____________ . </p>,1,one,
+,<p>live</p>
+,<p>had lived</p>
+*,<p>lived</p>
+"<p>I said to Boris, “Does your friend live in London?” - I asked Boris If his friend________in London. </p>",1,one,
+,<p>live</p>
+*,<p>lived</p>
+,<p>had lived</p>
+"<p>He said to me, “Do you often go to see your friends?” - He asked me whether I often_________to see my friends.</p>",1,one,
+,<p>go</p>
+,<p>had gone</p>
+*,<p>went</p>
+<p> - Do they know anything about it? - I wondered if they________anything about it.</p>,1,one,
+*,<p>knew</p>
+,<p>had known </p>
+,<p>know</p>
+<p>- Does she know the name of the man? - I doubted If she____________the name of the man. </p>,1,one,
+,<p>had known </p>
+*,<p>knew</p>
+,<p>know</p>
+"<p>Kate said, “Mike, do you like my dress?” - Kate asked If Mike___________her dress. </p>",1,one,
+,<p>like</p>
+,<p>had liked</p>
+*,<p>liked</p>
+"<p>“Why don’t you play with your friends, Kate?” said her mother. - Kate's mother________why Kate didn't play with her friends. </p>",1,one,
+*,<p>wondered </p>
+,<p>think</p>
+,<p>say</p>
+<p>“Do you like chocolates?” my little sister said to me. - My little sister_______me if I liked chocolate. </p>,1,one,
+,<p>ask</p>
+*,<p>asked</p>
+,<p>wonder </p>
+"<p>The doctor asked Nick, “Do you wash your face and hands every morning?” - The doctor asked If he _________his face and hands every morning.</p>",1,one,
+,<p>wash</p>
+,<p>had washed</p>
+*,<p>washed</p>
+"<p>The teacher said to Mike, “Does your father work at a factory?” - The teacher asked Mike If his father_________at a factory. </p>",1,one,
+,<p>had worked </p>
+*,<p>worked</p>
+,<p>work</p>

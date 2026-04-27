@@ -1,0 +1,17 @@
+HTML
+<p>You can have ice cream for dessert. You can also have fruit. </p><p>You can____________________ . </p>,1,,
+*,have either ice cream or fruit for dessert
+<p>I'm considering studying maths at university and I'm considering studying physics. </p><p>I'm considering_________________ . </p>,1,,
+*,studying either math or physics at university
+<p>I might play chess tonight. I might read a book. </p><p>I might______________________ . </p>,1,,
+*,either play chess tonight or read a book
+<p>Perhaps John has forgotten about our meeting. Perhaps he's got lost. </p><p>John has_________________________ . </p>,1,,
+*,either forgotten about out meeting or got lost
+"<p>Some nights my dad cooks. Some nights he washes up. </p><p>Every night, my dad___________________ . </p>",1,,
+*,either cooks or washes up
+<p>We can order a pizza. We can order a Chinese takeaway. </p><p>We can_____________________ . </p>,1,,
+*,order either a pizza or a Chinese takeaway
+<p>I might have lost the piece of paper with Dave's number on it. I might have thrown it away. </p><p>I've_______________________________ . </p>,1,,
+*,either lost the piece of paper with Dave's number on it or thrown it away
+<p>You could write to your cousin. You could give her a call. </p><p>You could_____________________/</p>,1,,
+*,either write to your cousin or give her a call

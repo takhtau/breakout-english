@@ -1,0 +1,31 @@
+HTML
+"<p>James did not want to wake his girlfriend, so he left ___.</p>",1,one,
+,<p>quiet</p>
+*,<p>quietly</p>
+<p>I can't understand him. He doesn't speak very ___.</p>,1,one,
+,<p>clear</p>
+*,<p>clearly</p>
+<p>We had a ___ time in Mexico City.</p>,1,one,
+*,<p>great</p>
+,<p>greatly</p>
+"<p>I understood the question, but I couldn't answer very ___.</p>",1,one,
+,<p>quick</p>
+*,<p>quickly</p>
+<p>I don't have a ___ time making friends.</p>,1,one,
+*,<p>hard</p>
+,<p>hardly</p>
+"<p>John arrived at the airport ___, and ended up missing his flight.</p>",1,one,
+*,<p>late</p>
+,<p>lately</p>
+"<p>Ever since he met Sara, he has looked very ___.</p>",1,one,
+,<p>happily</p>
+*,<p>happy</p>
+<p>I can hear the ___ rain falling on the roof.</p>,1,one,
+*,<p>loud</p>
+,<p>loudly</p>
+<p>She is a very kind and ___ person.</p>,1,one,
+*,<p>gentle</p>
+,<p>gently</p>
+<p>That child behaves very ___.</p>,1,one,
+*,<p>badly</p>
+,<p>bad</p>

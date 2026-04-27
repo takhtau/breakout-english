@@ -1,0 +1,101 @@
+HTML
+<p>You can help me __ telling the truth.</p>,1,one,
+,<p>with</p>
+*,<p>by</p>
+,<p>at</p>
+,<p>for</p>
+"<p>This boy isn't a fool, __ he?</p>",1,one,
+,<p>does</p>
+,<p>doesn't</p>
+*,<p>is</p>
+,<p>isn't</p>
+<p>The businessman arrived __ the airport at 8.30.</p>,1,one,
+,<p>in</p>
+,<p>to</p>
+*,<p>at</p>
+,<p>for</p>
+<p>She is __ woman in the world.</p>,1,one,
+,<p>smart</p>
+,<p>smarter</p>
+,<p>the smart</p>
+*,<p>the smartest</p>
+<p>Who __ after your elderly parents?</p>,1,one,
+,<p>look</p>
+*,<p>looks</p>
+,<p>does</p>
+,<p>do look</p>
+"<p>Turn over __ page 20, please.</p>",1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>-</p>
+,<p>the</p>
+<p>Why did you __ with them?</p>,1,one,
+,<p>discuss</p>
+,<p>tell</p>
+*,<p>argue</p>
+,<p>say</p>
+<p>__ not a single light in the house.</p>,1,one,
+,<p>It is</p>
+,<p>This is</p>
+*,<p>There is</p>
+,<p>Here is</p>
+<p>She studied English __.</p>,1,one,
+,<p>intensive</p>
+,<p>careless</p>
+*,<p>intensively</p>
+,<p>careful</p>
+<p>His money __ on the shelf.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+,<p>have been</p>
+,<p>were</p>
+<p>The patient looks much __ today.</p>,1,one,
+,<p>good</p>
+,<p>best</p>
+,<p>the best</p>
+*,<p>better</p>
+<p>We didn't enjoy the show and __.</p>,1,one,
+,<p>they didn't neither</p>
+,<p>they didn't too</p>
+,<p>either didn't they</p>
+*,<p>neither did they</p>
+<p>__ some tasty things in my fridge.</p>,1,one,
+,<p>It is</p>
+,<p>There is</p>
+*,<p>There are</p>
+,<p>This is</p>
+<p>I'm afraid we got lost. We'll have to turn __.</p>,1,one,
+*,<p>back</p>
+,<p>round</p>
+,<p>on</p>
+,<p>off</p>
+<p>Where's __ conductor?</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>the</p>
+,<p>-</p>
+"<p>Pensioner's didn't have to pay so much for their houses, __ they?</p>",1,one,
+*,<p>did</p>
+,<p>didn't</p>
+,<p>have</p>
+,<p>haven't</p>
+<p>Who __ so loudly there?</p>,1,one,
+,<p>is saying</p>
+,<p>speaks</p>
+,<p>is telling</p>
+*,<p>is speaking</p>
+"<p>It's __ wonderful news, thanks you.</p>",1,one,
+*,<p>such</p>
+,<p>such a</p>
+,<p>so</p>
+,<p>such the</p>
+<p>There are no such things __ ghosts.</p>,1,one,
+,<p>so</p>
+,<p>like</p>
+,<p>same is</p>
+*,<p>as</p>
+"<p>She couldn't understand the question, __ she tried hard.</p>",1,one,
+*,<p>though</p>
+,<p>in spite</p>
+,<p>always</p>
+,<p>despite</p>

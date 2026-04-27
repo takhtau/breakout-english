@@ -1,0 +1,49 @@
+HTML
+<p>Jack was (amaze) when he saw the castle.</p>,1,one,
+*,<p>amazed</p>
+,<p>amaze</p>
+,<p>amazing</p>
+"<p>Mosquitos can be very (annoy), especially when you are trying to sleep.</p>",1,one,
+,<p>annoyed</p>
+*,<p>annoying</p>
+,<p>annoy</p>
+<p>This map is bad: it’s very (confuse). I can’t understand anything. </p>,1,one,
+,<p>confuse</p>
+,<p>confused</p>
+*,<p>confusing</p>
+<p>I don’t like this film. It’s very (depress).</p>,1,one,
+*,<p>depressing</p>
+,<p>depressed</p>
+,<p>depress</p>
+<p>Don’t ask her this. It’s very (embarrass). </p>,1,one,
+,<p>embarrassed</p>
+*,<p>embarrassing</p>
+,<p>embarrass</p>
+<p>In the evening I always feel (exhaust). </p>,1,one,
+,<p>exhaust</p>
+,<p>exhausting</p>
+*,<p>exhausted</p>
+<p>I was so (frighten) when I saw a big spider. </p>,1,one,
+*,<p>frightened</p>
+,<p>frighten</p>
+,<p>frightening</p>
+<p>I felt absolutely (relax) lying on the beach. </p>,1,one,
+,<p>relax</p>
+*,<p>relaxed</p>
+,<p>relaxing</p>
+<p>The results are (satisfy). </p>,1,one,
+,<p>satisfy</p>
+,<p>satisfied</p>
+*,<p>satisfying</p>
+<p>I was woken up at night by some (terrify) sounds.</p>,~1,one,
+*,<p>terrifying</p>
+,<p>terrified</p>
+,<p>terrify</p>
+<p>It was a long and (tire) journey. </p>,1,one,
+,<p>tire</p>
+*,<p>tiring</p>
+,<p>tired</p>
+<p>Alex was (tire) on Friday evening.</p>,1,one,
+,<p>tire</p>
+,<p>tiring</p>
+*,<p>tired</p>

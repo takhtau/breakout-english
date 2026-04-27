@@ -1,0 +1,49 @@
+HTML
+<p>He took a shower ... the game.</p>,1,one,
+*,<p>after</p>
+,<p>while</p>
+,<p>when</p>
+"<p>... much thought, I have decided to retire. </p>",1,one,
+,<p>as soon as</p>
+*,<p>after</p>
+,<p>till</p>
+"<p>... I went to bed, I fell asleep. </p>",1,one,
+,<p>While</p>
+,<p>Until</p>
+*,<p>As soon as</p>
+"<p>... she said it, she realized her mistake. </p>",1,one,
+*,<p>As soon as</p>
+,<p>While</p>
+,<p>Till</p>
+<p>I finished college the year ... </p>,1,one,
+,<p>when</p>
+*,<p>before</p>
+,<p>as soon as</p>
+<p>They hadn’t met ... </p>,1,one,
+,<p>while</p>
+,<p>as soon as</p>
+*,<p>before</p>
+<p>I'll stay here ... you come back. </p>,1,one,
+*,<p>till</p>
+,<p>while</p>
+,<p>when</p>
+<p>We have to wait ... he arrives. </p>,1,one,
+,<p>after</p>
+*,<p>until</p>
+,<p>as soon as</p>
+<p>How are we going to finish the project ... we have no more time?</p>,1,one,
+,<p>after</p>
+,<p>till</p>
+*,<p>when</p>
+<p>My brother left his school ... he was fourteen years old. </p>,1,one,
+*,<p>when</p>
+,<p>until</p>
+,<p>after</p>
+<p>Lucy came into the room ... he was waiting. </p>,1,one,
+,<p>after</p>
+*,<p>while</p>
+,<p>before</p>
+<p>We spent long evenings talking in my room ... he played the music he had chosen.</p>,1,one,
+,<p>until</p>
+,<p>as soon as</p>
+*,<p>while</p>

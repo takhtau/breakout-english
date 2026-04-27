@@ -1,0 +1,49 @@
+HTML
+<p>I (to do) my homework by six o’clock tomorrow.</p>,1,one,
+*,<p>will have done</p>
+,<p>will be doing</p>
+,<p>will do</p>
+<p>I (to do) all my homework by the time he comes.</p>,1,one,
+,<p>will be doing</p>
+*,<p>will have done</p>
+,<p>will do</p>
+<p>I (to do) my homework by the time you come.</p>,1,one,
+,<p>will do</p>
+,<p>will be doing</p>
+*,<p>will have done</p>
+<p>How many pages ... you ... (to read) by five o’clock tomorrow?</p>,1,one,
+*,<p>will/have read</p>
+,<p>will/be reading</p>
+,<p>will/read</p>
+<p>... you ... (to do) this work by next Sunday?</p>,1,one,
+,<p>Will/be doing</p>
+*,<p>Will/have done</p>
+,<p>Will/do</p>
+<p>I (to translate) this letter by 6 o'clock this afternoon.</p>,1,one,
+,<p>will translate</p>
+,<p>will be translating</p>
+*,<p>will have translated</p>
+<p>I (to make) this doll by her birthday.</p>,1,one,
+*,<p>will have made</p>
+,<p>will be making</p>
+,<p>will make</p>
+<p>By the end of the month the comission (to come) to some decision.</p>,1,one,
+,<p>will come</p>
+*,<p>will have come</p>
+,<p>will be coming</p>
+"<p>He (not to learn) his lesson by tomorrow, if he has not yet begun to study it.</p>",1,one,
+,<p>won't be learning</p>
+,<p>won't learn</p>
+*,<p>won't have learnt</p>
+"<p>This work is so hard, that I (not to complete) it in a year's time.</p>",~1,one,
+*,<p>won't have completed</p>
+,<p>won't complete</p>
+,<p>won't be completing</p>
+"<p>After you finish this book, you (to learn) over a thousand words.</p>",1,one,
+,<p>will learn</p>
+*,<p>will have learnt</p>
+,<p>will be learning</p>
+<p>I ... already ... (to go) to the South by that time.</p>,1,one,
+,<p>will/be going</p>
+,<p>will/go</p>
+*,<p>will have/gone</p>

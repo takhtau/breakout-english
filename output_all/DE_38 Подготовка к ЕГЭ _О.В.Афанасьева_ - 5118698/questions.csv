@@ -1,0 +1,101 @@
+HTML
+"<p>He is French, he comes __ The South of France.</p>",1,one,
+,<p>in</p>
+,<p>to</p>
+*,<p>from</p>
+,<p>of</p>
+<p>What __ he do for a living?</p>,1,one,
+,<p>do</p>
+,<p>is</p>
+,<p>are</p>
+*,<p>does</p>
+<p>They __ start selling the product in Hungary next year.</p>,1,one,
+,<p>going to</p>
+,<p>are going</p>
+*,<p>are going to</p>
+,<p>going</p>
+<p>__ women over there all speak Chinese.</p>,1,one,
+,<p>that</p>
+,<p>this</p>
+*,<p>those</p>
+,<p>these</p>
+<p>Where __ before you moved to Mexico?</p>,1,one,
+,<p>you did live</p>
+*,<p>had you lived</p>
+,<p>you lived</p>
+,<p>lived you</p>
+<p>A typist is someone who __ letters and reports.</p>,1,one,
+*,<p>types</p>
+,<p>type</p>
+,<p>is typing</p>
+,<p>are typing</p>
+<p>The conference will finish __ four o'clock.</p>,1,one,
+,<p>to</p>
+,<p>on</p>
+,<p>in</p>
+*,<p>at</p>
+<p>How __ does it cost to fly to New York by Concorde?</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+,<p>far </p>
+,<p>a lot</p>
+"<p>Last year inflation was tremendous, and the prices __.</p>",1,one,
+,<p>raised</p>
+,<p>rise</p>
+,<p>arise</p>
+*,<p>rose</p>
+<p>I look forward __ from you soon.</p>,1,one,
+,<p>to hear</p>
+,<p>hear</p>
+,<p>hearing</p>
+*,<p>to hearing</p>
+<p>My boss wanted __ late because there was so much work to do.</p>,1,one,
+,<p>that I work</p>
+,<p>that I worked</p>
+,<p>I worked</p>
+*,<p>me to work</p>
+<p>Our manager left __ a new job.</p>,1,one,
+*,<p>to get</p>
+,<p>for get</p>
+,<p>for getting</p>
+,<p>for to get</p>
+"<p>Would you let me have a copy of your report as soon as you __ it, please?</p>",1,one,
+,<p>will finish</p>
+,<p>will have finished</p>
+*,<p>finish</p>
+,<p>finished</p>
+<p>I would like to __ me when you are coming tomorrow.</p>,1,one,
+,<p>to say </p>
+,<p>to speak</p>
+,<p>talk</p>
+*,<p>to tell</p>
+<p>Luckily the advertisements were ready __ time for the exhibition.</p>,1,one,
+,<p>into</p>
+*,<p>in</p>
+,<p>at</p>
+,<p>in the</p>
+"<p>Let's buy a bar of chocolate and a carton of yoghurt, __?</p>",1,one,
+,<p>will we</p>
+,<p>don't we</p>
+*,<p>shall we</p>
+,<p>do we</p>
+"<p>When Richard arrived at the boutique, his wife __ home.</p>",1,one,
+*,<p>had already gone</p>
+,<p>has already gone</p>
+,<p>already went</p>
+,<p>have already gone</p>
+<p>I would like some grapes for dessert. Will you buy __?</p>,1,one,
+,<p>it</p>
+,<p>its</p>
+,<p>them</p>
+*,<p>they</p>
+<p>Tom found a gold __ when he was travelling in Scotland.</p>,1,one,
+,<p>music</p>
+,<p>mind</p>
+*,<p>watch</p>
+,<p>work</p>
+<p>Do you think one should be __ to be able to survive in modern life?</p>,1,one,
+,<p>through</p>
+,<p>though</p>
+*,<p>tough</p>
+,<p>thorough</p>

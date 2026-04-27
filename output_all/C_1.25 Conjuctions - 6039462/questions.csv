@@ -1,0 +1,32 @@
+HTML
+"<p>I will go to the concert, but ___ you go as well. </p>",1,one,
+*,<p>only</p>
+,<p>if</p>
+,<p>unless</p>
+"<p>I brought along a sandwich, ___ I got hungry.</p>",1,one,
+,<p>therefore</p>
+*,<p>in case</p>
+"<p>___ she calls me, I feel very happy.</p>",1,one,
+,<p>So that</p>
+*,<p>Whenever</p>
+"<p>Take this photo, ___ you can remember me.</p>",1,one,
+,<p>while</p>
+*,<p>so that</p>
+<p>I will not talk to him ___ he apologizes for what he did.</p>,1,one,
+*,<p>until</p>
+,<p>because</p>
+"<p>I'll find you, ___ you are.</p>",1,one,
+,<p>where</p>
+*,<p>wherever</p>
+"<p>She spoke ___ she knew what she was talking about, but she didn't.</p>",1,one,
+,<p>although</p>
+*,<p>af if</p>
+"<p>___ the police arrived, we had to end the party.</p>",1,one,
+,<p>Until</p>
+*,<p>Once</p>
+<p>I couldn't figure out ___ he said what he said.</p>,1,one,
+*,<p>why</p>
+,<p>once</p>
+<p>I bought you a birthday card ___ I like you.</p>,1,one,
+*,<p>because</p>
+,<p>why</p>

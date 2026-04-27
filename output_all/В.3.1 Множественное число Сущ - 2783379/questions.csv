@@ -1,0 +1,81 @@
+HTML
+<p>Car</p>,1,one,
+*,<p>cars</p>
+,<p>cares</p>
+,<p>caries</p>
+<p>match</p>,1,one,
+,<p>matchis</p>
+*,<p>matches</p>
+,<p>matchs</p>
+<p>day</p>,1,one,
+,<p>daies</p>
+,<p>dayes</p>
+*,<p>days</p>
+<p>city</p>,1,one,
+,<p>city</p>
+*,<p>сities</p>
+,<p>citys</p>
+<p>leaf</p>,1,one,
+,<p>leafes</p>
+*,<p>leaves</p>
+,<p>leafs</p>
+<p>person</p>,1,one,
+,<p>peoples</p>
+,<p>persons</p>
+*,<p>people</p>
+<p>mouse</p>,1,one,
+,<p>mouss</p>
+,<p>mouses</p>
+*,<p>mice</p>
+<p>man</p>,1,"one, shuffle",
+,<p>mens</p>
+,<p>mans</p>
+*,<p>men</p>
+<p>woman</p>,1,"one, shuffle",
+,<p>womans</p>
+,<p>woman's</p>
+*,<p>women</p>
+<p>child</p>,1,"one, shuffle",
+,<p>childs</p>
+,<p>children's</p>
+*,<p>children</p>
+<p>foot</p>,1,"one, shuffle",
+,<p>foot</p>
+*,<p>feet</p>
+,<p>foots</p>
+<p>tooth</p>,1,"one, shuffle",
+,<p>toothes</p>
+*,<p>teeth</p>
+,<p>tooth</p>
+<p>goose</p>,1,"one, shuffle",
+*,<p>geese</p>
+,<p>gooses</p>
+,<p>goose's</p>
+<p>knife</p>,1,"one, shuffle",
+*,<p>knives</p>
+,<p>knifes</p>
+,<p>knife</p>
+<p>ox</p>,1,"one, shuffle",
+,<p>oxe</p>
+*,<p>oxen</p>
+,<p>oxes</p>
+<p>potato</p>,1,"one, shuffle",
+,<p>potato's</p>
+*,<p>potatoes</p>
+,<p>potatos</p>
+<p>tomato</p>,1,"one, shuffle",
+*,<p>tomatoes</p>
+,<p>tomato's</p>
+,<p>tomatoe</p>
+<p>video </p>,1,"one, shuffle",
+*,<p>videos</p>
+,<p>video</p>
+,<p>video's</p>
+<p>life</p>,1,"one, shuffle",
+*,<p>lives</p>
+,<p>lifes</p>
+,<p>livs</p>
+<p>wolf</p>,1,"one, shuffle",
+*,<p>wolves</p>
+,<p>wolfs</p>
+,<p>wolf's</p>

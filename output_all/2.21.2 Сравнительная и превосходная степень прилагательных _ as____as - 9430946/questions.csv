@@ -1,0 +1,49 @@
+HTML
+<p>The London Underground is the (old) in the world.</p>,1,one,
+*,<p>oldest</p>
+,<p>older</p>
+,<p>as old as</p>
+<p>There is a (great) number of cars and buses in the streets of Moscow than in any other city of Russia.</p>,1,one,
+,<p>greatest</p>
+*,<p>greater</p>
+,<p>as great as</p>
+<p>St Petersburg is one of the (beautiful) cities in the world.</p>,1,one,
+,<p>more beautiful</p>
+,<p>as beautiful as</p>
+*,<p>most beautiful</p>
+<p>Sergei is (old) Michael.</p>,~1,one,
+*,<p>as old as</p>
+,<p>older</p>
+,<p>oldest</p>
+<p>She is (young) Tom’s brother.</p>,1,one,
+,<p>younger</p>
+*,<p>as young as</p>
+,<p>youngest</p>
+<p>Nick’s English is not (good) his friend’s.</p>,1,one,
+,<p>better</p>
+,<p>best</p>
+*,<p>as good as</p>
+<p>The new cinema in our district is much (big) than the old one.</p>,1,one,
+*,<p>bigger</p>
+,<p>biggest</p>
+,<p>as big as</p>
+<p>He is one of the (dangerous) criminals in the world.</p>,1,one,
+,<p>more dangerous</p>
+*,<p>most dangerous</p>
+,<p>as dangerous as</p>
+<p>Our house isn’t (big) yours.</p>,1,one,
+,<p>biggest</p>
+,<p>bigger</p>
+*,<p>as big as</p>
+<p>That’s the (funny) story I’ve ever heard.</p>,1,one,
+*,<p>funniest</p>
+,<p>funnier</p>
+,<p>as funny as</p>
+<p>That’s the (important) thing.</p>,1,one,
+,<p>as important as</p>
+*,<p>most important</p>
+,<p>more important</p>
+<p>We started (early) than you.</p>,1,one,
+,<p>as early as</p>
+,<p>earliest</p>
+*,<p>earlier</p>

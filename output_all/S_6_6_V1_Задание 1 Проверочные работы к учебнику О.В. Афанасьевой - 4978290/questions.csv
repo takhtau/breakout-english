@@ -1,0 +1,31 @@
+HTML
+<p>He's making a _____ noise. (terrible)</p>,1,,
+*,terrible
+<p>He's screaming _____ . (terrible)</p>,1,,
+*,terribly
+<p>I'm _____ sorry to hear that. (terrible)</p>,1,,
+*,terribly
+<p>I've got a _____ headache. (terrible)</p>,1,,
+*,terrible
+<p>He's _____ ill. (dangerous)</p>,1,,
+*,dangerously
+<p>Is the place _____ ? (dangerous)</p>,1,,
+*,dangerous
+<p>It will be _____ for you to use the equipment. (dangerous)</p>,1,,
+*,dangerous
+"<p>Which book do you need: Book _____ or Book _____ ? - I'll take only the _____ book. (one, two, two)</p>",1,,
+*,one/two/second
+<p>How much are _____ scarves? (that)</p>,1,,
+*,those
+<p>I'll take _____ flowers. (this)</p>,1,,
+*,these
+<p>Why is the _____ passenger standing there?. (two)</p>,1,,
+*,second
+<p>Why are the _____ passengers standing there? (two)</p>,1,,
+*,second
+<p>The car is too _____ for us. (expensive)</p>,1,,
+*,expensive
+<p>That is the _____ car I have seen. (expensive)</p>,1,,
+*,most expensive
+<p>This car is _____ than that car. (expensive)</p>,1,,
+*,more expensive

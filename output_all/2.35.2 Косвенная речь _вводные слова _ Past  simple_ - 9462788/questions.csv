@@ -1,0 +1,49 @@
+HTML
+"<p>""I will go snowboarding this year"", Jill said. - Jill said she ... snowboarding that year.</p>",1,one,
+*,<p>would go</p>
+,<p>will go</p>
+,<p>will be going</p>
+"<p>""Your brother joined the army"", Lisa said. - Lisa said my brother ... the army.</p>",1,one,
+,<p>joined</p>
+*,<p>had joined</p>
+,<p>has joined</p>
+"<p>""He went to Turkey"", said Jill. - Jill said he ... to Turkey. </p>",1,one,
+,<p>went</p>
+,<p>has gone</p>
+*,<p>had gone</p>
+"<p>""Look! Rob is on TV now"", my mum said. - My mum said Rob ... on TV at that moment.</p>",1,one,
+*,<p>was</p>
+,<p>is</p>
+,<p>were</p>
+"<p>""I saw you at the park"", said police officer. - The police officer said he ... at the park.</p>",1,one,
+,<p>saw</p>
+*,<p>had seen</p>
+,<p>has seen</p>
+"<p>""Jim passed me the salt"", said Jenny. - Jenny said Jim ... her the salt.</p>",1,one,
+,<p>passed</p>
+,<p>has passed</p>
+*,<p>had passed</p>
+"<p>""My brother was drawing all day yesterday"", said Fiona. - Fiona said her brother ... all day the day before.</p>",1,one,
+*,<p>had been drawing</p>
+,<p>has been drawing</p>
+,<p>was drawing</p>
+"<p>""My friend can swim very well"", said Kate. - Kate said her friend ... very well.</p>",1,one,
+,<p>can swim</p>
+*,<p>could swim</p>
+,<p>swam</p>
+"<p>""I am going to buy these jeans"", said Nancy. - Nancy said she .... those jeans.</p>",1,one,
+,<p>is going to buy</p>
+,<p>were going to buy</p>
+*,<p>was going to buy</p>
+"<p>""My father will give me some money for the school trip"", said Bill. - Bill said his father ... him some money for the school trip.</p>",1,one,
+*,<p>would give</p>
+,<p>will give</p>
+,<p>gave</p>
+"<p>""I told Jeremy not to move"", said Rose. - Rose said she ... Jeremy not to move. </p>",1,one,
+,<p>told</p>
+*,<p>had told</p>
+,<p>has told</p>
+"<p>""You didn't listen to me"", said Jenny. - Jenny said I ... to her.</p>",1,one,
+,<p>didn't listen</p>
+,<p>haven't listened</p>
+*,<p>hadn't listened</p>

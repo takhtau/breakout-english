@@ -1,0 +1,49 @@
+HTML
+<p>I want to buy __ skirt. </p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>the</p>
+"<p>Give me ___ pen, please.</p>",1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>-</p>
+<p>It is ___ dog.</p>,1,one,
+,<p>an</p>
+,<p>an</p>
+*,<p>a</p>
+<p>It is ___ beautiful place. </p>,1,one,
+*,<p>a</p>
+,<p>-</p>
+,<p>an</p>
+<p>There is ___ big tree in the garden.</p>,1,one,
+,<p>-</p>
+*,<p>a</p>
+,<p>an</p>
+<p>It is ___ apple.</p>,1,one,
+*,<p>an</p>
+,<p>-</p>
+,<p>a</p>
+<p>There is ___ new supermarket in the centre of our town.</p>,1,one,
+*,<p>a</p>
+,<p>the</p>
+,<p>an</p>
+<p>I want to go for ___ walk.</p>,1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>-</p>
+<p>I see ___ bottle of pineapple juice.</p>,1,one,
+,<p>an</p>
+,<p>-</p>
+*,<p>a</p>
+<p>I want to have __ good time.</p>,1,one,
+*,<p>a</p>
+,<p>the</p>
+,<p>-</p>
+<p>Her son has got ___ orange.</p>,~1,one,
+*,<p>an</p>
+,<p>a</p>
+,<p>the</p>
+<p>It is ___ big city to visit.</p>,1,one,
+*,<p>a</p>
+,<p>the</p>
+,<p>an</p>

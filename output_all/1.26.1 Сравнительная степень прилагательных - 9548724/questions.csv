@@ -1,0 +1,45 @@
+HTML
+<p>Tony is _______  than Colin. </p>,1,one,
+*,<p>taller </p>
+,<p>tallest </p>
+,<p>more tall</p>
+<p>Math is ______ than Russian.</p>,1,one,
+*,<p>more difficult</p>
+,<p>difficult</p>
+,<p>most difficult </p>
+<p>Rob is ______ than John.</p>,1,one,
+*,<p>older</p>
+,<p>oldest </p>
+,<p>more older </p>
+<p>My hair is _______ than your hair. </p>,1,one,
+,<p>more longer</p>
+,<p>longest</p>
+*,<p>longer</p>
+<p>My house is _______ than your house. </p>,1,one,
+*,<p>bigger</p>
+,<p>more big </p>
+,<p>biggest</p>
+<p>Rob is_______ than John. </p>,1,one,
+,<p>strongest</p>
+*,<p> stronger</p>
+,<p>more strong</p>
+<p>My dog is ______ than your dog </p>,1,one,
+,<p>more fat</p>
+,<p>fattest </p>
+*,<p>fatter</p>
+<p>This morning is __________(спокойнее)  than yesterday morning.</p>,1,one,
+*,<p>calmer</p>
+,<p>calm</p>
+,<p>more calmer</p>
+<p>John is ______(заботливее) than Mike.</p>,1,one,
+,<p>carefuller </p>
+,<p>most careful </p>
+*,<p>more careful</p>
+<p>Robert is ________today than he was yesterday. </p>,1,one,
+*,<p>happier </p>
+,<p>happiest </p>
+,<p>more happy</p>
+<p>John is ________ than Rob. </p>,1,one,
+,<p>more angry</p>
+*,<p>angrier</p>
+,<p>angriest </p>

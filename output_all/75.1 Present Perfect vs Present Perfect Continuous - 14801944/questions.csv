@@ -1,0 +1,49 @@
+HTML
+"<p>We ----- met before, have we?</p>",1,one,
+,<p>didn't</p>
+*,<p>haven't</p>
+,<p>weren't</p>
+<p>He ----- for us since morning.</p>,1,one,
+*,<p>has been waiting</p>
+,<p>had been waiting</p>
+,<p>waited</p>
+<p>Why ----- you dressed in something warmer?</p>,1,one,
+,<p>didn't</p>
+,<p>don't</p>
+*,<p>haven't</p>
+<p>She ----- tennis on and off for three years.</p>,1,one,
+,<p>was playing</p>
+,<p>had been playing</p>
+*,<p>has been playing</p>
+<p>Niki and John ----- back from a week in Spain.</p>,1,one,
+*,<p>have just come</p>
+,<p>have just came</p>
+,<p>have just been coming</p>
+<p>Where have you been? – I ----- the car.</p>,1,one,
+,<p>just cleaned</p>
+,<p>was just cleaning</p>
+*,<p>have just been cleaning</p>
+<p>I ----- on this project all day.</p>,1,one,
+*,<p>have been working</p>
+,<p>was working</p>
+,<p>am working</p>
+<p>She ----- the office yet.</p>,1,one,
+,<p>didn't left</p>
+*,<p>hasn't left</p>
+,<p>doesn't leave</p>
+<p>How long ----- they been living here?</p>,1,one,
+*,<p>have</p>
+,<p>did</p>
+,<p>were</p>
+<p>How long -----you known her?</p>,1,one,
+,<p>did</p>
+*,<p>have</p>
+,<p>had</p>
+<p>My eyes are red. I ----- this book all evening.</p>,1,one,
+,<p>had read</p>
+,<p>read</p>
+*,<p>have been reading</p>
+<p>He ----- his arm. We ought to take him to hospital!</p>,1,one,
+*,<p>has broken</p>
+,<p>had broken</p>
+,<p>broke</p>

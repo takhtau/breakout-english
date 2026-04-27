@@ -1,0 +1,41 @@
+HTML
+<p>She _____ wash her bike.</p>,1,one,
+,<p>isn't</p>
+,<p>don't</p>
+*,<p>didn't</p>
+<p>Bob isn't _____ TV.</p>,1,one,
+,<p>watch</p>
+*,<p>watching</p>
+,<p>watched</p>
+<p>They don't ski _____ .</p>,1,one,
+,<p>now</p>
+*,<p>every day</p>
+,<p>yesterday</p>
+<p>I _____ in Vladimir in 2006.</p>,1,one,
+,<p>am</p>
+*,<p>was</p>
+,<p>were</p>
+<p>_____ she help her brother?</p>,1,one,
+,<p>do</p>
+,<p>is</p>
+*,<p>did</p>
+<p>_____ she helping her brother?</p>,1,one,
+,<p>do</p>
+*,<p>is</p>
+,<p>did</p>
+<p>Did he _____ the game last Sunday?</p>,1,one,
+*,<p>play</p>
+,<p>plays</p>
+,<p>played</p>
+<p>_____ they late?</p>,1,one,
+,<p>did</p>
+,<p>was</p>
+*,<p>were</p>
+<p>He _____ his room yesterday.</p>,1,one,
+,<p>clean</p>
+,<p>cleans</p>
+*,<p>cleaned</p>
+<p>Sam's room is clean. He _____ it every day.</p>,1,one,
+,<p>clean</p>
+*,<p>cleans</p>
+,<p>cleaned</p>

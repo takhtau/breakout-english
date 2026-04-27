@@ -1,0 +1,49 @@
+HTML
+<p>... he ... ski?</p>,1,one,
+*,<p>Can/-</p>
+,<p>Is/able to</p>
+,<p>Able/to</p>
+<p>... she ... swim well?</p>,1,one,
+,<p>Is/able to</p>
+*,<p>Can/-</p>
+,<p>Able/to</p>
+<p>... you ... speak French?</p>,1,one,
+,<p>Able/to</p>
+,<p>Are/able to</p>
+*,<p>Can/-</p>
+<p>I won't ... take part in the competition.</p>,1,one,
+*,<p>be able to</p>
+,<p>can</p>
+,<p>able to</p>
+<p>I ... repair TVs. </p>,1,one,
+,<p>not able </p>
+*,<p>can't</p>
+,<p>am not able to</p>
+<p>You ... complete the task.</p>,1,one,
+,<p>is able to</p>
+,<p>am able to</p>
+*,<p>are able to</p>
+<p>We ... drive a car.</p>,1,one,
+*,<p>can't </p>
+,<p>aren't able to</p>
+,<p>not able to</p>
+<p>We will ... finish it next week.</p>,1,one,
+,<p>can</p>
+*,<p>be able to</p>
+,<p>able to</p>
+<p>I think I won't ... to answer that question.</p>,1,one,
+,<p>can</p>
+,<p>able to</p>
+*,<p>be able to</p>
+<p>I ... finish this work today.</p>,1,one,
+,<p>can't</p>
+*,<p>am not able to</p>
+,<p>not able to</p>
+<p>... this restaurant ... serve so many visitors right now?</p>,1,one,
+,<p>Can/-</p>
+*,<p>Is/able to</p>
+,<p>Are/able to</p>
+<p>I ... play the piano.</p>,1,one,
+,<p>isn't able to</p>
+,<p>not able to</p>
+*,<p>can't</p>

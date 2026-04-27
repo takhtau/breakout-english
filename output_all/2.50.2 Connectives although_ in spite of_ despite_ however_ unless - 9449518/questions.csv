@@ -1,0 +1,73 @@
+HTML
+"<p>__________ in poor health, she continued to carry out her duties.</p>",1,one,
+*,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+,<p>however</p>
+,<p>unless </p>
+"<p>No, this is my responsibility, __________ I appreciate your offer. </p>",1,one,
+*,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+,<p>however</p>
+,<p>unless </p>
+<p>___________ his troubles he never gave up hope.</p>,1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite </p>
+,<p>however</p>
+,<p>unless </p>
+<p>The plane came down safely __________ the mist.</p>,1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite  </p>
+,<p>however</p>
+,<p>unless </p>
+"<p>_________ the bad weather, there was a large crowd at the match</p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+*,<p>despite </p>
+,<p>however</p>
+,<p>unless </p>
+<p>We went to the party _________the bad weather outside. </p>,1,one,
+,<p>although </p>
+,<p>in spite of </p>
+*,<p>despite </p>
+,<p>however</p>
+,<p>unless </p>
+<p> She had difficulty communicating in German__________ all her years of study. </p>,1,one,
+,<p>although </p>
+,<p>in spite of </p>
+*,<p>despite </p>
+,<p>however</p>
+,<p>unless </p>
+"<p>__________ he did it, it was very clever. </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+*,<p>however</p>
+,<p>unless </p>
+"<p>I really want the car, __________ much it costs. </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+*,<p>however</p>
+,<p>unless </p>
+"<p>We have to finish, __________ long it takes. </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+*,<p>however</p>
+,<p>unless </p>
+<p>He won't go to sleep _________you tell him a story. </p>,1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+,<p>however</p>
+*,<p>unless </p>
+"<p>_________some extra money is found, the theatre will close. </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+,<p>however</p>
+*,<p>unless </p>

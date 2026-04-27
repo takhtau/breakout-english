@@ -1,0 +1,45 @@
+HTML
+"<p>You _____ know me, how can you be sure? </p>",1,one,
+*,<p>hardly</p>
+,<p>hard </p>
+,<p>hardely</p>
+<p>I can _______ hear what she is saying. </p>,1,one,
+,<p>hard </p>
+*,<p>hardly</p>
+,<p>hardely</p>
+<p>I don't feel very ______ . </p>,1,one,
+,<p>good</p>
+,<p>welly</p>
+*,<p>well</p>
+<p>You don't look so _________. </p>,1,one,
+,<p>good</p>
+*,<p>well</p>
+,<p>welly</p>
+<p>The concert went very ________. </p>,1,one,
+*,<p>well</p>
+,<p>good</p>
+,<p>welly</p>
+<p>I am______ sorry for that incident. </p>,1,one,
+,<p>awful </p>
+*,<p>awfully </p>
+,<p>awfuly </p>
+<p>Ted wrote the test________ . </p>,1,one,
+,<p>bad</p>
+,<p>badlly </p>
+*,<p>badly </p>
+<p>My mum tells me that I sing ________ . </p>,1,one,
+,<p>bad</p>
+*,<p>badly </p>
+,<p>badlly </p>
+<p>The orchestra played too_________ . </p>,1,one,
+*,<p>loudly </p>
+,<p>loud</p>
+,<p>loudlly </p>
+<p>She looked ________ at me when I arrived late. </p>,1,one,
+,<p>angry </p>
+*,<p>angrily</p>
+,<p>angrilly</p>
+<p>He waited _____ for the girlfriend. </p>,1,one,
+,<p>silentlly</p>
+,<p>silent</p>
+*,<p>silently</p>

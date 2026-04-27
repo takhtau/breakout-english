@@ -1,0 +1,49 @@
+HTML
+<p>I ___ (to work) in a bank.</p>,1,one,
+*,<p>work</p>
+,<p>works</p>
+,<p>to work</p>
+<p>He _____ in Moscow.</p>,1,one,
+,<p>live</p>
+*,<p>lives</p>
+,<p>to lives</p>
+<p>Anna has a shower ___ (каждый день).</p>,1,one,
+,<p>today</p>
+,<p>always</p>
+*,<p>every day</p>
+<p>Masha reads magazines ____ (каждую неделю).</p>,1,one,
+*,<p>every week</p>
+,<p>usually</p>
+,<p>every year</p>
+<p>Shops ______ at 9 o’clock.</p>,1,one,
+,<p>to open</p>
+*,<p>open</p>
+,<p>opens</p>
+<p>Marina ________ every day.</p>,1,one,
+,<p>do homework</p>
+,<p>to do homework</p>
+*,<p>does homework</p>
+<p>This car ____ black.</p>,1,one,
+*,<p>is</p>
+,<p>am</p>
+,<p>are</p>
+<p>She ___ pretty.</p>,1,one,
+,<p>are</p>
+*,<p>is</p>
+,<p>am</p>
+<p>___ Natali beautiful?</p>,1,one,
+,<p>Am</p>
+,<p>Are</p>
+*,<p>Is</p>
+<p>___ they students?</p>,1,one,
+*,<p>Are</p>
+,<p>Do</p>
+,<p>Is</p>
+<p>___ Anna ___ cats?</p>,1,one,
+,<p>Do/loves</p>
+*,<p>Does/love</p>
+,<p>Do/love</p>
+<p>___ they _______ books?</p>,1,one,
+,<p>Does/read</p>
+,<p>Does/reads</p>
+*,<p>Do/read</p>

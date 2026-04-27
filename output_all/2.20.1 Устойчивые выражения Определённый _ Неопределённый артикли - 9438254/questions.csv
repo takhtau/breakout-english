@@ -1,0 +1,49 @@
+HTML
+<p>There is ... big tree in ... garden.</p>,1,one,
+*,<p>a/the</p>
+,<p>an/-</p>
+,<p>a/a</p>
+<p>There is... bank near here. — Where is ... bank?</p>,1,one,
+*,<p>a/the</p>
+,<p>an/-</p>
+,<p>a/-</p>
+<p>There is ... new supermarket in ... centre of our ... town.</p>,1,one,
+*,<p>a/the/-</p>
+,<p>an/-/a</p>
+,<p>a/-/the</p>
+<p>There is ... hotel over there. ... hotel isn’t cheap.</p>,1,one,
+*,<p>a/the</p>
+,<p>an/-</p>
+,<p>a/-</p>
+<p>Her son has ... great sense of... humor.</p>,1,one,
+*,<p>a/-</p>
+,<p>an/-</p>
+,<p>the/-</p>
+<p>We have ... big dog. ... dog is very clever.</p>,1,one,
+*,<p>a/the</p>
+,<p>an/-</p>
+,<p>a/-</p>
+<p>My friend has ... very good computer.</p>,1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>-</p>
+<p>This ...boy is big. He is ... student.</p>,1,one,
+*,<p>-/a</p>
+,<p>an/-</p>
+,<p>a/-</p>
+<p>My sister is at ... work. She is ...secretary. She works for ... new company.</p>,1,one,
+,<p>a/a/a</p>
+*,<p>-/a/a</p>
+,<p>a/-/an</p>
+<p>There is ... jar of delicious orange marmalade in ... middle of ... shelf.</p>,1,one,
+*,<p>a/the/the</p>
+,<p>an/-/the</p>
+,<p>a/-/the</p>
+<p>There is ... bunch of ... bananas on ... table.</p>,1,one,
+*,<p>a/-/the</p>
+,<p>an/-/the</p>
+,<p>a/-/-</p>
+<p>What ... picture!</p>,1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>the</p>

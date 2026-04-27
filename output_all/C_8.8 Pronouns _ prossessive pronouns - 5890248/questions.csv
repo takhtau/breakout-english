@@ -1,0 +1,31 @@
+HTML
+<p>This is my book. This book is ___.</p>,1,one,
+*,<p>mine</p>
+,<p>my</p>
+<p>That is her car. That car is ___.</p>,1,one,
+*,<p>hers</p>
+,<p>her</p>
+<p>These are his photos. This photo's are ___.</p>,1,one,
+,<p>he</p>
+*,<p>his</p>
+<p>Those are our bags. Those bags are ___.</p>,1,one,
+*,<p>ours</p>
+,<p>our</p>
+<p>These are their essays. There essays are ___.</p>,1,one,
+*,<p>theirs</p>
+,<p>their</p>
+<p>That is your wallet. That wallet is ___.</p>,1,one,
+*,<p>yours</p>
+,<p>your</p>
+<p>She owns that house. That house is ___.</p>,1,one,
+*,<p>hers</p>
+,<p>her</p>
+<p>I own that boat. That boat is ___.</p>,1,one,
+*,<p>mine</p>
+,<p>my</p>
+<p>Those jackets belong to them. Those jackets are ___.</p>,1,one,
+*,<p>theirs</p>
+,<p>their</p>
+<p>These CDs belong to us. These CDs are ___.</p>,1,one,
+*,<p>ours</p>
+,<p>our</p>

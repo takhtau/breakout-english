@@ -1,0 +1,46 @@
+HTML
+<p>He ___ Bob.</p>,1,one,
+,<p>Are</p>
+*,<p>Is</p>
+,<p>Am</p>
+<p>I ___ clever.</p>,1,one,
+,<p>Are</p>
+,<p>Is</p>
+*,<p>Am</p>
+<p>He ___ at home.</p>,1,one,
+,<p>Aren't</p>
+*,<p>Isn't</p>
+,<p>Am not</p>
+<p>They ___ happy.</p>,1,one,
+*,<p>Are</p>
+,<p>Is</p>
+,<p>Am</p>
+<p>___ she Ann?</p>,1,one,
+,<p>Are</p>
+*,<p>Is</p>
+,<p>Am</p>
+<p>___ they Jack and John?</p>,1,one,
+*,<p>Are</p>
+,<p>Is</p>
+,<p>Am</p>
+<p>___ he a doctor?</p>,1,one,
+,<p>Are</p>
+*,<p>Is</p>
+,<p>Am</p>
+<p>My father ___ listen to music.</p>,1,one,
+,<p>don't</p>
+*,<p>doesn't</p>
+<p>It ___ fly.</p>,1,one,
+*,<p>doesn't</p>
+,<p>don't</p>
+<p>Sam and Sally ___ eat apples.</p>,1,one,
+*,<p>don't</p>
+,<p>doesn't</p>
+<p>Ann (всегда)____ sings a song.</p>,1,one,
+,<p>often</p>
+*,<p>always</p>
+,<p>usually</p>
+<p>Do you (обычно)____ play with toys?</p>,1,one,
+*,<p>usually</p>
+,<p>always</p>
+,<p>sometimes</p>

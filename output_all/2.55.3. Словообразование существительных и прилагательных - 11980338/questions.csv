@@ -1,0 +1,45 @@
+HTML
+<p>It was ______ for her to arrive on time to the meeting.   </p>,1,one,
+,<p>inpossible </p>
+*,<p>impossible </p>
+,<p>possible </p>
+<p>The bus journey was _____ .   </p>,1,one,
+,<p>unexhausted </p>
+,<p>exhausting </p>
+*,<p>exhausted </p>
+<ol><li>This film takes me back to my ____________. </li></ol>,1,one,
+,<p>child</p>
+*,<p>childhood</p>
+,<p>children</p>
+<ol><li>We were surprised at the _________in her speech.</li></ol>,1,one,
+*,<p>difference</p>
+,<p>differ</p>
+,<p>differenship</p>
+<ol><li>He is a ______ actor. </li></ol>,1,one,
+,<p>wonderable </p>
+*,<p>wonderful </p>
+,<p>wonderness</p>
+<ol><li>The war was ______</li></ol>,1,one,
+,<p>endful </p>
+*,<p>endless</p>
+,<p>endfulness</p>
+"<ol><li>No, that answer is ______ . It is wrong. </li></ol>",1,one,
+*,<p>corectless </p>
+,<p>incorrect </p>
+,<p>correctful</p>
+<ol><li>Animal __________ will enjoy the performance. </li></ol>,1,one,
+,<p>love</p>
+*,<p>lovers</p>
+,<p>loveless</p>
+<ol><li>Stress is the ___________.</li></ol>,1,one,
+,<p>stronger</p>
+,<p>strong</p>
+*,<p>strongest</p>
+<ol><li>Mary came to me in a very ____ state. </li></ol>,1,one,
+,<p>emotion</p>
+*,<p>emotional </p>
+,<p>emotionally </p>
+<ol><li>The ___________was delayed by fog for an hour.</li></ol>,1,one,
+*,<p>flight </p>
+,<p>fly</p>
+,<p>flition</p>

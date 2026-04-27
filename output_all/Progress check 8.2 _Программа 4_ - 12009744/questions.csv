@@ -1,0 +1,62 @@
+HTML
+"<p>There was me and there was Kate, ... party it was, and then there were two other people. </p>",1,one,
+*,<p>whose</p>
+,<p>that</p>
+,<p>which</p>
+<p>The film ... I saw yesterday was fantastic. </p>,1,one,
+,<p>who</p>
+*,<p>that</p>
+,<p>whose</p>
+<p>The guy ... laptop had been stolen called the police. </p>,1,one,
+,<p>which</p>
+,<p>that</p>
+*,<p>whose</p>
+<p>Every summer John goes to the town ... his parents were born.</p>,1,one,
+*,<p>where</p>
+,<p>who</p>
+,<p>that</p>
+<p>... can I get a taxi?</p>,1,one,
+,<p>What</p>
+,<p>Who</p>
+*,<p>Where</p>
+<p>... much does it cost to go out to eat? </p>,1,one,
+*,<p>How</p>
+,<p>What</p>
+,<p>Why</p>
+<p>... big is your room? </p>,1,one,
+,<p>Where</p>
+*,<p>How</p>
+,<p>What</p>
+<p>... did you go to Mumbai?</p>,1,one,
+,<p>What</p>
+,<p>Who</p>
+*,<p>Why</p>
+<p>... did she want your book?</p>,1,one,
+*,<p>Why</p>
+,<p>How</p>
+,<p>What</p>
+<p>He has only ________ hours.</p>,1,one,
+,<p>many</p>
+,<p>much</p>
+*,<p>a few</p>
+"<p>You have only ________ flour, it’s not enough for biscuits.</p>",1,one,
+*,<p>a little</p>
+,<p>much</p>
+,<p>a few</p>
+<p>There is _______ sugar in the sugar bowl.</p>,1,one,
+,<p>few</p>
+*,<p>little</p>
+<p>He follows _______ rules.</p>,1,one,
+*,<p>no</p>
+,<p>any</p>
+,<p>much</p>
+<p>green dress (ugly)</p>,1,one,
+*,<p>an ugly green dress</p>
+,<p>a green ugly dress</p>
+,<p>much</p>
+<p>Jack was (amaze) when he saw the castle.</p>,1,one,
+*,<p>amazed</p>
+,<p>amazing</p>
+<p>I don’t like this film. It’s very (depress).</p>,1,one,
+*,<p>depressing</p>
+,<p>depressed</p>

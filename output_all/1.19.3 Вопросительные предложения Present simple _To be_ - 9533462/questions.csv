@@ -1,0 +1,49 @@
+HTML
+<p>Why ___ your parents angry at you?</p>,1,one,
+*,<p>are</p>
+,<p>am</p>
+,<p>is</p>
+<p>Why ___ your dog hungry?</p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>are</p>
+<p>What ___ your favourite colour?</p>,1,one,
+,<p>are</p>
+,<p>am</p>
+*,<p>is</p>
+<p>What ____ your favourite flowers?</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+,<p>am</p>
+<p>Where ___ you?</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+,<p>am</p>
+<p>Where ___ I now?</p>,1,one,
+,<p>are</p>
+,<p>is</p>
+*,<p>am</p>
+<p>What ___ your favourite book?</p>,1,one,
+*,<p>is</p>
+,<p>am</p>
+,<p>are</p>
+<p>When ___ dinner?</p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>are</p>
+<p>When ___ your birthday?</p>,1,one,
+,<p>am</p>
+,<p>are</p>
+*,<p>is</p>
+<p>When ___ the holidays?</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+,<p>am</p>
+<p>How old ___ your best friend?</p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>are</p>
+<p>How old ___ their cats?</p>,1,one,
+,<p>is</p>
+,<p>am</p>
+*,<p>are</p>

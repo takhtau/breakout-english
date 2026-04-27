@@ -1,0 +1,53 @@
+HTML
+<p>We go to_______gym twice a week. </p>,1,one,
+,<p>a</p>
+,<p>-</p>
+*,<p>the</p>
+<p>The weather was very bad in _____ morning yesterday.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>He will be a doctor in_______future. </p>,1,one,
+,<p>a</p>
+,<p>-</p>
+*,<p>the</p>
+<p>She is_____teacher in our school. </p>,1,one,
+*,<p>a</p>
+,<p>-</p>
+,<p>the</p>
+<p>There is_______orange on the shelf. </p>,1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>the</p>
+<p>I have______pencil. </p>,1,one,
+,<p>an</p>
+,<p>the</p>
+*,<p>a</p>
+<p>We have ___ large room.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>an</p>
+<p>Bye! Have __ good time!</p>,1,one,
+,<p>the</p>
+,<p>-</p>
+*,<p>a</p>
+<p>I can't talk right now! I'm in __ hurry.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>an</p>
+<p>The London Underground is the _____ in the world.</p>,1,one,
+,<p>older</p>
+*,<p>oldest</p>
+,<p>old</p>
+<p>Sergei is (old)  Michael.</p>,1,one,
+*,<p>as old as</p>
+,<p>oldest</p>
+,<p>older</p>
+<p>I ___________ to Moscow next week. I bought a ticket.</p>,1,one,
+,<p>will go</p>
+*,<p>am going</p>
+,<p>go</p>
+<p>_____ you play with me? I have a free time now.</p>,1,one,
+*,<p>will </p>
+,<p>are / going to</p>
+,<p>do</p>

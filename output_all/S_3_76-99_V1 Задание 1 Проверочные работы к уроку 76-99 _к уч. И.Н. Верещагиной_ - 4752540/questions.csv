@@ -1,0 +1,41 @@
+HTML
+<p>Who _____ the present for Granny?</p>,1,one,
+,<p>did choose</p>
+,<p>does choose</p>
+*,<p>chose</p>
+<p>It _____ now.</p>,1,one,
+,<p>is snow</p>
+,<p>snows</p>
+*,<p>is snowing</p>
+<p>It _____ often rain here.</p>,1,one,
+,<p>isn't</p>
+*,<p>doesn't</p>
+,<p>-</p>
+<p>It didn't _____ last week.</p>,1,one,
+*,<p>snow</p>
+,<p>snows</p>
+,<p>snowing</p>
+"<p>The girls had five lessons today, _____ ?</p>",1,one,
+,<p>hadn't they</p>
+*,<p>didn't they</p>
+,<p>did they</p>
+<p>We can't make porridge now. We have got _____ milk.</p>,1,one,
+,<p>some</p>
+,<p>any</p>
+*,<p>no</p>
+<p>I can't see _____ funny.</p>,1,one,
+,<p>nothing</p>
+*,<p>anything</p>
+,<p>something</p>
+<p>Nobody _____ to play with him.</p>,1,one,
+,<p>want</p>
+,<p>doesn't want</p>
+*,<p>wants</p>
+<p>_____ thirty days in April.</p>,1,one,
+,<p>they are</p>
+,<p>these are</p>
+*,<p>there are</p>
+<p>Can you see those nice _____ ?</p>,1,one,
+,<p>leaf</p>
+*,<p>leaves</p>
+,<p>mouse</p>

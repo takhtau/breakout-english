@@ -1,0 +1,33 @@
+HTML
+"<p>I'm a big fun of U2, Derek said.</p><p> Derek said he__________a big fan of U2. </p>",1,one,
+*,<p>was</p>
+,<p>has been </p>
+,<p>had been </p>
+"<p>""We're watching TV"" said the twins. </p><p>The twins said they___________TV. </p>",1,one,
+,<p>watched </p>
+*,<p>were watching </p>
+,<p>had watched </p>
+"<p>""You've been annoying me all day!"" my mum said. </p><p>My mum said I__________her all day. </p>",1,one,
+,<p>annoyed </p>
+,<p>was annoying </p>
+*,<p>had been annoying </p>
+"<p>""The dog ate my homework!"" said Ivan. </p><p>Ivan said the dog______________his homework. </p>",1,one,
+,<p>was eating </p>
+*,<p>had eaten </p>
+,<p>has eaten </p>
+"<p>""At one o'clock, I was having lunch"", said Molly. </p><p>Molly said she___________lunch at one o'clock. </p>",1,one,
+*,<p>had been having </p>
+,<p>has had </p>
+,<p>is having </p>
+"<p>""You'll get wet without an umbrella"", Dad said.</p><p>Dad said I____________wet without am umbrella. </p>",1,one,
+,<p>will be getting </p>
+,<p>got </p>
+*,<p>would get </p>
+"<p>""He can juggle five balls"", said Angile.</p><p>Angile said he__________five balls. </p>",1,one,
+,<p>juggled </p>
+,<p>would juggle </p>
+*,<p>could juggle </p>
+"<p>""You must dive me your essays,"" Mrs Vine said. </p><p>Mrs Vine said we_________give her our essays. </p>",1,one,
+,<p>were having to</p>
+*,<p>had to </p>
+,<p>would have to </p>

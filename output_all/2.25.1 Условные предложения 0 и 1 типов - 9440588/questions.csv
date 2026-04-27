@@ -1,0 +1,45 @@
+HTML
+"<p>If you (to be) busy, I (to leave) you alone.</p>",~1,one,
+*,<p>are/will leave</p>
+,<p>are/leave</p>
+,<p>are/left</p>
+"<p>If my friend (to come) to see me, I (to be) very glad.</p>",1,one,
+,<p>come/will be</p>
+*,<p>comes/will be</p>
+,<p>comes/am</p>
+"<p>If mother (to buy) a cake, we (to have) a very nice tea party.</p>",1,one,
+,<p>buy/have</p>
+,<p>buys/have</p>
+*,<p>buys/will have</p>
+"<p>If he (to send) an e-mail, we (not to worry).</p>",1,one,
+*,<p>sends/won't worry</p>
+,<p>send/won't worry</p>
+,<p>sends/doesn't worry</p>
+"<p>If you (not to work) systematically, you (to fail) the exam.</p>",1,one,
+*,<p>don't work/will fail</p>
+,<p>don't work/fail</p>
+,<p>won't work/will fail</p>
+"<p>If I (to get) a ticket, I (to go) to the cinema.</p>",1,one,
+,<p>get/go</p>
+*,<p>get/will go</p>
+,<p>will get/will go</p>
+"<p>If you (to freeze) water, it (to turn) into ice.</p>",1,one,
+,<p>will freeze/will turn</p>
+,<p>freeze/turn</p>
+*,<p>freeze/turns</p>
+"<p>If they (to come) to the party, they (to bring) a present.</p>",1,one,
+,<p>will come/bring</p>
+*,<p>come/will bring</p>
+,<p>will come/will bring</p>
+"<p>If I (to have) time, I (to go) to the movies.</p>",1,one,
+,<p>has/will go</p>
+,<p>will have/go</p>
+*,<p>have/will go</p>
+"<p>If I (to work) too much, I (to get) tired. </p>",1,one,
+*,<p>work/get</p>
+,<p>will work/get</p>
+,<p>will work/will get</p>
+"<p>If you (to heat) ice, it (to melt). </p>",1,one,
+,<p>will heat/will melt</p>
+*,<p>heat/melts</p>
+,<p>heat/melt</p>

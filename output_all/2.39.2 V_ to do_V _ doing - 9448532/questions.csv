@@ -1,0 +1,49 @@
+HTML
+<p>Would you mind ... the door?</p>,1,one,
+*,<p>closing</p>
+,<p>to close</p>
+,<p>close</p>
+<p>You can hardly avoid ... her.</p>,1,one,
+,<p>to meet</p>
+*,<p>meeting</p>
+,<p>meet</p>
+<p>They postponed ... an answer to the request.</p>,1,one,
+,<p>to send</p>
+,<p>send</p>
+*,<p>sending</p>
+<p>My work involves ... letters.</p>,1,one,
+*,<p>typing</p>
+,<p>to type</p>
+,<p>type</p>
+<p>I tried ______ the poem but I couldn't.</p>,1,one,
+*,<p>to learn</p>
+,<p>learning</p>
+,<p>learn</p>
+<p>Could you please stop ... so much noise?</p>,1,one,
+,<p>to make</p>
+,<p>make</p>
+*,<p>making</p>
+<p>I go ______</p>,1,one,
+,<p>to dance</p>
+*,<p>dancing</p>
+,<p>dance</p>
+<p>I prefer ... in winter.</p>,1,one,
+*,<p>skiing</p>
+,<p>to ski</p>
+,<p>ski</p>
+"<p>I didn't know how to get to your house, so I stopped ... the way.</p>",1,one,
+*,<p>to ask</p>
+,<p>asking </p>
+,<p>ask</p>
+<p>You made me ______</p>,1,one,
+,<p>crying</p>
+,<p>to cry</p>
+*,<p>cry</p>
+<p>I hate _____ the dishes.</p>,1,one,
+*,<p>washing</p>
+,<p>to wash</p>
+,<p>wash</p>
+<p>We had better ______ an umbrella.</p>,1,one,
+*,<p>taking</p>
+,<p>to take</p>
+,<p>take</p>

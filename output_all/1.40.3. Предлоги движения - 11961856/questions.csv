@@ -1,0 +1,49 @@
+HTML
+<p>Climb _______ the tree! (вниз)</p>,1,one,
+,<p>across</p>
+,<p>out of</p>
+*,<p>down</p>
+<p>Ducks go _______ the road. (поперек)</p>,1,one,
+,<p>away</p>
+*,<p>across</p>
+,<p>down</p>
+<p>Take the cat _______ the box. (из)</p>,1,one,
+*,<p>out of</p>
+,<p>towards</p>
+,<p>over</p>
+<p>Peter ran _______ from home twice. (прочь)</p>,1,one,
+*,<p>away</p>
+,<p>over</p>
+,<p>in</p>
+<p>I turned _______ the school. (по направлению)</p>,1,one,
+,<p>down</p>
+*,<p>towards</p>
+,<p>under</p>
+<p>The children are running _______ the hill. (вниз)</p>,1,one,
+,<p>over</p>
+,<p>up</p>
+*,<p>down</p>
+<p>She wears a jacket _______ her dresses. (над)</p>,1,one,
+,<p>on</p>
+*,<p>over</p>
+,<p>away</p>
+<p>I found my socks _______ the sofa. (под)</p>,1,one,
+*,<p>under</p>
+,<p>in front of</p>
+,<p>down</p>
+<p>I followed him ______ the stairs. (вверх)</p>,1,one,
+*,<p>up</p>
+,<p>through</p>
+,<p>at</p>
+<p>The plane is flying _______ France now. (над)</p>,1,one,
+,<p>from</p>
+*,<p>over</p>
+,<p>into</p>
+<p>We ride a bike  _______ the park. (через)</p>,1,one,
+,<p>towards</p>
+,<p>in front of</p>
+*,<p>through</p>
+<p>He likes to jump _______ the water. (в)</p>,1,one,
+,<p>away</p>
+,<p>on</p>
+*,<p>into</p>

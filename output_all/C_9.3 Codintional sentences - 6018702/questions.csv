@@ -1,0 +1,41 @@
+HTML
+"<p>If I ___ you, I would apologize to her right away.</p>",1,one,
+,<p>was</p>
+*,<p>were</p>
+,<p>have been</p>
+"<p>If I run into her, I ___ her that you're looking for her, a would tell.</p>",1,one,
+,<p>would tell</p>
+,<p>tell</p>
+*,<p>will tell</p>
+"<p>If you ___ that again, I will cal the police.</p>",1,one,
+,<p>to do</p>
+*,<p>do</p>
+,<p>will do</p>
+<p>He would never have asked her out on a date if she ___ him first.</p>,1,one,
+*,<p>hadn't kissed</p>
+,<p>didn't kiss</p>
+,<p>will not kiss</p>
+"<p>If you were her, what ___?</p>",1,one,
+*,<p>would you do</p>
+,<p>did you do</p>
+,<p>do you do</p>
+"<p>If she hadn't gone to England, she ___ Orlando Bloom.</p>",1,one,
+,<p>would not meet</p>
+,<p>did not meet</p>
+*,<p>would not have met</p>
+"<p>If it doesn't start snowing, we ___ this evening.</p>",1,one,
+*,<p>won't go skiing</p>
+,<p>wouldn't go skiing</p>
+,<p>don't go skiing</p>
+"<p>If you had saved some money earlier, you ___ broke right now.</p>",1,one,
+*,<p>would not have been </p>
+,<p>will not be </p>
+,<p>are not</p>
+"<p>If I ___ at the airport so late, I would not have missed my flight.</p>",1,one,
+,<p>didn't arrive </p>
+*,<p>hadn't arrive</p>
+,<p>would not arrive</p>
+"<p>If you buy one t-shirt, you ___ the second one free.</p>",1,one,
+,<p>will have gotten</p>
+,<p>would get</p>
+*,<p>will get</p>

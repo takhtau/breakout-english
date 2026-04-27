@@ -1,0 +1,53 @@
+HTML
+<p>Suddenly everybody stopped -----. There was silence.</p>,1,one,
+,<p>to talk</p>
+*,<p>talking</p>
+,<p>talk</p>
+<p>He tried to avoid ----- my question.</p>,1,one,
+,<p>having answered</p>
+,<p>to answer</p>
+*,<p>answering</p>
+<p>Have you ever considered ----- to live in another country?</p>,1,one,
+*,<p>going</p>
+,<p>go </p>
+,<p>to go</p>
+<p>We decided ----- out because of the weather.</p>,1,one,
+,<p>to not go</p>
+*,<p>not to go</p>
+,<p>not going</p>
+"<p>When I’m tired, I enjoy ----- TV. It’s relaxing.</p>",1,one,
+*,<p>watching</p>
+,<p>watch</p>
+,<p>to watch</p>
+"<p>We were hungry, so I suggested ----- dinner early.</p>",1,one,
+*,<p>having</p>
+,<p>to have</p>
+,<p>have</p>
+<p>Sam drove ----- along the narrow road.</p>,1,one,
+,<p>careful</p>
+*,<p>carefully</p>
+,<p>more careful</p>
+<p>The other two people were even ----- injured in the accident.</p>,1,one,
+,<p>seriouslier</p>
+,<p>more serious</p>
+*,<p>more seriously</p>
+<p>The weather was very -----.</p>,1,one,
+,<p>changeably</p>
+,<p>change</p>
+*,<p>changeable</p>
+<p>It was a question of great ----- to us.</p>,1,one,
+*,<p>importance</p>
+,<p>important</p>
+,<p>import</p>
+<p>The city can be a ----- place to live.</p>,1,one,
+,<p>danger</p>
+*,<p>dangerous</p>
+,<p>dangering</p>
+<p>The name of the town had been ----- on the map.</p>,1,one,
+,<p>spelled</p>
+,<p>misspelling</p>
+*,<p>misspelled</p>
+"<p>If you -----, you will be severely punished.</p>",1,one,
+,<p>obey</p>
+*,<p>disobey</p>
+,<p>disobedience</p>

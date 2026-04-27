@@ -1,0 +1,69 @@
+HTML
+<p>You can’t see ... moon.</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>the</p>
+<p>... weather is fine today.</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+,<p>-</p>
+<p>... sun is shining brightly.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>An</p>
+<p>He likes his ... cat.</p>,1,one,
+,<p>the</p>
+,<p>a</p>
+*,<p>-</p>
+<p>We live in a big house. I like ... house very much.</p>,1,one,
+*,<p>the</p>
+,<p>-</p>
+,<p>an</p>
+<p>… orange is … my favourite fruit.</p>,1,one,
+,<p>a/-</p>
+*,<p>an/-</p>
+,<p>-/-</p>
+<p>As … rule he sleeps 8 hours … day.</p>,1,one,
+*,<p>a/a</p>
+,<p>an/a</p>
+,<p>-/-</p>
+<p>I wish you to have … good time in … Moscow.</p>,1,one,
+*,<p>a/-</p>
+,<p>an/-</p>
+,<p>-/-</p>
+<p>On ... Friday he comes home early.</p>,1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>a</p>
+<p>In the evening you can hear the sounds of ... music from the parks.</p>,1,one,
+,<p>an</p>
+,<p>the</p>
+*,<p>-</p>
+"<p>I go to ... school in the morning, so I get up early.</p>",1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>an</p>
+<p>It is (easy) to swim in the sea than in the river.</p>,1,one,
+,<p>easiest</p>
+*,<p>easier</p>
+,<p>as easy as</p>
+<p>This is the (small) room in our flat.</p>,1,one,
+,<p>as smaller as</p>
+,<p>smaller</p>
+*,<p>smallest</p>
+<p>It’s the (bad) mistake he has ever made.</p>,1,one,
+*,<p>worst</p>
+,<p>worse</p>
+,<p>as bad as</p>
+<p>This man is (tall) than that one.</p>,1,one,
+,<p>tallest</p>
+*,<p>taller</p>
+,<p>as tall as</p>
+<p>Asia is (large) than Australia.</p>,1,one,
+,<p>as large as</p>
+,<p>largest</p>
+*,<p>larger</p>
+<p>This garden is the (beautiful) in our town.</p>,1,one,
+,<p>more beautiful</p>
+*,<p>most beautiful</p>
+,<p>as beautiful as</p>

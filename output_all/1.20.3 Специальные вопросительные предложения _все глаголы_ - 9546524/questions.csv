@@ -1,0 +1,49 @@
+HTML
+<p>( Кто ) _______ is he?</p>,1,one,
+,<p>What</p>
+*,<p>Who</p>
+,<p>When</p>
+<p>(Что )______ do you do every day?</p>,1,one,
+,<p>Where</p>
+,<p>When</p>
+*,<p>What</p>
+<p>(Откуда) ______ are you _____?</p>,1,one,
+,<p>What _____ from</p>
+,<p>What _____from</p>
+*,<p>Where ___ from</p>
+<p>(Сколько лет )_____is that teacher?</p>,1,one,
+,<p>How</p>
+*,<p>How old</p>
+,<p>What old</p>
+<p>(Какой ) ____  is the film?</p>,1,one,
+,<p>When</p>
+*,<p>What</p>
+,<p>Where</p>
+<p>( Что ) _____ does he do every Sunday? </p>,1,one,
+,<p>When</p>
+*,<p>What</p>
+,<p>Where</p>
+<p>(Куда )_____ do you go every morning? </p>,1,one,
+*,<p>Where</p>
+,<p>What</p>
+,<p>Why</p>
+<p>(Когда )______does she usually come to school? </p>,1,one,
+,<p>What</p>
+*,<p>When</p>
+,<p>Why</p>
+<p>(Почему )_____ do you never play with children? </p>,1,one,
+*,<p>Why</p>
+,<p>What</p>
+,<p>When</p>
+<p>(Что )_____ do you know about the boy? </p>,1,one,
+*,<p>What</p>
+,<p>How old</p>
+,<p>Where</p>
+<p>(Где )_____ does he play chess? </p>,1,one,
+,<p>What</p>
+*,<p>Where</p>
+,<p>Why</p>
+<p>(Почему) can't you swim?</p>,1,one,
+*,<p>Why</p>
+,<p>What</p>
+,<p>Where</p>

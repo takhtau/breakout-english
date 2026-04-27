@@ -1,0 +1,101 @@
+HTML
+<p>Don't you know him? He always __ lies.</p>,~1,one,
+,<p>tell</p>
+,<p>say</p>
+,<p>says</p>
+*,<p>tells</p>
+<p>He phoned to say he __ his bag on the plane.</p>,~1,one,
+,<p>forgot</p>
+,<p>has left</p>
+*,<p>had left</p>
+,<p>has forgotten</p>
+<p>I have never seen such __ men.</p>,~1,one,
+,<p>higher</p>
+,<p>high</p>
+*,<p>tall</p>
+,<p>the tallest</p>
+<p>I don't think you should select the pictures so carefully. __ will do.</p>,~1,one,
+,<p>some</p>
+,<p>no</p>
+,<p>any</p>
+*,<p>none</p>
+<p>He wonders __ he could possibly get the job.</p>,~1,one,
+,<p>weather</p>
+,<p>whatever</p>
+,<p>whenever</p>
+*,<p>whether</p>
+<p>The clothes are absolutely wet. I should dry __.</p>,~1,one,
+,<p>it</p>
+,<p>their</p>
+*,<p>them</p>
+,<p>its</p>
+<p>He decided to save money and put __ in the bank.</p>,1,one,
+*,<p>it</p>
+,<p>their</p>
+,<p>them</p>
+,<p>its</p>
+"<p>- Must I make the final choice right now? - No, you __.</p>",1,one,
+,<p>mustn't</p>
+,<p>can't</p>
+*,<p>needn't</p>
+,<p>couldn't</p>
+<p>If food in the Chinese restaurant is not bad and in the Japanese restaurant it is extremely delicious that means that the first one is __ than the second.</p>,1,one,
+,<p>the worst</p>
+,<p>better</p>
+*,<p>worse</p>
+,<p>the best</p>
+<p>__ Mississippi is one of the longest rivers in the world.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>an</p>
+,<p>-</p>
+<p>They are __ asleep.</p>,1,one,
+,<p>yet</p>
+,<p>just</p>
+*,<p>still</p>
+,<p>else</p>
+<p>He __ the house since 1997.</p>,1,one,
+*,<p>has owned</p>
+,<p>have been owning</p>
+,<p>own</p>
+,<p>owned</p>
+<p>The man is old and he can't __ well.</p>,1,one,
+,<p>heard</p>
+*,<p>hear</p>
+,<p>to hear</p>
+,<p>listen to</p>
+<p>They arrived __ the airport on time.</p>,1,one,
+,<p>-</p>
+,<p>in</p>
+,<p>to</p>
+*,<p>at</p>
+<p>We can't agree __ you on the problem.</p>,1,one,
+,<p>to</p>
+*,<p>with</p>
+,<p>without</p>
+,<p>-</p>
+<p>A __ wind is blowing.</p>,1,one,
+,<p>stronger</p>
+*,<p>strong</p>
+,<p>strongest</p>
+,<p>small</p>
+<p>I don't like parties __ finish late.</p>,1,one,
+,<p>who</p>
+,<p>what</p>
+*,<p>which</p>
+,<p>so that</p>
+<p>Have you ever been __ Scotland?</p>,1,one,
+,<p>in</p>
+,<p>at</p>
+*,<p>to</p>
+,<p>into</p>
+<p>I don't believe she can __ that.</p>,1,one,
+,<p>speak</p>
+,<p>tell</p>
+*,<p>say</p>
+,<p>to speak</p>
+<p>Tom said he would come back __ I finished.</p>,1,one,
+,<p>before</p>
+,<p>while</p>
+*,<p>until</p>
+,<p>till</p>

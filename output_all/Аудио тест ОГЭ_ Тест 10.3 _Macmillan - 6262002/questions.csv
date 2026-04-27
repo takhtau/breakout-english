@@ -1,0 +1,25 @@
+HTML
+<p>Anna was upset about the concert because</p>,1,one,
+*,<p>the band was late</p>
+,<p>she had to leave early </p>
+,<p>she hated the music </p>
+<p>The concert took place </p>,1,one,
+,<p>at a sports complex </p>
+,<p>in the town </p>
+*,<p>in a park </p>
+<p>Henry visited Brent Park </p>,1,one,
+,<p>the weekend before </p>
+,<p>the night before </p>
+*,<p>last year </p>
+"<p>At Henry's concert, he enjoyed</p>",1,one,
+,<p>both acts </p>
+,<p>the first act </p>
+*,<p>the second act </p>
+<p>Anna believes a concert is a good </p>,1,one,
+,<p>if the entire concert is enjoyable </p>
+*,<p>if you're happy with the main act </p>
+,<p>if the opening act is impressive</p>
+<p>Anna will attend the next concert because</p>,1,one,
+,<p>she enjoys classical music</p>
+,<p>Henry has decided to go with  her </p>
+*,<p>she knows a musician who's playing</p>

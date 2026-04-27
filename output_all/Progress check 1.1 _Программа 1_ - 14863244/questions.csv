@@ -1,0 +1,53 @@
+HTML
+<p>They ----- away. They’ll be back on Friday.</p>,1,one,
+,<p>go</p>
+*,<p>'ve gone</p>
+,<p>went</p>
+"<p>They ----- away, but I think they’re back at home now.     </p>",1,one,
+*,<p>went</p>
+,<p>'ve gone</p>
+,<p>'re going away</p>
+"<p>It ----- raining now, so we don’t need the umbrella.</p>",1,one,
+,<p>stopped</p>
+,<p>had stopped</p>
+*,<p>has stopped</p>
+"<p>Who is that woman? I ----- her before, but I can’t remember where.</p>",1,one,
+*,<p>'ve seen</p>
+,<p>saw</p>
+,<p>had seen</p>
+"<p>I wasn’t sure who she was. I ----- her before, but I couldn’t remember where.</p>",1,one,
+,<p>'ve seen</p>
+*,<p>'d seen</p>
+,<p>saw</p>
+<p>I ----- my back while I ----- in the garden.</p>,1,one,
+,<p>had hurt; was working</p>
+,<p>hurt; worked</p>
+*,<p>hurt; was working</p>
+<p>I ----- these shoes for ages.</p>,1,one,
+*,<p>'ve had</p>
+,<p>had</p>
+,<p>have</p>
+<p>I ----- about what happened. I often ----- about it.</p>,1,one,
+,<p>think; think</p>
+*,<p>’m thinking; think</p>
+,<p>’ve been thinking; thought</p>
+<p>He ----- about other people. He ----- very selfish.</p>,1,one,
+*,<p>never thinks; ’s</p>
+,<p>’s never thinking; ’s</p>
+,<p>never thinks; ’s being</p>
+<p>Joe ----- too much recently. He should eat less.</p>,1,one,
+,<p>has eaten</p>
+,<p>eats</p>
+*,<p>has been eating</p>
+<p>Somebody ----- all the chocolates. The box is empty.</p>,1,one,
+,<p>has been eating</p>
+*,<p>has eaten</p>
+,<p>ate</p>
+<p>How long ----- that manuscript? It seems to me so difficult.</p>,1,one,
+,<p>did you read</p>
+,<p>have you read</p>
+*,<p>have you been reading</p>
+"<p>Now I ----- Arabic, but I ----- very much yet.</p>",1,one,
+,<p>’m learning; didn’t learn</p>
+*,<p>’m learning; haven’t learnt</p>
+,<p>learn; hadn’t learnt</p>

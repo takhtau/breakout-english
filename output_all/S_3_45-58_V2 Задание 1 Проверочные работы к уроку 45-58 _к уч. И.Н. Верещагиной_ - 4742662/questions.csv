@@ -1,0 +1,41 @@
+HTML
+<p>Cats are cleverer _____ mice.</p>,1,one,
+*,<p>than</p>
+,<p>then</p>
+,<p>-</p>
+"<p>The parrot is clever, _____ ?</p>",1,one,
+,<p>is he</p>
+*,<p>isn't it</p>
+,<p>is it</p>
+<p>The _____ dog is funny.</p>,1,one,
+,<p>Browns</p>
+,<p>Brown's</p>
+*,<p>Browns'</p>
+<p>Tamara is _____ girl in our class.</p>,1,one,
+,<p>short</p>
+,<p>shorter</p>
+*,<p>the shortest</p>
+<p>_____ and Bill's bikes are in the garage.</p>,1,one,
+*,<p>Tom</p>
+,<p>Tom's</p>
+,<p>His</p>
+<p>Where is Book _____ ?</p>,1,one,
+*,<p>Two</p>
+,<p>second</p>
+,<p>the second</p>
+<p>Do you like _____ book?</p>,1,one,
+,<p>Two</p>
+,<p>second</p>
+*,<p>the second</p>
+<p>This apple is _____ than that apple.</p>,1,one,
+,<p>big</p>
+*,<p>bigger</p>
+,<p>the biggest</p>
+<p>You must _____ your homework.</p>,1,one,
+*,<p>do</p>
+,<p>to do</p>
+,<p>doing</p>
+<p>He _____ to do his homework.</p>,1,one,
+,<p>can</p>
+,<p>must</p>
+*,<p>wants</p>

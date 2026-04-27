@@ -1,0 +1,53 @@
+HTML
+"<p>The task will be finished by Friday, -----?</p>",1,one,
+*,<p>won’t it  </p>
+,<p>will it</p>
+,<p>won’t be</p>
+<p>Who ----- the window? Who is to -----?</p>,1,one,
+,<p>broke; punish</p>
+*,<p>has broken; be punished </p>
+,<p>has been broken; be punished</p>
+<p>He ----- on this assignment for three hours by the time he finishes.</p>,1,one,
+*,<p>will have been working</p>
+,<p>will be working</p>
+,<p>will be worked</p>
+"<p>By the time you -----, I ----- cooking dinner.</p>",1,one,
+,<p>will arrive; will have finished</p>
+*,<p>arrive; will have finished</p>
+,<p>arrive; will be finish</p>
+<p>----- the meeting be held here or there?</p>,1,one,
+*,<p>Will</p>
+,<p>Is</p>
+,<p>Does</p>
+<p>----- have you been all my life?</p>,1,one,
+,<p>Why</p>
+*,<p>Where</p>
+,<p>When</p>
+<p>He ----- by 2026.</p>,1,one,
+,<p>will graduate</p>
+*,<p>will have graduated</p>
+,<p>will have been graduating</p>
+<p>How long will you ----- English by 2026?</p>,1,one,
+*,<p>have been learning</p>
+,<p>had learned</p>
+,<p>be learning</p>
+<p>Do you know that another shopping mall ----- nearby?</p>,1,one,
+,<p>is built</p>
+*,<p>is being built</p>
+,<p>is building</p>
+<p>Will the dress ----- by the time I arrive?</p>,1,one,
+,<p>have finished</p>
+*,<p>have been finished</p>
+,<p>be finish</p>
+<p>Have you heard? A window ----- somewhere. </p>,1,one,
+,<p>has smashed</p>
+*,<p>has been smashed</p>
+,<p>smashed</p>
+<p>----- option is correct: this or that?</p>,1,one,
+,<p>What</p>
+,<p>Whose</p>
+*,<p>Which</p>
+<p>This bag ----- of genuine leather.</p>,1,one,
+*,<p>is made</p>
+,<p>is being made</p>
+,<p>has made</p>

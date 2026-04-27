@@ -1,0 +1,49 @@
+HTML
+<p>Friends ______ for a walk.</p>,1,one,
+*,<p>go</p>
+,<p>goes</p>
+,<p>to go</p>
+<p>They ______  in the evening.</p>,1,one,
+,<p>plays</p>
+*,<p>play</p>
+,<p>to play</p>
+<p>He  _______ to the stadium on Sundays.</p>,1,one,
+,<p>go</p>
+,<p>to goes</p>
+*,<p>goes</p>
+<p>My friend  ________ TV at seven o'clock.</p>,1,one,
+*,<p>watches</p>
+,<p>watch</p>
+,<p>to watches</p>
+<p>She _______ breakfast at 10.00 o' clock.</p>,1,one,
+,<p>have</p>
+*,<p>has</p>
+,<p>to have</p>
+<p>We  _______ dinner at 8 o'clock.</p>,1,one,
+,<p>doesn't have</p>
+,<p>not to have</p>
+*,<p>don't have</p>
+<p>My friend ____do homework at 11 o'clock.</p>,1,one,
+*,<p>doesn't </p>
+,<p>don't</p>
+,<p>not to </p>
+<p>My sister  _______ every evening.</p>,1,one,
+,<p>don't read</p>
+*,<p>doesn't read</p>
+,<p>not to read</p>
+<p>_____your sister _____ for a walk every Saturday?</p>,1,one,
+,<p>Do/go</p>
+,<p>Does/goes</p>
+*,<p>Does/go</p>
+<p>_____they  ______ to play tennis?</p>,1,one,
+*,<p>Do/like</p>
+,<p>Does/like</p>
+,<p>Do/likes</p>
+<p>____ he ______ a book every day?</p>,1,one,
+,<p>Do/read</p>
+*,<p>Does/read</p>
+,<p>Does/reads</p>
+<p>_____she ______ to the swimming pool every Monday?</p>,1,one,
+,<p>Do/goes</p>
+,<p>Do/go</p>
+*,<p>Does/go</p>

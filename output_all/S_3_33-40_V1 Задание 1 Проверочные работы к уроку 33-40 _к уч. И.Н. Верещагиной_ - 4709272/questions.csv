@@ -1,0 +1,41 @@
+HTML
+<p>Batty doesn't buy _____ juice.</p>,1,one,
+*,<p>much</p>
+,<p>many</p>
+,<p>a</p>
+<p>The _____ were in London.</p>,1,one,
+,<p>Brown</p>
+*,<p>Browns</p>
+,<p>Brown's</p>
+<p>Where do you usually _____ ?</p>,1,one,
+,<p>ran</p>
+*,<p>run</p>
+,<p>running</p>
+<p>We haven't got many _____ .</p>,1,one,
+,<p>water</p>
+,<p>food</p>
+*,<p>bananas</p>
+<p>What can you _____ from fish?</p>,1,one,
+*,<p>make</p>
+,<p>to make</p>
+,<p>made</p>
+<p>_____ your sisters go to school yesterday?</p>,1,one,
+,<p>do </p>
+*,<p>did</p>
+,<p>were</p>
+<p>_____ you at school yesterday?</p>,1,one,
+,<p>do </p>
+,<p>did</p>
+*,<p>were</p>
+<p>Tom _____ hockey now.</p>,1,one,
+,<p>plays</p>
+,<p>played</p>
+*,<p>is playing</p>
+<p>_____ mother is a teacher.</p>,1,one,
+,<p>Sam</p>
+*,<p>Sam's</p>
+,<p>Sams</p>
+<p>_____ apples are nice.</p>,1,one,
+,<p>that</p>
+,<p>this</p>
+*,<p>these</p>

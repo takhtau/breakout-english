@@ -1,0 +1,46 @@
+HTML
+<p>My little brother ________ with his toys in the evening.</p>,1,one,
+*,<p>plays</p>
+,<p>play</p>
+<p>Her mother _________ shopping every day.</p>,1,one,
+,<p>go</p>
+*,<p>goes</p>
+<p>You  __________ home at three o'clock.</p>,1,one,
+,<p>comes</p>
+*,<p>come</p>
+<p>Friends ___________ to school on Saturdays.</p>,1,one,
+*,<p>don't go</p>
+,<p>doesn't go</p>
+,<p>don't goes</p>
+<p>My father __________ dinner at three o'clock.</p>,1,one,
+,<p>don't have</p>
+*,<p>doesn't have</p>
+,<p>doesn't has</p>
+<p>I __________ home at ten o'clock.</p>,1,one,
+,<p>doesn't come</p>
+,<p>don't comes</p>
+*,<p>don't come</p>
+<p>_____he _____to bed at nine o'clock?</p>,1,one,
+*,<p>Does/go</p>
+,<p>Do/go</p>
+,<p>Does/goes</p>
+<p>We  ______ on Sunday.</p>,1,one,
+,<p>walks</p>
+*,<p>walk</p>
+,<p>to walk</p>
+<p>My friend  _______ lunch at eleven o'clock.</p>,1,one,
+,<p>have</p>
+,<p>haves</p>
+*,<p>has</p>
+<p>____ you  ______ to school at half past eight?</p>,1,one,
+*,<p>Do/go</p>
+,<p>Does/go</p>
+,<p>Do/goes</p>
+<p>____ she _______ letters every day?</p>,1,one,
+,<p>Do/writes</p>
+*,<p>Does/write</p>
+,<p>Do/write</p>
+<p>My grandfather ________ face and hands at eight o'clock.</p>,1,one,
+,<p>wash</p>
+,<p>to washes</p>
+*,<p>washes</p>

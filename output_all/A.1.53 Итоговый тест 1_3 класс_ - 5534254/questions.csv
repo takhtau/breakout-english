@@ -1,0 +1,37 @@
+HTML
+<p>Who are ___ women? They are my aunts.</p>,1,one,
+,<p>this</p>
+,<p>that</p>
+*,<p>those</p>
+<p>Put on shoes on your ___.</p>,1,one,
+,<p>foot</p>
+*,<p>feet</p>
+,<p>toes</p>
+<p>___ in our class went to mountains last year.</p>,1,one,
+,<p>Something</p>
+*,<p>Somebody</p>
+,<p>Anybody</p>
+<p>Why _______ the moon yesterday?</p>,1,one,
+,<p>do you watch</p>
+,<p>are you watching</p>
+*,<p>did you watch</p>
+<p>Days are ___ in autumn.</p>,1,one,
+*,<p>short</p>
+,<p>shorter</p>
+,<p>the shortest</p>
+<p>We ___ English well. I hope.</p>,1,one,
+*,<p>speak</p>
+,<p>will speak</p>
+,<p>shall speak</p>
+"<p>My birthday is ___ March, 2nd.</p>",1,one,
+,<p>in</p>
+*,<p>on</p>
+,<p>at</p>
+<p>An ___ is bigger than a sea.</p>,1,one,
+*,<p>ocean</p>
+,<p>lake</p>
+,<p>river</p>
+<p>Who ___ this greeting card? I got it for my birthday.</p>,1,one,
+,<p>makes</p>
+,<p>is making</p>
+*,<p>made</p>

@@ -1,0 +1,25 @@
+HTML
+<p>Mandy tells Steven </p>,1,one,
+,<p>she is busy</p>
+,<p>he needs company </p>
+*,<p>he is welcome to join her</p>
+<p>Mandy</p>,1,one,
+,<p>only got one festival ticket </p>
+*,<p>offers a festival ticket to Steven</p>
+,<p>wasn't able to buy a festival ticket </p>
+<p>Steven asks Mandy</p>,1,one,
+,<p>if he can go alone to the festival </p>
+,<p>if Blue Moon is her favourite band </p>
+*,<p>if she has a list of the festival bands</p>
+<p>Many advises Steven to bring </p>,1,one,
+,<p>a rucksack </p>
+,<p>food </p>
+*,<p>sun cream</p>
+<p>Steven says the park gates open at</p>,1,one,
+,<p>9.45 am</p>
+*,<p>10 am </p>
+,<p>9.30 am</p>
+<p>Steven is worried about </p>,1,one,
+,<p>arriving late at Mandy's </p>
+,<p>his dad letting him go to the festival </p>
+*,<p>how safe the festival is </p>

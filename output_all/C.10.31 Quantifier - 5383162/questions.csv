@@ -1,0 +1,31 @@
+HTML
+<p>I need__________boxes</p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+<p>We haven't got_________time. </p>,1,one,
+*,<p>much</p>
+,<p>few</p>
+<p>There are__________skirts to choose from!</p>,1,one,
+,<p>much</p>
+*,<p>a lot of</p>
+<p>There is__________juice in the glass. </p>,1,one,
+,<p>any </p>
+*,<p>some</p>
+<p>There isn't_________coffee left. </p>,1,one,
+,<p>many </p>
+*,<p>any</p>
+<p>There aren't__________pens on the desk. </p>,1,one,
+,<p>much</p>
+*,<p>any</p>
+<p>There is_________milk in the fridge. </p>,1,one,
+,<p>many </p>
+*,<p>some</p>
+<p>We have___________time.</p>,1,one,
+*,<p>a lot of </p>
+,<p>a few</p>
+<p>We haven't got__________notebooks. </p>,1,one,
+*,<p>many </p>
+,<p>a few</p>
+<p>There isn't___________tea left. </p>,1,one,
+,<p>many </p>
+*,<p>much</p>

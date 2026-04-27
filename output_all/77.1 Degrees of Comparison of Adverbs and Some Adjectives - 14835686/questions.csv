@@ -1,0 +1,49 @@
+HTML
+<p>The teacher spoke ----- to help us to understand.</p>,1,one,
+,<p>more slow</p>
+*,<p>more slowly</p>
+,<p>more slower</p>
+"<p>Could you talk -----, please? The children are asleep.</p>",1,one,
+*,<p>more quietly</p>
+,<p>quieter</p>
+,<p>the most quietly</p>
+<p>She draws ----- in our family.</p>,1,one,
+,<p>the most beautiful</p>
+,<p>more beautifully</p>
+*,<p>the most beautifully</p>
+<p>She draws ----- when she is relaxed.</p>,1,one,
+*,<p>most beautifully</p>
+,<p>the most beautifully</p>
+,<p>the more beautiful</p>
+<p>Jim works ----- than his brother.</p>,1,one,
+,<p>more harder</p>
+,<p>the hardest</p>
+*,<p>harder</p>
+"<p>Everyone in the race ran -----, but John ran ----- of all.</p>",1,one,
+,<p>faster; the fast</p>
+,<p>the faster; fastest</p>
+*,<p>fast; the fastest</p>
+<p>You're driving ----- today than yesterday!</p>,1,one,
+*,<p>worse</p>
+,<p>badder</p>
+,<p>the worst</p>
+<p>What is ----- news?</p>,1,one,
+,<p>laster</p>
+,<p>later</p>
+*,<p>the latest</p>
+<p>That was ----- time we met and I have never seen him since then.</p>,1,one,
+,<p>late</p>
+*,<p>the last</p>
+,<p>the latest</p>
+<p>Now Tom plays the guitar ----- than he did last year.</p>,1,one,
+*,<p>better</p>
+,<p>best</p>
+,<p>good</p>
+"<p>Would you speak a little -----, please?</p>",1,one,
+,<p>loud</p>
+,<p>more loud</p>
+*,<p>louder</p>
+<p>He arrives ----- of all the employees.</p>,1,one,
+,<p>early</p>
+*,<p>the earliest</p>
+,<p>earlier</p>

@@ -1,0 +1,49 @@
+HTML
+<p>He is ... best friend.</p>,1,one,
+*,<p>my</p>
+,<p>mine</p>
+,<p>me</p>
+<p>Who told him? - It was ...</p>,1,one,
+,<p>my</p>
+,<p>I</p>
+*,<p>me</p>
+<p>He is taller than ...</p>,~1,one,
+,<p>I</p>
+*,<p>me</p>
+,<p>mine</p>
+<p>He is ... son.</p>,1,one,
+*,<p>my</p>
+,<p>mine</p>
+,<p>me</p>
+<p>This book is ...</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>me</p>
+<p>You're glad to meet ...</p>,1,one,
+,<p>I</p>
+,<p>mine</p>
+*,<p>me</p>
+<p>She knows ... mum.</p>,1,one,
+*,<p>my</p>
+,<p>mine</p>
+,<p>me</p>
+<p>This task was given to ...</p>,1,one,
+,<p>I</p>
+*,<p>me</p>
+,<p>mine</p>
+<p>Give it to ...</p>,1,one,
+,<p>I</p>
+,<p>my</p>
+*,<p>me</p>
+<p>They don't like ... cat.</p>,1,one,
+*,<p>my</p>
+,<p>mine</p>
+,<p>me</p>
+<p>This song is ...</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>I</p>
+<p>Tell him not to forget ... money.</p>,1,one,
+,<p>mine</p>
+,<p>me</p>
+*,<p>my</p>

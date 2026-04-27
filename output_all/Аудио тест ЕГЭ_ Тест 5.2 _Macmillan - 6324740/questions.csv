@@ -1,0 +1,29 @@
+HTML
+<p>A Rob did a lot of walking during his trip to Paris. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>B Jessica didn't go to Paris with Rob because of her job.</p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>C Jessica has moved house many times before. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>D Rob didn't have to wait in a queue to climb the stairs. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>E Rob used the lift to get back down from the tower. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>F Rob visited several places the day he visited the Louvre. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>G Jessica will try to convince her parents to take her to Paris. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>

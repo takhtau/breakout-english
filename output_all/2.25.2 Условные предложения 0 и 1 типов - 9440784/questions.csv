@@ -1,0 +1,49 @@
+HTML
+"<p>If I (to live) in Moscow, I (to visit) the Tretyakov Art Gallery every year.</p>",1,one,
+*,<p>live/will visit</p>
+,<p>will live/will visit</p>
+,<p>live/visit</p>
+"<p>If I (to live) near a forest, I (to gather) a lot of mushrooms.</p>",1,one,
+,<p>lives/will gather</p>
+*,<p>live/will gather</p>
+,<p>will live/will gather</p>
+"<p>If my father (to return) early, we (to watch) TV together.</p>",1,one,
+,<p>will return/will watch</p>
+,<p>return/watch</p>
+*,<p>returns/will watch</p>
+"<p>If she (to know) English, she (to try) to enter the university.</p>",1,one,
+*,<p>knows/will try</p>
+,<p>know/will try</p>
+,<p>will know/will try</p>
+"<p>If I (not to be) too busy, I (to go) to the concert.</p>",1,one,
+,<p>don't be/go</p>
+*,<p>am not/will go</p>
+,<p>am not/goes</p>
+<p>They (to be) surprised if I (to make) such a mistake.</p>,1,one,
+,<p>are/will make</p>
+,<p>will be/makes</p>
+*,<p>will be/make</p>
+"<p>If she (to clean) a flat, she (to listen) to the radio.</p>",1,one,
+*,<p>cleans/will listen</p>
+,<p>will clean/listens</p>
+,<p>clean/will listen</p>
+"<p>If he (not to eat), he (to get) hungry. </p>",1,one,
+,<p>won't eat/get</p>
+*,<p>doesn't eat/gets</p>
+,<p>don't eat/gets</p>
+"<p>If children (to watch) TV in the evening, they (not to sleep). </p>",1,one,
+,<p>watch/doesn't sleep</p>
+,<p>will watch/won't sleep</p>
+*,<p>watch/won't sleep</p>
+"<p>People (to get) fat, if they (to eat) too much.</p>",1,one,
+*,<p>get/eat</p>
+,<p>get/will eat</p>
+,<p>gets/eats</p>
+<p>The students (to be) punished if they (not to do) their homework </p>,1,one,
+,<p>are/won't do</p>
+,<p>are/don't do</p>
+*,<p>will be/don't do</p>
+<p>A computer (not to work) if you (to unplug) it </p>,1,one,
+,<p>won't work/will unplug</p>
+,<p>don't work/unplug</p>
+*,<p>doesn't work/unplug</p>

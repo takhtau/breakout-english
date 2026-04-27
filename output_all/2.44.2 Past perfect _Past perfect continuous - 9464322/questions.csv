@@ -1,0 +1,49 @@
+HTML
+<p>I (to finish) my homework by seven o’clock.</p>,1,one,
+*,<p>had finished</p>
+,<p>had been finishing </p>
+,<p>had finishing </p>
+<p>He thought that he (to lose) the money.</p>,1,one,
+,<p>had been lost</p>
+*,<p>had lost</p>
+,<p>had been loosing </p>
+<p>Ann told me that she (to see) an interesting film.</p>,1,one,
+,<p>had been seen </p>
+,<p>had been seeing </p>
+*,<p>had seen</p>
+"<p>When I came home, mother already (to cook) dinner.</p>",1,one,
+*,<p>had cooked</p>
+,<p>had been cooking </p>
+,<p>had been cooked</p>
+"<p>When father returned from work, we already (to do) our homework.</p>",1,one,
+,<p>had been done</p>
+*,<p>had done</p>
+,<p>had been doing</p>
+"<p>When the teacher entered the classroom, the pupils already (to open) their books.</p>",1,one,
+*,<p>had opened</p>
+,<p>had been opening </p>
+,<p>had been opened </p>
+<p>My sister (to practise) for two months before that concert.</p>,1,one,
+,<p>had practiced </p>
+*,<p>had been practising</p>
+,<p>had been practised </p>
+<p>The boys (to fish) for three hours before Tom caught the first fish. </p>,1,one,
+,<p>had fished </p>
+,<p>had been fished </p>
+*,<p>had been fishing </p>
+<p>We … (to discuss) that problem for more than an hour before we found the right solution.</p>,1,one,
+*,<p>had been discussing </p>
+,<p>had discussed </p>
+,<p>had been discussed </p>
+<p>Henry (to wait) for half an hour before he saw his girlfriend getting off the tram.</p>,1,one,
+,<p>had waited</p>
+*,<p>had been waiting </p>
+,<p>had been waited </p>
+<p>Driving to the hospital was difficult as it (to snow) all night.</p>,1,one,
+,<p>had snowed </p>
+*,<p>had been snowing </p>
+,<p>had been snowed</p>
+<p>Polly (to study) economy since she entered university </p>,1,one,
+,<p>had been studied</p>
+,<p>had studied</p>
+*,<p>had been studying </p>

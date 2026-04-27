@@ -1,0 +1,45 @@
+HTML
+<p>He has already (to learn) the rule.</p>,1,one,
+,<p>learn</p>
+,<p>learning </p>
+*,<p>learnt</p>
+<p>Have you ever (to read) any stories by Jack London?</p>,1,one,
+,<p>reading </p>
+*,<p>read </p>
+,<p>reads</p>
+<p>Have you just (to hear) tomorrow’s weather forecast?</p>,1,one,
+,<p>hear</p>
+*,<p>heard </p>
+,<p>hearing </p>
+<p>I have (to read) this interesting book lots of times.</p>,1,one,
+*,<p>read </p>
+,<p>reading </p>
+,<p>reads </p>
+<p>I don’t think he has ever (to do) it.</p>,1,one,
+,<p>did </p>
+*,<p>done</p>
+,<p>doing</p>
+<p>They just (to give) you a pay rise.</p>,1,one,
+*,<p>have given </p>
+,<p>have gave</p>
+,<p>has given</p>
+<p>____you only (to have) a piece of cake? You (not to eat) much.</p>,1,one,
+*,<p>Have you only had/haven't eaten </p>
+,<p>Has you only had/hasn't eaten </p>
+,<p>Are you only having/aren't eating </p>
+<p>How long you (to be) sick?</p>,1,one,
+*,<p>have you been </p>
+,<p>has you been </p>
+,<p>are you being </p>
+<p>You (to see) any good movies recently?</p>,1,one,
+,<p>Has you seen </p>
+,<p>Did you see</p>
+*,<p>Have you seen</p>
+<p>Mike (to leave) for work yet?</p>,1,one,
+,<p>Have Mike left </p>
+*,<p>Has Mike left </p>
+,<p>Did Mike leave </p>
+<p>How long you (to know) each other?</p>,1,one,
+,<p>Has you known</p>
+*,<p>have you known </p>
+,<p>did you know</p>

@@ -1,0 +1,49 @@
+HTML
+"<p>If a bee ________ a person, it _______ . </p>",1,one,
+*,<p>bites/dies</p>
+,<p>bite/dies </p>
+,<p>bite/died</p>
+"<p>If people ______ a lot, they ______ fat. </p>",1,one,
+,<p>ate/get</p>
+*,<p>eat/get</p>
+,<p>eat/got</p>
+"<p>If you ______ in the sun very long, you _________ sunburned</p>",1,one,
+,<p>stay/became</p>
+,<p>stays/becomes</p>
+*,<p>stay/become </p>
+"<p>If a baby ___ hungry, it ________ . </p>",1,one,
+*,<p>is/cries </p>
+,<p>are/cries </p>
+,<p>is/cry </p>
+"<p>If you __________ me, I _______ the exam tomorrow</p>",1,one,
+,<p>doesn’t help/won’t pass</p>
+*,<p>don’t help/won’t pass </p>
+,<p>won’t help/don’t pass</p>
+<p>We ______ this car if you _______ us a discount </p>,1,one,
+,<p>will buy/gives</p>
+,<p>buy/will give</p>
+*,<p>will buy/give </p>
+"<p>If my dad ________his tools, he ______ to repair my bike.</p>",1,one,
+*,<p>finds/will be able </p>
+,<p>find/will be able</p>
+,<p>will find/be able</p>
+"<p>If David __________ smoking, Liza __________ him.</p>",1,one,
+,<p>don’t give up/ won’t marry</p>
+*,<p>doesn’t give up/ won’t marry </p>
+,<p>won’t give up/ don’t marry</p>
+<p>Mary __________ her friends from Italy if she_________ to the party </p>,1,one,
+*,<p>will meet/comes </p>
+,<p>will meet/come</p>
+,<p>meet/will come</p>
+"<p>If you___________ me the money, I_________ you back next month </p>",1,one,
+,<p>lends/will pay</p>
+,<p>will lend/pay</p>
+*,<p>lend/will pay </p>
+<p>They _______ you into the cinema if you__________ your tickets </p>,1,one,
+*,<p>won’t let/lose </p>
+,<p>won’t let/loses</p>
+,<p>don’t let/ will lose</p>
+"<p>If my sister _______ to Japan, she_________ a kimono for me </p>",1,one,
+,<p>travel/will buy</p>
+,<p>will travel/ buy</p>
+*,<p>travels/will buy</p>

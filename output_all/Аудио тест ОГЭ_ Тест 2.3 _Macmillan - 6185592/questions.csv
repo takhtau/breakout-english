@@ -1,0 +1,25 @@
+HTML
+"<p>For breakfast today, Josh is going to have</p>",1,one,
+,<p>cereal</p>
+*,<p>bacon and eggs </p>
+,<p>fruit </p>
+<p>Josh wants to buy a pair of shorts because</p>,1,one,
+,<p>he doesn't like the ones he's wearing </p>
+,<p>he didn't bring any shorts with him</p>
+*,<p>his old shorts are in bad condition</p>
+<p>Josh orders books online because</p>,1,one,
+,<p>it's quicker</p>
+*,<p>there's a bigger selection</p>
+,<p>it costs less</p>
+<p>Josh would most like to go to</p>,1,one,
+*,<p>a bookshop</p>
+,<p>the museum </p>
+,<p>a cafe</p>
+"<p>At the museum, Josh is interested in seeing </p>",1,one,
+,<p>old maps and photos </p>
+*,<p>an old ship </p>
+,<p>some things from ships </p>
+"<p>With his breakfast, Josh will have</p>",1,one,
+,<p>water </p>
+,<p>milk </p>
+*,<p>orange juice </p>

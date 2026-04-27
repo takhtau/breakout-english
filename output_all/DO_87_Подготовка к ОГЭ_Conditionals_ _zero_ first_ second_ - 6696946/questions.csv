@@ -1,0 +1,18 @@
+HTML
+"<p>If we <strong>will go</strong> shopping tomorrow, I'll probably buy a new top. </p>",1,,
+*,go
+"<p>If Mum is tired tonight, I <strong>cook</strong> dinner. </p>",1,,
+*,will cook
+*,'ll cook
+<p>John will tell us if there <strong>will be</strong> any news. </p>,1,,
+*,is
+"<p>If I <strong>won't</strong> get a good mark in the geography test, I'll be very annoyed! </p>",1,,
+*,don't
+<p>You <strong>are</strong> tired in the morning if you don't go to bed soon. </p>,1,,
+*,will be
+"<p>If you see Karen, <strong>do</strong> you ask her to call me? </p>",1,,
+*,will
+<p><strong>Does</strong> Frank come with us if we go to the beach at the weekend. </p>,1,,
+*,Will
+"<p>If you need help, <strong>will tell</strong> me!</p>",1,,
+*,tell

@@ -1,0 +1,25 @@
+HTML
+<p>Roger says he would prefer to work </p>,1,one,
+,<p>in a music shop</p>
+*,<p>in a library </p>
+,<p>in a coffee shop</p>
+<p>Amy's sister lost her job because she </p>,1,one,
+,<p>she was rude to people</p>
+,<p>was late for work</p>
+*,<p>couldn't do the duties</p>
+<p>Roger wants to work for a weekly total of</p>,1,one,
+*,<p>less than fifteen hours </p>
+,<p>exactly fifteen hours </p>
+,<p>more than fifteen hours </p>
+<p>Amy thinks about bosses</p>,1,one,
+,<p>are usually flexible </p>
+*,<p>are not always flexible </p>
+,<p>are never flexible </p>
+"<p>At his interview, Roger was told to ask for time off</p>",1,one,
+*,<p>several days before </p>
+,<p>the day before </p>
+,<p>whenever he liked</p>
+<p>The earliest Roger would begin working is </p>,1,one,
+,<p>after he leaves school </p>
+,<p>in two days </p>
+*,<p>after his exam </p>

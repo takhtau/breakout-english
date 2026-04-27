@@ -1,0 +1,41 @@
+HTML
+<p>I am going ___ home in about half an hour.</p>,1,one,
+*,<p>-</p>
+,<p>to</p>
+,<p>at</p>
+<p>I've been ___ work for the past two hours.</p>,1,one,
+,<p>-</p>
+,<p>to</p>
+*,<p>at</p>
+<p>I'm going ___ camping this weekend.</p>,1,one,
+*,<p>-</p>
+,<p>to</p>
+,<p>at</p>
+<p>I have to go ___ work in about ten minutes.</p>,1,one,
+,<p>-</p>
+*,<p>to</p>
+,<p>at</p>
+<p>I saw Sarah on the street ___ yesterday</p>,1,one,
+*,<p>-</p>
+,<p>on</p>
+,<p>in</p>
+<p>I saw her ___ the fourth of July.</p>,1,one,
+,<p>-</p>
+*,<p>on</p>
+,<p>in</p>
+<p>I saw her ___ last week.</p>,1,one,
+*,<p>-</p>
+,<p>on</p>
+,<p>in</p>
+<p>I saw her ___ the mail in Glendale.</p>,1,one,
+,<p>-</p>
+,<p>to</p>
+*,<p>at</p>
+<p>We are planning to go ___ Santa Monica beach this afternoon.</p>,1,one,
+,<p>-</p>
+*,<p>to</p>
+,<p>at</p>
+<p>We are planning to go ___ swimming this afternoon.</p>,1,one,
+*,<p>-</p>
+,<p>to</p>
+,<p>at</p>

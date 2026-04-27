@@ -1,0 +1,61 @@
+HTML
+<p>The company doesn't take _______ steps.</p>,1,one,
+,<p>no</p>
+*,<p>any</p>
+,<p>little</p>
+<p>There isn't ________ water in the kettle.</p>,1,one,
+,<p>a few</p>
+,<p>many</p>
+*,<p>much</p>
+<p>Have you got ________ kids in your class? </p>,1,one,
+,<p>little</p>
+*,<p>many</p>
+,<p>much</p>
+<p>There are ________ toys for children.</p>,1,one,
+,<p>the no</p>
+,<p>little</p>
+*,<p>few</p>
+<p>Climb _______ the tree! (вниз)</p>,1,one,
+,<p>across</p>
+,<p>out of</p>
+*,<p>down</p>
+<p>Ducks go _______ the road. (поперек)</p>,1,one,
+,<p>away</p>
+*,<p>across</p>
+,<p>down</p>
+<p>Take the cat _______ the box. (из)</p>,1,one,
+*,<p>out of</p>
+,<p>towards</p>
+,<p>over</p>
+<p>Peter ran _______ from home twice. (прочь)</p>,1,one,
+*,<p>away</p>
+,<p>over</p>
+,<p>in</p>
+"<p>You _____ know me, how can you be sure? </p>",1,one,
+*,<p>hardly</p>
+,<p>hard </p>
+,<p>hardely</p>
+<p>I don't feel very ______ . </p>,1,one,
+,<p>goodly</p>
+,<p>welly</p>
+*,<p>well</p>
+<p>Ted wrote the test________ . </p>,1,one,
+,<p>bad</p>
+,<p>badlly </p>
+*,<p>badly </p>
+<p>He ____ just ____ home.</p>,1,one,
+*,<p>has/come</p>
+,<p>have/come</p>
+,<p>did/come</p>
+<p>He ______ home a minute ago.</p>,1,one,
+,<p>has come</p>
+*,<p>came</p>
+,<p>have come</p>
+<p>Nick _______ football yesterday.</p>,1,one,
+,<p>has played</p>
+,<p>have played</p>
+*,<p>played</p>
+<p>She ____ already _____ from school.</p>,1,one,
+*,<p>has/come</p>
+,<p>have/come</p>
+,<p>did/come</p>

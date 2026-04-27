@@ -1,0 +1,41 @@
+HTML
+<p>She was a very good-looking woman with _____ hair.</p>,1,one,
+,<p>dark long lovely</p>
+,<p>lovely dark long</p>
+*,<p>lovely long dark</p>
+<p>When we were in London we saw a _____ policeman.</p>,1,one,
+*,<p>tall young London</p>
+,<p>London young tall</p>
+,<p>young tall London</p>
+<p>She visited a _____ school.</p>,1,one,
+,<p>German medical famous</p>
+*,<p>famous German medical</p>
+,<p>German famous medical</p>
+<p>My parents bought a _____ desk yesterday.</p>,1,one,
+*,<p>charming French writing</p>
+,<p>writing charming French</p>
+,<p>charming writing French</p>
+<p>There is a _____ box near the window.</p>,1,one,
+,<p>iron square large</p>
+,<p>square large iron</p>
+*,<p>large square iron</p>
+<p>There is a _____ table in the middle of the room.</p>,1,one,
+*,<p>small old round</p>
+,<p>round small old</p>
+,<p>old small round</p>
+<p>I saw a _____ carpet in their house.</p>,1,one,
+,<p>green large Chinese</p>
+*,<p>large green Chinese</p>
+,<p>large Chinese green</p>
+<p>Missy has a _____ coat.</p>,1,one,
+,<p>brown old dirty</p>
+,<p>old brown dirty</p>
+*,<p>dirty old brown</p>
+<p>My teacher gave me a _____ book last week.</p>,1,one,
+*,<p>new red English</p>
+,<p>red new English</p>
+,<p>new English red</p>
+<p>Tom wants to buy a _____ car.</p>,1,one,
+*,<p>big new black</p>
+,<p>black new big</p>
+,<p>big black new</p>

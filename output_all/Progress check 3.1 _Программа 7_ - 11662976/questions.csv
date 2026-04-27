@@ -1,0 +1,61 @@
+HTML
+<p>I have breakfast in ___ morning.</p>,1,one,
+,<p>a</p>
+,<p>-</p>
+*,<p>the</p>
+<p>I have got a dog.  __ dog is black.</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+,<p>-</p>
+<p>___ sky is blue.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>__sun is yellow.</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+,<p>an</p>
+<p>My father is ______ teacher.</p>,1,one,
+,<p>the</p>
+,<p>an</p>
+*,<p>a</p>
+<p>Look!  ___ bird is flying up!</p>,1,one,
+*,<p>the</p>
+,<p>-</p>
+,<p>a</p>
+<p>There _______ beautiful trees in the garden. </p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>There_____ a cat on the table.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There_____ 3 dogs in the box. </p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>There _____4 cats in the house.</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>Why ___ your parents angry at you?</p>,1,one,
+*,<p>are</p>
+,<p>am</p>
+,<p>is</p>
+<p>______is  your dog hungry?</p>,1,one,
+*,<p>Why</p>
+,<p>What</p>
+,<p>Where</p>
+<p>_____ are your favourite flowers?</p>,1,one,
+*,<p>What</p>
+,<p>When</p>
+,<p>Why</p>
+<p> _____ are you at home?</p>,1,one,
+,<p>Where</p>
+,<p>What</p>
+*,<p>When</p>
+<p>___are these pets?</p>,1,one,
+*,<p>How old</p>
+,<p>When</p>
+,<p>Why</p>
+<p>______colour is your bag?</p>,1,one,
+*,<p>What</p>
+,<p>When</p>
+,<p>Why</p>

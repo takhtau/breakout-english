@@ -1,0 +1,33 @@
+HTML
+<p>Look at the elephant! It __________ a long nose.</p>,1,one,
+*,<p>has got</p>
+,<p>have got</p>
+,<p>hasn't got</p>
+<p>There isn't ________ milk in the fridge.</p>,1,one,
+,<p>a</p>
+,<p>some</p>
+*,<p>any</p>
+<p>What are you doing now? __________ a picture.</p>,1,one,
+,<p>I draw</p>
+*,<p>I am drawing</p>
+,<p>I drawing</p>
+<p>__________ you go to school every day?</p>,1,one,
+*,<p>Do </p>
+,<p>Are</p>
+,<p>Does</p>
+<p>She ____________ her room every Monday.</p>,1,one,
+,<p>visits</p>
+*,<p>tidies</p>
+,<p>tidy</p>
+<p>He __________ to the park yesterday.</p>,1,one,
+,<p>goes</p>
+,<p>go</p>
+*,<p>went</p>
+<p>She always ____________ her homework in the afternoon.</p>,1,one,
+,<p>do</p>
+,<p>is doing</p>
+*,<p>does</p>
+<p>The cow is _______________ than the tiger.</p>,1,one,
+*,<p>slower</p>
+,<p>more slow</p>
+,<p>slow</p>

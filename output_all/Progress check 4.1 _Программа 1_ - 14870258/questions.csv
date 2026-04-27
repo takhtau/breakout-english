@@ -1,0 +1,53 @@
+HTML
+<p>I ----- to driving on the left because I’ve lived in Britain a long time.</p>,1,one,
+,<p>used</p>
+*,<p>’m used</p>
+,<p>’m not used</p>
+"<p>I ----- to drive to work every day, but these days I usually go by bike.</p>",1,one,
+*,<p>used</p>
+,<p>’m used</p>
+,<p>didn’t use</p>
+<p>I lost one of my gloves. I must ----- it somewhere.</p>,1,one,
+,<p>dropped</p>
+,<p>be drop</p>
+*,<p>have dropped</p>
+<p>Why hasn’t Sarah replied to my message? I suppose she might not ----- it.</p>,1,one,
+,<p>be received</p>
+*,<p>have received</p>
+,<p>receive</p>
+<p>She shouldn’t ----- to our conversation. It was private.</p>,1,one,
+,<p>listen</p>
+,<p>be listening</p>
+*,<p>have been listening</p>
+<p>You went to bed very late last night. You should ----- to bed earlier.</p>,1,one,
+,<p>go</p>
+,<p>have been going</p>
+*,<p>have gone</p>
+<p>Why did he get up at 5 o’clock? He needn’t ----- up so early. He could ----- in bed longer.</p>,1,one,
+*,<p>have got; have stayed</p>
+,<p>get; be staying</p>
+,<p>be getting; stayed</p>
+<p>Why is she so late? She should be here by now. She can’t ----- about our agreement.</p>,1,one,
+,<p>forgot</p>
+*,<p>have forgotten</p>
+,<p>forget</p>
+<p>She can't ----- lies now after so much ordeal we’ve gone through.</p>,1,one,
+*,<p>be telling</p>
+,<p>telling</p>
+,<p>told</p>
+<p>He made me ----- an awful fool.</p>,1,one,
+,<p>to feel</p>
+*,<p>feel</p>
+,<p>felt</p>
+<p>Don’t let him ----- you.</p>,1,one,
+*,<p>manipulate</p>
+,<p>to manipulate</p>
+,<p>manipulating</p>
+<p>He wants the problem ----- as soon as possible.</p>,1,one,
+,<p>to solve</p>
+,<p>be solved</p>
+*,<p>to be solved</p>
+"<p>----- you apologise, ----- I’ll never speak to you again.</p>",1,one,
+,<p>Neither; nor</p>
+*,<p>Either; or</p>
+,<p>Both; and</p>

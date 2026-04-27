@@ -1,0 +1,49 @@
+HTML
+<p>October is the _______ month of the year.</p>,1,one,
+*,<p>tenth </p>
+,<p>ten</p>
+,<p>tened </p>
+<p>December is the _________ month of the year.</p>,1,one,
+,<p>twelve </p>
+,<p>twelves </p>
+*,<p>twelfth </p>
+<p>Monday is the ______ day of the week. </p>,1,one,
+,<p>one</p>
+*,<p>first</p>
+,<p>ones </p>
+<p>Tuesday is the _______ day of the week.</p>,1,one,
+*,<p>second </p>
+,<p>two </p>
+,<p>twos </p>
+<p>St. Valentine’s Day is on (14.02).</p>,1,one,
+,<p>the fourteen of February</p>
+*,<p>the fourteenth of February</p>
+,<p>the fourteenth in February</p>
+<p>Halloween is on (31.10). </p>,1,one,
+,<p>the thirty-first in October</p>
+,<p>the thirty-one of October</p>
+*,<p>the thirty-first of October</p>
+<p>My cat was born on (3.11)</p>,1,one,
+*,<p>the third of november</p>
+,<p>the third in november</p>
+,<p>the three of november</p>
+<p>My sister was born in (2000)</p>,1,one,
+,<p>two thousands</p>
+*,<p>two thousand </p>
+,<p>second thousand</p>
+<p>We got married on (20.05.2017)</p>,1,one,
+*,"<p>May of twentieth, two thousand seventeen</p>"
+,"<p>May in twentieth, two thousand seventeen</p>"
+,"<p>May of twentieth, two thousands seventeen</p>"
+<p>I was born on (5.06)</p>,1,one,
+,<p>the five of June </p>
+*,<p>the fifth of June </p>
+,<p>the fifth in June </p>
+<p>It was discovered in (1999)</p>,1,one,
+*,<p>nineteen ninety-nine </p>
+,<p>nineteenth ninety-nine </p>
+,<p>nineteen ninety-nineth </p>
+<p>Tomorrow is ________. (18.03)</p>,1,one,
+,<p>March eighteen</p>
+*,<p>March eighteenth</p>
+,<p>March of eighteenth</p>

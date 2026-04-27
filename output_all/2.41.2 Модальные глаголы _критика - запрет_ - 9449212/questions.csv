@@ -1,0 +1,49 @@
+HTML
+<p>You ... cross the street here.</p>,~1,one,
+*,<p>can't</p>
+,<p>might not</p>
+,<p>don't have to</p>
+<p>You ... speak to a prisoner in a foreign language.</p>,1,one,
+,<p>shouldn't</p>
+*,<p>mustn't</p>
+,<p>may not</p>
+<p>You aren't ... go for a walk at night.</p>,1,one,
+,<p>might not</p>
+,<p>can't</p>
+*,<p>allowed to</p>
+"<p>You ... get your feet wet, because you might fall ill.</p>",1,one,
+*,<p>mustn't </p>
+,<p>allowed to</p>
+,<p>can</p>
+<p>You aren't .... drink alcohol here.</p>,1,one,
+,<p>can</p>
+*,<p>allowed to</p>
+,<p>need</p>
+<p>You ... treat me like this.</p>,1,one,
+,<p>may not</p>
+,<p>allowed to</p>
+*,<p>shouldn't </p>
+"<p>She was feeling unwell the whole day yesterday, she ... have gone to the office.</p>",1,one,
+*,<p>shouldn't </p>
+,<p>can't</p>
+,<p>didn't have to</p>
+"<p>You don't remember what I said, you ... have listened more carefully.</p>",1,one,
+,<p>can't</p>
+*,<p>should</p>
+,<p>may</p>
+"<p>You ... have told anyone, that was a secret.</p>",~1,one,
+,<p>might not</p>
+,<p>can't</p>
+*,<p>shouldn't</p>
+<p>People aren't ... smoke there.</p>,1,one,
+*,<p>allowed to</p>
+,<p>must</p>
+,<p>might</p>
+"<p>You ... have missed the lessons, you failed the test.</p>",1,one,
+,<p>can't</p>
+,<p>may</p>
+*,<p>shouldn't</p>
+"<p>You ... go there, it is prohibited.</p>",1,one,
+*,<p>mustn't </p>
+,<p>might not</p>
+,<p>allowed to</p>

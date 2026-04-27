@@ -1,0 +1,49 @@
+HTML
+<p>I am angry with __________.</p>,1,one,
+*,<p>myself</p>
+,<p>yourself </p>
+,<p>himself </p>
+<p>He fell down and hurt __________.</p>,1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>himself </p>
+<p>Tell me more about __________.</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>
+<p>Did you translate the text __________.</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>
+"<p>The knife was sharp, and she cut __________.</p>",1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>herself</p>
+<p>Can you do many things _________?</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>
+<p>Does your friend Nick often talk to you about _________?</p>,1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>himself </p>
+<p>Did your mother buy anything for _________ last week?</p>,1,one,
+,<p>myself</p>
+*,<p>herself</p>
+,<p>himself </p>
+<p>He came into the room and introduced ___________</p>,1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>himself </p>
+"<p>Children, you can't do that ___________</p>",1,one,
+,<p>myself</p>
+*,<p>yourselves</p>
+,<p>himself </p>
+<p>They always speak only about ___________</p>,1,one,
+*,<p>themselves</p>
+,<p>yourself </p>
+,<p>himself </p>
+<p>Babies cannot look after ___________</p>,1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>themselves </p>

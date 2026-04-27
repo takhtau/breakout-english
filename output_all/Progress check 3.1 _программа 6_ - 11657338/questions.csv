@@ -1,0 +1,65 @@
+HTML
+<p>How old ___ your parents?</p>,1,one,
+,<p>am</p>
+*,<p>are</p>
+,<p>is</p>
+<p>Why ___ you sad?</p>,1,one,
+,<p>am</p>
+*,<p>are</p>
+,<p>is</p>
+<p>How old ___ your dog?</p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>are</p>
+<p>When ___ checkout time? </p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+,<p>am</p>
+<p>What_____you know about math? </p>,1,one,
+*,<p>do</p>
+,<p>does</p>
+,<p>did</p>
+<p>Who_______he? </p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>are</p>
+<p>Where _____these women from? </p>,1,one,
+,<p>am</p>
+,<p>is</p>
+*,<p>are</p>
+<p>What_____he do every Sunday? </p>,1,one,
+,<p>do</p>
+*,<p>does</p>
+,<p>did</p>
+<p>I write a letter to my parents. I write a letter to ___. </p>,1,one,
+,<p>him</p>
+*,<p>them</p>
+,<p>they</p>
+<p>I talk about you. - Do you talk about ___? </p>,1,one,
+*,<p>me</p>
+,<p>you</p>
+,<p>it</p>
+<p>He is a good man. I know ___ very well. </p>,1,one,
+,<p>he</p>
+,<p>her</p>
+*,<p>him</p>
+<p>We are in front of him. He looks at ___. </p>,1,one,
+,<p>we</p>
+,<p>them</p>
+*,<p>us</p>
+<p>_______ (никто) could answer my question.</p>,1,"one, shuffle",
+*,<p>Nobody</p>
+,<p>Nothing</p>
+,<p>Nowhere</p>
+<p>________ (всё)  is fine at the moment.</p>,1,"one, shuffle",
+,<p>Everyone</p>
+*,<p>Everything</p>
+,<p>Nowhere</p>
+<p>I'll _________(всегда)  remember that day.</p>,1,"one, shuffle",
+*,<p>always</p>
+,<p>nothing</p>
+,<p>sometimes</p>
+<p>I buy ( что-то)_______ every day.</p>,1,"one, shuffle",
+*,<p>something</p>
+,<p>nothing</p>
+,<p>nowhere</p>

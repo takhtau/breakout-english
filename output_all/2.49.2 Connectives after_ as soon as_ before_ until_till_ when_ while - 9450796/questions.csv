@@ -1,0 +1,49 @@
+HTML
+<p>I will go on a diet ... the holidays.</p>,1,one,
+*,<p>after</p>
+,<p>as soon as</p>
+,<p>while</p>
+<p>I think I will order dessert ... dinner.</p>,1,one,
+,<p>when</p>
+*,<p>after</p>
+,<p>as soon as</p>
+"<p>... the bus arrived, the passengers rushed to board it. </p>",1,one,
+,<p>While</p>
+,<p>Till</p>
+*,<p>As soon as</p>
+"<p>... the bell rang, the students ran out of the class. </p>",1,one,
+*,<p>As soon as</p>
+,<p>Until </p>
+,<p>While</p>
+<p>I need to have the letter ... Friday. </p>,1,one,
+,<p>when</p>
+*,<p>before</p>
+,<p>as soon as</p>
+<p>I’ll be there ... dinner. </p>,1,one,
+,<p>as soon as</p>
+,<p>while</p>
+*,<p>before</p>
+<p>I will wait ... she comes. </p>,1,one,
+*,<p>until</p>
+,<p>before</p>
+,<p>when</p>
+<p>We won’t be seeing each other ... Christmas.</p>,1,one,
+,<p>as soon as</p>
+*,<p>till</p>
+,<p>while</p>
+<p>I should have said something to her ... I saw her earlier.</p>,1,one,
+,<p>while</p>
+,<p>till</p>
+*,<p>when</p>
+<p>How are we going to pay the rent ... we have no money?</p>,1,one,
+*,<p>when</p>
+,<p>before</p>
+,<p>as soon as</p>
+<p>Flight attendants were checking our tickets ... we were looking at the control panels in front of us.</p>,1,one,
+,<p>until</p>
+*,<p>while</p>
+,<p>before</p>
+"<p>... he was working, he often listened to music. </p>",1,one,
+,<p>Till</p>
+,<p>As soon as</p>
+*,<p>While</p>

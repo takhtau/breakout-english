@@ -1,0 +1,49 @@
+HTML
+<p>They (to work) there for three hours already.</p>,1,one,
+*,<p>have been working</p>
+,<p>have worked</p>
+,<p>worked</p>
+<p>They (to play) since breakfast time.</p>,1,one,
+,<p>played</p>
+*,<p>have been playing</p>
+,<p>have played</p>
+<p>You (to play) with a ball for three hours already.</p>,1,one,
+*,<p>have been playing</p>
+,<p>have played</p>
+,<p>played</p>
+<p>You (to sleep) for ten hours already.</p>,1,one,
+,<p>slept</p>
+,<p>have slept</p>
+*,<p>have been sleeping</p>
+<p>I (to wait) for you since two o’clock.</p>,1,one,
+*,<p>have been waiting</p>
+,<p>have waited</p>
+,<p>waited</p>
+<p>I (to read) for two hours already. I already (to read) sixty pages.</p>,1,one,
+,<p>have read/have been reading</p>
+*,<p>have been reading/have read</p>
+,<p>read/read</p>
+<p>I think I (to meet) Mary once before. </p>,1,one,
+*,<p>have met</p>
+,<p>have been meeting</p>
+,<p>met</p>
+<p>People (to travel) to the Moon. </p>,1,one,
+,<p>have been travelling </p>
+*,<p>have travelled</p>
+,<p>travelled </p>
+<p>I know this story. I (to hear) it many times. </p>,1,one,
+*,<p>have heard</p>
+,<p>have been hearing</p>
+,<p>heard </p>
+<p>They (to move) to Sydney recently. </p>,1,one,
+,<p>have been moving </p>
+*,<p>have moved</p>
+,<p>moved</p>
+<p>I just (to break) the vase. </p>,1,one,
+*,<p>have broken</p>
+,<p>have been breaking </p>
+,<p>broke</p>
+<p>We just (to hear) a strange noise. </p>,1,one,
+,<p>heard</p>
+,<p>have been hearing </p>
+*,<p>have  heard</p>

@@ -1,0 +1,31 @@
+HTML
+<p> </p>,1,one,
+*,<p>Donald walks along Buckingham Road every day and crosses it on his way to school.</p>
+,<p>Donald is walking along Buckingham Road every day and crossing it on his way to school.</p>
+<p> </p>,1,one,
+,<p>Professor Brown believes that most of our cities die.</p>
+*,<p>Professor Brown believes that most of our cities are dying.</p>
+<p>  </p>,1,one,
+*,<p>He often suffers from headaches.</p>
+,<p>He is often suffering from headaches.</p>
+<p>  </p>,1,one,
+*,"<p>""Where are you going?"", Lorna asked.</p>"
+,"<p>""Where do you go?"", Lorna asked.</p>"
+<p>  </p>,1,one,
+,<p>I am not wanting to eat. I am not hungry.</p>
+*,<p>I do not want to eat. I am not hungry.</p>
+<p>  </p>,1,one,
+*,<p>She is wearing a pink dress.</p>
+,<p>She wears a pink dress.</p>
+<p>  </p>,1,one,
+,<p>He is buying a new car every year.</p>
+*,<p>He buys a new car every year.</p>
+<p>  </p>,1,one,
+*,<p>The dress belongs to my sister.</p>
+,<p>The dress is belonging to my sister.</p>
+<p>  </p>,1,one,
+*,"<p>""I'm still having breakfast,"" she says.</p>"
+,"<p>""I still have breakfast,"" she says.</p>"
+<p>  </p>,1,one,
+,<p>Are you always getting up so late?</p>
+*,<p>Do you always get up so late?</p>

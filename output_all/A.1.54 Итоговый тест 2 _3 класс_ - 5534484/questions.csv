@@ -1,0 +1,37 @@
+HTML
+<p>My dog always ___ with me.</p>,1,one,
+,<p>go</p>
+*,<p>goes</p>
+,<p>is going</p>
+<p>Cats are ___ swimmers.</p>,1,one,
+*,<p>bad</p>
+,<p>worse</p>
+,<p>the worst</p>
+<p>___ is the hottest season in the year.</p>,1,one,
+,<p>Spring</p>
+*,<p>Summer</p>
+,<p>Autumn</p>
+<p>He plays tricks ___ people.</p>,1,one,
+,<p>with</p>
+,<p>-</p>
+*,<p>on</p>
+<p>___ will your mother come? At 6 o'clock.</p>,1,one,
+,<p>Why</p>
+,<p>Where</p>
+*,<p>When</p>
+"<p>The day is nice, but the wind ___.</p>",1,one,
+*,<p>blows</p>
+,<p>is blowing </p>
+,<p>will blow</p>
+<p>Yesterday Mother ___ a toy for me.</p>,1,one,
+*,<p>bought</p>
+,<p>sent</p>
+,<p>got</p>
+<p>Did ___ enjoy this picture?</p>,1,one,
+,<p>something</p>
+,<p>somebody</p>
+*,<p>anybody</p>
+<p>I am not good ___ playing chess.</p>,1,one,
+,<p>in</p>
+*,<p>at</p>
+,<p>with</p>

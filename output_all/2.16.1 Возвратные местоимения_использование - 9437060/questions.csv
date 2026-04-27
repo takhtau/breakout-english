@@ -1,0 +1,49 @@
+HTML
+<p>Be careful! That pan is very hot. Don't burn__________. </p>,1,one,
+*,<p>yourself </p>
+,<p>myself </p>
+,<p>himself </p>
+<p> I want to know you better. Tell me about___________ . </p>,1,one,
+,<p>myself </p>
+*,<p>yourself </p>
+,<p>himself </p>
+<p>It isn't her fault. She really shouldn't blame____________ .</p>,1,one,
+,<p>yourself </p>
+,<p>myself </p>
+*,<p>herself</p>
+<p>Did you make the dress___________ .</p>,1,one,
+*,<p>yourself </p>
+,<p>myself </p>
+,<p>himself </p>
+<p>The boy was lucky when he fell down the stairs. He didn't hurt_________ . </p>,1,one,
+,<p>yourself </p>
+*,<p>himself </p>
+,<p>myself </p>
+<p>Tom cut___________ while he was shaving this morning. </p>,1,one,
+,<p>yourself </p>
+,<p>myself </p>
+*,<p>himself </p>
+"<p>He spends most of his time alone, so it's not surprising that he talks to_________. </p>",1,one,
+,<p>yourself </p>
+*,<p>himself </p>
+,<p>myself </p>
+<p> Don't worry about us. We can look after___________. </p>,1,one,
+,<p>yourself </p>
+*,<p>ourselves</p>
+,<p>himself </p>
+<p>The telephone rang while I was taking a shower. I dried___________ . </p>,1,one,
+,<p>yourself </p>
+*,<p>myself </p>
+,<p>himself </p>
+<p> I tried to study but I just couldn't make_________ . </p>,1,one,
+,<p>yourself </p>
+,<p>himself </p>
+*,<p>myself </p>
+<p> It was a lovely holiday. We really enjoyed_________ . </p>,1,one,
+*,<p>ourselves </p>
+,<p>myself </p>
+,<p>himself </p>
+<p>The chairman announced the news__________. </p>,1,one,
+,<p>ourselves </p>
+,<p>myself </p>
+*,<p>himself </p>

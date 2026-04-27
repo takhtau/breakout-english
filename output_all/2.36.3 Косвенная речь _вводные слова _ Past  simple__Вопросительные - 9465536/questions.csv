@@ -1,0 +1,49 @@
+HTML
+"<p>""Does Tim sleep well?"" she asked. - She asked if Tin _________ well.</p>",1,one,
+,<p>sleep</p>
+*,<p>slept </p>
+,<p>had slept</p>
+"<p>""Does he drive a car?"" he said. - He wanted to know if he__________a car. </p>",1,one,
+,<p>drive</p>
+,<p>had driven</p>
+*,<p>drove </p>
+"<p>""Do you often get together with your relatives?"" she said. - She asked him if he often _______together with his relatives. </p>",1,one,
+*,<p>got</p>
+,<p>get</p>
+,<p>had got</p>
+"<p>""Do you live in the city?"" - he said. - He asked me if I__________in the city. </p>",1,one,
+,<p>live</p>
+*,<p>lived</p>
+,<p>had lived</p>
+"<p>""Do you like animals?"" he said. He asked her if she____________animals. </p>",1,one,
+,<p>had liked</p>
+*,<p>liked</p>
+,<p>like</p>
+"<p>""Does she speak Japanese? she said. - She asked if she ___________Japanese. </p>",1,one,
+,<p>speak</p>
+,<p>had spoken </p>
+*,<p>spoke</p>
+"<p>""Don't you help her?"" she said. - She asked me if I _________her. </p>",1,one,
+*,<p>didn't help</p>
+,<p>don't help</p>
+,<p>hadn't helped</p>
+"<p>""Does she always sit here?"" he said. - He asked if she always sat _______</p>",1,one,
+,<p>here</p>
+*,<p>there</p>
+,<p>this</p>
+"<p>""Do you work here"" he asked. He asked if I worked____________</p>",1,one,
+*,<p>there</p>
+,<p>here</p>
+,<p>this</p>
+"<p>""Does she play computer games?"" she said. She asked if she__________computer games. </p>",1,one,
+,<p>play</p>
+*,<p>played</p>
+,<p>had played</p>
+"<p>""Do you like reading books?' she said. She asked if I__________reading books.</p>",1,one,
+,<p>like</p>
+,<p>had liked</p>
+*,<p>liked</p>
+"<p>""Does he get up early?"" he said. - He asked if he___________early. </p>",1,one,
+*,<p>got up</p>
+,<p>get up </p>
+,<p>had get up</p>

@@ -1,0 +1,49 @@
+HTML
+<p>My daughter is ______ than her. </p>,1,one,
+*,<p>shorter</p>
+,<p>shortest</p>
+,<p>more short</p>
+<p>Yesterday I woke up _______ than usual. </p>,1,one,
+,<p>more early </p>
+*,<p>earlier</p>
+,<p>earliest </p>
+<p>The hotel is _________ than the hostel .</p>,1,one,
+*,<p>more expensive</p>
+,<p>most expensive</p>
+,<p>expensiver</p>
+<p>A holiday by the sea is________ than a holiday in the mountains. </p>,1,one,
+,<p>gooder</p>
+*,<p> better</p>
+,<p>best </p>
+<p>Katie is the _________ person I've ever met. </p>,1,one,
+,<p>more intelligent</p>
+*,<p>most intelligent</p>
+,<p>intelligent </p>
+<p>John is the ________ of all the people I know. </p>,1,one,
+*,<p>kindest</p>
+,<p>more kind</p>
+,<p>most kind</p>
+<p>Katie is the________ person.</p>,1,one,
+,<p>most busy </p>
+,<p>more busy </p>
+*,<p> busiest</p>
+<p>He is the _________ boy in the world. </p>,1,one,
+*,<p>happiest</p>
+,<p>most happy </p>
+,<p>more happy</p>
+<p>Rob is the _________in my class.</p>,1,one,
+,<p>cleverer</p>
+*,<p>cleverest</p>
+,<p>more clever</p>
+<p>My house is the _______ of all the houses in the neighborhood. </p>,1,one,
+*,<p>biggest</p>
+,<p>most big </p>
+,<p>more big </p>
+<p>Rob is the _____ student.</p>,1,one,
+,<p>most old</p>
+*,<p>oldest </p>
+,<p>older</p>
+<p>Katie is the _______ of all my friends. </p>,1,one,
+*,<p>tallest</p>
+,<p>taller </p>
+,<p>most tall</p>

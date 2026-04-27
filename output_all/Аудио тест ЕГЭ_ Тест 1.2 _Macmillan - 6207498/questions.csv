@@ -1,0 +1,29 @@
+HTML
+<p>A) Vicky is not interested in seeing Jason's costume for the party.</p>,1,one,
+,<p>True</p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>B) Vicky wants to spend a lot of money on a costume.</p>,1,one,
+,<p>True</p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>C) Jason first suggests that Vicky should dress up as a famous person.</p>,1,one,
+*,<p>True</p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>D) Vicky knows what all of her friends are wearing to the party.</p>,1,one,
+,<p>True</p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>E) Jason suggests that Vicky wears normal clothes as part of her outfit.</p>,1,one,
+*,<p>True</p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>F) Vicky's mum will help Vicky make her outfit.</p>,1,one,
+,<p>True</p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>G) Vicky doesn't want to start putting her outfit together straight away.</p>,1,one,
+*,<p>True</p>
+,<p>False </p>
+,<p>Not stated </p>

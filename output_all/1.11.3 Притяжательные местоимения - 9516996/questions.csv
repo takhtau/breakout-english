@@ -1,0 +1,49 @@
+HTML
+<p>My mum has got a car. ___ (её) car is red.</p>,1,one,
+*,<p>her</p>
+,<p>ours</p>
+,<p>yours</p>
+<p> ____(наша) room is very beautiful.</p>,1,one,
+,<p>Their</p>
+*,<p>Our</p>
+,<p>My</p>
+<p>We have a house. _____ (наш) house is big.</p>,1,one,
+,<p>My</p>
+,<p>Your</p>
+*,<p>Our</p>
+<p>He has a car. ____(его)  car is new.</p>,1,one,
+*,<p>His</p>
+,<p>Her</p>
+,<p>Their</p>
+<p>You have a cat. What is _____ cat’s name? </p>,1,one,
+,<p>my</p>
+*,<p>your</p>
+,<p>yours</p>
+<p>This is a dog. ____ color is brown. </p>,1,one,
+,<p>Their</p>
+,<p>My</p>
+*,<p>Its</p>
+<p> Lana has a bag. This is ____ bag.</p>,1,one,
+*,<p>her</p>
+,<p>my</p>
+,<p>his</p>
+<p> I have an umbrella. This umbrella is ____(мой).</p>,1,one,
+,<p>theirs</p>
+*,<p>mine</p>
+,<p>our</p>
+<p>They have a house. This house is ____(их).</p>,1,one,
+,<p>ours</p>
+,<p>your</p>
+*,<p>theirs</p>
+<p>Martin has a dog. This dog is ____(его).</p>,~1,one,
+*,<p>his</p>
+,<p>mine</p>
+,<p>our</p>
+<p>We have a parrot. This parrot is ____(наш).</p>,1,one,
+,<p>our</p>
+*,<p>ours</p>
+,<p>his</p>
+<p>You have a camera. This camera is ____(твоя).</p>,1,one,
+,<p>her</p>
+,<p>my</p>
+*,<p>yours</p>

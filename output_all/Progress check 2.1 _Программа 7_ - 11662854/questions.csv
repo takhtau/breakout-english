@@ -1,0 +1,58 @@
+HTML
+<p>There is  ____ in the room.</p>,1,one,
+,<p>children</p>
+*,<p>a child</p>
+<p>There is ____ in the garden.</p>,1,one,
+,<p>mice</p>
+*,<p>a mouse</p>
+<p>There is a cup of coffee on the table ____ the living room. (в)</p>,1,one,
+*,<p>in</p>
+,<p>on</p>
+,<p>behind</p>
+<p>There is an apple___ the table. (на)</p>,1,one,
+,<p>between</p>
+*,<p>on</p>
+,<p>in front of</p>
+<p>There is a beautiful picture ____ the sofa. (позади)</p>,1,one,
+*,<p>behind</p>
+,<p>under</p>
+,<p>on</p>
+<p>There is a chair ____ the sofa and the armchair. (между)</p>,1,one,
+,<p>in front of</p>
+,<p>behind</p>
+*,<p>between</p>
+<p>What ___she _______ now?</p>,1,one,
+*,<p>is / drinking</p>
+,<p>are / drinking</p>
+,<p>does / drinking</p>
+<p>The cat ________ on the floor now.</p>,1,one,
+,<p>aren't sleeping </p>
+*,<p>isn't sleeping </p>
+,<p>not sleeping</p>
+<p>I always  _______ at 7 o'clock.</p>,1,one,
+,<p>am getting up</p>
+,<p>are getting up</p>
+*,<p>get up</p>
+<p>The friends _______to the museum now. </p>,1,one,
+*,<p>are going </p>
+,<p>is going</p>
+,<p>going</p>
+<p>They________a bike. </p>,1,one,
+*,<p>have got</p>
+,<p>has got</p>
+<p>Anna_________a dog. </p>,1,one,
+,<p>have got</p>
+*,<p>has got</p>
+<p>He_________a toy. </p>,1,one,
+,<p>haven't got</p>
+*,<p>hasn't got</p>
+<p>We_________a garden. </p>,1,one,
+*,<p>haven't got</p>
+,<p>hasn't got</p>
+<p>________she_______a computer? </p>,1,one,
+,<p>Have / got</p>
+*,<p>Has / got</p>
+<p>I have got two little___________ . </p>,1,one,
+,<p>sister</p>
+*,<p>sisters </p>
+,<p>sisteres </p>

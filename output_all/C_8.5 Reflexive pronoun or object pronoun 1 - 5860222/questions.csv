@@ -1,0 +1,31 @@
+HTML
+<p>He is so vain. He likes to talk about ___ all the time.</p>,1,one,
+*,<p>himself</p>
+,<p>him</p>
+"<p>Jane? Yes, I spoke to ___ last week.</p>",1,one,
+,<p>herself</p>
+*,<p>her</p>
+"<p>Her brother? Yes, she told me all about ___.</p>",1,one,
+*,<p>him</p>
+,<p>himself</p>
+<p>You really have to respect ___.</p>,1,one,
+,<p>you</p>
+*,<p>yourself</p>
+"<p>They talk about us, but they don't really know ___.</p>",1,one,
+*,<p>us</p>
+,<p>ourselves</p>
+<p>Some actors love ___ to much.</p>,1,one,
+*,<p>themselves</p>
+,<p>them</p>
+<p>Are you going to invite ___ to the concert? </p>,1,one,
+,<p>herself</p>
+*,<p>her</p>
+<p>Goodbye! Take care of ___!</p>,1,one,
+*,<p>yourself</p>
+,<p>you</p>
+<p>You have to tell ___ what happened.</p>,1,one,
+*,<p>them</p>
+,<p>themselves</p>
+<p>I was at home by ___.</p>,1,one,
+,<p>me</p>
+*,<p>myself</p>

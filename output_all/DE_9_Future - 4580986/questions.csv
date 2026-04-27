@@ -1,0 +1,36 @@
+HTML
+"<p>This time next week, we___________the chemistry exam.</p>",1,one,
+,<p>have finished</p>
+,<p>have been finishing</p>
+*,<p>will have finished</p>
+,<p>will have been finishing</p>
+"<p>When I grow up, ______________an inventor. </p>",1,one,
+,<p>I'm being</p>
+*,<p>I'm going to be</p>
+,<p>I will have been</p>
+,<p>I will be being</p>
+<p>Shirley will___________her research for the next few weeks.</p>,1,one,
+,<p>have done</p>
+*,<p>be doing</p>
+,<p>have been doing</p>
+,<p>have been done</p>
+"<p>Next year, Sam will____________patients at this hospital for twenty-five years. </p>",1,one,
+*,<p>have been treating</p>
+,<p>treat</p>
+,<p>be treating</p>
+,<p>be going to treat</p>
+<p>- What is it?</p><p>- We won't know until______________at it under a microscope.</p>,1,one,
+,<p>we're going to look</p>
+,<p>we'll have looked</p>
+,<p>we'll be looking</p>
+*,<p>we've looked</p>
+<p>You won't get any radio reception while____________through the tunnel. </p>,1,one,
+,<p>you've driven</p>
+,<p>you'll drive</p>
+*,<p>you're driving</p>
+,<p>you'll be driving</p>
+<p>- I'm going to set up the equipment in a minute.</p><p>- ____________give you a hand?</p>,1,one,
+*,<p>Shall I</p>
+,<p>Will I</p>
+,<p>Would I</p>
+,<p>Do I</p>

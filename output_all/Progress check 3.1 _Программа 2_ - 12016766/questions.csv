@@ -1,0 +1,65 @@
+HTML
+<p>I can't tell which are ...</p>,1,one,
+*,<p>mine</p>
+,<p>my</p>
+,<p>me</p>
+<p>Can you stay with ...?</p>,1,one,
+,<p>mine</p>
+,<p>I</p>
+*,<p>me</p>
+<p>I am angry with __________.</p>,1,one,
+*,<p>myself</p>
+,<p>yourself </p>
+,<p>himself </p>
+<p>He fell down and hurt __________.</p>,1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>himself </p>
+<p>Tell me more about __________.</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>
+<p>She often (send) to the post office. </p>,1,one,
+*,<p>is sent </p>
+,<p>will be sent </p>
+,<p>sends </p>
+<p> Last year she (send) to Cambridge.</p>,1,one,
+,<p>is sent </p>
+,<p>will be sent </p>
+*,<p>was sent</p>
+<p> He (send) to Harvard next week. </p>,1,one,
+,<p>is sent </p>
+*,<p>will be sent </p>
+,<p>was sent</p>
+<p> She always (send) for. </p>,1,one,
+*,<p>is sent </p>
+,<p>will be sent </p>
+,<p>was sent</p>
+<p>They always (invite) to Ann's birthday.</p>,1,one,
+*,<p>are invited</p>
+,<p>will be invited</p>
+,<p>were invited</p>
+<p>This book very often (ask) for.</p>,1,one,
+*,<p>is asked </p>
+,<p>will be asked</p>
+,<p>was asked</p>
+<p>My idea (not to understand) yesterday.</p>,1,one,
+,<p>isn't understood.</p>
+,<p>won't be understood.</p>
+*,<p>was not understood.</p>
+<p>An apple (peel) by my mother at the moment.</p>,1,one,
+,<p>is peeled</p>
+*,<p>is being peeled</p>
+,<p>are peeled</p>
+<p>Your car (wash) now. </p>,1,one,
+,<p>are being washed</p>
+,<p>is washed</p>
+*,<p>is being washed</p>
+<p>The beds already (make).</p>,1,one,
+*,<p>have been made</p>
+,<p>made</p>
+,<p>has been made</p>
+<p>The mail already (write). </p>,1,one,
+,<p>was written</p>
+,<p>have been written</p>
+*,<p>has been written </p>

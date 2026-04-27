@@ -1,0 +1,49 @@
+HTML
+<p>She (to live) there last year.</p>,1,one,
+*,<p>lived</p>
+,<p>have lived</p>
+,<p>has lived</p>
+<p>The rain (to stop) half an hour ago.</p>,1,one,
+,<p>have stopped</p>
+*,<p>stopped</p>
+,<p>has stopped</p>
+<p>I (to buy) a pair of gloves yesterday.</p>,1,one,
+,<p>has bought</p>
+,<p>have bought</p>
+*,<p>bought</p>
+<p>We (to travel) around Europe last year.</p>,1,one,
+*,<p>travelled</p>
+,<p>has travelled</p>
+,<p>have travelled</p>
+<p>She (to see) this film last Sunday.</p>,1,one,
+,<p>have seen</p>
+*,<p>saw</p>
+,<p>has seen</p>
+<p>Alex (to meet) his friend two hours ago.</p>,1,one,
+,<p>has met</p>
+,<p>have met</p>
+*,<p>met</p>
+<p>I (not to see) you for a long time.</p>,1,one,
+*,<p>haven't seen</p>
+,<p>hasn't seen</p>
+,<p>didn't see</p>
+<p>... you ever ... (to spend) your holidays in the Crimea?</p>,1,one,
+,<p>Has/spent</p>
+*,<p>Have/spent</p>
+,<p>Did/spend</p>
+<p>I ... never ... (to visit) that place.</p>,1,one,
+,<p>did/visit</p>
+,<p>has/visited</p>
+*,<p>have/visited</p>
+<p>I ... just ... (to get) a letter from Tom.</p>,1,one,
+*,<p>have/got</p>
+,<p>has/got</p>
+,<p>did/get</p>
+<p>He (not to come) back yet.</p>,1,one,
+,<p>didn't come</p>
+*,<p>hasn't come</p>
+,<p>haven't come</p>
+<p>... he ... (to go) already?</p>,1,one,
+,<p>Did/go</p>
+,<p>Have/gone</p>
+*,<p>Has/gone</p>

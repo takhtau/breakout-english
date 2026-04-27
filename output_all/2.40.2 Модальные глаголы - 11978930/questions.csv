@@ -1,0 +1,45 @@
+HTML
+<p>Helen _____ not know that Peter is here. </p>,1,one,
+*,<p>might</p>
+,<p>dare</p>
+<p>I _____ my boss for the promotion. </p>,1,one,
+,<p>daren’t asked </p>
+*,<p>dare not ask</p>
+"<p>Ты не мог видеть меня на вечеринке вчера, я не ходил туда. </p>",1,one,
+*,<p>You couldn’t have seen me at the party yesterday because I didn’t go there.</p>
+,<p>You may not have seen me at the party yesterday because I didn’t go there. </p>
+,<p>You don't dare seen me at the party yesterday because I didn’t go there.</p>
+<p>He couldn’t be so old. </p>,1,one,
+,<p>Может быть он стар</p>
+*,"<p>Я сомневаюсь, что он настолько стар</p>"
+<p>Где собака? Может быть она на кухне или во дворе. </p>,1,one,
+,<p>Where’s the dog? It could be in the kitchen or it may be outside. </p>
+,<p>Where’s the dog? It can be in the kitchen or it may be outside. </p>
+*,<p>Where’s the dog? It may be in the kitchen or it may be outside.</p>
+<p>Он может быть там. (50/50)</p>,1,one,
+*,<p>He may be there.</p>
+,<p>He must be there.</p>
+,<p>He can be there.</p>
+<p>Он может быть и спит. (25/75)</p>,1,one,
+,<p>He may be sleeping.</p>
+*,<p>He might be sleeping</p>
+,<p>He can be sleeping.</p>
+"<p>Смею предположить, что вы правы.</p>",1,one,
+,<p>I say dared you are right.</p>
+,<p>I dare said you are right. </p>
+*,<p>I dare say you are right.</p>
+"<p>Не может быть, чтобы он работал круглые сутки. </p>",1,one,
+*,<p>He can’t work all day round.</p>
+,<p>He mustn't work all day round.</p>
+,<p>He don't dare work all day round.</p>
+"<p>Вам не нужно изменять весь текст, так как начало в порядке.</p>",1,one,
+,<p>You don't dare change the whole text as the beginning is all right.</p>
+,<p>You can not change the whole text as the beginning is all right.</p>
+*,<p>You need not change the whole text as the beginning is all right.</p>
+"<p>Возможно, она работала весь день вчера.</p>",1,one,
+,<p>Helen may have been working all day yesterday. </p>
+*,<p>Helen could have been working all day yesterday. </p>
+"<p>Он посмел прийти сюда после всего того, что он мне сказал? </p>",1,one,
+*,<p>Dare he come here after everything he told me?</p>
+,<p>Can he come here after everything he told me? </p>
+,<p>Must he come here after everything he told me? </p>

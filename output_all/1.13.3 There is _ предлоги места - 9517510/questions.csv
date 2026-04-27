@@ -1,0 +1,49 @@
+HTML
+<p>There is one room ___ their flat. (в)</p>,1,one,
+*,<p>in</p>
+,<p>on</p>
+,<p>next to</p>
+<p>There is a piano ____ the wall. (рядом с)</p>,1,one,
+,<p>on</p>
+*,<p>next to</p>
+,<p>behind</p>
+<p>There is a French book _____ the shelf. (на)</p>,1,one,
+,<p>in</p>
+,<p>under</p>
+*,<p>on</p>
+<p>There is a big balcony ___ his flat. (в)</p>,~1,one,
+*,<p>in</p>
+,<p>under</p>
+,<p>between</p>
+<p>There is an armchair ____ the balcony door. (рядом с)</p>,1,one,
+,<p>under</p>
+*,<p>next to</p>
+,<p>in front of</p>
+<p>There is a big table ____ the room. (в)</p>,1,one,
+,<p>on</p>
+,<p>in front of</p>
+*,<p>in</p>
+<p>There is a little cup of coffee on the table ____ the living room. (в)</p>,1,one,
+*,<p>in</p>
+,<p>on</p>
+,<p>behind</p>
+<p>There is a plate ___ the table. (на)</p>,1,one,
+,<p>between</p>
+*,<p>on</p>
+,<p>in front of</p>
+<p>There are three rabbits ___ the picture. (в)</p>,1,one,
+,<p>under</p>
+,<p>behind</p>
+*,<p>in</p>
+<p>There is a beautiful picture ____ the sofa. (позади)</p>,1,one,
+*,<p>behind</p>
+,<p>under</p>
+,<p>on</p>
+<p>There is a telephone _____ the bed. (под)</p>,1,one,
+,<p>in front of</p>
+*,<p>under</p>
+,<p>in</p>
+<p>There is a book ____ the sofa and the armchair. (между)</p>,1,one,
+,<p>in front of</p>
+,<p>behind</p>
+*,<p>between</p>

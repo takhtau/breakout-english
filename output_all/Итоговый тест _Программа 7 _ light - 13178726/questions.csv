@@ -1,0 +1,96 @@
+HTML
+<p> Don’t sit on that chair. ______ is broken. </p>,1,one,
+,<p>He</p>
+,<p>She</p>
+*,<p>It</p>
+<p>Ben ______ usually _______ a book every evening.</p>,1,one,
+,<p>don't/read</p>
+,<p>doesn't/reads</p>
+*,<p>doesn't/read</p>
+<p>____ your friends always _____ football at three o'clock?</p>,1,one,
+,<p>Does/play</p>
+*,<p>Do/play</p>
+,<p>Do/plays</p>
+<p>What _____ you _______ now?</p>,1,one,
+,<p>is doing</p>
+*,<p>are doing</p>
+,<p>doing</p>
+<p>She________a notebook.</p>,1,one,
+,<p>have got</p>
+*,<p>has got</p>
+<p>There are ________ in the fridge. </p>,1,one,
+,<p>carrot </p>
+*,<p>carrots </p>
+,<p>carrotes </p>
+<p>My sisters cannot draw ________ . </p>,1,one,
+*,<p>mice</p>
+,<p>mouses</p>
+,<p>mices</p>
+<p>___ sky is blue.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>-</p>
+<p>There _______ beautiful trees in the garden. </p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>There_____ a cat on the table.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p> _____ are you at home?</p>,1,one,
+,<p>Where</p>
+,<p>What</p>
+*,<p>When</p>
+<p>Give ____ a phone. </p>,1,one,
+,<p>we</p>
+*,<p>me</p>
+,<p>I</p>
+<p>I haven’t got ___ food.</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>There aren't________apples in the box. </p>,1,one,
+,<p>much </p>
+*,<p>many </p>
+<p>Italian food is ________ than American food. </p>,1,one,
+*,<p>better</p>
+,<p>best</p>
+,<p>gooder</p>
+<p>Writing in English is_____  than speaking.</p>,1,one,
+,<p>most difficult</p>
+*,<p>more difficult</p>
+,<p>difficulter</p>
+<p>July is the ______ (hot) month of the year. </p>,1,one,
+,<p>hotest</p>
+,<p>most hot</p>
+*,<p>hottest</p>
+<p>I always play with my _______ toys.</p>,1,one,
+,<p>sister</p>
+*,<p>sister's</p>
+,<p>sisters'</p>
+<p>He has got very _______ friends.</p>,1,one,
+*,<p>few</p>
+,<p>little</p>
+"<p>My parents give me ______ pocket money every week, so I can buy something.</p>",1,one,
+*,<p>a little</p>
+,<p>a few</p>
+<p>______ Carol six last year?</p>,1,one,
+*,<p>Was</p>
+,<p>Were</p>
+<p>_____ the children in the sitting room twenty minutes ago?</p>,1,one,
+*,<p>Were</p>
+,<p>Was</p>
+<p>Last night I _________ (to listen) to some CDs.</p>,1,one,
+*,<p>listened</p>
+,<p>listend</p>
+,<p>listen</p>
+<p>I ____________ (not to watch) TV last night.</p>,1,one,
+,<p>didn't watched</p>
+,<p>don't watch</p>
+*,<p>didn't watch</p>
+<p>_______you play football two weeks ago? </p>,1,one,
+*,<p>did </p>
+,<p>do</p>
+,<p>does</p>
+<p>My family ___ to the country next week.</p>,1,one,
+,<p>go</p>
+,<p>is going</p>
+*,<p>will go</p>

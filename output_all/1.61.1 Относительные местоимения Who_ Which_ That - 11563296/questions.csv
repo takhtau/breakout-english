@@ -1,0 +1,49 @@
+HTML
+<p>I want to buy a camera ... costs 10.000 dollars.</p>,1,one,
+*,<p>which</p>
+,<p>those</p>
+,<p>who</p>
+<p>This is the house ... belongs to Julie.</p>,1,one,
+,<p>what</p>
+*,<p>which</p>
+,<p>who</p>
+<p>I can’t find the ruler ... was on the desk.</p>,1,one,
+*,<p>which</p>
+,<p>how</p>
+,<p>who</p>
+<p>We like fruit ... our grandma gives us.</p>,1,one,
+,<p>what</p>
+*,<p>that</p>
+,<p>who</p>
+<p>He likes spiders ... are not dangerous.</p>,1,one,
+*,<p>which</p>
+,<p>– </p>
+,<p>who</p>
+<p>We bought the bag ... was cheap.</p>,1,one,
+,<p>–</p>
+*,<p>that</p>
+,<p>who</p>
+<p>The people ... live on the island are very kind.</p>,1,one,
+,<p>which</p>
+,<p>–</p>
+*,<p>that</p>
+<p>This is the boy ... sold the goat.</p>,1,one,
+,<p>which</p>
+,<p>what</p>
+*,<p>who</p>
+<p>This is the man ... lives in New York.</p>,1,one,
+,<p>which</p>
+*,<p>that</p>
+,<p>–</p>
+<p>I’m going to meet a woman ... called me yesterday.</p>,1,one,
+,<p>which</p>
+,<p>–</p>
+*,<p>who</p>
+<p>Ann is the person ... helped me.</p>,1,one,
+,<p>which</p>
+,<p>whose</p>
+*,<p>who</p>
+<p>She is the girl ... laughs all the time.</p>,1,one,
+,<p>which</p>
+*,<p>that</p>
+,<p>–</p>

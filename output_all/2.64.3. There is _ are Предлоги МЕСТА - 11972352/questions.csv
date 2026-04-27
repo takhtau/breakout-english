@@ -1,0 +1,48 @@
+HTML
+<p>_________ a portrait of Bob on the wall.</p>,1,one,
+,<p>There</p>
+,<p>There are</p>
+*,<p>There is</p>
+<p>There ____ little hope of his success. </p>,1,one,
+,<p>a</p>
+*,<p>is</p>
+,<p>are</p>
+<p>_________ a man by the side of the pond. </p>,1,one,
+*,<p>There is</p>
+,<p>There </p>
+,<p>Is there</p>
+<p>_________ no safe jobs these days.</p>,1,one,
+*,<p>There are</p>
+,<p>There </p>
+,<p>Is there</p>
+<p>_________ many letters in the alphabet. </p>,1,one,
+,<p>There </p>
+*,<p>There are</p>
+,<p>A lot </p>
+<p>_________ so many policemen outside today.</p>,1,one,
+,<p>There </p>
+,<p>Here</p>
+*,<p>There are</p>
+<p>The girl disappeared _______ the crowd. </p>,1,one,
+,<p>under</p>
+,<p>below</p>
+*,<p>among</p>
+<p>The cat won't come up  _______ to the fire.</p>,1,one,
+,<p>there</p>
+*,<p>near</p>
+<p>There are voices ________ my window. </p>,1,one,
+*,<p>below</p>
+,<p>inside</p>
+,<p>between</p>
+<p>There is a plane _______ Australia. </p>,1,one,
+*,<p>over</p>
+,<p>inside</p>
+,<p>opposite</p>
+<p>There were three persons waiting _________ me.</p>,1,one,
+,<p>between</p>
+*,<p>before</p>
+,<p>outside</p>
+<p>There's the house ________ you. </p>,1,one,
+,<p>below</p>
+,<p>among</p>
+*,<p>in front of</p>

@@ -1,0 +1,61 @@
+HTML
+<p>The house ... roof is old belongs to me. </p>,1,one,
+,<p>that</p>
+,<p>where</p>
+*,<p>whose</p>
+"<p>Last week I bought a new computer, ... I don't like now.</p>",1,one,
+*,<p>which</p>
+,<p>who</p>
+,<p>where</p>
+"<p>The school, ... I studied, is in the centre of the city. </p>",1,one,
+*,<p>where</p>
+,<p>that</p>
+,<p>whose</p>
+<p>He’s marrying a girl ... family don’t seem to like him. </p>,1,one,
+,<p>which</p>
+,<p>that</p>
+*,<p>whose</p>
+<p>... is the bus stop?</p>,1,one,
+,<p>Who</p>
+*,<p>Where</p>
+,<p>Why</p>
+<p>... quickly do you learn new vocabulary words? </p>,1,one,
+,<p>Who</p>
+*,<p>How</p>
+,<p>What</p>
+<p>... did you cry?</p>,1,one,
+,<p>What</p>
+,<p>Who</p>
+*,<p>Why</p>
+<p>... much do you drink?</p>,1,one,
+*,<p>How</p>
+,<p>When</p>
+,<p>Why</p>
+"<p>They can see the mountains from the window, ……….?</p>",1,one,
+,<p>aren't they</p>
+*,<p>can’t they </p>
+,<p>can they</p>
+"<p>You are going to Madrid next Friday, ……….? </p>",1,one,
+,<p>do you </p>
+*,<p>aren’t  you</p>
+,<p>are you</p>
+"<p>We must talk to our neighbors, ……….?</p>",1,one,
+*,<p>mustn’t we </p>
+,<p>must we</p>
+,<p>are we</p>
+"<p>The students don’t speak French, ……….?</p>",1,one,
+,<p>are they </p>
+*,<p>do they </p>
+,<p>don't they</p>
+<p>The plane came down safely __________ the mist.</p>,1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite  </p>
+,<p>however</p>
+,<p>unless </p>
+"<p>_________ the bad weather, there was a large crowd at the match</p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+*,<p>despite  </p>
+,<p>however</p>
+,<p>unless </p>

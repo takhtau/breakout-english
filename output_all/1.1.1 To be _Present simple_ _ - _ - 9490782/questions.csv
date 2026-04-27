@@ -1,0 +1,49 @@
+HTML
+<p>They ... clever boys.</p>,1,one,
+*,<p>are</p>
+,<p>am</p>
+,<p>is</p>
+<p>They... good.</p>,1,one,
+,<p>am</p>
+*,<p>are</p>
+,<p>is</p>
+<p>I ... at home.</p>,1,one,
+,<p>is</p>
+,<p>are</p>
+*,<p>am</p>
+<p>A parrot ... nice.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+,<p>am</p>
+<p>He ... hungry.</p>,1,one,
+,<p>aren't</p>
+*,<p>isn't</p>
+,<p>am not</p>
+<p>I ... in a car.</p>,1,one,
+,<p>are</p>
+,<p>is</p>
+*,<p>am</p>
+<p>I ... at work.</p>,1,one,
+*,<p>am not</p>
+,<p>isn't</p>
+,<p>aren't</p>
+<p>... a ball small?</p>,1,one,
+,<p>Are</p>
+*,<p>Is</p>
+,<p>Am</p>
+<p>... we in the park?</p>,1,one,
+,<p>Am</p>
+,<p>Is</p>
+*,<p>Are</p>
+<p>I ... at school.</p>,1,one,
+*,<p>am</p>
+,<p>is</p>
+,<p>are</p>
+<p>My name ... Ann.</p>,1,one,
+,<p>are</p>
+*,<p>is</p>
+,<p>am</p>
+<p>My cat ... big.</p>,1,one,
+,<p>am not</p>
+,<p>aren't</p>
+*,<p>isn't</p>

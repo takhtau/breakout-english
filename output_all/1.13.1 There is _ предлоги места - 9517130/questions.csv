@@ -1,0 +1,49 @@
+HTML
+<p>There is a computer __ the table. (на)</p>,1,one,
+*,<p>on</p>
+,<p>in</p>
+,<p>between</p>
+<p>There is a glass of juice ___ the table. (на)</p>,1,one,
+,<p>behind</p>
+*,<p>on</p>
+,<p>next to</p>
+<p>There is a bottle of milk ___ the fridge. (в)</p>,1,one,
+,<p>under</p>
+,<p>in front of</p>
+*,<p>in</p>
+<p>There is a ball ____ the desk. (под)</p>,1,one,
+*,<p>under</p>
+,<p>next to</p>
+,<p>behind</p>
+<p>There is a cat ___ the TV. (перед)</p>,1,one,
+,<p>under</p>
+*,<p>in front of</p>
+,<p>between</p>
+<p>There is an apple-tree ___ the garden. (в)</p>,1,one,
+,<p>between</p>
+,<p>on</p>
+*,<p>in</p>
+<p>There is a watermelon ___ the fridge. (в)</p>,1,one,
+*,<p>in</p>
+,<p>under</p>
+,<p>next to</p>
+<p>There is a woman ____ the beach. (на пляже)</p>,1,one,
+,<p>in</p>
+*,<p>on</p>
+,<p>behind</p>
+<p>There is a mushroom ___ the tree. (под)</p>,1,one,
+,<p>between</p>
+,<p>next to</p>
+*,<p>under</p>
+<p>There is a cup of coffee ____ the coffee machine. (рядом с)</p>,1,one,
+*,<p>next to</p>
+,<p>behind</p>
+,<p>in front of</p>
+<p>There is an ice-cream ____ the cup. (в)</p>,1,one,
+*,<p>in</p>
+,<p>in front of</p>
+,<p>behind</p>
+<p>There is a guitar ____ the piano and the drums. (между)</p>,1,one,
+,<p>in</p>
+,<p>under</p>
+*,<p>between</p>

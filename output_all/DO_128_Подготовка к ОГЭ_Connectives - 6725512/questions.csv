@@ -1,0 +1,33 @@
+HTML
+"<p>__________________it was expensive, the CD wasn't very good quality. </p>",1,one,
+*,<p>Although</p>
+,<p>In spite of </p>
+,<p>However </p>
+"<p>_____________being expensive, the CD wasn't very good quality. </p>",1,one,
+,<p>Although</p>
+*,<p>In spite of </p>
+,<p>However </p>
+"<p>______________the cost, the CD wasn't very good quality. </p>",1,one,
+,<p>Although</p>
+*,<p>In spite of </p>
+,<p>However </p>
+"<p>The CD was expensive. _______________, it wasn't very good quality. </p>",1,one,
+,<p>Although</p>
+,<p>In spite of </p>
+*,<p>However </p>
+"<p>The CD was expensive. It wasn't very good quality, _____________ . </p>",1,one,
+,<p>although</p>
+,<p>despite </p>
+*,<p>however </p>
+"<p>The CD wasn't very good quality,_____________being expensive. </p>",1,one,
+,<p>although</p>
+*,<p>despite </p>
+,<p>however </p>
+"<p>The CD wasn't very good quality, __________________it was expensive. </p>",1,one,
+*,<p>although</p>
+,<p>despite </p>
+,<p>however </p>
+"<p>The CD wasn't very good quality, __________________the cost.</p>",1,one,
+,<p>although</p>
+*,<p>despite </p>
+,<p>however </p>

@@ -1,0 +1,31 @@
+HTML
+<p>He's making a______________noise. (TERRIBLE) </p>,1,,
+*,terrible
+<p>He's screaming___________ .(TERRIBLE)</p>,1,,
+*,terribly
+<p>I'm____________sorry to hear that. (TERRIBLE)</p>,1,,
+*,terribly
+<p>I've got a______________headache. (TERRIBLE)</p>,1,,
+*,terrible
+<p>He's_____________ill. (DANGEROUS) </p>,1,,
+*,dangerously
+<p>Is the place___________? (DANGEROUS) </p>,1,,
+*,dangerous
+<p>It will be____________________for you to use equipment. (DANGEROUS) </p>,1,,
+*,dangerous
+<p>Which book do you need: Book__________ or Book_________? - I'll take only the_________book. (ONE/TWO/TWO)</p>,1,,
+*,One/Two/second
+<p>How much are___________scarves? (THAT)</p>,1,,
+*,those
+<p>I'll take____________flowers. (THIS)</p>,1,,
+*,these
+<p>Why is the______________passenger standing there? (TWO)</p>,1,,
+*,second
+<p>Why are the___________passengers standing there? (TWO)</p>,1,,
+*,two
+<p>She washes________bike every day. How often do you wash__________? (SHE/YOU)</p>,1,,
+*,her/yourself
+<p>The dog is eating________bone. (IT) </p>,1,,
+*,its
+<p>Whose camera is it? - It's my____________camera. (UNCLE)</p>,1,,
+*,uncle's

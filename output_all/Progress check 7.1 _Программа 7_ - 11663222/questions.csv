@@ -1,0 +1,63 @@
+HTML
+<p>They ______ (to listen) to music at the concert hall yesterday. </p>,1,one,
+*,<p>listened</p>
+,<p>listens</p>
+,<p>listend</p>
+<p>Fred and Helen ______ (to stay) at a hotel last June.</p>,1,one,
+,<p>stay</p>
+*,<p>stayed</p>
+,<p>staied</p>
+<p>She _______ (not to try) on a white dress at the shop yesterday. </p>,1,one,
+,<p>didn't tried</p>
+*,<p>didn't try</p>
+,<p>doesn't try</p>
+<p>They ________ (not to watch) squirrels in the park last Sunday. </p>,1,one,
+,<p>didn't watched</p>
+,<p>don't watch</p>
+*,<p>didn't watch</p>
+<p>I (not to visit) my grandmother last summer.</p>,1,one,
+*,<p>didn't visit</p>
+,<p>don't visit</p>
+,<p>didn't visited</p>
+"<p>What ______ you ______ (to do) last night, Lisa? </p>",~1,one,
+,<p>do/do</p>
+,<p>did/did</p>
+*,<p>did/do</p>
+<p>What film _____ you ______ (to watch) yesterday evening? </p>,1,one,
+*,<p>did/watch</p>
+,<p>did/watched</p>
+,<p>do/watch</p>
+<p>______ you ______ (to enjoy) the movie last night?</p>,1,one,
+,<p>Did/enjoyed</p>
+*,<p>Did/enjoy</p>
+,<p>Do/enjoy</p>
+<p>We ________ to the circus last Saturday. </p>,1,one,
+*,<p>went</p>
+,<p>go</p>
+,<p>goes</p>
+<p>Billy _______ a cup of coffee an hour ago. </p>,1,one,
+,<p>drink </p>
+*,<p>drank </p>
+,<p>drinked </p>
+<p>Bob _______ her documents yesterday evening.</p>,1,one,
+,<p>find</p>
+,<p>finded </p>
+*,<p>found</p>
+<p>The child _____ lies a minute ago. </p>,1,one,
+*,<p>told</p>
+,<p>telled </p>
+,<p>tell</p>
+<p>I ________ a message to my Granny last Wednesday.</p>,1,one,
+,<p>send</p>
+,<p>sended </p>
+*,<p>sent</p>
+<p>I ________ to the sports ground the day before yesterday.</p>,1,one,
+*,<p>didn't go</p>
+,<p>don't go</p>
+,<p>didn't went</p>
+<p>His sister _____ learn English last year.</p>,1,one,
+*,<p>didn't</p>
+,<p>wasn't</p>
+<p>The English textbooks _____ on the piano half an hour ago. </p>,1,one,
+,<p>was</p>
+*,<p>were</p>

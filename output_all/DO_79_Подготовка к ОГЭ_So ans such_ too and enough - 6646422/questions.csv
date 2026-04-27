@@ -1,0 +1,25 @@
+HTML
+<p>This soup is_______________to eat. </p>,1,one,
+,<p>very salty </p>
+*,<p>too salty </p>
+<p>If you run____________you might win the race. </p>,1,one,
+,<p>too fast </p>
+*,<p>fast enough </p>
+<p>Don't drive_____________or you might have an accident. </p>,1,one,
+*,<p>too fast </p>
+,<p>fast enough </p>
+<p>Have we got______________time or do we need more? </p>,1,one,
+,<p>too much </p>
+*,<p>enough </p>
+<p>Do you think you're_______________to lift this heavy chair? </p>,1,one,
+,<p>too strong </p>
+*,<p>strong enough </p>
+<p>There are_______________questions here! I can't do all of them in five minutes! </p>,1,one,
+*,<p>too many </p>
+,<p>enough </p>
+<p>Are you_______________? Shall I put the heating on? </p>,1,one,
+,<p>enough warm </p>
+*,<p>warm enough </p>
+<p>This tea is______________hot to drink. I'll wait for it to cool down. </p>,1,one,
+*,<p>too</p>
+,<p>enough </p>

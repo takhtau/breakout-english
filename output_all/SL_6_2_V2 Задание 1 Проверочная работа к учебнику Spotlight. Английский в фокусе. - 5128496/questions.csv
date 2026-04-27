@@ -1,0 +1,57 @@
+HTML
+"<p>Are these roses? - Yes, _____ are.</p>",1,one,
+,<p>it</p>
+,<p>these</p>
+*,<p>they</p>
+<p>_____ is a rose in the vase.</p>,1,one,
+*,<p>There</p>
+,<p>Those</p>
+,<p>These</p>
+<p>_____ are roses.</p>,1,one,
+,<p>That</p>
+*,<p>Those</p>
+,<p>This</p>
+<p>_____ roses are there in the vase?</p>,1,one,
+,<p>How much</p>
+*,<p>How many</p>
+,<p>How</p>
+<p>_____ water is there in the vase?</p>,1,one,
+*,<p>How much</p>
+,<p>How many</p>
+,<p>How</p>
+<p>_____ are the roses? - 300 roubles.</p>,1,one,
+*,<p>How much</p>
+,<p>How many</p>
+,<p>How</p>
+<p>_____ five roses in the vase.</p>,1,one,
+,<p>There's</p>
+,<p>It's</p>
+*,<p>There are</p>
+<p>_____ is that boy? - He's Sam.</p>,1,one,
+*,<p>Who</p>
+,<p>Whose</p>
+,<p>What</p>
+<p>_____ bike is it? - It's Sam's.</p>,1,one,
+,<p>Who</p>
+*,<p>Whose</p>
+,<p>What</p>
+<p>_____ are they? - They're bikes.</p>,1,one,
+,<p>Who</p>
+,<p>Whose</p>
+*,<p>What</p>
+<p>Look at the _____ tails!</p>,1,one,
+,<p>cat</p>
+,<p>cat's</p>
+*,<p>cats'</p>
+<p>He _____ go jogging on Sundays.</p>,1,one,
+,<p>isn't</p>
+,<p>don't</p>
+*,<p>doesn't</p>
+<p>He is a student. He _____ essays regularly.</p>,1,one,
+,<p>write</p>
+*,<p>writes</p>
+,<p>is writing</p>
+<p>Don't call him now. He _____ an essay.</p>,1,one,
+,<p>write</p>
+,<p>writes</p>
+*,<p>is writing</p>

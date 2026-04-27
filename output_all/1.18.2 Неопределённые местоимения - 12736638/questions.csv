@@ -1,0 +1,41 @@
+HTML
+<p>___________ (всё) is OK.</p>,1,one,
+,<p>Everybody</p>
+*,<p>Everything</p>
+,<p>Everywhere</p>
+<p>________(никого)  is at work.</p>,1,"one, shuffle",
+*,<p>Nobody</p>
+,<p>Nothing</p>
+,<p>Nowhere</p>
+<p>I answer ____(ничего).</p>,1,"one, shuffle",
+,<p>Nobody</p>
+*,<p>Nothing</p>
+,<p>Nowhere</p>
+<p>________ (все) is at home.</p>,1,"one, shuffle",
+*,<p>Everyone</p>
+,<p>Everything</p>
+,<p>Nowhere</p>
+<p>She lives (где-то) _________ in the city.</p>,1,"one, shuffle",
+,<p>Everywhere</p>
+*,<p>somewhere</p>
+,<p>Nowhere</p>
+<p>I_________ (иногда)  swim.</p>,1,"one, shuffle",
+,<p>somewhere</p>
+,<p>Nowhere</p>
+*,<p>sometimes</p>
+<p>I _________(всегда)  do homework.</p>,1,"one, shuffle",
+*,<p>always</p>
+,<p>nothing</p>
+,<p>sometimes</p>
+<p>I ate  (что-то) _______ .</p>,1,"one, shuffle",
+,<p>anywhere</p>
+*,<p>something</p>
+,<p>nowhere</p>
+<p>I do (ничего) _______ .</p>,1,"one, shuffle",
+,<p>something</p>
+*,<p>nothing</p>
+,<p>nowhere</p>
+<p>I go ( куда-то)_______ every day.</p>,1,"one, shuffle",
+,<p>something</p>
+,<p>nothing</p>
+*,<p>somewhere</p>

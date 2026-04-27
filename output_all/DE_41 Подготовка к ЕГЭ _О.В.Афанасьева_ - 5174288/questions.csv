@@ -1,0 +1,101 @@
+HTML
+<p>The child made the dog __ high.</p>,1,one,
+,<p>jumping</p>
+,<p>to jump</p>
+*,<p>jump</p>
+,<p>jumped</p>
+"<p>You are not angry with us, __ you?</p>",1,one,
+,<p>aren't</p>
+,<p>do</p>
+,<p>don't</p>
+*,<p>are</p>
+<p>They __ us an interesting story.</p>,1,one,
+,<p>say</p>
+,<p>said</p>
+,<p>spoke</p>
+*,<p>told</p>
+<p>I'd like to know what __.</p>,1,one,
+*,<p>the matter is</p>
+,<p>matter is</p>
+,<p>what's the matter</p>
+,<p>happening</p>
+"<p>I'v got two TV-sets. One is in the living room, and __ is in the kitchen.</p>",1,one,
+,<p>another</p>
+,<p>other</p>
+,<p>others</p>
+*,<p>the other</p>
+<p>This way is __ than the other one.</p>,1,one,
+,<p>much safe</p>
+*,<p>safer</p>
+,<p>more safer</p>
+,<p>most safe</p>
+<p>The boy works on the computer so __!</p>,1,one,
+,<p>good</p>
+,<p>bad</p>
+,<p>better</p>
+*,<p>well</p>
+<p>The passengers expected the plane __ on time.</p>,1,one,
+*,<p>to land</p>
+,<p>land</p>
+,<p>landed</p>
+,<p>landing</p>
+<p>I'm interested __ studying economics.</p>,1,one,
+,<p>of</p>
+,<p>at</p>
+*,<p>in</p>
+,<p>for</p>
+<p>My child eats well. So __ Mary's.</p>,1,one,
+,<p>is</p>
+,<p>has</p>
+,<p>doesn't</p>
+*,<p>does</p>
+"<p>The tourists had to pay some extra money, __ they?</p>",1,one,
+,<p>had</p>
+,<p>hadn't</p>
+,<p>did</p>
+*,<p>didn't</p>
+<p>The neighbours __ each other since 1992.</p>,1,one,
+,<p>know</p>
+,<p>knew</p>
+,<p>had known</p>
+*,<p>have known</p>
+<p>Thank you! It's such __ good advice.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>-</p>
+,<p>the</p>
+<p>You make mistakes as you don't work __.</p>,1,one,
+,<p>little</p>
+,<p>a little</p>
+,<p>few</p>
+*,<p>much</p>
+<p>__ snow on the top of the mountain peak.</p>,1,one,
+*,<p>There is</p>
+,<p>It is</p>
+,<p>Here is</p>
+,<p>What is</p>
+<p>There are a lot of alligators in __ Nile.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+*,<p>the</p>
+"<p>This dictionary is __, I can't afford it.</p>",1,one,
+,<p>cheap</p>
+,<p>good</p>
+*,<p>expensive</p>
+,<p>bad</p>
+<p>What __ wonderful weather it is today!</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>-</p>
+,<p>the</p>
+<p>Don't go out! It __ hard.</p>,1,one,
+,<p>rain</p>
+,<p>rains</p>
+,<p>had rained</p>
+*,<p>is raining</p>
+<p>The pupil __ his work carelessly the other day.</p>,1,one,
+,<p>made</p>
+,<p>have done</p>
+*,<p>did</p>
+,<p>had made</p>

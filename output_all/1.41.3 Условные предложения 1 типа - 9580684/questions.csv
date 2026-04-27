@@ -1,0 +1,45 @@
+HTML
+"<p>If Jack comes, we _______ (to play) chess. </p>",1,one,
+*,<p>will play</p>
+,<p>play</p>
+,<p>plays</p>
+"<p>If it _____ (to rain) today, we won't go for a walk.</p>",1,one,
+,<p>will rain </p>
+*,<p>rains</p>
+,<p>rain</p>
+"<p>If you move, you _____ (to fall) down.</p>",1,one,
+,<p>fall</p>
+,<p>falls</p>
+*,<p>will fall</p>
+"<p>If the wind _____ (to change), there will be snow.</p>",1,one,
+*,<p>changes</p>
+,<p>change</p>
+,<p>will change</p>
+"<p>If you are careful, you _____ (not to break) the cups.</p>",1,one,
+,<p>don't break</p>
+*,<p>won't break</p>
+,<p>doesn't break</p>
+"<p>If I ______ (to have) free time, I will go for a walk with you.</p>",1,one,
+,<p>has</p>
+,<p>will have</p>
+*,<p>have</p>
+"<p>If he goes hiking in summer, he ______ (to see) a lot of interesting things.</p>",1,one,
+*,<p>will see</p>
+,<p>sees</p>
+,<p>see</p>
+"<p>If he goes shopping, he _____ (to buy) books for me.</p>",1,one,
+,<p>buys</p>
+*,<p>will buy</p>
+,<p>buy</p>
+"<p>If we ______ (to leave) at 7 o’clock, we will arrive on time.</p>",1,one,
+,<p>will leave</p>
+,<p>leaves</p>
+*,<p>leave</p>
+"<p>If Bob gets a good job, he ______ (to buy) a new car.</p>",1,one,
+*,<p>will buy</p>
+,<p>buys</p>
+,<p>buy</p>
+<p>The child will start crying if you ____________ (to break) the toy.</p>,~1,one,
+,<p>will break</p>
+*,<p>break</p>
+,<p>breaks</p>

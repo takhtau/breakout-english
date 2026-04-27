@@ -1,0 +1,41 @@
+HTML
+<p>I ___ for seven hours last night.</p>,1,one,
+,<p>was slept</p>
+*,<p>slept</p>
+,<p>has slept</p>
+<p>I ___ that you were here.</p>,1,one,
+,<p>wasn't knowing</p>
+,<p>didn't knew</p>
+*,<p>didn't know</p>
+"<p>When I came to this city, I ___ anyone.</p>",1,one,
+,<p>haven't known</p>
+*,<p>didn't know</p>
+,<p>wasn't knowing</p>
+<p>You know where I live - I ___ in the same place for the past three years.</p>,1,one,
+*,<p>have been</p>
+,<p>had lived</p>
+,<p>was living</p>
+"<p>You ___ my brother, have you?</p>",1,one,
+*,<p>haven't seen</p>
+,<p>didn't see</p>
+,<p>didn't saw</p>
+<p>Where ___ last night?</p>,1,one,
+,<p>have you gone</p>
+,<p>did you went</p>
+*,<p>did you go</p>
+<p>I ___ in bed when I heard the accident outside.</p>,1,one,
+*,<p>was lying</p>
+,<p>lay</p>
+,<p>have lain</p>
+<p>Did you ____just ___ me a liar? </p>,1,one,
+,<p>call</p>
+,<p>called</p>
+*,<p>have called</p>
+<p>She is a mean person. I don't like ___ to her.</p>,1,one,
+,<p>talk</p>
+*,<p>talking</p>
+,<p>have talk</p>
+<p>I don't know how ___.</p>,1,one,
+,<p>dance</p>
+,<p>dancing</p>
+*,<p>to dance</p>

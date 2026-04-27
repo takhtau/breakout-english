@@ -1,0 +1,29 @@
+HTML
+<p>Joanna doesn't have a problem understanding maths. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated</p>
+<p>Joanna has finished her basketball practice for the week. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated</p>
+<p>Peter suggests Joanna does all her studying the night before the exam. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated</p>
+<p>Joanna often doesn't have the energy to study at night. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated</p>
+<p>Joanna will be happy if she gets a B. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated</p>
+<p>Peter is taking a similar exam to Joanna's. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated</p>
+<p>Peter and Joanna will study together for an hour. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated</p>

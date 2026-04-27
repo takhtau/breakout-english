@@ -1,0 +1,41 @@
+HTML
+<p>____ (что?) do you read?</p>,1,one,
+*,<p>What</p>
+,<p>Where</p>
+,<p>How</p>
+<p>____ (где?) do you sleep?</p>,1,one,
+,<p>What</p>
+*,<p>Where</p>
+,<p>How</p>
+<p>____ (почему?) do you play with my toy?</p>,1,one,
+,<p>What</p>
+,<p>Where</p>
+*,<p>Why</p>
+<p>____ are you? (сколько тебе лет?)</p>,1,one,
+*,<p>How old</p>
+,<p>Where</p>
+,<p>Why</p>
+<p>____ (когда?) do you get up? </p>,1,one,
+,<p>How old</p>
+,<p>Where</p>
+*,<p>When</p>
+<p>____ (где?) do you do homework? </p>,1,one,
+,<p>How old</p>
+,<p>Where</p>
+*,<p>When</p>
+<p>____ (что?) do you draw? </p>,1,one,
+,<p>How old</p>
+,<p>Where</p>
+*,<p>What</p>
+<p>_____(кто?) can swim? </p>,1,one,
+*,<p>Who</p>
+,<p>Where</p>
+,<p>What</p>
+<p>_____(где?) is your book? </p>,1,one,
+,<p>Who</p>
+*,<p>Where</p>
+,<p>What</p>
+<p>_____(почему?) are you at home? </p>,1,one,
+*,<p>Why</p>
+,<p>Where</p>
+,<p>What</p>

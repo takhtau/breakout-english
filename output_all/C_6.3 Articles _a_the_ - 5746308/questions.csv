@@ -1,0 +1,31 @@
+HTML
+<p>Did you see ___ man that I told you about?</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+<p>Did you get ___ birthday card that I sent you?</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+<p>He is ___ very good friend.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+<p>We ate ___ wonderful meal yesterday.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+<p>___ meal that we ate yesterday was wonderful.</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+<p>I have ___ test tomorrow morning.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+<p>Which shirt do you like? ___ blue one?</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+"<p>I have three shirts - a yellow one, an orange one, and ___ black one.</p>",1,one,
+,<p>the</p>
+*,<p>a</p>
+<p>You must always tell ___ truth!</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+<p>I cannot understand how ___ person like him can become president.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>

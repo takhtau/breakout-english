@@ -1,0 +1,31 @@
+HTML
+"<p>Please,  put ____  sugar.</p>",1,one,
+*,<p>a little</p>
+,<p>a few</p>
+<p>I have _________ money.</p>,1,one,
+*,<p>a little</p>
+,<p>a few</p>
+<p>There are ______ plates on the table.</p>,1,one,
+,<p>little</p>
+*,<p>few</p>
+<p>I eat _______ bread.</p>,1,one,
+*,<p>little</p>
+,<p>few</p>
+<p>She wrote _______ letters.</p>,1,one,
+,<p>little</p>
+*,<p>few</p>
+<p>There are _______ pictures in the room.</p>,1,one,
+,<p>little</p>
+*,<p>few</p>
+<p>I have got ______ water.</p>,1,one,
+*,<p>a little</p>
+,<p>a few</p>
+<p>There is ______ meat in the fridge.</p>,1,one,
+*,<p>a little</p>
+,<p>a few</p>
+<p>There are ______ books in the cupboard.</p>,1,one,
+,<p>a little</p>
+*,<p>a few</p>
+<p>I have got ______ games.</p>,1,one,
+,<p>a little</p>
+*,<p>a few</p>

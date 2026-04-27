@@ -1,0 +1,49 @@
+HTML
+<p>I am angry with __________.</p>,~1,one,
+*,<p>myself</p>
+,<p>himself</p>
+,<p>themselves</p>
+<p>He fell down and hurt __________.</p>,1,one,
+,<p>yourself</p>
+*,<p>himself</p>
+,<p>ourselves</p>
+<p>She believes in __________.</p>,1,one,
+,<p>myself</p>
+,<p>yourself</p>
+*,<p>herself</p>
+<p>We are sure of __________.</p>,1,one,
+*,<p>ourselves</p>
+,<p>themselves</p>
+,<p>yourselves</p>
+<p>They did everything __________.</p>,1,one,
+,<p>yourselves</p>
+*,<p>themselves</p>
+,<p>himself</p>
+<p>Did you translate the text __________?</p>,1,one,
+,<p>myself</p>
+,<p>herself</p>
+*,<p>yourself</p>
+<p>I saw everything __________.</p>,1,one,
+*,<p>myself</p>
+,<p>himself</p>
+,<p>ourselves</p>
+"<p>The knife was sharp, and she cut __________.</p>",1,one,
+,<p>himself</p>
+*,<p>herself</p>
+,<p>themselves</p>
+<p>They introduced __________.</p>,1,one,
+,<p>yourselves</p>
+,<p>myself</p>
+*,<p>themselves</p>
+<p>Can you do many things _________?</p>,1,one,
+*,<p>yourself</p>
+,<p>myself</p>
+,<p>himself</p>
+<p>Are you always sure of _________?</p>,1,one,
+,<p>myself</p>
+*,<p>yourself</p>
+,<p>herself</p>
+<p>Did the pupils answer all the questions _________?</p>,1,one,
+,<p>ourselves</p>
+,<p>himself</p>
+*,<p>themselves</p>

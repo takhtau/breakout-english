@@ -1,0 +1,41 @@
+HTML
+<p>_____ brother is a pupil.</p>,1,one,
+*,<p>Ann's</p>
+,<p>Anns'</p>
+,<p>Ann</p>
+<p>It doesn't eat _____ meat.</p>,1,one,
+*,<p>much</p>
+,<p>many</p>
+,<p>a</p>
+<p>Mother _____ the window now.</p>,1,one,
+,<p>cleans</p>
+,<p>cleaned</p>
+*,<p>is cleaning</p>
+<p>What does she usually _____ you?</p>,1,one,
+,<p>gave</p>
+*,<p>give</p>
+,<p>gives</p>
+<p>Did they take many _____ ?</p>,1,one,
+,<p>water</p>
+,<p>food</p>
+*,<p>sweets</p>
+<p>What can you _____ ?</p>,1,one,
+*,<p>say</p>
+,<p>to say</p>
+,<p>said</p>
+<p>Can i take _____ apples?</p>,1,one,
+,<p>this</p>
+*,<p>these</p>
+,<p>that</p>
+<p>The _____ have got a nice cat.</p>,1,one,
+,<p>Green</p>
+*,<p>Greens</p>
+,<p>Green's</p>
+<p>_____ he go London last week?</p>,1,one,
+*,<p>did</p>
+,<p>does</p>
+,<p>was</p>
+<p>_____ he in London last week?</p>,1,one,
+,<p>did</p>
+,<p>does</p>
+*,<p>was</p>

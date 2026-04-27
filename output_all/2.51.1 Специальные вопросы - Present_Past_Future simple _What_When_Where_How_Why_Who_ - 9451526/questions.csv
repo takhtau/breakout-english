@@ -1,0 +1,49 @@
+HTML
+<p>... kind of movies do you like?</p>,1,one,
+*,<p>What</p>
+,<p>Where</p>
+,<p>How</p>
+<p>... is your favorite color?</p>,1,one,
+,<p>Who</p>
+*,<p>What</p>
+,<p>Why</p>
+<p>... did you leave? </p>,1,one,
+,<p>Where</p>
+,<p>What</p>
+*,<p>When</p>
+<p>... will you go on holiday?</p>,1,one,
+*,<p>When</p>
+,<p>What</p>
+,<p>Who</p>
+<p>... is the phone?</p>,1,one,
+,<p>Why</p>
+*,<p>Where</p>
+,<p>How</p>
+<p>... is the bank?</p>,1,one,
+,<p>Why</p>
+,<p>Who</p>
+*,<p>Where</p>
+<p>... far is it to your house? </p>,1,one,
+*,<p>How</p>
+,<p>What</p>
+,<p>When</p>
+<p>... spicy is the food at that restaurant? </p>,1,one,
+,<p>Who</p>
+*,<p>How</p>
+,<p>Where</p>
+<p>... are you so late? </p>,1,one,
+,<p>When</p>
+,<p>Who</p>
+*,<p>Why</p>
+<p>... did you want more money?</p>,1,one,
+*,<p>Why</p>
+,<p>Where</p>
+,<p>What</p>
+<p>... made this cake?</p>,1,one,
+,<p>Why</p>
+*,<p>Who</p>
+,<p>When</p>
+<p>... wants some ice cream?</p>,1,one,
+,<p>How</p>
+,<p>Where</p>
+*,<p>Who</p>

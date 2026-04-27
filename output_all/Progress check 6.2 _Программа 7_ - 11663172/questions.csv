@@ -1,0 +1,48 @@
+HTML
+<p>I always play with my _______ toys.</p>,1,one,
+,<p>sister</p>
+*,<p>sister's</p>
+,<p>sisters'</p>
+<p>What is this ________ name? </p>,1,one,
+,<p>boy </p>
+,<p>boys' </p>
+*,<p>boy's</p>
+<p>This is my _________ family. </p>,1,one,
+*,<p>friend's</p>
+,<p>friends'</p>
+,<p>friend</p>
+<p>We’re meeting in _________ house.</p>,1,one,
+,<p>Jack</p>
+*,<p>Jack's</p>
+,<p>Jacks'</p>
+<p>He has got very _______ friends.</p>,1,one,
+*,<p>few</p>
+,<p>little</p>
+<p>Can you buy ______ sweets for me?</p>,1,one,
+,<p>a little</p>
+,<p>little</p>
+*,<p>a few</p>
+"<p>We have got ______ tomatoes, we can't cook tomato-soup.</p>",1,one,
+*,<p>few</p>
+,<p>little</p>
+"<p>My parents give me ______ pocket money every week, so I can buy something.</p>",1,one,
+*,<p>a little</p>
+,<p>a few</p>
+<p>Can you buy _______ apples?</p>,1,one,
+,<p>a little</p>
+*,<p>a few</p>
+<p>The pupils ______ at school last Sunday.</p>,1,one,
+,<p>wasn't</p>
+*,<p>weren't</p>
+<p>______ Carol six last year?</p>,1,one,
+*,<p>Was</p>
+,<p>Were</p>
+<p>_____ the cat on the TV set a minute ago?</p>,1,one,
+,<p>Were</p>
+*,<p>Was</p>
+<p>_____ the children in the sitting room twenty minutes ago?</p>,1,one,
+*,<p>Were</p>
+,<p>Was</p>
+<p>_______ she in town five days ago?</p>,1,one,
+,<p>Were</p>
+*,<p>Was</p>

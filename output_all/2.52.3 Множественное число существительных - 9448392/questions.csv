@@ -1,0 +1,37 @@
+HTML
+<p>Yesterday I saw 8 (deer) in the forest </p>,1,one,
+*,<p>deer</p>
+,<p>deers</p>
+<p>There are many (fish) in this lake </p>,1,one,
+,<p>fishes</p>
+*,<p>fish</p>
+<p>I picked many (forget-me-not) for you in the field. </p>,1,one,
+*,<p>forget-me-nots</p>
+,<p>forget-me-not</p>
+<p>All the (gate) are closed. </p>,1,one,
+,<p>gate</p>
+*,<p>gates</p>
+<p>Give me please two (potato). </p>,1,one,
+*,<p>potatoes </p>
+,<p>potatos </p>
+<p>(Wolf) hunt in packs. </p>,1,one,
+,<p>wolfs</p>
+*,<p>wolves</p>
+<p>He gave me some red (box). </p>,1,one,
+*,<p>boxes</p>
+,<p>boxs</p>
+<p>Their (wife) were unhappy.</p>,1,one,
+,<p>wifes</p>
+*,<p>wives</p>
+<p> All (shelf) were broken by a boy. </p>,1,one,
+*,<p>shelves</p>
+,<p>shelfs</p>
+<p>All (woman) love beautiful flowers.</p>,1,one,
+*,<p>women</p>
+,<p>womans </p>
+<p> All (person) should take care of nature. </p>,1,one,
+,<p>persons</p>
+*,<p>people</p>
+<p>All the (man) were already tired.</p>,1,one,
+,<p>man</p>
+*,<p>men</p>

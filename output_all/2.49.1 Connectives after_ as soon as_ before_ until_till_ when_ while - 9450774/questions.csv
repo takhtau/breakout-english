@@ -1,0 +1,49 @@
+HTML
+<p>I have soccer practice ... school.</p>,1,one,
+*,<p>after</p>
+,<p>when</p>
+,<p>as soon as</p>
+<p>Let's go to the movies ... dinner.</p>,1,one,
+,<p>while</p>
+*,<p>after</p>
+,<p>when</p>
+"<p>... he received the telegram, he started. </p>",1,one,
+,<p>While</p>
+,<p>Until</p>
+*,<p>As soon as</p>
+"<p>... he finished his work, he went out. </p>",1,one,
+*,<p>As soon as</p>
+,<p>Till</p>
+,<p>While</p>
+<p>I met her just ... she left. </p>,1,one,
+,<p>while</p>
+*,<p>before</p>
+,<p>until</p>
+"<p>... she left, she gave everyone a present. </p>",1,one,
+,<p>Until</p>
+,<p>While</p>
+*,<p>Before</p>
+<p>I waited ... 6 o’clock and then I went home. </p>,1,one,
+*,<p>until</p>
+,<p>after</p>
+,<p>when</p>
+<p>I will wait ... I hear from you.</p>,1,one,
+,<p>while</p>
+*,<p>till</p>
+,<p>as soon as</p>
+<p>I came home ... I heard the news.</p>,1,one,
+,<p>while</p>
+,<p>until</p>
+*,<p>when</p>
+"<p>... my dad sleeps, nothing can wake him up.</p>",1,one,
+*,<p>When</p>
+,<p>As soon as</p>
+,<p>After</p>
+"<p>... I was relaxing at the hotel, Tom and John were surfing over the waves.</p>",1,one,
+,<p>After</p>
+*,<p>While</p>
+,<p>As soon as</p>
+<p>Phil was trying to mend his car ... his brother was curiously watching him.</p>,1,one,
+,<p>before</p>
+,<p>as soon as</p>
+*,<p>while</p>

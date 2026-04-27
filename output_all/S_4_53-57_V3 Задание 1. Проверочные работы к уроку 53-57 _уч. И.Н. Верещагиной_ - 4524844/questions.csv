@@ -1,0 +1,41 @@
+HTML
+<p>Who wants to dance? - The girls.................. .</p>,1,one,
+*,<p>do</p>
+,<p>wants</p>
+,<p>want</p>
+<p>He is ill. - How long................ill?</p>,1,one,
+,<p>is he</p>
+,<p>was he</p>
+*,<p>has he been</p>
+"<p>Your mother never watches TV, .................?</p>",1,one,
+*,<p>does she</p>
+,<p>is she</p>
+,<p>doesn't she</p>
+"<p>I am her friend, ....................?</p>",1,one,
+*,<p>aren't I</p>
+,<p>isn't it</p>
+,<p>don't I</p>
+<p>They never had lunch at home. - .................. .</p>,1,one,
+,"<p>No, they hadn't</p>"
+*,"<p>No, they didn't</p>"
+,"<p>Yes, they didn't</p>"
+"<p>He had two lessons, ...............?</p>",1,one,
+,<p>did he</p>
+*,<p>didn't he</p>
+,<p>hadn't he</p>
+"<p>They...................lunch, they are in the park now.</p>",1,one,
+,<p>have</p>
+,<p>had</p>
+*,<p>have had</p>
+<p>...................a lot of people in the museum.</p>,1,one,
+,<p>It will be</p>
+*,<p>There will be</p>
+,<p>They are</p>
+<p>He never takes..................advice.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>-</p>
+<p>We couldn't take a taxi. We...................walk.</p>,1,one,
+*,<p>had to</p>
+,<p>shall be able to</p>
+,<p>must</p>

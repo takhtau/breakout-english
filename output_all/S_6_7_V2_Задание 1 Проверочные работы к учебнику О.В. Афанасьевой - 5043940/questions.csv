@@ -1,0 +1,35 @@
+HTML
+<p>The plan is _____ great. (simple)</p>,1,,
+*,simple
+<p>Try to give us a _____ explanation. (simple)</p>,1,,
+*,simple
+<p>We must take a decision as _____ as possible. (quick)</p>,1,,
+*,quick
+<p>Can he run _____ ? (quick)</p>,1,,
+*,quickly
+<p>He had to be _____ . (quick)</p>,1,,
+*,quick
+<p>Why are you speaking so _____ ? (quick)</p>,1,,
+*,quickly
+<p>Try to be _____ . (polite)</p>,1,,
+*,polite
+<p>Try to say that _____ . (polite)</p>,1,,
+*,politely
+<p>Try to say that in a _____ way. (polite)</p>,1,,
+*,polite
+<p>Your face is dirty. You must wash _____ . (you)</p>,1,,
+*,yours
+"<p>Your bike is dirty, you must wash _____ . (it)</p>",1,,
+*,it
+"<p>I'll wash my bike, and you'll wash _____ . (you)</p>",1,,
+*,yours
+<p>We don't need _____ scissors. (that)</p>,1,,
+*,those
+"<p>Do you prefer the _____ song or the _____ one? (one, two)</p>",1,,
+*,first/second
+<p>These _____ are wonderful. (lily)</p>,1,,
+*,lilies
+<p>Those _____ are brave. (fireman)</p>,1,,
+*,firemen
+"<p>The weather has changed. It is much _____ and _____ now. (warm, sunny)</p>",1,,
+*,warmer/sunnier

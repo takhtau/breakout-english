@@ -1,0 +1,41 @@
+HTML
+<p>He _____ yesterday.</p>,1,one,
+,<p>skate</p>
+,<p>skates</p>
+*,<p>skated</p>
+<p>He likes to skate. He _____ every day.</p>,1,one,
+,<p>skate</p>
+*,<p>skates</p>
+,<p>skated</p>
+<p>_____ she play chess?</p>,1,one,
+,<p>do</p>
+,<p>is</p>
+*,<p>did</p>
+<p>_____ she playing chess?</p>,1,one,
+,<p>do</p>
+*,<p>is</p>
+,<p>did</p>
+<p>Did she _____ the dress?</p>,1,one,
+*,<p>wash</p>
+,<p>washes</p>
+,<p>washed</p>
+<p>He _____ help her yesterday.</p>,1,one,
+,<p>isn't</p>
+,<p>doesn't</p>
+*,<p>didn't</p>
+<p>He isn't _____ TV.</p>,1,one,
+,<p>watch</p>
+*,<p>watching</p>
+,<p>watched</p>
+<p>We don't draw _____ .</p>,1,one,
+,<p>now</p>
+*,<p>every day</p>
+,<p>yesterday</p>
+<p>He _____ in Africa last year.</p>,1,one,
+,<p>is</p>
+*,<p>was</p>
+,<p>were</p>
+<p>_____ they ill?</p>,1,one,
+,<p>did</p>
+,<p>was</p>
+*,<p>were</p>

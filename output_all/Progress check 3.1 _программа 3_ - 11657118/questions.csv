@@ -1,0 +1,60 @@
+HTML
+<p>This advice wasn't ...</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>me</p>
+<p>He lost ... pencil.</p>,1,one,
+,<p>mine</p>
+*,<p>my</p>
+,<p>me</p>
+<p>... am your schoolmate.</p>,1,one,
+*,<p>I</p>
+,<p>me</p>
+,<p>my</p>
+<p>She is ... neighbour.</p>,1,one,
+,<p>mine</p>
+*,<p>my</p>
+,<p>me</p>
+<p> I never do anything until I have checked everything_________.</p>,1,one,
+*,<p>myself</p>
+,<p>himself </p>
+,<p>yourself </p>
+<p>There can be no doubt that Shakespeare_______wrote this play.</p>,1,one,
+,<p>myself</p>
+*,<p>himself </p>
+,<p>ourselves</p>
+<p>I hope you didn't hurt___________ . </p>,1,one,
+,<p>myself</p>
+,<p>himself </p>
+*,<p>yourself</p>
+<p>We built most of the house______________ . </p>,1,one,
+,<p>myself</p>
+,<p>himself </p>
+*,<p>ourselves</p>
+<p>I (to wait) for you a long time.</p>,1,one,
+*,<p>have been waiting</p>
+,<p>have waited</p>
+,<p>waited</p>
+<p>That person (to visit) 20 countries. </p>,1,one,
+*,<p>has visited</p>
+,<p>has been visiting </p>
+,<p>visited</p>
+<p>I’m so upset. You (not to do) your homework again!</p>,1,one,
+,<p>haven't been doing </p>
+,<p>didn't do </p>
+*,<p>haven’t done </p>
+<p>We __________not be late.</p>,1,one,
+*,<p>must</p>
+,<p>should</p>
+,<p>ought to </p>
+"<p>I _______say, you are making a serious mistake.</p>",1,one,
+*,<p>must</p>
+,<p>should</p>
+,<p>ought to </p>
+<p>I don't enjoy ... letters.</p>,1,one,
+*,<p>writing</p>
+,<p>write</p>
+,<p>to write</p>
+<p>Stop ... about it.</p>,1,one,
+,<p>to talk</p>
+*,<p>talking</p>

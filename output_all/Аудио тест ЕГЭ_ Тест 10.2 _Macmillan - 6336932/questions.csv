@@ -1,0 +1,29 @@
+HTML
+<p>A Alison has got most of the supplies she needs for the clean-up. </p>,1,one,
+*,<p>True </p>
+,<p>False</p>
+,<p>Not stated </p>
+<p>B Alison isn't going to be involved with the rubbish pick-up. </p>,1,one,
+*,<p>True </p>
+,<p>False</p>
+,<p>Not stated </p>
+<p>C Alison has got an instrument for removing posters. </p>,1,one,
+,<p>True </p>
+*,<p>False</p>
+,<p>Not stated </p>
+<p>D Alison is going to assign poster removal to a friend. </p>,1,one,
+*,<p>True </p>
+,<p>False</p>
+,<p>Not stated </p>
+<p>E Daniel doesn't think the park is full of rubbish. </p>,1,one,
+,<p>True </p>
+*,<p>False</p>
+,<p>Not stated </p>
+<p>F Alison wants to clean up the playground so she can use it again. </p>,1,one,
+,<p>True </p>
+*,<p>False</p>
+,<p>Not stated </p>
+<p>G Daniel will be at football practice for a couple of hours. </p>,1,one,
+,<p>True </p>
+,<p>False</p>
+*,<p>Not stated </p>

@@ -1,0 +1,49 @@
+HTML
+<p>Jay never (to travel) overseas.</p>,1,one,
+,<p>have never travelled </p>
+*,<p>has never travelled </p>
+,<p>never travelled </p>
+<p>We always (to have) a dog and a cat. We love pets.</p>,1,one,
+*,<p>have always had </p>
+,<p>has always had </p>
+,<p>always had</p>
+<p>Larry never (to own) a sports car.</p>,1,one,
+*,<p>has never owned </p>
+,<p>have never owned </p>
+,<p>never owned </p>
+<p>I (to love) dogs since I was a child.</p>,1,one,
+,<p>loved</p>
+,<p>has loved</p>
+*,<p>have loved</p>
+<p>The rain already (to stop) and the sun is shining in the sky again.</p>,1,one,
+,<p>stop </p>
+,<p>have stopped</p>
+*,<p>has stopped </p>
+"<p>The wind (to blow) off the man’s hat, and he cannot catch it.</p>",1,one,
+*,<p>has blown</p>
+,<p>have blown </p>
+,<p>blown</p>
+"<p>The weather (to change), and we can go for a walk.</p>",1,one,
+,<p>have changed</p>
+*,<p>has changed </p>
+,<p>changed</p>
+<p>I (not to see) Pete today.</p>,1,one,
+,<p>hasn't seen</p>
+*,<p>haven't seen</p>
+,<p>didn't see</p>
+<p>I just (to meet) our teacher.</p>,1,one,
+,<p>has met</p>
+,<p>met</p>
+*,<p>have met</p>
+<p>The children already (to decide) what to do with the books.</p>,1,one,
+,<p>decided </p>
+,<p>has already decided </p>
+*,<p>have already decided </p>
+<p>I (not to see) you for a long time.</p>,1,one,
+,<p>hasn't seen </p>
+,<p>didn't see</p>
+*,<p>haven't seen</p>
+<p>You ever (to spend) your holidays in the Crimea?</p>,1,one,
+*,<p>Have you ever spent</p>
+,<p>Has you ever spent </p>
+,<p>Did you spend</p>

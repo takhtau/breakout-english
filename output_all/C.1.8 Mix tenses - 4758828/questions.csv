@@ -1,0 +1,35 @@
+HTML
+<p>The door is open. He_____________it yet. (NOT LOCK)</p>,1,,
+*,hasn't locked
+<p>Yesterday when he____________the door he_________the handle. (LOCK/BREAK)</p>,1,,
+*,was locking/broke
+<p>Yesterday the door____________ . (LOCK)</p>,1,,
+*,was locked
+<p>They__________the door yesterday. (LOCK) </p>,1,,
+*,locked
+"<p>If he___________the office before lunch, he____________the door. (LEAVE/LOCK) </p>",1,,
+*,leaves/will lock
+<p>I wonder if he____________the office before lunch tomorrow. (LEAVE) </p>,1,,
+*,will leave
+<p>Do you want me___________the door? (LOCK) </p>,1,,
+*,to lock
+<p>- What________you_________?</p><p>- I___________to lock the door. I________________it for ten minutes already. There is something wrong with the key. (DO/TRY/LOCK) </p>,1,,
+*,are/doing/am trying/have been locking
+"<p>I am sure tomorrow when he_________, the door____________ . (COME/NOT LOCK) </p>",1,,
+*,comes/won't be locked
+<p>The door can_____________with that key. (LOCK) </p>,1,,
+*,be locked
+<p>She said she_________already_________the door. (LOCK)</p>,1,,
+*,had/locked
+<p>She said she____________the door an hour door later. (LOCK) </p>,1,,
+*,would lock
+<p>Did you see him________the door? (LOCK) </p>,1,,
+*,locking
+<p>Who makes him____________the door? (LOCK) </p>,1,,
+*,lock
+<p>He was made___________the door. (LOCK)</p>,1,,
+*,to lock
+<p>Who____________the door? - They do. (LOCK)</p>,1,,
+*,locks
+<p>I expect him_____________the door before he_________the office. (LOCK/LEAVE) </p>,1,,
+*,to lock/leaves

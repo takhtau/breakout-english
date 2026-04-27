@@ -1,0 +1,54 @@
+HTML
+<p>Bob hasn’t studied French _____ 2 years.</p>,1,one,
+*,<p>for</p>
+,<p>since</p>
+<p>Has it been there ____ January? </p>,1,one,
+,<p>for</p>
+*,<p>since</p>
+<p>He ______ (work) here for 6 months.</p>,1,one,
+,<p>have worked</p>
+*,<p>has worked</p>
+,<p>has works</p>
+<p>I haven't lived in Moscow _____ I left school. </p>,1,one,
+,<p>for</p>
+*,<p>since</p>
+<p>She has ______ seen this film.</p>,1,one,
+,<p>ever</p>
+,<p>yet</p>
+*,<p>already</p>
+<p>We have ____ met before.</p>,1,one,
+,<p>yet</p>
+*,<p>never</p>
+,<p>for</p>
+<p>We haven't lived there _____. </p>,1,one,
+,<p>ever</p>
+,<p>since</p>
+*,<p>yet</p>
+<p>____ he ever ____ (live) there? </p>,1,one,
+*,<p>Has/lived</p>
+,<p>Have/lived</p>
+,<p>Has/live</p>
+<p>We cleaned it ___________.</p>,1,one,
+,<p>themselves</p>
+*,<p>ourselves</p>
+,<p>yourselves</p>
+<p>She has no reason to blame ___________</p>,1,one,
+,<p>himself</p>
+,<p>myself</p>
+*,<p>herself</p>
+<p>Babies cannot look after ___________</p>,1,one,
+*,<p>themselves</p>
+,<p>ourselves</p>
+,<p>itself</p>
+"<p>Children, take the towel and dry __________</p>",1,one,
+,<p>myself</p>
+*,<p>yourselves</p>
+,<p>yourself</p>
+<p>How many ________ does she go to the party?</p>,1,,
+*,times
+<p>They eat soup for breakfast _______ __ ______. (два раза в неделю)</p>,1,,
+*,twice a week
+<p>_____ ______ times did he see that dog in the park? (сколько)</p>,1,,
+*,How many
+<p>______ _______ does he get up at 4 o'clock? (как часто)</p>,1,,
+*,How often

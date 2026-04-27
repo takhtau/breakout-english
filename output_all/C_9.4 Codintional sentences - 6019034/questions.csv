@@ -1,0 +1,41 @@
+HTML
+"<p>If I lose my job, I ___ for a new one.</p>",1,one,
+*,<p>will look</p>
+,<p>would look</p>
+,<p>look</p>
+"<p>If she hadn't told me to stay, I ___.</p>",1,one,
+,<p>will go</p>
+*,<p>would have gone</p>
+,<p>would go</p>
+<p>She ___ to come to the party if she had known that her exboyfriend would be there.</p>,1,one,
+,<p>would not agree </p>
+,<p>did not agree</p>
+*,<p>would not have agreed</p>
+"<p>If you come tonight, I ___ enchiladas.</p>",1,one,
+*,<p>will make</p>
+,<p>would make</p>
+,<p>will have made</p>
+"<p>If I were him, I that job.</p>",1,one,
+*,<p>would take </p>
+,<p>did take</p>
+,<p>will take</p>
+<p>He will never speak to me again if he ___ what happened.</p>,1,one,
+,<p>will have found out</p>
+*,<p>finds out</p>
+,<p>would find out</p>
+<p>Our cat ___ you if you rub her belly.</p>,1,one,
+*,<p>will bite</p>
+,<p>would bite</p>
+,<p>would have bitten</p>
+<p>I ___ you if I hadn't thought it was important. </p>,1,one,
+,<p>will not tell </p>
+*,<p>wouldn't have told </p>
+,<p>would not tell</p>
+"<p>If I ___ you were coming, I would have prepared lunch.</p>",1,one,
+,<p>knew</p>
+*,<p>had known</p>
+,<p>will know</p>
+"<p>If I were you, I ___ to the beach instead of going to work.</p>",1,one,
+,<p>will have gone</p>
+,<p>will go</p>
+*,<p>would go</p>

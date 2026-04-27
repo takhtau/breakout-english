@@ -1,0 +1,41 @@
+HTML
+<p>They usually eat _____ bread.</p>,1,one,
+,<p>many</p>
+,<p>a</p>
+*,<p>a lot of</p>
+<p>Tom has got two _____ .</p>,1,one,
+,<p>brother's</p>
+*,<p>brothers</p>
+,<p>brother</p>
+<p>_____ dog likes meat.</p>,1,one,
+,<p>the boys</p>
+*,<p>the boys'</p>
+,<p>the boys's</p>
+<p>_____ came home at 3 o'clock?</p>,1,one,
+,<p>when</p>
+,<p>where</p>
+*,<p>who</p>
+<p>There was a basket under _____ table.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>She _____ the doll last month.</p>,1,one,
+*,<p>bought</p>
+,<p>buys</p>
+,<p>takes</p>
+<p>He _____ buy the toy yesterday.</p>,1,one,
+*,<p>didn't</p>
+,<p>doesn't</p>
+,<p>wasn't</p>
+<p>_____ apples?</p>,1,one,
+,<p>she ate</p>
+,<p>was she eat</p>
+*,<p>did she eat</p>
+<p>_____ a cup in this box last week.</p>,1,one,
+,<p>there is</p>
+*,<p>there was</p>
+,<p>was there</p>
+<p>_____ in the bag.</p>,1,one,
+*,<p>there is no apple</p>
+,<p>there is apple</p>
+,<p>no apple is</p>

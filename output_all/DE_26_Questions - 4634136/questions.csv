@@ -1,0 +1,61 @@
+HTML
+"<p>Oh, I'm sorry!__________disturbing you?</p>",1,one,
+,<p>Do I</p>
+,<p>Have I</p>
+,<p>Should I</p>
+*,<p>Am I</p>
+<p>Did Dorothy________you about the meeting on Friday&amp;</p>,1,one,
+,<p>told</p>
+*,<p>tell</p>
+,<p>has told</p>
+,<p>tells</p>
+<p>___________hot when you were in Spain?</p>,1,one,
+*,<p>Was it</p>
+,<p>It was</p>
+,<p>Did it</p>
+,<p>It made</p>
+"<p>Tony,____________got time to call Mrs Roberts?</p>",1,one,
+,<p>do you have</p>
+,<p>you have</p>
+,<p>are you</p>
+*,<p>have you</p>
+"<p>When your boss arrived,________finished the report?</p>",1,one,
+,<p>you had</p>
+,<p>did you have</p>
+*,<p>had you</p>
+,<p>were you</p>
+"<p>I know Jane's pretty, but________seen someone spend so much time in front of the mirror?</p>",1,one,
+,<p>do you ever</p>
+,<p>you have never</p>
+*,<p>have you ever</p>
+,<p>ever have you</p>
+"<p>It's raining, so ___________cancel the concert?</p>",1,one,
+*,<p>will they</p>
+,<p>they will</p>
+,<p>do they will</p>
+,<p>are they </p>
+"<p>________pass me the salt, please?</p>",1,one,
+,<p>You could</p>
+,<p>Are you</p>
+,<p>You are </p>
+*,<p>Could you</p>
+"<p>Sir,______________repeat what the homework is, please?</p>",1,one,
+,<p>do you</p>
+,<p>are you</p>
+,<p>you </p>
+*,<p>can you</p>
+<p>___________the couple you met in France last year staying at the same hotel?</p>,1,one,
+,<p>Did</p>
+,<p>Have </p>
+*,<p>Were</p>
+,<p>Could </p>
+"<p>I know how to pronounce ""сontroversy"", but what___________?</p>",1,one,
+*,<p>does it mean</p>
+,<p>it means</p>
+,<p>is it mean </p>
+,<p>means it</p>
+"<p>It's great idea, but___________it will work?</p>",1,one,
+,<p>are you thinking</p>
+*,<p>do you think </p>
+,<p>you think </p>
+,<p>you do think </p>

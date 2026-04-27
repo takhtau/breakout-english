@@ -1,0 +1,51 @@
+HTML
+<p>Mrs Green ___ green vegetables now.</p>,1,one,
+,<p>buys</p>
+,<p>bought</p>
+*,<p>is buying</p>
+,<p>will buy</p>
+<p>They ___ snowballs next year.</p>,1,one,
+,<p>play</p>
+,<p>played</p>
+,<p>is playing</p>
+*,<p>will play</p>
+<p>The girl usually ___ her skates into the bag.</p>,1,one,
+*,<p>puts</p>
+,<p>put</p>
+,<p>is putting</p>
+,<p>will put</p>
+<p>I think I ___ tasty cakes and sweets at my party tomorrow.</p>,1,one,
+,<p>eat</p>
+,<p>ate</p>
+,<p>am eating</p>
+*,<p>shall eat</p>
+<p>Yesterday my brother ___ fish for supper.</p>,1,one,
+,<p>cooks</p>
+*,<p>cooked</p>
+,<p>is cooking</p>
+,<p>will cooked</p>
+<p>Last week we ___ to the Zoo.</p>,1,one,
+,<p>go</p>
+*,<p>went</p>
+,<p>are going</p>
+,<p>shall go</p>
+<p>What do you want? I ___ a cup of tea.</p>,1,one,
+*,<p>have</p>
+,<p>had</p>
+,<p>am having</p>
+,<p>shall have</p>
+<p>He ___ water from the vase. He is thursty.</p>,1,one,
+*,<p>drinks</p>
+,<p>drank</p>
+,<p>is drinking</p>
+,<p>will drink</p>
+"<p>And then he ___ for another cake, won't he?</p>",1,one,
+,<p>asks</p>
+,<p>asked</p>
+,<p>is asking</p>
+*,<p>will ask</p>
+<p>I always ___ my dog for a walk.</p>,1,one,
+*,<p>take</p>
+,<p>took</p>
+,<p>am taking</p>
+,<p>shall take</p>

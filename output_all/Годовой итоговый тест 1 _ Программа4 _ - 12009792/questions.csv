@@ -1,0 +1,59 @@
+HTML
+"<p>By the time I got to the hotel, ___ any rooms left.</p>",1,one,
+*,<p>there weren't</p>
+,<p>there hadn't been</p>
+,<p>there isn't</p>
+<p>I ___ to music when she came in.</p>,1,one,
+*,<p>was listening</p>
+,<p> listened</p>
+,<p>have been listening </p>
+<p>Last night I ___ that I was living in China.</p>,1,one,
+,<p>dreamed</p>
+,<p>have dreamed</p>
+*,<p>dreamt</p>
+<p>I want ___ the exercises for advanced students.</p>,1,one,
+,<p>try</p>
+*,<p>to try</p>
+,<p>to have tried</p>
+<p>What ___ to her about last night? </p>,1,one,
+,<p>have you spoken</p>
+,<p>you spoke</p>
+*,<p>did you speak</p>
+<p>He will come tomorrow. She told me that he ___ the next day.</p>,1,one,
+,<p>is coming</p>
+,<p>will come</p>
+*,<p>would come</p>
+<p>Open the window! He asked me ___ the window.</p>,1,one,
+*,<p>to open</p>
+,<p>open</p>
+,<p> opened</p>
+<p>I am flying to India tomorrow. He told me that he ___ the next day.</p>,1,one,
+,<p>is flying</p>
+*,<p>was flying</p>
+,<p>will fly</p>
+<p>I moved to ___ USA when I was 15 years old.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>I have ___ idea!</p>,1,one,
+*,<p>an</p>
+,<p>the</p>
+,<p>-</p>
+<p>My parents live in ___ white house.</p>,1,one,
+*,<p>a</p>
+,<p>the</p>
+,<p>-</p>
+"<p>If I ___ you, I would apologize to her right away.</p>",1,one,
+,<p>was</p>
+*,<p>were</p>
+,<p>have been</p>
+"<p>If you were her, what ___?</p>",1,one,
+*,<p>would you do</p>
+,<p>did you do</p>
+,<p>do you do</p>
+<p>Madonna is_______________than Beyonce. </p>,1,one,
+*,<p>more famous</p>
+,<p>most famous </p>
+"<p>In my opinion, people who write songs are often____________than singers. </p>",1,one,
+*,<p>more talented </p>
+,<p>most talented </p>

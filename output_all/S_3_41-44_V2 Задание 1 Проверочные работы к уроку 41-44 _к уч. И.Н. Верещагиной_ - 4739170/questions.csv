@@ -1,0 +1,41 @@
+HTML
+<p>_____ in the box.</p>,1,one,
+*,<p>there is no pen</p>
+,<p>there is the pen</p>
+,<p>no pen is</p>
+<p>_____ a box on the desk.</p>,1,one,
+*,<p>there is </p>
+,<p>there are</p>
+,<p>there were</p>
+<p>There are _____ there.</p>,1,one,
+,<p>animal</p>
+*,<p>animals</p>
+,<p>an animal</p>
+<p>We usually buy _____ cheese.</p>,1,one,
+*,<p>a lot of</p>
+,<p>many</p>
+,<p>a</p>
+<p>There was a sweet on _____ table.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>Tim _____ shopping last week.</p>,1,one,
+,<p>doesn't go</p>
+,<p>didn't went</p>
+*,<p>didn't go</p>
+<p>_____ the present?</p>,1,one,
+*,<p>did she like</p>
+,<p>did she liked</p>
+,<p>she liked</p>
+<p>Tom _____ in Moscow last year.</p>,1,one,
+,<p>is</p>
+*,<p>was</p>
+,<p>were</p>
+<p>_____ celebrated the holiday?</p>,1,one,
+,<p>when</p>
+*,<p>who</p>
+,<p>why</p>
+<p>Bill _____ a letter yesterday.</p>,1,one,
+*,<p>sent</p>
+,<p>sends</p>
+,<p>send</p>

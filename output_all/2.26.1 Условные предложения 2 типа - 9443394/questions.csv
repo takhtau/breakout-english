@@ -1,0 +1,49 @@
+HTML
+"<p>If he … (be) my friend, I … (invite) him to the party.</p>",1,one,
+,<p>was/would invite</p>
+,<p>be/invite</p>
+*,<p>were /would invite </p>
+"<p>If I … (be) taller, I … (become) a basketball player.</p>",1,one,
+,<p>was/became</p>
+*,<p>were/would become </p>
+,<p>was/would become</p>
+"<p>If an asteroid … (hit) our planet, it … (cause) an ice age.</p>",1,one,
+*,<p>hit /would cause </p>
+,<p>hit/caused</p>
+,<p>hit/cause</p>
+<p>John … (travel) around the world if he … (win) a lottery prize.</p>,1,one,
+*,<p>would travel/won </p>
+,<p>would travel/win</p>
+,<p>traveled/won</p>
+<p>We … (go) to Spain this winter if we … (have) enough money.</p>,1,one,
+,<p>go/have</p>
+,<p>went/had</p>
+*,<p>would go /had </p>
+<p>She … (not mind) if you … (borrow) her car.</p>,1,one,
+*,<p>wouldn’t mind/borrowed </p>
+,<p>didn't mind/borrowed</p>
+,<p>don't mind/borrow</p>
+"<p>If you … (move) to another city, I … (phone) you every day.</p>",1,one,
+,<p>moved/phoned</p>
+*,<p>moved/would phone </p>
+,<p>move/phone</p>
+<p>They … (laugh) at me if I … (sing) this song.</p>,1,one,
+*,<p>would laugh/sang </p>
+,<p>laughed/sang </p>
+,<p>laugh/sing</p>
+"<p>If we … (have) free time, we … (start) a new hobby.</p>",1,one,
+,<p>had/started</p>
+,<p>have/started</p>
+*,<p>had /would start </p>
+"<p>If I … (know) her secret, I … (not tell) it to anyone.</p>",1,one,
+*,<p>knew/wouldn’t tell </p>
+,<p>know/ don't tell</p>
+,<p>knew/didn't tell</p>
+"<p>If he (be) slim, he (be) more attractive.</p>",1,one,
+*,<p>were/would be</p>
+,<p>was/would be</p>
+,<p>be/would be</p>
+"<p>If you (leave) the child alone, he (hurt) himself.</p>",1,one,
+*,<p>left/would hurt</p>
+,<p>leave/hurt</p>
+,<p>left/hurt</p>

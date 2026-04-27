@@ -1,0 +1,41 @@
+HTML
+"<p>If I _________ more free time, I would go swimming every day.</p>",1,one,
+,<p>have</p>
+*,<p>had</p>
+,<p>will have</p>
+"<p>It _____________ great if they opened a new gym round here, but it's not like to happen.</p>",1,one,
+,<p>will be</p>
+*,<p>would be</p>
+,<p>was</p>
+"<p>If I _______ fit, I __________ need to go to the gym.</p>",1,one,
+,<p>was/couldn't</p>
+*,<p>were/ wouldn't</p>
+,<p>was/don't</p>
+"<p>The doctor says that if Lucy was really ill, he _______ give her some medicine.</p>",1,one,
+,<p>will</p>
+*,<p>would</p>
+,<p>-</p>
+<p>Wouldn't it be better if you ________ on a diet.</p>,1,one,
+,<p>go</p>
+*,<p>went</p>
+,<p>would go</p>
+<p>You ________ need to go to the dentist if you didn't eat so many sweets.</p>,1,one,
+*,<p>wouldn't need</p>
+,<p>won't need</p>
+,<p>don't need</p>
+<p>The man said that he would tell me the time if he__________ a watch.</p>,1,one,
+*,<p>had</p>
+,<p>would have</p>
+,<p>will have</p>
+"<p>If it ________, we wouldn't go for a swim. </p>",1,one,
+,<p>rains</p>
+*,<p>rained</p>
+,<p>will rain</p>
+"<p>Perhaps you should get some exercise, then you __________ better.</p>",1,one,
+,<p>would felt</p>
+*,<p>would feel</p>
+,<p>feel</p>
+<p>_________ Pete help if we asked him?</p>,1,one,
+*,<p>Would</p>
+,<p>Did</p>
+,<p>Will</p>

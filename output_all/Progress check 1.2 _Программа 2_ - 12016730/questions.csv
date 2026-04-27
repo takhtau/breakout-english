@@ -1,0 +1,53 @@
+HTML
+<p>Nick thought that his father (not to come) home yet.</p>,1,one,
+,<p>didn't come</p>
+*,<p>hadn't come</p>
+,<p>comes</p>
+<p>Mary (to tell) us that she had cooked a good dinner.</p>,1,one,
+,<p>had told</p>
+,<p>tells</p>
+*,<p>told</p>
+<p>Yesterday I found the book which I (to lose) in summer.</p>,1,one,
+*,<p>had lost</p>
+,<p>lost</p>
+,<p>lose</p>
+"<p>When we (to come) to the station, the train had already left.</p>",1,one,
+,<p>had come</p>
+*,<p>came</p>
+,<p>come</p>
+<p>David was irritated because the police inspector (to ask) him questions for more than an hour.</p>,1,one,
+*,<p>had been asking</p>
+,<p>had asked</p>
+,<p>had been asked</p>
+<p>She (to work) as a shop-assistant for ten years in this shop.</p>,1,one,
+,<p>had been worked</p>
+,<p>had worked</p>
+*,<p>had been working</p>
+<p>Anthony (wait) for his airplane for 3 hours when its delay was announced.</p>,1,one,
+,<p>had waited</p>
+*,<p>had been waiting </p>
+,<p>had been waited</p>
+<p>I (to have) breakfast before I went to school.</p>,1,one,
+*,<p>had had</p>
+,<p>had been having</p>
+,<p>had been had</p>
+<p>________you ____ the noise a minute ago?</p>,1,one,
+*,<p>Did/hear</p>
+,<p>Was/hearing </p>
+,<p>Were/hearing </p>
+<p>Why _____you ______ the class?</p>,1,one,
+,<p>Was/missing </p>
+*,<p>Did/miss</p>
+,<p>Were/missing </p>
+<p>He _________ the joke.</p>,1,one,
+,<p>wasn't understanding </p>
+*,<p>didn't understand </p>
+,<p>weren't understanding </p>
+<p>She___________ at 2.45 p.m.</p>,1,one,
+,<p>didn't study </p>
+*,<p>wasn't studying </p>
+,<p>weren't studying </p>
+<p>_________ he ______ his project yesterday at 2.45?</p>,1,one,
+,<p>Were/doing </p>
+,<p>Did/do</p>
+*,<p>Was/doing</p>

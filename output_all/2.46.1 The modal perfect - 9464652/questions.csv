@@ -1,0 +1,49 @@
+HTML
+<p>He should (consult) the doctor long ago. </p>,1,one,
+*,<p>have consulted </p>
+,<p>consult</p>
+,<p>be consultin</p>
+<p>He should (read) this book. </p>,1,one,
+,<p>be reading </p>
+*,<p>have read</p>
+,<p>read</p>
+<p>You should (go) there and speak to them. </p>,1,one,
+,<p>go</p>
+,<p>be going</p>
+*,<p>have gone</p>
+"<p>He shouldn't (speak) so rudely,</p>",1,one,
+*,<p>have spoken</p>
+,<p>be speaking </p>
+,<p>speak</p>
+<p>She should (return) long ago. </p>,1,one,
+,<p>return</p>
+*,<p>have returned</p>
+,<p>be returning </p>
+<p>You needn't (buy) bread. </p>,1,one,
+,<p>to buy</p>
+,<p>buy</p>
+*,<p>have bought</p>
+<p>You needn't (apologize). </p>,1,one,
+,<p>apologize </p>
+*,<p>have apologized.</p>
+,<p>to apologize </p>
+<p>You needn't (copy) the whole text into your book. </p>,1,one,
+*,<p>have copied </p>
+,<p>to copy</p>
+,<p>copy</p>
+<p>He can't (forget) to buy flowers. </p>,1,one,
+,<p>forget</p>
+*,<p>have forgotten </p>
+,<p>be forgetting </p>
+<p>He must (learn) it from Kate. </p>,1,one,
+*,<p>have learned</p>
+,<p>learn</p>
+,<p>be learning </p>
+<p>He might (hear) about it. </p>,1,one,
+,<p>be hearing</p>
+,<p>hear</p>
+*,<p>have heard </p>
+<p>He must (meet) them on the way home.</p>,1,one,
+*,<p>have met</p>
+,<p>meet</p>
+,<p>be meeting</p>

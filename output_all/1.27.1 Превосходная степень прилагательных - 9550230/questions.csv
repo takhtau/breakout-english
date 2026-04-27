@@ -1,0 +1,49 @@
+HTML
+<p>Kate was the _________ (tall) of the family.</p>,1,one,
+*,<p>tallest</p>
+,<p>taller</p>
+,<p>tall</p>
+<p>This wine is the ____________ (good).</p>,1,one,
+,<p>goodest</p>
+*,<p>best</p>
+,<p>good</p>
+<p>Jack was the________ (short) of the two.</p>,1,one,
+,<p>shorter</p>
+,<p>short</p>
+*,<p>shortest</p>
+<p>Jack is the__________ (clever) of the three brothers.</p>,1,one,
+*,<p>cleverest</p>
+,<p>cleverer</p>
+,<p>most clever</p>
+<p>It is one of the _____________ (famous) stories.</p>,1,one,
+,<p>more famous</p>
+*,<p>most famous</p>
+,<p>famousest</p>
+<p>He is the __________ (rich) in the world.</p>,1,one,
+,<p>most rich</p>
+,<p>richer</p>
+*,<p>richest</p>
+<p>Safari parks are the ________ (good) places to keep animals.</p>,1,one,
+*,<p>best</p>
+,<p>goodest</p>
+,<p>most good</p>
+<p>Afternoon is the _____ (hot) part of the day.</p>,1,one,
+,<p>most hot</p>
+*,<p>hottest</p>
+,<p>hotest</p>
+<p>Where is the ______ (near) post office?</p>,1,one,
+,<p>most near</p>
+,<p>nearer</p>
+*,<p>nearest</p>
+<p>It is the ___________ (expensive) thing in this shop.</p>,1,one,
+*,<p>most expensive</p>
+,<p>expensivest</p>
+,<p>more expensive</p>
+<p>This is the _____ (bad) movie.</p>,1,one,
+,<p>baddest </p>
+*,<p>worst</p>
+,<p>most bad</p>
+<p>Russia the _____ (big) country in the world.</p>,~1,one,
+,<p>most big</p>
+,<p>bigest</p>
+*,<p>biggest</p>

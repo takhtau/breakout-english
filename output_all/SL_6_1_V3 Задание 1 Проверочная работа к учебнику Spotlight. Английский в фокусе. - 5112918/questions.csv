@@ -1,0 +1,61 @@
+HTML
+<p>She would like to buy _____ cup.</p>,1,one,
+,<p>second</p>
+*,<p>the second</p>
+,<p>two</p>
+<p>She would like to buy _____ cups.</p>,1,one,
+,<p>second</p>
+,<p>the second</p>
+*,<p>two</p>
+<p>_____ coffee makers have they got?</p>,1,one,
+*,<p>How many</p>
+,<p>How much</p>
+,<p>How</p>
+<p>_____ coffee have they got?</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>_____ is the coffee? - 100 roubles.</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>_____ is in the house.</p>,1,one,
+*,<p>Anton</p>
+,<p>Anton's</p>
+,<p>Him</p>
+<p>_____ house is comfortable.</p>,1,one,
+,<p>Anton</p>
+*,<p>Anton's</p>
+,<p>Him</p>
+<p>I often help _____ to clean the house.</p>,1,one,
+*,<p>Anton</p>
+,<p>Anton's</p>
+,<p>his</p>
+<p>Those _____ must bring their passports.</p>,1,one,
+,<p>student</p>
+*,<p>students</p>
+,<p>students'</p>
+<p>Those _____ passports are on the desk.</p>,1,one,
+,<p>student</p>
+,<p>students</p>
+*,<p>students'</p>
+<p>_____ is he? - He is Sally's dentist.</p>,1,one,
+*,<p>Who</p>
+,<p>What</p>
+,<p>Whose</p>
+<p>_____ dentist is he? - Sally's.</p>,1,one,
+,<p>Who</p>
+,<p>What</p>
+*,<p>Whose</p>
+<p>_____ cherries have you got?</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>_____ cherry jam have you got?</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>There isn't _____ cherry jam in the jar.</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+,<p>a</p>

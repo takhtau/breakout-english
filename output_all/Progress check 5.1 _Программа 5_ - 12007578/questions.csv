@@ -1,0 +1,50 @@
+HTML
+"<p>Anna, you _________ feed those poor kittens. </p>",1,one,
+,<p>must</p>
+*,<p>ought to </p>
+,<p>should</p>
+<p>You ___cross the street on the green light.</p>,1,one,
+*,<p>must</p>
+,<p>should</p>
+,<p>ought to </p>
+<p>There weren’t ___________ for everybody to have coffee at the same time.</p>,1,one,
+*,<p>enough cups</p>
+,<p>too much cups</p>
+<p>I can’t run very far. I’m not___________. </p>,1,one,
+,<p>too fit</p>
+*,<p>fit enough</p>
+<p>This shirt is _________for me. I need a smaller size. </p>,1,one,
+,<p>big enough</p>
+*,<p>too big </p>
+<p>Yesterday I saw 8 (deer) in the forest </p>,1,one,
+*,<p>deer</p>
+,<p>deers</p>
+<p>There are many (fish) in this lake </p>,1,one,
+,<p>fishes</p>
+*,<p>fish</p>
+<p>I picked many (forget-me-not) for you in the field. </p>,1,one,
+*,<p>forget-me-nots</p>
+,<p>forget-me-not</p>
+<p>All the (gate) are closed. </p>,1,one,
+,<p>gate</p>
+*,<p>gates</p>
+<p>Give me please two (potato). </p>,1,one,
+*,<p>potatoes </p>
+,<p>potatos </p>
+<p>(Wolf) hunt in packs. </p>,1,one,
+,<p>wolfs</p>
+*,<p>wolves</p>
+<p> All (shelf) were broken by a boy. </p>,1,one,
+*,<p>shelves</p>
+,<p>shelfs</p>
+<p>It’s five past twelve.</p>,1,one,
+*,<p>12:05</p>
+,<p>5:12</p>
+<p>It’s twenty-five to three. </p>,1,one,
+,<p>2:25</p>
+*,<p>2:35</p>
+,<p>3:25</p>
+<p>It’s half past twelve.</p>,1,one,
+,<p>11:30</p>
+,<p>13:30</p>
+*,<p>12:30</p>

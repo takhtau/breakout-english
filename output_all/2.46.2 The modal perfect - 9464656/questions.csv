@@ -1,0 +1,49 @@
+HTML
+<p>He shouldn't (forget)  about my request. </p>,1,one,
+,<p>be forgetting</p>
+,<p>forget</p>
+*,<p>have forgotten</p>
+<p>You should (read) this book last year. </p>,1,one,
+,<p>be reading</p>
+*,<p>have read</p>
+,<p>read</p>
+<p>She shouldn't (carry) such heavy things.</p>,1,one,
+*,<p> have carried</p>
+,<p>be carrying </p>
+,<p>carry </p>
+<p>He should (remember) about it. </p>,1,one,
+,<p>be remembering</p>
+,<p>remember</p>
+*,<p>have remembered</p>
+<p>You needn't (send) an e-mail.</p>,1,one,
+,<p>to send</p>
+*,<p>have sent </p>
+,<p>send</p>
+<p>You needn't (water) the plants. </p>,1,one,
+*,<p>have watered</p>
+,<p>to water</p>
+,<p>water</p>
+<p>Needn't (go) to New York. </p>,1,one,
+,<p>to go</p>
+,<p>go</p>
+*,<p>have gone</p>
+<p>He can't (write) the letter so soon. </p>,1,one,
+*,<p>have written</p>
+,<p>write</p>
+,<p>be writing </p>
+"<p>She may (ring up) me  yesterday, but I was out. </p>",1,one,
+,<p>ring me up </p>
+*,<p>have rung me up</p>
+,<p>be ringing me up </p>
+<p>He can't (take) the first place. </p>,1,one,
+,<p>take</p>
+*,<p>have taken</p>
+,<p>be taking</p>
+<p>You must (leave) your textbook in the canteen. </p>,1,one,
+*,<p>have left</p>
+,<p>leave </p>
+,<p>be leaving </p>
+<p>He must (recognize) you. </p>,1,one,
+,<p>recognize </p>
+,<p>be recognizing </p>
+*,<p>have recognized </p>

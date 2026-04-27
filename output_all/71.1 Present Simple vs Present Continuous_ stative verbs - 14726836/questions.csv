@@ -1,0 +1,49 @@
+HTML
+"<p>I ----- Mary is Canadian, but I’m not sure.</p>",1,one,
+,<p>thinks</p>
+,<p>am thinking</p>
+*,<p>think</p>
+<p>I ----- about your words.</p>,1,one,
+,<p>think</p>
+*,<p>am thinking</p>
+,<p>is thinking</p>
+<p>You ----- tired.</p>,1,one,
+,<p>looks</p>
+,<p>is looking</p>
+*,<p>look</p>
+<p>Everyone ----- at her.</p>,1,one,
+,<p>are look</p>
+*,<p>is looking</p>
+,<p>looks</p>
+<p>----- the man over there?</p>,1,one,
+,<p>Does you see</p>
+,<p>Are you seeing</p>
+*,<p>Do you see</p>
+<p>I ----- a therapist.</p>,1,one,
+*,<p>am seeing</p>
+,<p>see</p>
+,<p>am see</p>
+<p>This soup ----- delicious.</p>,1,one,
+,<p>is tasting</p>
+*,<p>tastes</p>
+,<p>taste</p>
+<p>I ----- the soup to see if it’s good.</p>,1,one,
+,<p>is tasting</p>
+,<p>taste</p>
+*,<p>am tasting</p>
+<p>A girl ----- a flower.</p>,1,one,
+,<p>smells</p>
+*,<p>is smelling</p>
+,<p>am smell</p>
+<p>This dish ----- good.</p>,1,one,
+,<p>smell</p>
+*,<p>smells</p>
+,<p>is smelling</p>
+"<p>Sorry, I can’t talk now, I ----- lunch.</p>",1,one,
+*,<p>am having</p>
+,<p>have</p>
+,<p>has</p>
+<p>I ----- a brother.</p>,1,one,
+,<p>am having</p>
+,<p>has</p>
+*,<p>have</p>

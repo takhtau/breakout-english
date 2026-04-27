@@ -1,0 +1,46 @@
+HTML
+<p>There are ________ in the fridge. </p>,1,one,
+,<p>carrot </p>
+*,<p>carrots </p>
+<p>I don't eat__________every day. </p>,1,one,
+*,<p>sweets</p>
+,<p>sweet </p>
+,<p>sweetes </p>
+<p>There aren't ________ on the table. </p>,1,one,
+,<p>orange</p>
+,<p>orangies </p>
+*,<p>oranges </p>
+<p>There are _________ in the box. </p>,1,one,
+*,<p>balls</p>
+,<p>a ball</p>
+<p>I have two little___________ . </p>,1,one,
+,<p>sister</p>
+*,<p>sisters </p>
+,<p>sisteres </p>
+<p>They are ___________ . </p>,1,one,
+*,<p>cats </p>
+,<p>cat</p>
+,<p>cates</p>
+<p>They have a lot of _________ . </p>,1,one,
+,<p>pencil</p>
+*,<p>pencils </p>
+,<p>penciles</p>
+<p>They like to draw _________ . </p>,1,one,
+*,<p>houses </p>
+,<p>house </p>
+,<p>housies </p>
+<p>My sisters can't draw ________ . </p>,1,one,
+,<p>car</p>
+,<p>cares </p>
+*,<p>cars</p>
+<p>There are a lot of_________ . </p>,1,one,
+*,<p>cars</p>
+,<p>car</p>
+<p> I like to play with_________ . </p>,1,one,
+,<p>cat</p>
+,<p>cates</p>
+*,<p>cats</p>
+<p>They are________ . </p>,1,one,
+*,<p>dogs</p>
+,<p>dog </p>
+,<p>doges </p>

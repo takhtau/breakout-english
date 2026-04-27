@@ -1,0 +1,49 @@
+HTML
+<p>I (not to see) him for ages.</p>,1,one,
+*,<p>haven't seen</p>
+,<p>hasn't seen</p>
+,<p>didn't see</p>
+<p>You (not to pass) your driving test yet.</p>,1,one,
+,<p>hasn't passed</p>
+*,<p>haven't passed</p>
+,<p>didn't pass</p>
+<p>I (not to buy) a car yet.</p>,1,one,
+,<p>didn't buy</p>
+,<p>hasn't bought</p>
+*,<p>haven't bought</p>
+<p>He ... already ... (to move).</p>,1,one,
+*,<p>has/moved</p>
+,<p>have/moved</p>
+,<p>did/move</p>
+<p>He (to be)already there a year.</p>,1,one,
+,<p>was</p>
+*,<p>has been</p>
+,<p>have been</p>
+<p>I (not to eat) today yet.</p>,1,one,
+,<p>didn't eat</p>
+,<p>hasn't eaten</p>
+*,<p>haven't eaten</p>
+<p>He (not to eat) yesterday.</p>,1,one,
+*,<p>didn't eat</p>
+,<p>hasn't eaten</p>
+,<p>haven't eaten</p>
+<p>... you ... (to play) the piano yesterday?</p>,1,one,
+,<p>Has/played</p>
+*,<p>Did/play</p>
+,<p>Have/played</p>
+<p>He (to make) it last Sunday.</p>,1,one,
+,<p>have made</p>
+,<p>has made</p>
+*,<p>made</p>
+<p>I (to see) her last week.</p>,1,one,
+*,<p>saw</p>
+,<p>have seen</p>
+,<p>has seen</p>
+<p>He (to fall) ill yesterday.</p>,1,one,
+,<p>have fallen</p>
+*,<p>fell</p>
+,<p>has fallen</p>
+<p>I (to do) my homework yesterday.</p>,1,one,
+,<p>has done</p>
+,<p>have done</p>
+*,<p>did</p>

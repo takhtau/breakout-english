@@ -1,0 +1,29 @@
+HTML
+<p>A Darren got his back support band from the hospital. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated</p>
+<p>B Darren went to hospital in an ambulance. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated</p>
+<p>C Darren has never had a back problem from lifting things before. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated</p>
+<p>D Sonia's uncle takes medication for his back problem. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated</p>
+<p>E Darren doesn't intend to lift heavy objects again. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated</p>
+<p>F Sonia suggests using a different part of the body to lift things. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated</p>
+<p>G Darren thinks his excuse for hurting his back was resonable. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated</p>

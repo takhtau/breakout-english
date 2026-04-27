@@ -1,0 +1,53 @@
+HTML
+<p>It is small. Take ____! (это)</p>,1,one,
+,<p>him</p>
+*,<p>it</p>
+,<p>he</p>
+<p> Tell ___ to call me.</p>,1,one,
+,<p>she</p>
+,<p>he</p>
+*,<p>him</p>
+<p>I love my sister. She loves ___</p>,1,one,
+*,<p>me</p>
+,<p>we</p>
+,<p>she</p>
+<p>Gives ____ a phone. </p>,1,one,
+,<p>we</p>
+*,<p>me</p>
+,<p>I</p>
+<p>How old _____that teacher?</p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>are</p>
+<p>____ is your mum?</p>,1,one,
+,<p>What</p>
+*,<p>How old</p>
+,<p>Why</p>
+<p>_____ does he do every Sunday? </p>,1,one,
+,<p>When</p>
+*,<p>What</p>
+,<p>Where</p>
+<p>Where_____you go every morning? </p>,1,one,
+*,<p>do</p>
+,<p>does</p>
+,<p>did</p>
+<p>_______does he play chess? </p>,1,one,
+,<p>How </p>
+*,<p>Where</p>
+,<p>Why</p>
+<p>_________ children play with knife?</p>,1,one,
+,<p>can</p>
+*,<p>may</p>
+,<p>must</p>
+<p>You ______ cross the street when the light is red.</p>,1,one,
+,<p>cannot</p>
+*,<p>must not </p>
+<p>You ______ learn English.</p>,1,one,
+*,<p>should</p>
+,<p>shouldn't</p>
+<p>You _______ eat too much salt and sugar.</p>,1,one,
+,<p>should</p>
+*,<p>shouldn't</p>
+<p>It’s cold today. We _____ put on our jackets.</p>,1,one,
+*,<p>should</p>
+,<p>shouldn't</p>

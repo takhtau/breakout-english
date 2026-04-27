@@ -1,0 +1,53 @@
+HTML
+"<p>My next guest on the show is John Travolta, ----- career goes back to the early seventies.</p>",1,one,
+,<p>that</p>
+*,<p>whose</p>
+,<p>which</p>
+"<p>----- home, he went straight to his mother.</p>",1,one,
+,<p>Reached</p>
+,<p>To have reached</p>
+*,<p>Having reached</p>
+"<p>----- quite good looking, Ralph decided to make a career as a model.</p>",1,one,
+,<p>To be</p>
+,<p>Having been </p>
+*,<p>Being</p>
+"<p>----- the film before, I knew what was going to happen.</p>",1,one,
+*,<p>Having seen</p>
+,<p>Seeing</p>
+,<p>Seen</p>
+<p>The person ----- for the part will be contacted by phone.</p>,1,one,
+,<p>choosing</p>
+*,<p>chosen</p>
+,<p>having chosen</p>
+"<p>----- my homework, I decided to go to the cinema.</p>",1,one,
+*,<p>Having finished</p>
+,<p>Finished</p>
+,<p>To finish</p>
+<p>Tim said he ----- about buying a car.</p>,1,one,
+,<p>`s been thinking</p>
+*,<p>`d been thinking</p>
+,<p>`s thinking</p>
+<p>Tim said he ----- his credit card.</p>,1,one,
+,<p>lost</p>
+,<p>has lost</p>
+*,<p>had lost</p>
+<p>Tim asked me why ----- those shoes.</p>,1,one,
+*,<p>I had bought</p>
+,<p>did you buy</p>
+,<p>had I bought</p>
+<p>Only when I had finished my homework ----- to go out.</p>,1,one,
+,<p>I was allowed</p>
+*,<p>was I allowed </p>
+,<p>did I allow</p>
+"<p>----- about the vacancy, I would have applied.</p>",1,one,
+,<p>Did I know</p>
+*,<p>Had I known</p>
+,<p>I had known</p>
+<p>I wish I -----. I’m envious of birds.</p>,1,one,
+*,<p>could fly</p>
+,<p>could have flown</p>
+,<p>would fly</p>
+"<p>If my parents ----- at home last weekend, they would -----.</p>",1,one,
+,<p>were; have intervened</p>
+*,<p>had been; have intervened </p>
+,<p>had been; intervene</p>

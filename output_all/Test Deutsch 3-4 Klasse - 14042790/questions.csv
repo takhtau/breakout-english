@@ -1,0 +1,36 @@
+HTML
+<p>1.     ... du eine Katze? </p>,~1,many,
+,<p>haben</p>
+,<p>hat</p>
+,<p>habe</p>
+*,<p>hast</p>
+<p>1.     Wer ... ein Haustier? </p>,~1,many,
+,<p>haben</p>
+,<p>habe</p>
+*,<p>hat</p>
+,<p>hast</p>
+<p>. Wie viele Stunden ... ihr heute? </p>,~1,many,
+*,<p>habt</p>
+,<p>habe</p>
+,<p>hat</p>
+,<p>haben</p>
+"<p>.... deine Eltern zu Hause? — Nein, ich ... allein. </p>",~1,many,
+,<p>sind/ bist</p>
+,<p>bist/ seid</p>
+*,<p>sind/ bin</p>
+,<p>bin/ ist</p>
+"<p>Kinder, ... ihr immer fleißig? — Natürlich ... wir immer fleißig! </p>",~1,many,
+,<p>sind/ bist</p>
+*,<p>seid /sind</p>
+,<p>sind/ bin</p>
+,<p>seid/ ist</p>
+<p>_____ (geben) es Milch?</p>,~1,many,
+,<p>gibts</p>
+*,<p>gibt</p>
+,<p>gebt</p>
+,<p>geben</p>
+<p>Woher (kommen) …. du?</p>,~1,many,
+*,<p>kommst</p>
+,<p>kommt</p>
+,<p>kommen</p>
+,<p>Komst</p>

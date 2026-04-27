@@ -1,0 +1,49 @@
+HTML
+<p>The bread ----- every morning.</p>,1,one,
+,<p>bakes</p>
+*,<p>is baked</p>
+,<p>is bake</p>
+<p>The letter ----- now.</p>,1,one,
+*,<p>is being written</p>
+,<p>is written</p>
+,<p>has been written</p>
+<p>Look! The window ----- by somebody.</p>,1,one,
+,<p>is broke</p>
+,<p>is being broken</p>
+*,<p>has been broken</p>
+<p>This car ----- every year.</p>,1,one,
+,<p>has been repaired</p>
+*,<p>is repaired</p>
+,<p>is being repaired</p>
+<p>----- the flowers often -----?</p>,1,one,
+,<p>Are; water</p>
+,<p>Are; being watered</p>
+*,<p>Are; watered</p>
+<p>The homework ----- now.</p>,1,one,
+,<p>isn’t done</p>
+*,<p>isn’t being done</p>
+,<p>hasn’t been done</p>
+<p>The book ----- by many people.</p>,1,one,
+,<p>is already read</p>
+,<p>has already read</p>
+*,<p>has already been read</p>
+<p>The package ----- yet.</p>,1,one,
+*,<p>has not been delivered</p>
+,<p>has not delivered</p>
+,<p>is not delivered</p>
+<p>The letters ----- by mail every day.</p>,1,one,
+,<p>aren’t being sent</p>
+*,<p>aren’t sent</p>
+,<p>haven’t been sent</p>
+<p>The song ----- on the radio at the moment.</p>,1,one,
+,<p>is played</p>
+,<p>has been played</p>
+*,<p>is being played</p>
+<p>He ----- for a stomach complaint now.</p>,1,one,
+*,<p>is being treated</p>
+,<p>is treated</p>
+,<p>has been treated</p>
+<p>We ----- of her decision yet.</p>,1,one,
+,<p>aren’t informed</p>
+*,<p>haven't been informed</p>
+,<p>aren’t being informed</p>

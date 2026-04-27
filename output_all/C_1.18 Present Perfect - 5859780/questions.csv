@@ -1,0 +1,31 @@
+HTML
+<p>I ate vegetables. I have ___ vegetables.</p>,1,one,
+*,<p>eaten</p>
+,<p>eat</p>
+<p>I came. I have ___.</p>,1,one,
+,<p>came</p>
+*,<p>come</p>
+<p>My cousins sold their car. They have ___ their car.</p>,1,one,
+*,<p>sold</p>
+,<p>sell</p>
+<p>I told a story. I have ___ a story.</p>,1,one,
+*,<p>told</p>
+,<p>tell</p>
+<p>They saw my friend. They have ___ my friend.</p>,1,one,
+,<p>saw</p>
+*,<p>seen</p>
+<p>We cleaned our room. We have ___ our room.</p>,1,one,
+*,<p>cleaned</p>
+,<p>clean</p>
+<p>I flew to Mexico City. I have ___ to Mexico City.</p>,1,one,
+*,<p>flown</p>
+,<p>flew</p>
+<p>I thought about going on vacation. I have ___ about going vacation.</p>,1,one,
+*,<p>thought</p>
+,<p>think</p>
+<p>I spoke to Mary about you. I have ___ to Mary about you.</p>,1,one,
+*,<p>spoken</p>
+,<p>spoked</p>
+<p>She chose the blue pants. She has ___ the blue pants.</p>,1,one,
+*,<p>chosen</p>
+,<p>choose</p>

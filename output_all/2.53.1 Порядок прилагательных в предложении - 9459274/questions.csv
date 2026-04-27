@@ -1,0 +1,49 @@
+HTML
+<p>modern house (attractive)</p>,1,one,
+*,<p>an attractive modern house</p>
+,<p>a modern attractive house</p>
+,<p>a attractive modern house</p>
+<p>young girl (pretty)</p>,1,one,
+,<p>a young pretty girl</p>
+*,<p>a pretty young girl</p>
+,<p>an young pretty girl</p>
+<p>handsome man (young)</p>,1,one,
+,<p>a young handsome man</p>
+,<p>an young handsome man</p>
+*,<p>a handsome young man</p>
+<p>old coat (worn) </p>,1,one,
+*,<p>an old worn coat</p>
+,<p>a worn old coat</p>
+,<p>a old worn coat</p>
+<p>little village (old/lovely)</p>,1,one,
+,<p>an old lovely little village</p>
+*,<p>a lovely little old village</p>
+,<p>a little old lovely village</p>
+<p>antique wardrobe (beautiful)</p>,1,one,
+,<p>an antique beautiful wardrobe</p>
+,<p>a antique beautiful wardrobe</p>
+*,<p>a beautiful antique wardrobe</p>
+<p>sports car (second-hand)</p>,1,one,
+*,<p>a second-hand sports car</p>
+,<p>a sports second-hand car</p>
+,<p>the sports second-hand car</p>
+<p>leather shoes (Italian)</p>,1,one,
+,<p>leather Italian shoes</p>
+,<p>an Italian leather shoes</p>
+*,<p>Italian leather shoes</p>
+<p>summer shorts (white)</p>,1,one,
+*,<p>white summer shorts</p>
+,<p>a white summer shorts</p>
+,<p>summer white shorts</p>
+<p>black box (metal)</p>,1,one,
+,<p>a metal black box</p>
+*,<p>a black metal box</p>
+,<p>the metal black box</p>
+<p>long hair (beautiful)</p>,1,one,
+,<p>long beautiful hair</p>
+,<p>a long beautiful hair</p>
+*,<p>beautiful long hair</p>
+<p>unusual earrings (handmade)</p>,1,one,
+*,<p>unusual handmade earrings</p>
+,<p>handmade unusual earrings</p>
+,<p>an unusual handmade earrings</p>

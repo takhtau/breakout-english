@@ -1,0 +1,68 @@
+HTML
+<p>Asia is (large) than Australia.</p>,1,one,
+,<p>as large as</p>
+,<p>largest</p>
+*,<p>larger</p>
+<p>He was the (old) in the family.</p>,1,one,
+*,<p>eldest</p>
+,<p>elder</p>
+,<p>as old as</p>
+<p>This garden is the (beautiful) in our town.</p>,1,one,
+,<p>more beautiful</p>
+*,<p>most beautiful</p>
+,<p>as beautiful as</p>
+<p>He was one of the (experienced) workers at the factory.</p>,1,one,
+,<p>more experienced</p>
+*,<p>most experienced</p>
+,<p>as experienced as</p>
+"<p>If she (to clean) in a flat, she (to listen) to the radio. </p>",1,one,
+*,<p>cleans/listens</p>
+,<p>will clean/listens</p>
+,<p>clean/will listen</p>
+"<p>If he (not to eat), he (to get) hungry. </p>",1,one,
+,<p>won't eat/get</p>
+*,<p>doesn't eat/gets</p>
+,<p>don't eat/gets</p>
+"<p>If she (to know) English, she (to try) to enter the university.</p>",1,one,
+*,<p>knows/will try</p>
+,<p>know/will try</p>
+,<p>will know/will try</p>
+"<p>If children (to watch) TV in the evening, they (not to sleep). </p>",1,one,
+,<p>watch/doesn't sleep</p>
+,<p>will watch/won't sleep</p>
+*,<p>watch/don't sleep</p>
+<p>You (be) fat if you (eat) unhealthy food often</p>,1,one,
+*,<p>would be/ate</p>
+,<p>would be/would eat</p>
+,<p>would be/eat</p>
+<p>I (eat) a whole cake if my stomach (not to hurt). </p>,1,one,
+*,<p>would eat/didn't hurt</p>
+,<p>ate/didn't hurt</p>
+,<p>would eat/don't hurt</p>
+"<p>If I (tell) her how beautiful she is, she (be) pleased</p>",1,one,
+*,<p>told/would be</p>
+,<p>tell/would be</p>
+,<p>told/be</p>
+<p>I  (not to question) his loyalty if I (be) you</p>,1,one,
+,<p>wouldn't question/was</p>
+,<p>didn't question/were</p>
+*,<p>wouldn't question/were</p>
+"<p>If you can see the beauty, you are a ______ in your soul.</p>",1,one,
+,<p>paint</p>
+,<p>painted</p>
+*,<p>painter</p>
+"<p>If you can see the beauty, you are a ______ in your soul.</p>",1,one,
+,<p>paint</p>
+,<p>painted</p>
+*,<p>painter</p>
+<p>His aunt cooked meat very ________.</p>,1,one,
+,<p>bad</p>
+*,<p>badly</p>
+"<p>If I … (save) more money, I … (go) to Australia.</p>",1,one,
+,<p>had saved/would go</p>
+*,<p>had saved/would have gone</p>
+,<p>saved/would have gone</p>
+"<p>If our parents … (not argue), we … (spend) the weekend together.</p>",1,one,
+,<p>didn’t argued/would have spent</p>
+,<p>hadn’t argued/would spend</p>
+*,<p>hadn’t argued/would have spent</p>

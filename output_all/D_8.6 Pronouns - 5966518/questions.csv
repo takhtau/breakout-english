@@ -1,0 +1,41 @@
+HTML
+<p>I was terrified that _____ disaster was waiting for me.</p>,~1,many,
+*,<p>some</p>
+,<p>any</p>
+,<p>no</p>
+<p>They didn't make _____ mistakes.</p>,~1,many,
+,<p>some</p>
+*,<p>any</p>
+,<p>no</p>
+<p>The visitor asked me to describe _____ of the work we do in our laboratory.</p>,~1,many,
+*,<p>some</p>
+,<p>any</p>
+,<p>no</p>
+<p>I don't think _____ of us ought to wish the result to be different.</p>,~1,many,
+,<p>some</p>
+*,<p>any</p>
+,<p>no</p>
+<p>There were _____ people in the room. It was empty.</p>,~1,many,
+,<p>some</p>
+,<p>any</p>
+*,<p>no</p>
+<p>Now that he lived in the country he seldom had _____ visitors.</p>,~1,many,
+,<p>some</p>
+*,<p>any</p>
+,<p>no</p>
+<p>I have _____ money left. I've bought a very expensive book.</p>,~1,many,
+,<p>some</p>
+,<p>any</p>
+*,<p>no</p>
+"<p>When we were on holiday, we visited _____ very interesting places.</p>",~1,many,
+*,<p>some</p>
+,<p>any</p>
+,<p>no</p>
+<p>I went out to buy _____ milk but they didn't have _____ in the shop.</p>,~1,many,
+*,<p>some</p>
+*,<p>any</p>
+,<p>no</p>
+<p>He is _____ good as a pianist.</p>,~1,many,
+,<p>some</p>
+,<p>any</p>
+*,<p>no</p>

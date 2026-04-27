@@ -1,0 +1,83 @@
+HTML
+<p>He took a shower ... the game.</p>,1,one,
+*,<p>after</p>
+,<p>while</p>
+,<p>when</p>
+"<p>... much thought, I have decided to retire. </p>",1,one,
+,<p>as soon as</p>
+*,<p>after</p>
+,<p>till</p>
+"<p>... I went to bed, I fell asleep. </p>",1,one,
+,<p>While</p>
+,<p>Until</p>
+*,<p>As soon as</p>
+"<p>... she said it, she realized her mistake. </p>",1,one,
+*,<p>As soon as</p>
+,<p>While</p>
+,<p>Till</p>
+"<p>___________ I can't help admiring the man's courage, I do not approve of his methods.  </p>",1,one,
+*,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+,<p>however </p>
+,<p>unless</p>
+"<p>_________ his fear, he told his request.</p>",1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite </p>
+,<p>however </p>
+,<p>unless</p>
+<p>He never succeeded ___________ repeated attempts. </p>,1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite </p>
+,<p>however </p>
+,<p>unless</p>
+"<p>The Austrian team lost the game, ___________ the fact they had practiced a lot. </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+*,<p>despite</p>
+,<p>however </p>
+,<p>unless</p>
+"<p>I think you should complain - _________, of course, you are happy with the way things are. </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite</p>
+,<p>however </p>
+*,<p>unless</p>
+<p>It was ______ for her to arrive on time to the meeting.   </p>,1,one,
+,<p>inpossible </p>
+*,<p>impossible </p>
+,<p>possible </p>
+<p>The bus journey was _____ .   </p>,1,one,
+,<p>unexhausted </p>
+,<p>exhausting </p>
+*,<p>exhausted </p>
+<ol><li>We were surprised at the _________in her speech.</li></ol>,1,one,
+*,<p>difference</p>
+,<p>differ</p>
+,<p>differenship</p>
+<ol><li>He is a ______ actor. </li></ol>,1,one,
+,<p>wonderable </p>
+*,<p>wonderful </p>
+,<p>wonderness</p>
+<ol><li>Stress is the ___________.</li></ol>,1,one,
+,<p>stronger</p>
+,<p>strong</p>
+*,<p>strongest</p>
+<ol><li>Mary came to me in a very ____ state. </li></ol>,1,one,
+,<p>emotion</p>
+*,<p>emotional </p>
+,<p>emotionally </p>
+<p>The science conference was organized ____ last year.</p>,1,one,
+*,<p>badly </p>
+,<p>bad</p>
+,<p>goodly </p>
+<p>I think Mike got up ________ last morning. </p>,1,one,
+,<p>fastly </p>
+*,<p>early </p>
+,<p>earlily </p>
+<p>My mum made me clean my room. </p>,1,one,
+,<p>Моя мама хочет чтобы я прибрала мою комнату.</p>
+,<p>Моя мама прибрала мою комнату.</p>
+*,<p>Моя мама заставила меня прибраться в комнате.</p>

@@ -1,0 +1,61 @@
+HTML
+<p>The lady ... teaches us German lives next door. </p>,1,one,
+*,<p>who</p>
+,<p>which</p>
+,<p>whose</p>
+<p>The film ... I saw yesterday was fantastic. </p>,1,one,
+,<p>who</p>
+*,<p>that</p>
+,<p>whose</p>
+"<p>Kate, ... sister I used to share a house with, has gone to work in Australia.</p>",1,one,
+,<p>where</p>
+*,<p>whose</p>
+,<p>that</p>
+"<p>There was me and there was Kate, ... party it was, and then there were two other people. </p>",1,one,
+*,<p>whose</p>
+,<p>that</p>
+,<p>which</p>
+<p>... time does the party start?</p>,1,one,
+,<p>When</p>
+*,<p>What</p>
+,<p>How</p>
+<p>... can I get a taxi?</p>,1,one,
+,<p>What</p>
+,<p>Who</p>
+*,<p>Where</p>
+<p>... did she want your book?</p>,1,one,
+*,<p>Why</p>
+,<p>How</p>
+,<p>What</p>
+<p>... much does it cost to go out to eat? </p>,1,one,
+*,<p>How</p>
+,<p>What</p>
+,<p>Why</p>
+"<p>I'm your doctor, ___________?</p>",1,one,
+,<p>do I</p>
+*,<p>aren't I</p>
+,<p>don't I</p>
+"<p>There are no chances that he can get here in an hour, _________? </p>",1,one,
+,<p>aren't there</p>
+*,<p>are there</p>
+,<p>is there</p>
+"<p>He never hands in his writing in time, __________? </p>",1,one,
+*,<p>does he</p>
+,<p>doesn't he</p>
+,<p>is he</p>
+"<p>They have found a place to stay for the night, ___________? </p>",1,one,
+,<p>have they</p>
+*,<p>haven't they</p>
+,<p>aren't they</p>
+"<p>__________ in poor health, she continued to carry out her duties.</p>",1,one,
+*,<p>although </p>
+,<p>in spite of </p>
+,<p>despite</p>
+,<p>however</p>
+,<p>unless </p>
+<p>___________ his troubles he never gave up hope.</p>,1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite</p>
+,<p>however</p>
+,<p>unless </p>

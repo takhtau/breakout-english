@@ -1,0 +1,49 @@
+HTML
+<p>John has _______ bikes.</p>,1,one,
+*,<p>no</p>
+,<p>any</p>
+,<p>little</p>
+<p>The company doesn't take _______ steps.</p>,1,one,
+,<p>no</p>
+*,<p>any</p>
+,<p>little</p>
+<p>There isn't ________ water in the kettle.</p>,1,one,
+,<p>a few</p>
+,<p>many</p>
+*,<p>much</p>
+<p>Have you got ________ kids in your class? </p>,1,one,
+,<p>little</p>
+*,<p>many</p>
+,<p>much</p>
+<p>I can't remember how ________ time I spend at the shop.</p>,1,one,
+*,<p>much</p>
+,<p>little</p>
+,<p>many</p>
+<p>There is ________ juice in the fridge.</p>,1,one,
+,<p>a no</p>
+*,<p>a lot of</p>
+,<p>many</p>
+<p>We need ________ boxes to pack all these clothes. </p>,1,one,
+,<p>a no</p>
+,<p>much</p>
+*,<p>a lot of</p>
+<p>There are ________ toys for children.</p>,1,one,
+,<p>the no</p>
+,<p>little</p>
+*,<p>few</p>
+"<p>I just have _______ friends, but they are really good. </p>",1,one,
+,<p>many</p>
+*,<p>a few</p>
+,<p>little</p>
+<p>The dog has _______ food in the bowl.</p>,1,one,
+,<p>many</p>
+,<p>a few</p>
+*,<p>some</p>
+<p>She went shopping ________ days ago.</p>,1,one,
+,<p>much</p>
+*,<p>a few</p>
+,<p>no</p>
+<p>I have ________ chocolate.</p>,1,one,
+*,<p>a lot of</p>
+,<p>a few</p>
+,<p>many</p>

@@ -1,0 +1,57 @@
+HTML
+<p>You _____ skate on the road. It's dangerous.</p>,1,one,
+,<p>must</p>
+,<p>don't have to</p>
+*,<p>mustn't</p>
+<p>You _____ skate in the yard. You can go to the park.</p>,1,one,
+,<p>must</p>
+*,<p>don't have to</p>
+,<p>mustn't</p>
+<p>You _____ skate regularly. It's good for your health.</p>,1,one,
+*,<p>must</p>
+,<p>don't have to</p>
+,<p>mustn't</p>
+<p>You _____ ask any questions. I'll try to answer.</p>,1,one,
+,<p>must</p>
+,<p>don't have to</p>
+*,<p>can</p>
+<p>Where are you _____ on holiday?</p>,1,one,
+,<p>go</p>
+,<p>went</p>
+*,<p>going</p>
+<p>He _____ on his laptop last night.</p>,1,one,
+,<p>works</p>
+*,<p>worked</p>
+,<p>working</p>
+<p>When did he _____ on his laptop?</p>,1,one,
+*,<p>work</p>
+,<p>worked</p>
+,<p>working</p>
+<p>You can't use his adaptor. He's _____ on his laptop.</p>,1,one,
+,<p>works</p>
+,<p>worked</p>
+*,<p>working</p>
+<p>His laptop is more _____ than mine.</p>,1,one,
+*,<p>expensive</p>
+,<p>better</p>
+,<p>old</p>
+<p>My laptop is _____ than his.</p>,1,one,
+,<p>expensive</p>
+*,<p>better</p>
+,<p>old</p>
+<p>You _____ use the laptop. You can do it orally.</p>,1,one,
+,<p>must</p>
+,<p>mustn't</p>
+*,<p>needn't</p>
+<p>_____ Svetlana's friend. Right?</p>,1,one,
+,<p>You</p>
+*,<p>You're</p>
+,<p>Your</p>
+<p>The _____ names are Svetlana and Olga.</p>,1,one,
+,<p>girl's</p>
+,<p>girls</p>
+*,<p>girls'</p>
+<p>_____ suitcase is in the bus.</p>,1,one,
+,<p>They're</p>
+*,<p>Their</p>
+,<p>These</p>

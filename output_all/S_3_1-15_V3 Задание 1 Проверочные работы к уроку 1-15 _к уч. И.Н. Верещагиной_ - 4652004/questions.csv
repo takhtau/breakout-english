@@ -1,0 +1,41 @@
+HTML
+<p>Kate wants _____ volleyball.</p>,1,one,
+,<p>play</p>
+,<p>plays</p>
+*,<p>to play</p>
+<p>Alice can _____ volleyball.</p>,1,one,
+*,<p>play</p>
+,<p>plays</p>
+,<p>to play</p>
+<p>He usually _____ dialogues.</p>,1,one,
+,<p>learn</p>
+*,<p>learns</p>
+,<p>is learning</p>
+<p>He is _____ the dialogue.</p>,1,one,
+,<p>learn</p>
+,<p>learns</p>
+*,<p>learning</p>
+<p>He _____ the dialogue tomorrow.</p>,1,one,
+*,<p>will learn</p>
+,<p>learns</p>
+,<p>learning</p>
+<p>Her _____ name is Oleg.</p>,1,one,
+,<p>brothers</p>
+*,<p>brother's</p>
+,<p>brothers'</p>
+<p>The men _____ from England.</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+,<p>live</p>
+<p>Have you got _____ sister?</p>,1,one,
+*,<p>a</p>
+,<p>the</p>
+,<p>-</p>
+<p>_____ Baranovs are in London now.</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+,<p>-</p>
+<p>Why _____ so cold in the house?</p>,1,one,
+,<p>it is</p>
+*,<p>is it</p>
+,<p>it</p>

@@ -1,0 +1,49 @@
+HTML
+<p>The city ----- long ----- by its local produce fairs.</p>,1,one,
+*,<p>has; been known</p>
+,<p>is; being known</p>
+,<p>is; known</p>
+<p>Usually supplies ----- in by air.</p>,1,one,
+,<p>have been brought</p>
+*,<p>are brought</p>
+,<p>are being brought</p>
+<p>Everybody knows that prices ----- by supply and demand.</p>,1,one,
+,<p>are being regulated</p>
+*,<p>are regulated</p>
+,<p>have been regulated</p>
+<p>Do not look back! I think we -----.</p>,1,one,
+,<p>have been followed</p>
+,<p>are followed</p>
+*,<p>are being followed</p>
+<p>Do you know that a housing estate ----- down the road? A lot of trucks are carrying bricks there.</p>,1,one,
+*,<p>is being built</p>
+,<p>is built</p>
+,<p>has been built</p>
+<p>Our school ----- to high-speed internet and all students and teachers can have an access to the www resources.</p>,1,one,
+,<p>is being connected</p>
+*,<p>is connected</p>
+,<p>has connected</p>
+<p>That mystery ----- never -----.</p>,1,one,
+,<p>is; solved</p>
+,<p>has; solved</p>
+*,<p>has; been solved</p>
+<p>----- the hostages ----- yet?</p>,1,one,
+*,<p>Have; been released</p>
+,<p>Are; been released</p>
+,<p>Are; released</p>
+<p>----- the flowers often -----?</p>,1,one,
+,<p>Are; water</p>
+,<p>Are; being watered</p>
+*,<p>Are; watered</p>
+"<p>As a rule, no mail ----- on federal holidays.</p>",1,one,
+,<p>has been delivered</p>
+,<p>is been delivered</p>
+*,<p>is delivered</p>
+<p>The list ----- alphabetically. It’s very easy to use.</p>,1,one,
+,<p>is arrange</p>
+*,<p>is arranged</p>
+,<p>has arranged</p>
+<p>You ----- to take photos inside the theater. The rules are very strict.</p>,1,one,
+*,<p>aren't allowed</p>
+,<p>aren't being allowed</p>
+,<p>haven’t been allowed</p>

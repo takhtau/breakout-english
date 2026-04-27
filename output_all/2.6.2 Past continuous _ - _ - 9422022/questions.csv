@@ -1,0 +1,49 @@
+HTML
+<p>I (to play) computer games at five o’clock yesterday.</p>,1,one,
+,<p>were playing </p>
+*,<p>was playing </p>
+,<p>am playing </p>
+<p>He (to play) computer games from two till three yesterday.</p>,1,one,
+*,<p>was playing </p>
+,<p>were playing </p>
+,<p>is playing </p>
+<p>We (to play) computer games the whole evening yesterday.</p>,1,one,
+,<p>was playing </p>
+,<p>are playing </p>
+*,<p>were playing </p>
+<p>My sister (not to play) the piano at four o’clock yesterday. She (to play) the piano the whole evening.</p>,1,one,
+*,<p>wasn't playing/was playing </p>
+,<p>weren't playing/was playing </p>
+,<p>isn't playing/is playing </p>
+"<p>When I came into the kitchen, mother (to cook).</p>",1,one,
+,<p>were cooking </p>
+*,<p>was cooking </p>
+,<p>is cooking </p>
+<p>She (to cook) the whole day yesterday.</p>,1,one,
+,<p>were cooking </p>
+*,<p>was cooking </p>
+,<p>is cooking </p>
+<p>We (to wash) the floor in our flat from three till four yesterday.</p>,1,one,
+,<p>was washing </p>
+*,<p>were washing </p>
+,<p>are washing </p>
+<p>You (to do) your homework from eight till ten yesterday?</p>,1,one,
+*,<p>Were you doing</p>
+,<p>Was you doing</p>
+,<p>Are you doing</p>
+<p>Why she (to sleep) at seven o’clock yesterday?</p>,1,one,
+*,<p>Why was she sleeping</p>
+,<p>Why were she sleeping</p>
+,<p>Why is she sleeping</p>
+<p>I (not to sleep) at nine o’clock yesterday.</p>,1,one,
+,<p>weren't sleeping </p>
+*,<p>wasn't sleeping </p>
+,<p>am not sleeping </p>
+<p>What you (to do) when I rang you up?</p>,1,one,
+*,<p>What were you doing </p>
+,<p>What was you doing </p>
+,<p>What are you doing </p>
+<p>What he (to do) the whole evening yesterday? — He (to read) a book.</p>,1,one,
+,<p>What were he doing/he were reading</p>
+*,<p>What was he doing/he was reading</p>
+,<p>What is he doing/he is reading</p>

@@ -1,0 +1,49 @@
+HTML
+<p>You have _________ mistakes in the test. Correct them!</p>,1,one,
+*,<p>a few</p>
+,<p>little</p>
+,<p>a little</p>
+<p>There is ________ bread in the cupboard. It’s enough for dinner.</p>,1,one,
+,<p>a few</p>
+*,<p>a little</p>
+,<p>few</p>
+<p>The bottle is not empty. There is _____ water.</p>,1,one,
+,<p>few</p>
+,<p>little</p>
+*,<p>a little</p>
+<p>There is still _________ bread left.</p>,1,one,
+*,<p>a little</p>
+,<p>a few</p>
+,<p>few</p>
+<p>Can I have _________ milk in my coffee? </p>,1,one,
+,<p>a few</p>
+*,<p>a little</p>
+,<p>little</p>
+<p>There are only _________ biscuits left.</p>,1,one,
+,<p>a little</p>
+,<p>little</p>
+*,<p>a few</p>
+"<p>It’s winter, but we still have ________ flowers in the garden.</p>",1,one,
+*,<p>a few</p>
+,<p>few</p>
+,<p>a little</p>
+<p>There are _________ taxis in front of the station.</p>,1,one,
+,<p>a little</p>
+*,<p>a few</p>
+,<p>little</p>
+"<p>Can I have _________ pepper, please?</p>",1,one,
+,<p>little</p>
+,<p>a few</p>
+*,<p>a little</p>
+<p>Put ______ salt and mix the ingredients.</p>,1,one,
+*,<p>a little</p>
+,<p>a few</p>
+,<p>little</p>
+<p>There are ______ bottles on the table.</p>,1,one,
+,<p>little</p>
+*,<p>a few</p>
+,<p>a little</p>
+<p>I eat _______ meat. I prefer fish. </p>,1,one,
+,<p>few</p>
+,<p>a little</p>
+*,<p>little</p>

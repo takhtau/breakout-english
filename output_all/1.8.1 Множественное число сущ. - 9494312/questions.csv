@@ -1,0 +1,47 @@
+HTML
+<p>tomato - ___________</p>,1,one,
+*,<p>tomatoes</p>
+,<p>tomatos</p>
+,<p>tomats </p>
+<p>a cat - _________</p>,1,one,
+*,<p>cats</p>
+,<p>cates</p>
+,<p>cat</p>
+<p>wolf - __________</p>,1,one,
+,<p>wolf</p>
+*,<p>wolves </p>
+,<p>wolfes</p>
+<p> a person - __________</p>,1,one,
+*,<p>people</p>
+,<p>persones</p>
+<p>woman - __________</p>,1,one,
+*,<p>women </p>
+,<p>womanes </p>
+,<p>womans</p>
+<p>tooth - _________</p>,1,one,
+,<p>tooths </p>
+*,<p>teeth</p>
+,<p>teeths</p>
+<p>foot - _________</p>,1,one,
+,<p>foots </p>
+,<p>feets</p>
+*,<p>feet </p>
+<p>mouse - __________</p>,1,one,
+*,<p>mice</p>
+,<p>mouses </p>
+,<p>mices </p>
+<p>child - __________</p>,1,one,
+,<p>childs</p>
+*,<p>children </p>
+,<p>childrens</p>
+<p>sheep - _________</p>,1,one,
+*,<p>sheep</p>
+,<p>sheeps</p>
+,<p>sheepes</p>
+<p>a book - ____________</p>,1,one,
+,<p>bookes</p>
+*,<p>books</p>
+<p>man - __________</p>,1,one,
+,<p>mans</p>
+*,<p>men</p>
+,<p>mens</p>

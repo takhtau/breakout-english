@@ -1,0 +1,49 @@
+HTML
+<p>She ________ breakfast at the moment. </p>,1,one,
+*,<p>is having</p>
+,<p>has</p>
+,<p>have</p>
+<p>She ___________ home at 8.30am every day.</p>,1,one,
+,<p>is leaving</p>
+*,<p>leaves</p>
+,<p>leave</p>
+<p>Suzanne is a teacher. She ___________at a school in Canberra. </p>,1,one,
+,<p>teach</p>
+,<p>is teaching</p>
+*,<p>teaches</p>
+<p>At the moment she ________ her class of 8-year-old children. </p>,1,one,
+*,<p>is teaching</p>
+,<p>teaches</p>
+,<p>are teaching</p>
+<p>____ you often _____ jeans? </p>,1,one,
+,<p>Are/wearing</p>
+*,<p>Do/wear</p>
+,<p>Does/wear</p>
+<p>_____ you ______ jeans now?</p>,1,one,
+,<p>Do/wear</p>
+,<p>Am/wearing</p>
+*,<p>Are/wearing</p>
+<p>_____ it _____ now?</p>,1,one,
+*,<p>Is/raining</p>
+,<p>Does/rain</p>
+,<p>Do/rains</p>
+<p>____ it often _____ in your country?</p>,1,one,
+,<p>Do/rains</p>
+*,<p>Does/rain</p>
+,<p>Is/raining</p>
+<p>____ you _____ English every day?</p>,1,one,
+,<p>Are/studying</p>
+,<p>Does/study</p>
+*,<p>Do/study</p>
+<p>____ you _____ English at the moment?</p>,1,one,
+*,<p>Are/studying</p>
+,<p>Do/study</p>
+,<p>Is/studying</p>
+<p>I __________English exercises every day.</p>,1,one,
+,<p>am writing</p>
+*,<p>write</p>
+,<p>are writing</p>
+<p>My friend usually________ his homework in the afternoon.</p>,1,one,
+,<p>is doing</p>
+,<p>do</p>
+*,<p>does</p>

@@ -1,0 +1,69 @@
+HTML
+<p>I (to read) customers’ reviews at 6.00 in the evening.</p>,1,one,
+,<p>will read</p>
+,<p>read</p>
+*,<p>will be reading</p>
+<p>Eric (to play) World of Tanks at 7.00 p.m. tomorrow.</p>,1,one,
+*,<p>will be playing</p>
+,<p>will play</p>
+,<p>play</p>
+<p>This time next week I (to have) dinner with Tiffany.</p>,1,one,
+*,<p>will be having</p>
+,<p>will have</p>
+,<p>have</p>
+<p>Tom (to wait) for you the whole day.</p>,1,one,
+,<p>will wait </p>
+,<p>wait</p>
+*,<p>will be waiting</p>
+<p>We (to play) Twister during the evening.</p>,1,one,
+*,<p>will be playing</p>
+,<p>will play</p>
+,<p>play</p>
+<p>I (to go) to Japan next year.</p>,1,one,
+,<p>will be going </p>
+,<p>go </p>
+*,<p>will go</p>
+<p>We (not to send) them the message in the morning tomorrow. </p>,1,one,
+,<p>are sending </p>
+*,<p>will not send</p>
+,<p>send</p>
+<p>Look! Jane (to swim) across the lake.</p>,1,one,
+,<p>swims</p>
+,<p>will swim</p>
+*,<p>is swimming </p>
+<p>My cousin (to look) for a job. </p>,1,one,
+,<p>looks</p>
+*,<p>is looking </p>
+,<p>will look</p>
+<p>I (to have) dinner with my friends at the moment and I am very happy to see them again.</p>,1,one,
+,<p>have</p>
+*,<p>am having </p>
+,<p>will have</p>
+<p>Get back! The bomb (to go) to explode.</p>,1,one,
+*,<p>is going</p>
+,<p>goes</p>
+,<p>will go</p>
+<p>I can't tell which are ...</p>,1,one,
+*,<p>mine</p>
+,<p>my</p>
+,<p>me</p>
+<p>This is ... note-book.</p>,~1,one,
+,<p>mine</p>
+*,<p>my</p>
+,<p>me</p>
+<p>Can you stay with ...?</p>,1,one,
+,<p>mine</p>
+,<p>I</p>
+*,<p>me</p>
+<p>I am angry with __________.</p>,1,one,
+*,<p>myself</p>
+,<p>yourself </p>
+,<p>himself </p>
+<p>He fell down and hurt __________.</p>,1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>himself </p>
+<p>Tell me more about __________.</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>

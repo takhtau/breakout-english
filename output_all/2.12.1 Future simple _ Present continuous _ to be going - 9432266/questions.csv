@@ -1,0 +1,49 @@
+HTML
+<p>I (not to come) to office tomorrow</p>,1,one,
+*,<p>will not come</p>
+,<p>am not coming </p>
+,<p>don't come</p>
+<p>She (not to buy) 3 bicycles tomorrow.</p>,1,one,
+,<p>doesn't buy </p>
+,<p>isn't buying </p>
+*,<p>will not buy </p>
+<p>She (to cook) a turkey next Sunday</p>,1,one,
+,<p>is cooking </p>
+*,<p>will cook</p>
+,<p>cook</p>
+<p>I (to take) exams in three month</p>,1,one,
+*,<p>will take</p>
+,<p>am taking </p>
+,<p>take</p>
+<p>I (to go) to drive to work tomorrow</p>,1,one,
+,<p>are going </p>
+*,<p>am going </p>
+,<p>go</p>
+<p>I (to go) drink coffee with Mary.</p>,1,one,
+*,<p>am going to</p>
+,<p>are going to</p>
+,<p>go</p>
+<p>I (to go) to quit my job tomorrow.</p>,1,one,
+*,<p>am going </p>
+,<p>go </p>
+,<p>are going</p>
+<p>We (to go) to play tennis tonight.</p>,1,one,
+,<p>is going </p>
+*,<p>are going </p>
+,<p>go</p>
+<p>He (to run) now.</p>,1,one,
+,<p>runs </p>
+*,<p>is running </p>
+,<p>run </p>
+<p>What you (to do) now? — I (to read).</p>,1,one,
+*,<p>are you doing/am reading</p>
+,<p>are you doing/read</p>
+,<p>do you do/read </p>
+<p>I (to stay) with some American friends in Chicago.</p>,1,one,
+*,<p>am staying </p>
+,<p>stay </p>
+,<p>will stay </p>
+<p>What the children (to do) now?</p>,1,one,
+*,<p>are doing</p>
+,<p>is doing </p>
+,<p>do</p>

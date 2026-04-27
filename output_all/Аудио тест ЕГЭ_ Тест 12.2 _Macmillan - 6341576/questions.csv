@@ -1,0 +1,29 @@
+HTML
+<p>A Marion was looking forward to her weekend with her grandparents. </p>,1,one,
+,<p>True </p>
+*,<p>False</p>
+,<p>Not stated</p>
+<p>B Marion picked fruit in her grandmother's orchard. </p>,1,one,
+,<p>True </p>
+*,<p>False</p>
+,<p>Not stated</p>
+<p>C The garden at Marion's house is big enough for a few plants. </p>,1,one,
+*,<p>True </p>
+,<p>False</p>
+,<p>Not stated</p>
+<p>D Marion's grandmother sells her produce from time to time. </p>,1,one,
+*,<p>True </p>
+,<p>False</p>
+,<p>Not stated</p>
+<p>E Marion doesn't like cows and pigs. </p>,1,one,
+,<p>True </p>
+,<p>False</p>
+*,<p>Not stated</p>
+<p>F Marion made breakfast for her family on the first day. </p>,1,one,
+,<p>True </p>
+*,<p>False</p>
+,<p>Not stated</p>
+<p>G Henry will go to the farm with Marion next month. </p>,1,one,
+,<p>True </p>
+,<p>False</p>
+*,<p>Not stated</p>

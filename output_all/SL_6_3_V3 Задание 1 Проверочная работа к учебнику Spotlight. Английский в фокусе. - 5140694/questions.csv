@@ -1,0 +1,57 @@
+HTML
+<p>You _____ go now. We don't need your help.</p>,1,one,
+,<p>must</p>
+,<p>mustn't</p>
+*,<p>can</p>
+<p>You _____ go there every day. Olga can help them too.</p>,1,one,
+,<p>must</p>
+*,<p>don't have to</p>
+,<p>mustn't</p>
+<p>You _____ go there every day. Nobody else can help them.</p>,1,one,
+*,<p>must</p>
+,<p>don't have to</p>
+,<p>mustn't</p>
+<p>You _____ go there every day. You should stay at home. You should study hard to pass the exam.</p>,1,one,
+,<p>must</p>
+,<p>don't have to</p>
+*,<p>mustn't</p>
+<p>He's _____ to visit us tonight.</p>,1,one,
+,<p>go</p>
+,<p>went</p>
+*,<p>going</p>
+<p>He _____ to the cinema last night.</p>,1,one,
+,<p>go</p>
+*,<p>went</p>
+,<p>going</p>
+<p>He didn't _____ his car last Friday.</p>,1,one,
+*,<p>repair</p>
+,<p>repaired</p>
+,<p>repairing</p>
+<p>He can't help you now. He _____ his car.</p>,1,one,
+,<p>repairs</p>
+,<p>repaired</p>
+*,<p>is repairing</p>
+<p>You _____ repair his car today. He will take a taxi tomorrow.</p>,1,one,
+,<p>must</p>
+,<p>mustn't</p>
+*,<p>needn't</p>
+<p>Their car is more _____ than ours.</p>,1,one,
+*,<p>expensive</p>
+,<p>better</p>
+,<p>old</p>
+<p>Their car is _____ than ours.</p>,1,one,
+,<p>expensive</p>
+*,<p>better</p>
+,<p>old</p>
+<p>The _____ names are Olga and Nina.</p>,1,one,
+,<p>girl's</p>
+,<p>girls</p>
+*,<p>girls'</p>
+<p>_____ pet is funny.</p>,1,one,
+,<p>They're</p>
+*,<p>Their</p>
+,<p>These</p>
+<p>_____ Olga's cousin. Right?</p>,1,one,
+,<p>You</p>
+*,<p>You're</p>
+,<p>Your</p>

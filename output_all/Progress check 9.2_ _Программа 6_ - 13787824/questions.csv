@@ -1,0 +1,56 @@
+HTML
+<p>He ________ speaks so loudly. (всегда)</p>,1,many,
+*,always
+,<p>sometimes</p>
+<p>She drew this picture again and again _____ ______. (пять раз)</p>,1,many,
+*,<p>five times</p>
+,<p>five time</p>
+<p>_______do children do their homework at night?</p>,1,many,
+*,<p>How often</p>
+,<p>How many</p>
+<p>We ________ speak about Marry. (никогда)</p>,1,many,
+*,never
+,<p>sometimes</p>
+<p>I walked in the garden ________ this spring. (один раз)</p>,1,many,
+*,once
+,<p>twice</p>
+<p>How long does it take ______ to get from here to the station? (нам)</p>,1,one,
+*,us
+,<p>them</p>
+<p>They ______ (stay) here for three days. </p>,1,one,
+,<p>have stay</p>
+,<p>has stayed</p>
+*,<p>have stayed</p>
+<p>She hasn't lived in London _____ 3 years. </p>,1,one,
+*,<p>for</p>
+,<p>since</p>
+<p>I _____ Jane since last week.</p>,1,one,
+,<p>hasn't seen</p>
+*,<p>haven't seen</p>
+,<p>haven't see</p>
+<p>Helen has been in London ____ Monday.</p>,1,one,
+,<p>for</p>
+*,<p>since</p>
+<p>I have stayed here ____ 8 days.</p>,1,one,
+*,<p>for</p>
+,<p>since</p>
+<p>____ you ____ (do) anything interesting since last Friday?</p>,1,one,
+*,<p>Have/done</p>
+,<p>Has/do</p>
+,<p>Have/did</p>
+<p>____ he ever ____ (live) there? </p>,1,one,
+*,<p>Has/lived</p>
+,<p>Have/lived</p>
+,<p>Has/live</p>
+<p>Have you cooked dinner _____? </p>,1,one,
+,<p>never</p>
+,<p>for</p>
+*,<p>yet</p>
+<p>We have ____ met before.</p>,1,one,
+,<p>yet</p>
+*,<p>never</p>
+,<p>for</p>
+<p>She has _____ read Harry Potter.</p>,1,one,
+,<p>yet</p>
+,<p>since</p>
+*,<p>never</p>

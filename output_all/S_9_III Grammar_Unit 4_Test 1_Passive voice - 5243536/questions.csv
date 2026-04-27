@@ -1,0 +1,31 @@
+HTML
+<p>Choose:</p>,1,one,
+,<p>Staying in the hotel until the next flight was suggested to the passengers. </p>
+*,<p>The passengers were suggested staying in the hotel until the next flight. </p>
+<p>Choose:</p>,1,one,
+,"<p>Remember that the pie bakes very quickly, don't burn it. </p>"
+*,"<p>Remember that the pie is baked very quickly, don't burn it.</p>"
+<p>Choose:</p>,1,one,
+,<p>We were repeated the new rule several times.</p>
+*,<p>The new rule was repeated to us several times. </p>
+<p>Choose:</p>,1,one,
+*,<p>The delay of the London express was announced to the travellers. </p>
+,<p>The travellers were announced the delay of the London express. </p>
+<p>Choose:</p>,1,one,
+,<p>In this restaurant seafood is served to customers. </p>
+*,<p>Customers in this restaurant are served seafood. </p>
+<p>Choose:</p>,1,one,
+,<p>I'm sure this old model won't sell any longer. </p>
+*,<p>I'm sure this old model won't be sold any longer. </p>
+<p>Choose:</p>,1,one,
+*,<p>The important information was mentioned to us in passing. </p>
+,<p>We were mentioned the important information in passing. </p>
+<p>Choose:</p>,1,one,
+*,<p>The pleasures of travelling by sea were described to the group. </p>
+,<p>The group was described the pleasures of travelling by sea. </p>
+<p>Choose:</p>,1,one,
+*,<p>Several words were dictated for us to write them down. </p>
+,<p>We were dictated several words so that we could write them down. </p>
+<p>Choose:</p>,1,one,
+*,<p>The difficulties of camping were explained to everyone. </p>
+,<p>Everyone was explained the difficulties of camping. </p>

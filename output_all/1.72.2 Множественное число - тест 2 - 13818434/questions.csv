@@ -1,0 +1,37 @@
+HTML
+<p>I like ...</p>,1,one,
+,<p>appless</p>
+*,<p>apples</p>
+<p>... are beautiful.</p>,1,one,
+,<p>Girles</p>
+*,<p>Girls</p>
+<p>... are white.</p>,1,one,
+*,<p>Teeth</p>
+,<p>Tooth</p>
+<p>... play every day.</p>,1,one,
+*,<p>Children</p>
+,<p>Child</p>
+<p>He doesn't like ...</p>,1,one,
+*,<p>potatoes</p>
+,<p>potatos</p>
+<p>... are white.</p>,1,one,
+*,<p>Glasses</p>
+,<p>Glasss</p>
+<p>... sleep.</p>,1,one,
+*,<p>Foxes</p>
+,<p>Foxs</p>
+<p>They are good ...</p>,1,one,
+*,<p> people</p>
+,<p>person</p>
+<p>... are big.</p>,1,one,
+*,<p>Dogs</p>
+,<p>Doges</p>
+<p>... like bananas.</p>,1,one,
+*,<p>Children</p>
+,<p>Child</p>
+<p>She likes ...</p>,1,one,
+*,<p>parties</p>
+,<p>partyes</p>
+<p>...are red.</p>,1,one,
+,<p>Tomatos </p>
+*,<p>Tomatoes </p>

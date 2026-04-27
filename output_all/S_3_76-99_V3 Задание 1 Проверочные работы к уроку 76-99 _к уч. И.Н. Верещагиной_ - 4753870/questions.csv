@@ -1,0 +1,41 @@
+HTML
+<p>It _____ now.</p>,1,one,
+,<p>is rain</p>
+*,<p>is raining</p>
+,<p>rains</p>
+<p>The children didn't make _____ interesting last week.</p>,1,one,
+*,<p>anything</p>
+,<p>something</p>
+,<p>nothing</p>
+<p>It doesn't often _____ here.</p>,1,one,
+,<p>snowing</p>
+,<p>snows</p>
+*,<p>snow</p>
+<p>_____ a lot of toys in the box.</p>,1,one,
+,<p>they are</p>
+,<p>these are</p>
+*,<p>there are</p>
+<p>They didn't buy _____ chairs.</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+,<p>no</p>
+<p>It _____ rain yesterday.</p>,1,one,
+*,<p>didn't</p>
+,<p>wasn't</p>
+,<p>doesn't</p>
+"<p>They had lunch at school, _____ ?</p>",1,one,
+,<p>hadn't they</p>
+*,<p>didn't they</p>
+,<p>did they</p>
+<p>Nobody _____ this food.</p>,1,one,
+,<p>eat</p>
+*,<p>eats</p>
+,<p>doesn't eat</p>
+<p>How many _____ are there in this book?</p>,1,one,
+,<p>story</p>
+*,<p>stories</p>
+,<p>picture</p>
+<p>Who _____ in the garden?</p>,1,one,
+,<p>did work</p>
+,<p>does work</p>
+*,<p>worked</p>

@@ -1,0 +1,59 @@
+HTML
+<p>I have got ____ food.</p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+<p>Don’t give me ____ money.</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+<p>I haven’t got ___ food.</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>I have ____ water in my bottle. </p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>They don't eat _________bread. </p>,1,one,
+*,<p>much </p>
+,<p>many </p>
+,<p>a lot of</p>
+<p>How________salt do you need? </p>,1,one,
+*,<p>much </p>
+,<p>many </p>
+,<p>a lot of</p>
+<p>She has got________ apples in the fridge. </p>,1,one,
+,<p>any</p>
+,<p>a</p>
+*,<p>a lot of</p>
+<p>There aren't________apples in the box. </p>,1,one,
+,<p>much </p>
+*,<p>many </p>
+<p>Italian food is ________ than American food. </p>,1,one,
+*,<p>better</p>
+,<p>best</p>
+,<p>gooder</p>
+<p>Writing in English is_____  than speaking.</p>,1,one,
+,<p>most difficult</p>
+*,<p>more difficult</p>
+,<p>difficulter</p>
+<p>A dog is ____ than a pig.</p>,1,one,
+,<p>clever</p>
+*,<p>cleverer</p>
+<p>Reading is_______ than watching TV.</p>,1,one,
+*,<p>better</p>
+,<p>the best</p>
+,<p>good</p>
+<p>The water is ______ today than it was two days ago.</p>,1,one,
+,<p>coldest </p>
+,<p>more cold</p>
+*,<p>colder</p>
+<p>This is the ______ (boring) book.</p>,1,one,
+*,<p>most boring</p>
+,<p>boringest</p>
+,<p>the boring</p>
+<p> Who is the ______ (popular) singer in your country? </p>,1,one,
+,<p>popularest</p>
+*,<p>most popular</p>
+,<p>the popular</p>
+<p>July is the ______ (hot) month of the year. </p>,1,one,
+,<p>hotest</p>
+,<p>most hot</p>
+*,<p>hottest</p>

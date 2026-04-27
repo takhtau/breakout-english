@@ -1,0 +1,41 @@
+HTML
+<p>I didn't bring _____ toys.</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+,<p>no</p>
+<p>It _____ often snow here.</p>,1,one,
+,<p>-</p>
+,<p>isn't</p>
+*,<p>doesn't</p>
+<p>I didn't see _____ interesting yesterday.</p>,1,one,
+,<p>something</p>
+*,<p>anything</p>
+,<p>nothing</p>
+<p>Who _____ in this house?</p>,1,one,
+,<p>did live</p>
+,<p>does live</p>
+*,<p>lived</p>
+<p>_____ fifteen pupils in this class.</p>,1,one,
+,<p>they are</p>
+*,<p>there are</p>
+,<p>these are</p>
+<p>It _____ last month.</p>,1,one,
+*,<p>didn't rain</p>
+,<p>doesn't rain</p>
+,<p>isn't raining</p>
+<p>How many _____ did he visit last year?</p>,1,one,
+,<p>country</p>
+*,<p>countries</p>
+,<p>city</p>
+<p>Nobody _____ to his stories.</p>,1,one,
+,<p>listen</p>
+,<p>doesn't listen</p>
+*,<p>listens</p>
+"<p>They had breakfast at 8 o'clock, _____ ?</p>",1,one,
+*,<p>didn't they</p>
+,<p>hadn't they</p>
+,<p>did they</p>
+<p>Do you know these _____ ?</p>,1,one,
+*,<p>children</p>
+,<p>children's</p>
+,<p>child</p>

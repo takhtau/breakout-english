@@ -1,0 +1,41 @@
+HTML
+<p>_____ she watch TV?</p>,1,one,
+,<p>do</p>
+,<p>is</p>
+*,<p>did</p>
+<p>_____ she watching TV?</p>,1,one,
+,<p>do</p>
+*,<p>is</p>
+,<p>did</p>
+<p>Did he _____ his room?</p>,1,one,
+*,<p>clean</p>
+,<p>cleans</p>
+,<p>cleaned</p>
+<p>They don't work _____ .</p>,1,one,
+,<p>now</p>
+*,<p>every day</p>
+,<p>yersterday</p>
+<p>She _____ chess yesterday.</p>,1,one,
+,<p>play</p>
+,<p>plays</p>
+*,<p>played</p>
+<p>She likes to play chess. She _____ chess every day.</p>,1,one,
+,<p>play</p>
+*,<p>plays</p>
+,<p>played</p>
+<p>_____ they happy?</p>,1,one,
+,<p>did</p>
+,<p>was</p>
+*,<p>were</p>
+<p>She _____ in England last year.</p>,1,one,
+,<p>is</p>
+*,<p>was</p>
+,<p>were</p>
+<p>He isn't _____ his sister now.</p>,1,one,
+,<p>help</p>
+*,<p>helping</p>
+,<p>helped</p>
+<p>She _____ wash the cups yersterday.</p>,1,one,
+,<p>isn''t</p>
+,<p>doesn't</p>
+*,<p>didn't</p>

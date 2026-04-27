@@ -1,0 +1,61 @@
+HTML
+<p>I often help _____ in the garden.</p>,1,one,
+*,<p>Oleg</p>
+,<p>Oleg's</p>
+,<p>his</p>
+<p>_____ garden is wonderful.</p>,1,one,
+,<p>Oleg</p>
+*,<p>Oleg's</p>
+,<p>Him</p>
+<p>_____ is in the garden.</p>,1,one,
+*,<p>Oleg</p>
+,<p>Oleg's</p>
+,<p>Him</p>
+<p>_____ is he? - He's Oleg's doctor.</p>,1,one,
+*,<p>Who</p>
+,<p>What</p>
+,<p>Whose</p>
+<p>_____ doctor is he? - Oleg's.</p>,1,one,
+,<p>Who</p>
+,<p>What</p>
+*,<p>Whose</p>
+<p>Those _____ can speak French.</p>,1,one,
+,<p>student</p>
+*,<p>students</p>
+,<p>students'</p>
+<p>Those _____ suitcases are very heavy.</p>,1,one,
+,<p>student</p>
+,<p>students</p>
+*,<p>students'</p>
+<p>Is there _____ juice in the fridge?</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+,<p>a</p>
+<p>There are _____ tomatoes in the basket.</p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+,<p>a</p>
+<p>_____ juice is there in the fridge?</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>_____ tomatoes are there in the fridge?</p>,1,one,
+*,<p>How many</p>
+,<p>How much</p>
+,<p>How</p>
+<p>You can read _____ texts.</p>,1,one,
+,<p>second</p>
+,<p>the second</p>
+*,<p>two</p>
+<p>You can read _____ text.</p>,1,one,
+,<p>second</p>
+*,<p>the second</p>
+,<p>two</p>
+<p>Can you visit _____ grandparents?</p>,1,one,
+*,<p>her</p>
+,<p>him</p>
+,<p>she</p>
+<p>I'd like to speak to your aunt. - You can phone _____ .</p>,1,one,
+,<p>she</p>
+*,<p>her</p>
+,<p>him</p>

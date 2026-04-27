@@ -1,0 +1,49 @@
+HTML
+"<p>If I (not to train) so hard, I (not to be) tired</p>",1,one,
+*,<p>had not trained/ I would not have been </p>
+,<p>had not trained/ I would not be </p>
+,<p>did not train/ I would not have been</p>
+<p>I (not to be late) if I (to wake up) in time. </p>,1,one,
+,<p>would not have been late/woke up </p>
+,<p>would not be late/had woken up</p>
+*,<p>would not have been late/had woken up </p>
+"<p>If he (to buy) her flowers, she (to be) glad.</p>",1,one,
+,<p>had bought/would be</p>
+*,<p>had bought/would have been </p>
+,<p>bought/would have been </p>
+<p>You (to pass) the test if you (to prepare) for it?</p>,1,one,
+,<p>Would you have passed/prepared </p>
+,<p>Would you pass/had prepared </p>
+*,<p>Would you have passed/had prepared </p>
+"<p>If she (to come), he (to be) happy?</p>",1,one,
+*,<p>had come/would he have been </p>
+,<p>had come/would he be</p>
+,<p>came/would he have been </p>
+<p>I (not to be) hungry if I (to eat) in the morning. </p>,1,one,
+,<p>would not have been/ate</p>
+,<p>would not be/had eaten </p>
+*,<p>would not have been/had eaten </p>
+"<p>If I (not to break) my phone, I (not to be) sad.</p>",1,one,
+*,<p>had not broken/would not have been </p>
+,<p>did not broken/would not have been </p>
+,<p>had not broken/would not be </p>
+<p>You (to forgive) her if she (to ask) for forgiveness?</p>,1,one,
+,<p>Would you forgive/had asked</p>
+*,<p>Would you have forgiven/had asked </p>
+,<p>Would you have forgiven/asked</p>
+"<p>If he (not to do) his homework, his mother (to be) angry. </p>",1,one,
+,<p>had not done/ would be </p>
+,<p>did not done/ would have been </p>
+*,<p>had not done/ would have been </p>
+"<p>If she (not to buy) the tickets, she (not to fly) to London. </p>",1,one,
+,<p>did not bought/would not have flown </p>
+*,<p>had not bought/would not have flown </p>
+,<p>had not bought/would not fly </p>
+<p>They (not to break up) if he (to be) faithful. </p>,1,one,
+*,<p>would not have broken up/had been </p>
+,<p>would not have broken up/was</p>
+,<p>would not broke up/had been </p>
+<p>He (to earn) the money if he (not to work) hard?</p>,1,one,
+,<p>Would he earn/he had not worked</p>
+,<p>Would he have earned/he did not work</p>
+*,<p>Would he have earned/he had not worked </p>

@@ -1,0 +1,49 @@
+HTML
+<p>Where's Helen? - In the living room. She _____ her favourite DVD.</p>,1,one,
+,<p>watch</p>
+,<p>watches</p>
+*,<p>is watching</p>
+<p>It's her favourite DVD. She often _____ it.</p>,1,one,
+,<p>watch</p>
+*,<p>watches</p>
+,<p>is watching</p>
+<p>This is Helen's favourite DVD. I _____ it now.</p>,1,one,
+,<p>watch</p>
+,<p>watches</p>
+*,<p>am watching</p>
+<p>This DVD _____ to Helen now.</p>,1,one,
+,<p>belong</p>
+*,<p>belongs</p>
+,<p>belonging</p>
+<p>What are your plans for tonight? - We _____ Helen's favourite DVD.</p>,1,one,
+,<p>watch</p>
+,<p>will watch</p>
+*,<p>are watching</p>
+"<p>Would you like to take the DVD? - Yes, I think I _____ it tonight.</p>",1,one,
+,<p>watch</p>
+*,<p>will watch</p>
+,<p>am watching</p>
+<p>_____ DVDs on Sundays?</p>,1,one,
+*,<p>Do you watch</p>
+,<p>You watch</p>
+,<p>Are you watching</p>
+<p>Would you like _____ the DVD now?</p>,1,one,
+,<p>watch</p>
+*,<p>to watch</p>
+,<p>watching</p>
+<p>I have _____ the DVD tonight.</p>,1,one,
+,<p>watch</p>
+*,<p>to watch</p>
+,<p>watching</p>
+<p>Shall I buy _____ bread?</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+,<p>a</p>
+<p>_____ CD players are there in the house?</p>,1,one,
+*,<p>How many</p>
+,<p>How much</p>
+,<p>How</p>
+<p>_____ are you going to fix the CD player?</p>,1,one,
+,<p>How many</p>
+,<p>How much</p>
+*,<p>How</p>

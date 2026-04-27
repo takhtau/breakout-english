@@ -1,0 +1,31 @@
+HTML
+<p>  </p>,1,one,
+*,<p>I watched her go up the street and enter the house.</p>
+,<p>I watched her going up the street and entering the house.</p>
+<p>  </p>,1,one,
+,<p>Excuse me take your seat.</p>
+*,<p>Excuse me taking your seat.</p>
+<p>  </p>,1,one,
+,<p>She couldn't help to laugh.</p>
+*,<p>She couldn't help laughing.</p>
+<p>  </p>,1,one,
+*,<p>Bob is said to resemble his dad.</p>
+,<p>Bob is said resemble his dad.</p>
+<p>  </p>,1,one,
+*,<p>I hate the rain pouring all the time.</p>
+,<p>I hate the rain pour all the time.</p>
+<p>  </p>,1,one,
+,<p>I won't have you speaking like that.</p>
+*,<p>I won't have you speak like that.</p>
+<p>  </p>,1,one,
+,<p>He heard the clock to strike 12.</p>
+*,<p>He heard the clock strike 12.</p>
+<p>  </p>,1,one,
+*,<p>Loud music didn't let George fall asleep.</p>
+,<p>Loud music didn't let George to fall asleep.</p>
+<p>  </p>,1,one,
+,<p>The plane is reported having landed on time.</p>
+*,<p>The plane is reported to have landed on time.</p>
+<p>  </p>,1,one,
+,<p>You'd better to tell your parents the truth.</p>
+*,<p>You'd better tell your parents the truth.</p>

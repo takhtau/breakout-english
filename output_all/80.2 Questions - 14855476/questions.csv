@@ -1,0 +1,49 @@
+HTML
+<p>----- it urgent or can it wait? (Это срочно…?)</p>,1,one,
+,<p>Does</p>
+,<p>Was</p>
+*,<p>Is</p>
+<p>Why ----- you call me? (Почему ты мне не позвонил?)</p>,1,one,
+,<p>haven't</p>
+,<p>don't </p>
+*,<p>didn't</p>
+<p>----- names are included into the list? (Чьи имена…)</p>,1,one,
+,<p>What</p>
+*,<p>Whose</p>
+,<p>Which</p>
+"<p>We've got things to do, ----- we?</p>",1,one,
+*,<p>haven't </p>
+,<p>don't</p>
+,<p>have</p>
+<p>Who ----- the door? (Кто запер дверь?)</p>,1,one,
+,<p>did lock</p>
+,<p>was locked</p>
+*,<p>locked</p>
+<p>Who else ----- you discussed it with? (С кем еще вы это обсуждали?)</p>,1,one,
+*,<p>have</p>
+,<p>did</p>
+,<p>were</p>
+"<p>There were no vacancies at the hotel, -----?</p>",1,one,
+,<p>did they</p>
+,<p>weren't there</p>
+*,<p>were there</p>
+<p>----- did you quit your job? (Почему…?)</p>,1,one,
+,<p>How</p>
+,<p>Where</p>
+*,<p>Why</p>
+<p>----- people will be attending? (Сколько человек…)</p>,1,one,
+,<p>How much</p>
+*,<p>How many</p>
+,<p>How old</p>
+<p>How many people ----- for the proposal? (Сколько людей проголосовало…)</p>,1,one,
+*,<p>voted</p>
+,<p>did vote</p>
+,<p>were vote</p>
+<p>What subjects ----- you enjoy most? (…вам понравились …?)</p>,1,one,
+,<p>do</p>
+,<p>were</p>
+*,<p>did</p>
+<p>How many degrees ----- in a circle? (Сколько градусов в окружности?)</p>,1,one,
+,<p>there are</p>
+*,<p>are there</p>
+,<p>do there</p>

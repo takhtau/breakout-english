@@ -1,0 +1,19 @@
+HTML
+<p>'Has your brother gone out?' Mum asked me.</p><p>Mum asked me if my brother_____________out. </p>,1,one,
+,<p>has gone </p>
+*,<p>had gone </p>
+<p>'Do you know the answer?' Miss Smith asked Ruby.</p><p>Miss Smith asked Ruby if she______________the answer. </p>,1,one,
+*,<p>knew </p>
+,<p>had known </p>
+<p>'Is this your car?' the police officer said to the man. </p><p>The police officer asked the man if it__________his car. </p>,1,one,
+,<p>it </p>
+*,<p>was</p>
+<p>'Have you been to see the exhibition?' I asked Benjamin. </p><p>I asked Benjamin if he_______________to see the exhibition. </p>,1,one,
+,<p>went </p>
+*,<p>had been </p>
+<p>'Does your laptop need a new battery?' Jerry asked me. </p><p>Jerry asked me if my laptop______________a new battery. </p>,1,one,
+*,<p>needed </p>
+,<p>will need </p>
+<p>'Are you having barbecue?' I asked the Browns. </p><p>I asked the Browns if they______________a berbecue. </p>,1,one,
+*,<p>were having </p>
+,<p>had been having </p>

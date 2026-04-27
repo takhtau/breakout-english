@@ -1,0 +1,41 @@
+HTML
+<p>I have got a ticket. I _______________ watch the film.</p>,1,one,
+*,<p>am going to</p>
+,<p>will go to</p>
+,<p>go to</p>
+<p>I'm at shop now. I ___________ sweets.</p>,1,one,
+,<p>am going to buy</p>
+*,<p>will buy</p>
+,<p>buy</p>
+"<p>When I grow up, I _______________ the guitar.</p>",1,one,
+,<p>play</p>
+,<p>will play</p>
+*,<p>am going to play</p>
+"<p>""We are moving house tomorrow."" </p><p>""Really? ________________ you with the furniture.""</p>",1,one,
+,<p>I help</p>
+*,<p>I will help</p>
+,<p>I am helping</p>
+"<p>""Do you need this pencil?""</p><p>""Yes. ____________ it to me, please?""</p>",1,one,
+,<p>Do you pass</p>
+*,<p>Will you pass</p>
+,<p>Are you going to pass</p>
+"<p>""What do you want to be when you grow up, Stevie?""</p><p>""____________ a scientist. That's what I want to do, anyway.""</p>",1,one,
+,<p>I be</p>
+*,<p>I'm going to to be</p>
+,<p>I'm being</p>
+"<p>""John is a better player than Martin, isn't he?""</p><p>""Oh, yes. ____________ the match tomorrow, I think.""</p>",1,one,
+*,<p>He'll win</p>
+,<p>He is going to win</p>
+,<p>He wins</p>
+"<p>""The weather is terrible. It's cloudy and windy. I think, _________________""</p>",1,one,
+*,<p>It is going to rain.</p>
+,<p>It is raining.</p>
+,<p>It rains</p>
+"<p>""_________________ France next Christmas?""</p>",1,one,
+,<p>Do you go to</p>
+*,<p>Are you going to</p>
+,<p>Will you go to</p>
+"<p>""____________________ ."" No, I won't. I' m not hungry.""</p>",1,one,
+*,<p>Will you eat pasta? </p>
+,<p>Are you going to eat pasta?</p>
+,<p>Do you eat pasta?</p>

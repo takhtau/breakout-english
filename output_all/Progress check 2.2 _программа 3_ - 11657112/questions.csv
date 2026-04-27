@@ -1,0 +1,69 @@
+HTML
+<p>I (not to sleep) at nine o’clock yesterday.</p>,1,one,
+,<p>weren't sleeping </p>
+*,<p>wasn't sleeping </p>
+,<p>am not sleeping </p>
+<p>What you (to do) when I rang you up?</p>,1,one,
+*,<p>What were you doing </p>
+,<p>What was you doing </p>
+,<p>What are you doing </p>
+<p>My sister (not to play) the piano at four o’clock yesterday. She (to play) the piano the whole evening.</p>,1,one,
+*,<p>wasn't playing/was playing </p>
+,<p>weren't playing/was playing </p>
+,<p>isn't playing/is playing </p>
+<p>You (to do) your homework from eight till ten yesterday?</p>,1,one,
+*,<p>Were you doing</p>
+,<p>Was you doing</p>
+,<p>Are you doing</p>
+<p>He (not to sleep) when father came home.</p>,1,one,
+*,<p>wasn't sleeping</p>
+,<p>didn't sleep</p>
+,<p>weren't sleeping</p>
+<p>I (to do) my homework the whole evening yesterday.</p>,1,one,
+*,<p>was doing</p>
+,<p>did</p>
+,<p>were doing</p>
+<p>Last week I (to find) a little fox cub.</p>,1,one,
+,<p>were finding</p>
+,<p>was finding</p>
+*,<p>found</p>
+<p>It (to injure) its leg yesterday.</p>,1,one,
+*,<p>injured</p>
+,<p>was injuring</p>
+,<p>were injuring</p>
+<p>I (not to see) Pete today.</p>,1,one,
+,<p>hasn't seen</p>
+*,<p>haven't seen</p>
+,<p>didn't see</p>
+<p>I just (to meet) our teacher.</p>,1,one,
+,<p>has met</p>
+,<p>met</p>
+*,<p>have met</p>
+<p>The rain (to stop) and the sun is shining in the sky again.</p>,1,one,
+,<p>stop </p>
+,<p>have stopped</p>
+*,<p>has stopped </p>
+"<p>The weather (to change), and we can go for a walk.</p>",1,one,
+,<p>have changed</p>
+*,<p>has changed </p>
+,<p>changed</p>
+<p>We ... just ... (to learn) a new song!</p>,~1,one,
+,<p>do/learn</p>
+,<p>are/learning</p>
+*,<p>have/learned</p>
+<p>Mark ... just ... (to order) ten bottles of Coke.</p>,1,one,
+*,<p>has/ordered</p>
+,<p>is/ordering</p>
+,<p>does/order</p>
+<p>They (to sing) merrily at the moment.</p>,1,one,
+,<p>sing</p>
+*,<p>are singing</p>
+,<p>have sung</p>
+<p>It ______ all day long. I’m sick and tired of this weather.</p>,1,one,
+*,<p>has been raining</p>
+,<p>has rained</p>
+,<p>rained</p>
+"<p>By the time we came to see him, he (to return) home.</p>",1,one,
+,<p>returns</p>
+*,<p>had returned</p>
+,<p>returned</p>

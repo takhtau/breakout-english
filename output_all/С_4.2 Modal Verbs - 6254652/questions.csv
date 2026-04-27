@@ -1,0 +1,31 @@
+HTML
+<p>This ___ be dangerous if you don't have the right equipment.</p>,1,one,
+,<p>should</p>
+*,<p>can</p>
+<p>You ___ yell at your parents. It's not nice.</p>,1,one,
+*,<p>shouldn't</p>
+,<p>can't</p>
+<p>I ___ have seen that movie eight times.</p>,1,one,
+*,<p>must</p>
+,<p>can</p>
+<p>I can't allow you to hang around here = I ___ have you hanging.</p>,1,one,
+,<p>shouldn't</p>
+*,<p>can't</p>
+"<p>Isn't that Charlie's umbrella? Yes, he ___ have left it here yesterday.</p>",1,one,
+,<p>should</p>
+*,<p>must</p>
+<p>___ I borrow your pen for a minute?</p>,1,one,
+*,<p>Can</p>
+,<p>Should</p>
+"<p>___ you speak Japanese? No, I can't.</p>",1,one,
+*,<p>Can</p>
+,<p>Must</p>
+<p>It's late. I _____ go.</p>,1,one,
+*,<p>should</p>
+,<p>can</p>
+<p>I saw that pen this morning... It ___ be around here somewhere. </p>,1,one,
+*,<p>must</p>
+,<p>can</p>
+<p>I ___ understand what he's saying.</p>,1,one,
+,<p>shouldn't</p>
+*,<p>can't</p>

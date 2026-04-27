@@ -1,0 +1,49 @@
+HTML
+"<p>If I ______ free time, I _______ traveling. </p>",1,one,
+*,<p>have/go</p>
+,<p>have/goes</p>
+,<p>had/went</p>
+"<p>If you ______ a cat, it ________ . </p>",1,one,
+,<p>pat/purred </p>
+*,<p>pat/purrs </p>
+,<p>pat/purr</p>
+"<p>If I ________ a headache, my mother usually ________ me some medicine.</p>",1,one,
+,<p>have/give</p>
+,<p>has/gives</p>
+*,<p>have/gives</p>
+"<p>If you _______ by a budget airline, you _________ to pay for your drinks and food.</p>",1,one,
+,<p>flew/have</p>
+*,<p>fly/have</p>
+,<p>fly/has</p>
+"<p>If you _______, you _________ a train</p>",1,one,
+*,<p>run/will catch</p>
+,<p>runs/will catch</p>
+,<p>will run/catch</p>
+<p>I'm sure he _________ if you _______ him. </p>,1,one,
+,<p>will come/invites</p>
+*,<p>will come/invite</p>
+,<p>come/will invite</p>
+<p>I _______ you if I _______ my work early.</p>,1,one,
+,<p>come/will finish</p>
+*,<p>will come/finish</p>
+,<p>will come/finishes </p>
+"<p>If you _________ hard, you _____ your exams</p>",1,one,
+,<p>studies/will pass</p>
+,<p>will study/pass</p>
+*,<p>study/will pass</p>
+"<p>If you ________ the exam, you _________ the certificate. </p>",1,one,
+,<p>will pass/get</p>
+*,<p>pass/wll get</p>
+,<p>passes/wll get</p>
+"<p>If I _________ time tomorrow, I _________ it. </p>",1,one,
+*,<p>have/will do</p>
+,<p>has/will do</p>
+,<p>will have/do</p>
+"<p>If it ______ tomorrow, the children _________ snowballs </p>",1,one,
+,<p>snow/will play</p>
+,<p>will snow/play</p>
+*,<p>snows/will play</p>
+"<p>If it _______ tomorrow, our game ________ cancelled </p>",1,one,
+,<p>rain/will be</p>
+*,<p>rains/will be</p>
+,<p>will rain/ be</p>

@@ -1,0 +1,49 @@
+HTML
+"<p>If he (not to come) on time, we (to wait) for him.</p>",1,one,
+*,<p>doesn't come/will wait</p>
+,<p>don't come/will wait</p>
+,<p>won't come/wait</p>
+"<p>If no one (to come) to help, we (to do) the work ourselves.</p>",1,one,
+,<p>will come/do</p>
+*,<p>comes/will do</p>
+,<p>come/will do</p>
+"<p>If you (to put on) your glasses, you (to see) better.</p>",1,one,
+,<p>will put on/see</p>
+,<p>puts one/see</p>
+*,<p>put on/will see</p>
+<p>What ... we ... (to do) if they (to be) late?</p>,1,one,
+*,<p>will we do/are</p>
+,<p>do we do/will be</p>
+,<p>will we do/will be</p>
+<p>... you ... (to be) very angry if we (not to come)?</p>,1,one,
+,<p>Will you be/won't come</p>
+*,<p>Will you be/don't come</p>
+,<p>Do you be/don't come</p>
+<p>... he ... (to be) very displeased if I (not to ring) him up?</p>,1,one,
+,<p>Will he be/won't ring</p>
+,<p>Does he be/don't ring</p>
+*,<p>Will he be/don't ring</p>
+"<p>If you (to heat) snow, it (to melt) easily.</p>",1,one,
+*,<p>heat/melts</p>
+,<p>heat/melt</p>
+,<p>will heat/melts</p>
+<p>Anna (to go) to bed early if she (to work) the following day. </p>,1,one,
+,<p>goes/will work</p>
+*,<p>goes/works</p>
+,<p>will go/will work</p>
+<p>Any thing (to fall) if you (not to hold) it firmly in your hand.</p>,1,one,
+,<p>falls/won't hold</p>
+,<p>fall/don't hold</p>
+*,<p>falls/don't hold</p>
+"<p>If you (to burn) wood, you (to get) ash.</p>",1,one,
+*,<p>burn/get</p>
+,<p>will burn/get</p>
+,<p>burns/gets</p>
+"<p>If we (to go) shopping, we (to spend) too much money.</p>",1,one,
+,<p>will go/will spend</p>
+*,<p>go/spend</p>
+,<p>go/spends</p>
+"<p>If it (to rain), the river (to flood).</p>",1,one,
+,<p>will rain/floods</p>
+,<p>rain/flood</p>
+*,<p>rains/floods</p>

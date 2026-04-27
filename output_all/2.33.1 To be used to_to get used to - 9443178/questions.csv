@@ -1,0 +1,49 @@
+HTML
+<p>I’ve lived in London for three years and I ... to bad weather </p>,1,one,
+*,<p>am used to</p>
+,<p>get used to</p>
+,<p>used to</p>
+<p>When I met Alan I ... living alone and I didn’t want any flat mates. </p>,1,one,
+,<p>am used to</p>
+*,<p>was used to</p>
+,<p>get used to</p>
+"<p>When I moved from my parents, first time I felt lonely. But I ... living alone.</p>",1,one,
+,<p>used to</p>
+,<p>was used to</p>
+*,<p>got used to</p>
+<p>They ... sleeping outdoors. </p>,1,one,
+*,<p>are used to</p>
+,<p>get used to</p>
+,<p>used to</p>
+<p>I find it hard to ... new conditions. </p>,1,one,
+,<p>am used to</p>
+*,<p>get used to</p>
+,<p>used to</p>
+<p>Tony ... sleeping with the lights on. </p>,1,one,
+,<p>get used to</p>
+,<p>used to</p>
+*,<p>is used to</p>
+<p>Debora hates going to Chinese restaurants. She ... eating with chopsticks. </p>,1,one,
+*,<p>isn't used to</p>
+,<p>doesn't get used to</p>
+,<p>not used to</p>
+<p>He is such a rude person! It took us a while to ... him. </p>,1,one,
+,<p>used to</p>
+*,<p>get used to</p>
+,<p>are used to</p>
+<p>I ... drinking coffee every morning when I worked at an office. </p>,1,one,
+,<p>used to</p>
+,<p>get used to</p>
+*,<p>was used to</p>
+<p>I ... waking up at 10 every day.</p>,1,one,
+*,<p>am used to</p>
+,<p>used to</p>
+,<p>get used to</p>
+<p>I ... living with my wife. </p>,1,one,
+,<p>is used to</p>
+*,<p>am getting used to</p>
+,<p>used to</p>
+<p>I ... difficulties. </p>,~1,one,
+,<p>used to</p>
+,<p>gets used to</p>
+*,<p>am used to</p>

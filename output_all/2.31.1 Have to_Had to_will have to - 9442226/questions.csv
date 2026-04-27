@@ -1,0 +1,49 @@
+HTML
+<p>I ... do a lot of homework yesterday.</p>,1,one,
+*,<p>had to</p>
+,<p>have to</p>
+,<p>will have to</p>
+<p>She ... stay at home because she did not feel well.</p>,1,one,
+,<p>have to</p>
+*,<p>had to</p>
+,<p>will have to</p>
+<p>Pete ... stay at home because it was very cold.</p>,1,one,
+,<p>have to</p>
+,<p>will have to</p>
+*,<p>had to</p>
+<p>Mike ... write this exercise at school because he had not done it at home.</p>,1,one,
+*,<p>had to</p>
+,<p>has to</p>
+,<p>will have to</p>
+<p>I haven’t written my essay. I ... write it on Sunday.</p>,1,one,
+,<p>have to</p>
+*,<p>will have to</p>
+,<p>had to</p>
+<p>... you ... get up early tomorrow?</p>,1,one,
+,<p>Did/have to</p>
+,<p>Do/have to</p>
+*,<p>Will/have to</p>
+<p>It will rain tomorrow. You ... to put on your raincoat.</p>,1,one,
+*,<p>will have to</p>
+,<p>had to</p>
+,<p>have to</p>
+<p>She ... buy some food tomorrow.</p>,1,one,
+,<p>has to</p>
+*,<p>will have to</p>
+,<p>had to</p>
+<p>Peter and Tom ... work hard every day.</p>,1,one,
+,<p>had to</p>
+,<p>will have to</p>
+*,<p>have to</p>
+"<p>Pete's eyes are very bad, and he ... wear glasses.</p>",1,one,
+*,<p>has to</p>
+,<p>had to</p>
+,<p>will have to</p>
+"<p>School starts at eight o'clock, so we ... get up early.</p>",1,one,
+,<p>will have to</p>
+*,<p>have to</p>
+,<p>had to</p>
+"<p>We ... study maths at school, because it's compulsory.</p>",1,one,
+,<p>will have to</p>
+,<p>had to</p>
+*,<p>have to</p>

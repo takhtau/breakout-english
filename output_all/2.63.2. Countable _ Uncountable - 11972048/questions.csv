@@ -1,0 +1,47 @@
+HTML
+"<p>I have English books, but not ________.</p>",1,one,
+*,<p>many</p>
+,<p>a little</p>
+,<p>much</p>
+<p>There is _______ homework for tomorrow.</p>,1,one,
+,<p>a no</p>
+*,<p>no</p>
+<p>Did Mike show you ________ stickers?</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+,<p>little</p>
+<p>Does he drink so ________ coffee? </p>,1,one,
+,<p>some</p>
+,<p>any</p>
+*,<p>much</p>
+<p>There are ________ apples on the table.</p>,1,one,
+*,<p>many</p>
+,<p>any</p>
+,<p>much</p>
+<p>There is always _______ light in our living room.</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+,<p>few</p>
+<p>He has only ________ hours.</p>,1,one,
+,<p>many</p>
+,<p>much</p>
+*,<p>a few</p>
+"<p>You have only ________ flour, it’s not enough for biscuits.</p>",1,one,
+*,<p>a little</p>
+,<p>much</p>
+,<p>a few</p>
+<p>There is _______ sugar in the sugar bowl.</p>,1,one,
+,<p>few</p>
+*,<p>little</p>
+<p>________ students passed the exam perfectly.</p>,1,one,
+*,<p>Few</p>
+,<p>Little</p>
+,<p>The one</p>
+<p>I use _______ eggs to make this cupcake.</p>,1,one,
+,<p>little</p>
+,<p>the few</p>
+*,<p>a few</p>
+<p>He follows _______ rules.</p>,1,one,
+*,<p>no</p>
+,<p>any</p>
+,<p>much</p>

@@ -1,0 +1,41 @@
+HTML
+<p>He is _____ doctor.</p>,1,one,
+,<p>good</p>
+,<p>better</p>
+*,<p>the best</p>
+<p>The books are very _____ .</p>,1,one,
+*,<p>good</p>
+,<p>well</p>
+,<p>badly</p>
+<p>Can you bring me _____ book?</p>,1,one,
+,<p>fifth</p>
+*,<p>the fifth</p>
+,<p>five</p>
+<p>What's _____ matter with you?</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>_____ buy the new book.</p>,1,one,
+*,<p>we must</p>
+,<p>we are</p>
+,<p>we want</p>
+<p>He _____ go to London next month.</p>,1,one,
+*,<p>won't</p>
+,<p>isn't</p>
+,<p>shan't</p>
+<p>He must _____ his teeth.</p>,1,one,
+*,<p>clean</p>
+,<p>cleans</p>
+,<p>to clean</p>
+<p>- Who goes to the stadium every day?</p><p>- They _____ .</p>,1,one,
+,<p>does</p>
+*,<p>do</p>
+,<p>go</p>
+<p>I don't like this story. It is _____ story in the book.</p>,1,one,
+,<p>bad</p>
+,<p>worse</p>
+*,<p>the worst</p>
+"<p>Your brother is _____ a red sweater, isn't he?</p>",1,one,
+,<p>wear</p>
+,<p>wears</p>
+*,<p>wearing</p>

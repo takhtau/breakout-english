@@ -1,0 +1,31 @@
+HTML
+<p>I have ___ courage than you.</p>,1,one,
+*,<p>less</p>
+,<p>fewer</p>
+<p>___ of my courage than you.</p>,1,one,
+*,<p>Much</p>
+,<p>Many</p>
+<p>___ of the new immigrants to Los Angeles come from Mexico.</p>,1,one,
+*,<p>Many</p>
+,<p>Much</p>
+<p>There is ___ immgiration to Canada now than there used to be.</p>,1,one,
+*,<p>less</p>
+,<p>fewer</p>
+<p>I only know ___ people in this city.</p>,1,one,
+,<p>a little</p>
+*,<p>a few</p>
+<p>Hey! I asked for ___ donut and you gave me a muffin!</p>,1,one,
+*,<p>a</p>
+,<p>some</p>
+"<p>In the past month, we have noticed __ progress in your ability to speak.</p>",1,one,
+,<p>many</p>
+*,<p>much</p>
+<p>He left ___ his clothing at his girlfriend's house.</p>,1,one,
+*,<p>some</p>
+,<p>a couple</p>
+"<p>Wow, there's so ___ grass in your yard!</p>",1,one,
+*,<p>much</p>
+,<p>many</p>
+<p>___ of the students come from abroad.</p>,1,one,
+,<p>Much</p>
+*,<p>Many</p>

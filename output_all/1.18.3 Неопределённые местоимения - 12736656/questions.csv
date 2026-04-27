@@ -1,0 +1,41 @@
+HTML
+<p>I  travelled (везде).</p>,1,one,
+,<p>Everybody</p>
+,<p>Everything</p>
+*,<p>Everywhere</p>
+<p>I ate ______(ничего).</p>,1,"one, shuffle",
+,<p>Nobody</p>
+*,<p>Nothing</p>
+,<p>Nowhere</p>
+<p>I see ____(никого).</p>,1,"one, shuffle",
+*,<p>Nobody</p>
+,<p>Nothing</p>
+,<p>Nowhere</p>
+<p>________ (все) is smiling.</p>,1,"one, shuffle",
+*,<p>Everyone</p>
+,<p>Everything</p>
+,<p>Nowhere</p>
+<p>He walks (где-то) _________ in the city.</p>,1,"one, shuffle",
+,<p>Everywhere</p>
+*,<p>somewhere</p>
+,<p>Nowhere</p>
+<p>I_________ (иногда) watch TV.</p>,1,"one, shuffle",
+,<p>somewhere</p>
+,<p>Nowhere</p>
+*,<p>sometimes</p>
+<p>I _________(всегда) read books.</p>,1,"one, shuffle",
+*,<p>always</p>
+,<p>nothing</p>
+,<p>sometimes</p>
+<p>He is doing  (что-то) _______ in the room.</p>,1,"one, shuffle",
+,<p>anywhere</p>
+*,<p>something</p>
+,<p>nowhere</p>
+<p>I see (ничего) _______ .</p>,1,"one, shuffle",
+,<p>something</p>
+*,<p>nothing</p>
+,<p>nowhere</p>
+<p>I will give you _______( что-то).</p>,1,"one, shuffle",
+*,<p>something</p>
+,<p>nothing</p>
+,<p>somewhere</p>

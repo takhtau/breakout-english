@@ -1,0 +1,101 @@
+HTML
+<p>The crane __ the heavy box on board the ship.</p>,1,one,
+*,<p>raised</p>
+,<p>rose</p>
+,<p>was rising</p>
+,<p>had risen</p>
+<p>They wondered __ he would say next.</p>,1,one,
+,<p>that</p>
+,<p>which</p>
+*,<p>what</p>
+,<p>whom</p>
+"<p>They don't know you, __ they?</p>",1,one,
+,<p>don't</p>
+,<p>are</p>
+,<p>aren't</p>
+*,<p>do</p>
+<p>He was punished __ telling lies.</p>,1,one,
+,<p>at</p>
+,<p>because</p>
+,<p>in spite of</p>
+*,<p>for</p>
+<p>Join us! We are sure to have __ lovely time.</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>the</p>
+,<p>-</p>
+<p>This is the man __ caused all that trouble.</p>,1,one,
+*,<p>who</p>
+,<p>what</p>
+,<p>whom</p>
+,<p>which</p>
+<p>I'm not sure how to behave in __ a situation.</p>,1,one,
+,<p>so</p>
+*,<p>such</p>
+,<p>like</p>
+,<p>as</p>
+<p>When a kid I used __ lots of chocolate.</p>,1,one,
+,<p>eat</p>
+*,<p>to eat</p>
+,<p>eating</p>
+,<p>to eating</p>
+<p>I don't know if __ is coming to lunch today.</p>,1,one,
+,<p>none</p>
+,<p>anything</p>
+,<p>everything</p>
+*,<p>someone</p>
+<p>Is __ all?</p>,1,one,
+,<p>what</p>
+,<p>those</p>
+*,<p>that</p>
+,<p>these</p>
+"<p>Call __ the ambulance, it's urgent!</p>",1,one,
+,<p>on</p>
+,<p>off</p>
+*,<p>-</p>
+,<p>in</p>
+<p>While in Spain we visited __ Prado Art Museum.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+*,<p>the</p>
+<p>Who __ you all this nonsense?</p>,1,one,
+,<p>says</p>
+,<p>tell</p>
+*,<p>told</p>
+,<p>spoke</p>
+<p>We made a short trip to __ Netherlands.</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+<p>Are you __ cross with me?</p>,1,one,
+,<p>yet</p>
+*,<p>still</p>
+,<p>already</p>
+,<p>while</p>
+<p>They wondered __ to do next.</p>,1,one,
+,<p>that</p>
+*,<p>what</p>
+,<p>whom</p>
+,<p>which</p>
+<p>What was __ moment in your life?</p>,1,one,
+,<p>happy</p>
+,<p>the happy</p>
+,<p>happier</p>
+*,<p>the happiest</p>
+<p>I can work __ the day-time but not at night.</p>,1,one,
+,<p>at</p>
+,<p>on</p>
+*,<p>in</p>
+,<p>into</p>
+<p>He agreed to my suggestions __.</p>,1,one,
+,<p>willing</p>
+*,<p>willingly</p>
+,<p>ready</p>
+,<p>happy</p>
+"<p>You never had to take part in the war, __ you?</p>",1,one,
+,<p>didn't</p>
+*,<p>did</p>
+,<p>had</p>
+,<p>hadn't</p>

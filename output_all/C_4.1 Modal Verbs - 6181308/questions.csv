@@ -1,0 +1,31 @@
+HTML
+<p>She looks pretty sick - I think she ___ go to a doctor.</p>,1,one,
+*,<p>should</p>
+,<p>can</p>
+<p>You ___ smoke so much. It's bad for your health.</p>,1,one,
+,<p>can't</p>
+*,<p>shouldn't</p>
+<p>You've been driving all day - You ___ be exhausted!</p>,1,one,
+,<p>should</p>
+*,<p>must</p>
+<p>Hey I'm lost.  ___ you help me?</p>,1,one,
+*,<p>can</p>
+,<p>should</p>
+<p>You have such a beautiful voice - You __ sing for us!</p>,1,one,
+*,<p>should</p>
+,<p>can</p>
+"<p>I know he speaks five languages, but ___ he speak Arabic?</p>",1,one,
+,<p>should</p>
+*,<p>can</p>
+<p>That looks very expensive. It ___ have cost a fortune!</p>,1,one,
+,<p>should</p>
+*,<p>must</p>
+<p>I ___ believe that you failed your test!</p>,1,one,
+*,<p>can't</p>
+,<p>shouldn't</p>
+<p>I'm on my way. I ___ be there in about 10 minutes.</p>,1,one,
+*,<p>should</p>
+,<p>can</p>
+<p>I'm sorry - I ___ afford that.</p>,1,one,
+*,<p>can't</p>
+,<p>shouldn't</p>

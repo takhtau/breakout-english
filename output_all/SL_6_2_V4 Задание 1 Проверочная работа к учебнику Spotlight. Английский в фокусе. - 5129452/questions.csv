@@ -1,0 +1,57 @@
+HTML
+<p>He _____ goes boating on Saturdays.</p>,1,one,
+*,<p>always</p>
+,<p>at the moment</p>
+,<p>now</p>
+<p>How often _____ boating?</p>,1,one,
+,<p>are you going</p>
+*,<p>do you go</p>
+,<p>you go</p>
+<p>Don't call her now. She's _____ the plants.</p>,1,one,
+,<p>water</p>
+,<p>waters</p>
+*,<p>watering</p>
+<p>She _____ the plants regularly.</p>,1,one,
+,<p>water</p>
+*,<p>waters</p>
+,<p>watering</p>
+<p>It's raining. She _____ watering the plants.</p>,1,one,
+*,<p>isn't</p>
+,<p>don't</p>
+,<p>doesn't</p>
+<p>_____ are they? - They're sandwiches.</p>,1,one,
+,<p>Who</p>
+,<p>Whose</p>
+*,<p>What</p>
+<p>_____ is that boy? - He's John.</p>,1,one,
+*,<p>Who</p>
+,<p>Whose</p>
+,<p>What</p>
+<p>_____ car is it? - It's John's.</p>,1,one,
+,<p>Who</p>
+*,<p>Whose</p>
+,<p>What</p>
+<p>_____ two cars behind the supermarket.</p>,1,one,
+,<p>There's</p>
+,<p>It's</p>
+*,<p>There are</p>
+<p>_____ cars are there behind the supermarket?</p>,1,one,
+*,<p>How many</p>
+,<p>How much</p>
+,<p>How</p>
+<p>_____ is that toy car? - 300 roubles.</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>Look at _____ mice!</p>,1,one,
+,<p>this</p>
+*,<p>these</p>
+,<p>that</p>
+<p>Look at the _____ tails!</p>,1,one,
+,<p>tiger</p>
+,<p>tiger's</p>
+*,<p>tigers'</p>
+"<p>This tiger's hungry, _____ ?</p>",1,one,
+,<p>is it</p>
+*,<p>isn't it</p>
+,<p>isn't this</p>

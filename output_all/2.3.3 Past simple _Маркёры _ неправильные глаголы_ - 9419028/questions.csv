@@ -1,0 +1,49 @@
+HTML
+<p>I (to wear) it yesterday.</p>,1,one,
+*,<p>wore</p>
+,<p>weared</p>
+,<p>wored</p>
+<p>Yesterday he (to eat) breakfast.</p>,1,one,
+,<p>eated</p>
+*,<p>ate</p>
+,<p>eatted</p>
+<p>My friend (to know) Spanish ten years ago.</p>,1,one,
+,<p>knowed</p>
+,<p>knows</p>
+*,<p>knew</p>
+<p>Who (to ring) you up an hour ago?</p>,1,one,
+*,<p>rang</p>
+,<p>ringed</p>
+,<p>ringged</p>
+<p>It (to take) you long to find his house yesterday.</p>,1,one,
+,<p>taked</p>
+*,<p>took</p>
+,<p>tooked</p>
+<p>One of her brothers (to make) a tour of Europe last summer.</p>,1,one,
+,<p>maked</p>
+,<p>maded</p>
+*,<p>made</p>
+<p>She (to become) Queen of England almost 70 years ago.</p>,1,one,
+*,<p>became</p>
+,<p>becomes</p>
+,<p>becomed</p>
+<p>Steven’s friends (to give) him wonderful presents last night.</p>,1,one,
+,<p>gived</p>
+*,<p>gave</p>
+,<p>give</p>
+<p>He (to leave) home two hours ago.</p>,1,one,
+,<p>leaved</p>
+,<p>lefted</p>
+*,<p>left</p>
+<p>I (to buy) a book last week.</p>,1,one,
+*,<p>bought</p>
+,<p>buyed</p>
+,<p>boughted</p>
+<p>I (to think) about him yesterday.</p>,1,one,
+,<p>thinked</p>
+*,<p>thought</p>
+,<p>thoughted</p>
+<p>He (to sleep) three hours ago.</p>,1,one,
+,<p>sleeps</p>
+,<p>sleeped</p>
+*,<p>slept</p>

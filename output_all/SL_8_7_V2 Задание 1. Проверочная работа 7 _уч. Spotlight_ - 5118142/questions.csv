@@ -1,0 +1,35 @@
+HTML
+<p>The plan is____________great. (SIMPLE) </p>,1,,
+*,simply
+<p>Try to give us a_____________explanation. (SIMPLE)</p>,1,,
+*,simple
+<p>We must take a decision as____________as possible. (QUICK) </p>,1,,
+*,quick
+<p>Can he run__________? (QUICK)</p>,1,,
+*,quickly
+<p>He had to be__________ . (QUICK)</p>,1,,
+*,quick
+<p>Why are you speaking so__________? (QUICK)</p>,1,,
+*,quickly
+<p>Try to be_________ . (POLITE) </p>,1,,
+*,polite
+<p>Try to say that___________ . (POLITE) </p>,1,,
+*,politely
+<p>Try to say that in a____________way. (POLITE)</p>,1,,
+*,polite
+<p>Your face is dirty. You must wash____________ . (YOU)</p>,1,,
+*,yourself
+"<p>Your face is dirty, you must wash____________ . (IT)</p>",1,,
+*,it
+"<p>I'll wash my bike, and you'll wash__________ . (YOU)</p>",1,,
+*,yours
+<p>We don't need___________scissors. (THAT)</p>,1,,
+*,those
+<p>Do you prefer the_________song or the_________one? (ONE/TWO)</p>,1,,
+*,first/second
+<p>These__________are wonderful. (LILY)</p>,1,,
+*,lilies
+<p>Those___________are brave. (FIREMAN) </p>,1,,
+*,firemen
+<p>The weather has changed. It is much_________and__________now. (WARM/SUNNY) </p>,1,,
+*,warmer/sunnier

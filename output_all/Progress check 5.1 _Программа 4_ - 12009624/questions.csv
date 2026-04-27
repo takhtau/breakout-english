@@ -1,0 +1,46 @@
+HTML
+<p>Try this jacket on and see if it’s _____________for you.</p>,1,one,
+,<p>too big</p>
+*,<p>big enough</p>
+<p>There weren’t ___________ for everybody to have coffee at the same time.</p>,1,one,
+*,<p> enough cups</p>
+,<p>too much cups</p>
+<p>Some of us had to sit on the floor because there weren’t____________. </p>,1,one,
+*,<p>enough chairs</p>
+,<p>too chairs</p>
+"<p>If he (not to come) on time, we (to wait) for him.</p>",1,one,
+*,<p>doesn't come/will wait</p>
+,<p>don't come/will wait</p>
+,<p>won't come/wait</p>
+"<p>If no one (to come) to help, we (to do) the work ourselves.</p>",1,one,
+,<p>will come/do</p>
+*,<p>comes/will do</p>
+,<p>come/will do</p>
+"<p>If you (to put on) your glasses, you (to see) better.</p>",1,one,
+,<p>will put on/see</p>
+,<p>puts one/see</p>
+*,<p>put on/will see</p>
+<p>What ... we ... (to do) if they (to be) late?</p>,1,one,
+*,<p>will we do/are</p>
+,<p>do we do/will be</p>
+,<p>will we do/will be</p>
+<p>... you ... (to be) very angry if we (not to come)?</p>,1,one,
+,<p>Will you be/won't come</p>
+*,<p>Will you be/don't come</p>
+,<p>Do you be/don't come</p>
+<p>How you (to spend) one million dollars if you (to have) it?</p>,1,one,
+,<p>spent/had</p>
+*,<p>would spend/had</p>
+,<p>would spend/have</p>
+"<p>If I (to have) more time, I (to read) more</p>",1,one,
+*,<p>had/would read</p>
+,<p>have/read</p>
+,<p>had/read</p>
+"<p>If they (not to sleep) so much, they (to be able) to do more things</p>",1,one,
+*,<p>didn't sleep/wouldn't be able</p>
+,<p>don't sleep/don't be able </p>
+,<p>didn't sleep/didn't be able</p>
+<p>You (to come) if she (to invite) you?</p>,1,one,
+,<p>Will come/invite</p>
+,<p>Do come/invite</p>
+*,<p>Would come/invited</p>

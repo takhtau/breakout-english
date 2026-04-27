@@ -1,0 +1,57 @@
+HTML
+<p>I haven't listened to their new CD____________. Is it any good? </p>,1,one,
+,<p>already</p>
+,<p>ever </p>
+,<p>for</p>
+,<p>just </p>
+,<p>never </p>
+,<p>since </p>
+*,<p>yet </p>
+<p>We've been waiting for you___________over an hour. Where have you been? </p>,1,one,
+,<p>already</p>
+,<p>ever </p>
+*,<p>for</p>
+,<p>just </p>
+,<p>never </p>
+,<p>since </p>
+,<p>yet </p>
+<p>Have you___________been to the UK before? </p>,1,one,
+,<p>already</p>
+*,<p>ever </p>
+,<p>for</p>
+,<p>just </p>
+,<p>never </p>
+,<p>since </p>
+,<p>yet </p>
+"<p>I'm afraid we've__________made plans for this weekend, so we won't be free. </p>",1,one,
+*,<p>already</p>
+,<p>ever </p>
+,<p>for</p>
+,<p>just </p>
+,<p>never </p>
+,<p>since </p>
+,<p>yet </p>
+<p>Pedro has been having English lessons____________he was five years old. </p>,1,one,
+,<p>already</p>
+,<p>ever </p>
+,<p>for</p>
+,<p>just </p>
+,<p>never </p>
+*,<p>since </p>
+,<p>yet </p>
+<p>It's strange that you mention the film Crash. I've_________been reading about in the paper.  </p>,1,one,
+,<p>already</p>
+,<p>ever </p>
+,<p>for</p>
+*,<p>just </p>
+,<p>never </p>
+,<p>since </p>
+,<p>yet </p>
+"<p>I've___________heard of a ""sudoku"". What is it? </p>",1,one,
+,<p>already</p>
+,<p>ever </p>
+,<p>for</p>
+,<p>just </p>
+*,<p>never </p>
+,<p>since </p>
+,<p>yet </p>

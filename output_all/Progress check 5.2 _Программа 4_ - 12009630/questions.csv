@@ -1,0 +1,44 @@
+HTML
+<p>Let’s go. We’ve waited __________. </p>,1,one,
+*,<p>long enough</p>
+,<p>too long</p>
+<p>You never stop working. You work ________. </p>,1,one,
+,<p>hard enough</p>
+*,<p>too hard</p>
+<p>There’s _______ furniture in this room. </p>,1,one,
+*,<p>too much</p>
+,<p>enough</p>
+<p>This shirt is _________for me. I need a smaller size. </p>,1,one,
+,<p>big enough</p>
+*,<p>too big </p>
+<p>You are speaking ________ for me. </p>,1,one,
+*,<p>too quickly</p>
+,<p>quickly enough</p>
+<p>... he ... (to be) very displeased if I (not to ring) him up?</p>,1,one,
+,<p>Will he be/won't ring</p>
+,<p>Does he be/don't ring</p>
+*,<p>Will he be/don't ring</p>
+"<p>If you (to heat) snow, it (to melt) easily.</p>",1,one,
+*,<p>heat/melts</p>
+,<p>heat/melt</p>
+,<p>will heat/melts</p>
+<p>Anna (to go) to bed early if she (to work) the following day. </p>,1,one,
+*,<p>goes/will work</p>
+,<p>goes/works</p>
+,<p>will go/will work</p>
+<p>Any thing (to fall) if you (not to hold) it firmly in your hand.</p>,1,one,
+,<p>falls/won't hold</p>
+,<p>fall/don't hold</p>
+*,<p>falls/don't hold</p>
+<p>You (to come) if she (to invite) you?</p>,1,one,
+,<p>Will come/invite</p>
+,<p>Do come/invite</p>
+*,<p>Would come/invited</p>
+<p>What you (to do) if she (to tell) you the truth?</p>,1,one,
+*,<p>Would do/told</p>
+,<p>Will do/will tell</p>
+,<p>Do yoy do/tell</p>
+<p>Women (not to like) him so much if he (not to be) so attractive</p>,1,one,
+*,<p>would not like/was not </p>
+,<p>don't like/was not</p>
+,<p>didn't like/was not</p>

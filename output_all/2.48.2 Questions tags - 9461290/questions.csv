@@ -1,0 +1,49 @@
+HTML
+"<p>The waiters were not polite, ……….?</p>",1,one,
+,<p>are they</p>
+,<p>weren't they</p>
+*,<p>were they </p>
+"<p>You prefer seafood, ……….?</p>",1,one,
+*,<p>don’t you </p>
+,<p>do you </p>
+,<p>aren't you</p>
+"<p>The students don’t speak French, ……….?</p>",1,one,
+,<p>are they </p>
+*,<p>do they </p>
+,<p>don't they</p>
+"<p>She can’t play the violin, ……….?</p>",1,one,
+*,<p>can she </p>
+,<p>can't she</p>
+,<p>is she</p>
+"<p>They can see the mountains from the window, ……….?</p>",1,one,
+,<p>aren't they</p>
+*,<p>can’t they </p>
+,<p>can they</p>
+"<p>Your boyfriend doesn’t earn much, ……….?</p>",1,one,
+,<p>is he</p>
+,<p>doesn't he</p>
+*,<p>does he </p>
+"<p>We must talk to our neighbors, ……….?</p>",1,one,
+*,<p>mustn’t we </p>
+,<p>must we</p>
+,<p>are we</p>
+"<p>The train must not arrive late, ……….?</p>",1,one,
+,<p>is it </p>
+,<p>mustn't it </p>
+*,<p>must it </p>
+"<p>You are going to Madrid next Friday, ……….? </p>",1,one,
+,<p>do you </p>
+*,<p>aren’t  you</p>
+,<p>are you</p>
+"<p>Madrid is in Italy, ……….? </p>",1,one,
+,<p>is it </p>
+*,<p>isn’t  it</p>
+,<p>does it </p>
+"<p>Sorry. You have been to Spain before, ……….? </p>",1,one,
+*,<p>haven’t  you</p>
+,<p>have you</p>
+,<p>aren't you </p>
+"<p>And you can’t speak Spanish, ……….? </p>",1,one,
+,<p>are you </p>
+,<p>can't you </p>
+*,<p>can you</p>

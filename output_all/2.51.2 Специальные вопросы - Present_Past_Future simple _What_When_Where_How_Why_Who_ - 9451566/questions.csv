@@ -1,0 +1,49 @@
+HTML
+<p>... will you do on the weekends?</p>,1,one,
+*,<p>What</p>
+,<p>Why</p>
+,<p>Who</p>
+<p>... time does the party start?</p>,1,one,
+,<p>When</p>
+*,<p>What</p>
+,<p>How</p>
+<p>... will you know the result of the exam? </p>,1,one,
+,<p>Who</p>
+,<p>What</p>
+*,<p>When</p>
+<p>... will the next bus arrive?</p>,1,one,
+*,<p>When</p>
+,<p>Who</p>
+,<p>What</p>
+<p>... is the Internet cafe?</p>,1,one,
+,<p>Who</p>
+*,<p>Where</p>
+,<p>How</p>
+<p>... can I get a taxi?</p>,1,one,
+,<p>What</p>
+,<p>Who</p>
+*,<p>Where</p>
+<p>... much does it cost to go out to eat? </p>,1,one,
+*,<p>How</p>
+,<p>What</p>
+,<p>Why</p>
+<p>... big is your room? </p>,1,one,
+,<p>Where</p>
+*,<p>How</p>
+,<p>What</p>
+<p>... did you go to Mumbai?</p>,1,one,
+,<p>What</p>
+,<p>Who</p>
+*,<p>Why</p>
+<p>... did she want your book?</p>,1,one,
+*,<p>Why</p>
+,<p>How</p>
+,<p>What</p>
+<p>... is your best friend?</p>,1,one,
+,<p>When</p>
+*,<p>Who</p>
+,<p>What</p>
+<p>... is on the phone?</p>,1,one,
+,<p>Where</p>
+,<p>Why</p>
+*,<p>Who</p>

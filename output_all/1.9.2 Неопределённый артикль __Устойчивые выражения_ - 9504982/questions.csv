@@ -1,0 +1,41 @@
+HTML
+<p>There is ___  car.</p>,1,one,
+*,<p>a</p>
+,<p>the</p>
+,<p>-</p>
+<p>We have ___ big dog.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>an</p>
+<p>My friend has ___  good computer.</p>,1,one,
+,<p>an</p>
+,<p>-</p>
+*,<p>a</p>
+<p>He is ___ student.</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>the</p>
+<p>There is ___ big piano in the hall.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>-</p>
+<p>This is ___ tree.</p>,1,one,
+,<p>the</p>
+,<p>an</p>
+*,<p>a</p>
+<p>I have got __ dog.</p>,1,one,
+*,<p>a</p>
+,<p>-</p>
+,<p>the</p>
+<p>What ___ beautiful day!</p>,1,one,
+,<p>the</p>
+,<p>-</p>
+*,<p>a</p>
+<p>There is ___ apple on the table.</p>,1,one,
+*,<p>an</p>
+,<p>the</p>
+,<p>a</p>
+<p>This is __ old road.</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>an</p>

@@ -1,0 +1,49 @@
+HTML
+<p>I (to do) my homework the whole evening yesterday.</p>,1,one,
+*,<p>was doing</p>
+,<p>did</p>
+,<p>were doing</p>
+<p>I (to do) my homework when mother came home.</p>,1,one,
+,<p>did</p>
+*,<p>was doing</p>
+,<p>were doing</p>
+<p>I (not to play) the piano at four o’clock yesterday.</p>,1,one,
+,<p>didn't play</p>
+,<p>weren't playing</p>
+*,<p>wasn't playing</p>
+<p>He (not to sleep) when father came home.</p>,1,one,
+*,<p>wasn't sleeping</p>
+,<p>didn't sleep</p>
+,<p>weren't sleeping</p>
+<p>They (to talk) and (to laugh) two minutes ago.</p>,1,one,
+,<p>were talking/laughing</p>
+*,<p>talked/laughed</p>
+,<p>was talking/laughing</p>
+<p>Last week I (to find) a little fox cub.</p>,1,one,
+,<p>were finding</p>
+,<p>was finding</p>
+*,<p>found</p>
+<p>It (to injure) its leg yesterday.</p>,1,one,
+*,<p>injured</p>
+,<p>was injuring</p>
+,<p>were injuring</p>
+<p>I (to bring) it home last night.</p>,1,one,
+,<p>was bringing</p>
+*,<p>brought</p>
+,<p>were bringing</p>
+<p>It (to leave) my house last month.</p>,1,one,
+,<p>was leaving</p>
+,<p>were leaving</p>
+*,<p>left</p>
+<p>I (to play) computer games yesterday.</p>,1,one,
+*,<p>played</p>
+,<p>was playing</p>
+,<p>were playing</p>
+<p>I (to play) computer games at five o’clock yesterday.</p>,1,one,
+,<p>were playing </p>
+*,<p>was playing</p>
+,<p>played</p>
+<p>My brother (not to play) tennis yesterday.</p>,1,one,
+,<p>wasn't playing</p>
+,<p>weren't playing</p>
+*,<p>didn't play</p>

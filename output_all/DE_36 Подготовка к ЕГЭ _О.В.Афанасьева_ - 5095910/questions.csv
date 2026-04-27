@@ -1,0 +1,101 @@
+HTML
+<p>There isn't __ sense in what you suggest.</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+,<p>few</p>
+,<p>a few</p>
+<p>Can you explain why you __ this mistake again?</p>,1,one,
+,<p>do</p>
+,<p>has</p>
+,<p>make</p>
+*,<p>have made</p>
+"<p>The forecast promises such __ good weather, but I don't believe it.</p>",1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>-</p>
+,<p>the</p>
+<p>She thinks he's __ man in the world.</p>,1,one,
+,<p>a smart</p>
+,<p>a smarter</p>
+,<p>smartest</p>
+*,<p>the smartest</p>
+<p>Nobody knows when it last __ in Sri-Lanka.</p>,1,one,
+,<p>has snowed</p>
+*,<p>snowed</p>
+,<p>is snowing</p>
+,<p>will snow</p>
+<p>Give him a good mark to __ his self-respect.</p>,1,one,
+*,<p>raise</p>
+,<p>rise</p>
+,<p>get up</p>
+,<p>get down</p>
+<p>You must have as __ sugar as possible. It's bad for you.</p>,1,one,
+,<p>few</p>
+,<p>a little</p>
+*,<p>little</p>
+,<p>a few</p>
+<p>Would you like __ sweet?</p>,1,one,
+,<p>other</p>
+*,<p>another</p>
+,<p>others</p>
+,<p>the others</p>
+<p>Where's __ bag? It's gone.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+*,<p>the</p>
+<p>She __ in the sun too long and got burnt.</p>,1,one,
+,<p>has laid</p>
+,<p>has been lying</p>
+,<p>is lying</p>
+*,<p>lay</p>
+<p>Look at __ ear-rings! Do you like them?</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+*,<p>the</p>
+<p>Who can tell me where __?</p>,1,one,
+,<p>is my key</p>
+*,<p>my key is</p>
+,<p>was my key</p>
+,<p>my key had been</p>
+<p>There is no place like __.</p>,1,one,
+,<p>house</p>
+,<p>apartment</p>
+*,<p>home</p>
+,<p>accommodation</p>
+"<p>The information is top secret, so naturally, everybody is interested in __.</p>",1,one,
+,<p>them</p>
+,<p>they</p>
+*,<p>it</p>
+,<p>their</p>
+<p>Save your money but don't put __ in the bank.</p>,1,one,
+,<p>them</p>
+*,<p>it</p>
+,<p>they</p>
+,<p>their</p>
+<p>One boy hit another __ a ball.</p>,1,one,
+*,<p>with</p>
+,<p>by</p>
+,<p>through</p>
+,<p>for</p>
+<p>Everyone has to answer for all this __ ?</p>,1,one,
+,<p>hasn't he</p>
+,<p>doesn't she</p>
+,<p>does he</p>
+*,<p>don't they</p>
+<p>They looked __ each other in surprise.</p>,1,one,
+,<p>with</p>
+,<p>after</p>
+,<p>for</p>
+*,<p>at</p>
+"<p>I cannot excuse you, unless you __ me what the programm is.</p>",1,one,
+,<p>say</p>
+,<p>speak</p>
+,<p>talk</p>
+*,<p>tell</p>
+<p>You just __ what you have done!</p>,1,one,
+,<p>see at</p>
+*,<p>look</p>
+,<p>watch</p>
+,<p>notice</p>

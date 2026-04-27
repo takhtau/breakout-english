@@ -1,0 +1,57 @@
+HTML
+"<p>My sister is a teacher, ___ is a teacher</p>",1,one,
+*,<p>She</p>
+,<p>He</p>
+,<p>I</p>
+"<p>Bob is my friend, ___ is a pilot</p>",1,one,
+,<p>She</p>
+*,<p>He</p>
+,<p>I</p>
+"<p>My father is a driver, ___ is a driver</p>",1,one,
+,<p>She</p>
+*,<p>He</p>
+,<p>I</p>
+"<p>My sister and I from America, ___ are from America</p>",1,one,
+,<p>She</p>
+*,<p>We</p>
+,<p>He</p>
+"<p>The pupil is from Africa, ___ is from Africa</p>",1,one,
+*,<p>She</p>
+,<p>We</p>
+,<p>I</p>
+"<p>Ted and Mike are fine, ___ are fine</p>",1,one,
+*,<p>They</p>
+,<p>We</p>
+,<p>You</p>
+"<p>My grandfather and grandmother are from Moscow, ___ are from Moscow</p>",1,one,
+*,<p>They</p>
+,<p>We</p>
+,<p>You</p>
+"<p>My aunts are workers, ___ are workers</p>",1,one,
+,<p>He</p>
+,<p>She</p>
+*,<p>You</p>
+"<p>Your mother is not an engineer, ___ is not an engineer</p>",1,one,
+,<p>He</p>
+*,<p>She</p>
+,<p>I</p>
+"<p>My grandfather is fine, ___ is fine</p>",1,one,
+*,<p>He</p>
+,<p>She</p>
+,<p>I</p>
+"<p>My sisters and I are pupils, ___ are pupils</p>",1,one,
+,<p>He</p>
+,<p>They</p>
+*,<p>We</p>
+"<p>My brother is a teacher, ___ is fine</p>",1,one,
+*,<p>He</p>
+,<p>They</p>
+,<p>You</p>
+"<p>Her son is a fine, ___ is fine</p>",1,one,
+*,<p>He</p>
+,<p>They</p>
+,<p>I</p>
+"<p>His uncles and father are not engineers, ___ are doctors</p>",1,one,
+,<p>You</p>
+*,<p>They</p>
+,<p>She</p>

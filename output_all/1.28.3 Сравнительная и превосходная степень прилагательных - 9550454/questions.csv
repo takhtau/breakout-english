@@ -1,0 +1,49 @@
+HTML
+<p>Can we walk a bit _____? </p>,1,one,
+*,<p>faster</p>
+,<p>fastest </p>
+,<p>more fast</p>
+<p>We were _______ at work today than usual </p>,1,one,
+,<p>busiest </p>
+*,<p>busier</p>
+,<p>more busy </p>
+<p>Books are________ than TV. </p>,1,one,
+*,<p>more interesting</p>
+,<p>most interesting</p>
+,<p>inetresting </p>
+<p>Her dress is_________than yours.  </p>,1,one,
+,<p>more good</p>
+*,<p>better</p>
+,<p>best</p>
+<p>February is the ________ month of the year.</p>,1,one,
+*,<p>shortest</p>
+,<p>shorter </p>
+,<p>most short </p>
+<p>Russia is the _______ of all countries.</p>,1,one,
+,<p>larger</p>
+,<p>most large </p>
+*,<p>largest</p>
+<p>What is the _______ river in the world?</p>,1,one,
+*,<p>longest</p>
+,<p>longer</p>
+,<p>most long</p>
+<p>Nick is the________boy that I know </p>,1,one,
+,<p>most happy</p>
+*,<p>happiest </p>
+,<p>happier</p>
+<p>Russian is the_______ subject at school.</p>,1,one,
+*,<p>hardest</p>
+,<p>harder</p>
+,<p>most hard</p>
+<p>This is the__________dress in the world! </p>,1,one,
+,<p>more beautiful </p>
+*,<p>most beautiful</p>
+,<p>beautiful</p>
+<p>Bill is the_________dog. </p>,1,one,
+,<p>angrier </p>
+,<p>most angry </p>
+*,<p>angriest </p>
+<p>Sun is the_________star. </p>,1,one,
+,<p>brighter </p>
+,<p>most bright </p>
+*,<p>brightest </p>

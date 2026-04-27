@@ -1,0 +1,49 @@
+HTML
+<p>The students ... in the Russian Museum now.</p>,1,one,
+*,<p>are</p>
+,<p>were</p>
+,<p>was</p>
+<p>My father ... a teacher.</p>,1,one,
+,<p>were</p>
+*,<p>is</p>
+,<p>are</p>
+<p>She ... not ill now.</p>,1,one,
+,<p>will be</p>
+,<p>were</p>
+*,<p>is</p>
+<p>Where ... your mother now?</p>,1,one,
+*,<p>is</p>
+,<p>were</p>
+,<p>am</p>
+<p>My sister ... ill last week.</p>,1,one,
+,<p>will be</p>
+,<p>are</p>
+*,<p>was</p>
+<p>Yesterday we ... at the theatre.</p>,1,one,
+*,<p>were</p>
+,<p>are</p>
+,<p>is</p>
+<p>It ... in the kitchen last week.</p>,1,one,
+,<p>were</p>
+*,<p>was</p>
+,<p>will be</p>
+<p>Where ... you yesterday?</p>,1,one,
+,<p>was</p>
+,<p>are</p>
+*,<p>were</p>
+<p>I ... a doctor when I grow up.</p>,1,one,
+,<p>am</p>
+*,<p>will be</p>
+,<p>were</p>
+<p>I ... at the cinema tomorrow.</p>,1,one,
+*,<p>will be</p>
+,<p>was</p>
+,<p>am</p>
+<p>Tomorrow he ... in London.</p>,1,one,
+,<p>was</p>
+*,<p>will be</p>
+,<p>is</p>
+<p>Next week he ... in New Orleans.</p>,1,one,
+,<p>were</p>
+,<p>are</p>
+*,<p>will be</p>

@@ -1,0 +1,49 @@
+HTML
+"<p>If my friend (to be) at home, he will tell us what to do.</p>",1,one,
+*,<p>is</p>
+,<p>were</p>
+,<p>would be</p>
+"<p>If it is not too cold, I (not to put) on my coat.</p>",1,one,
+,<p>didn't put</p>
+*,<p>won't put</p>
+,<p>woudn't put</p>
+"<p>If he (not to read) so much, he would not be so clever.</p>",1,one,
+,<p>don't read</p>
+,<p>won't read</p>
+*,<p>didn't read</p>
+"<p>If you (not to buy) coffee, we will drink tea.</p>",1,one,
+*,<p>don't buy</p>
+,<p>won't buy</p>
+,<p>wouldn't buy</p>
+"<p>If he is free tomorrow, he (to come) to our party.</p>",~1,one,
+,<p>come</p>
+*,<p>will come</p>
+,<p>would come</p>
+"<p>If my friend (to work) in my office, we would meet every day.</p>",1,one,
+,<p>will work</p>
+,<p>would work</p>
+*,<p>worked</p>
+"<p>If you spoke English every day, you (to improve) your language skills.</p>",1,one,
+*,<p>would improve</p>
+,<p>improved</p>
+,<p>will improve</p>
+"<p>If you get a “five”, your mother (to be) happy.</p>",1,one,
+,<p>are</p>
+*,<p>will be</p>
+,<p>would be</p>
+<p>I wish I (to know) Spanish.</p>,1,one,
+,<p>will know</p>
+,<p>would know</p>
+*,<p>knew</p>
+<p>I wish you (to read) more in future.</p>,1,one,
+*,<p>read</p>
+,<p>readed</p>
+,<p>will read</p>
+<p>I wish we (to meet) again next summer.</p>,1,one,
+,<p>meet</p>
+*,<p>met</p>
+,<p>would meet</p>
+<p>They wished they (not to see) this horrible scene again.</p>,1,one,
+,<p>don't see</p>
+,<p>won't see</p>
+*,<p>didn't see</p>

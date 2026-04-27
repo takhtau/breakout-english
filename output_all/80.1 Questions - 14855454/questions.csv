@@ -1,0 +1,49 @@
+HTML
+<p>----- car is parked outside? Is it Mark’s?</p>,1,one,
+,<p>Which</p>
+,<p>What</p>
+*,<p>Whose</p>
+<p>----- you see him yesterday or the day before?</p>,1,one,
+,<p>Were</p>
+*,<p>Did</p>
+,<p>Do</p>
+"<p>Let's go for a walk, ----- we?</p>",1,one,
+*,<p>Shall</p>
+,<p>Are</p>
+,<p>Do</p>
+"<p>I am late, ----- I?</p>",1,one,
+,<p>am</p>
+,<p>do</p>
+*,<p>aren't</p>
+"<p>You have a car, ----- you?</p>",1,one,
+,<p>haven't</p>
+,<p>aren't</p>
+*,<p>don't</p>
+<p>Who ----- ice cream?</p>,1,one,
+*,<p>wants</p>
+,<p>do want</p>
+,<p>is want</p>
+<p>Who ----- at the party?</p>,1,one,
+,<p>did you saw</p>
+*,<p>did you see</p>
+,<p>you saw</p>
+<p>----- the police?</p>,1,one,
+,<p>Who did you call</p>
+,<p>Who did call</p>
+*,<p>Who called</p>
+"<p>----- want chocolate, vanilla, or strawberry ice cream?</p>",1,one,
+*,<p>Do you</p>
+,<p>You do</p>
+,<p>Are you</p>
+<p>----- does the book cost?</p>,1,one,
+*,<p>How much</p>
+,<p>How many</p>
+,<p>What</p>
+<p>----- you seen my keys?</p>,1,one,
+,<p>Did</p>
+*,<p>Have</p>
+,<p>Are</p>
+"<p>You ----- mushrooms, do you?</p>",1,one,
+,<p>liked</p>
+*,<p>don't like</p>
+,<p>like</p>

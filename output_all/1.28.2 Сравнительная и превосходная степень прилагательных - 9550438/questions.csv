@@ -1,0 +1,49 @@
+HTML
+<p>My sister is _____ than me. </p>,1,one,
+,<p>oldest </p>
+*,<p>older</p>
+,<p>more old</p>
+<p>You look _______ today </p>,1,one,
+*,<p>happier</p>
+,<p>happiest </p>
+,<p>more happy </p>
+<p>I’d like to do something ________ .  </p>,1,one,
+,<p>most interesting</p>
+,<p>interesting</p>
+*,<p>more interesting</p>
+<p>The traffic is _______ than usual today.</p>,1,one,
+,<p>worst </p>
+*,<p>worse</p>
+,<p>more bad</p>
+<p>He is the _______ student.</p>,1,one,
+,<p>better</p>
+*,<p>best</p>
+,<p>most good</p>
+<p>He is  the _____ boy.</p>,1,one,
+*,<p>happiest</p>
+,<p>most happy </p>
+,<p>happier</p>
+<p>It is the ______ song.</p>,1,one,
+,<p>most bad</p>
+*,<p>worst</p>
+,<p>worse </p>
+<p>She knows the __________ story.</p>,1,one,
+*,<p>most interesting</p>
+,<p>more interesting </p>
+,<p>interesting </p>
+<p>It is the_______ way.</p>,1,one,
+,<p>longer</p>
+,<p>most long</p>
+*,<p> longest</p>
+<p>Burj Khalifa is the_______building in the world. </p>,1,one,
+*,<p>tallest </p>
+,<p>most tall </p>
+,<p>taller</p>
+<p>This is the _______ film.</p>,1,one,
+,<p>good</p>
+*,<p>best</p>
+,<p>better</p>
+<p>July is the ________ month of the year. </p>,1,one,
+*,<p>hottest</p>
+,<p>most hot </p>
+,<p>hotter</p>

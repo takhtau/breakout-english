@@ -1,0 +1,64 @@
+HTML
+<p>Yesterday I ... in Geneva.</p>,1,one,
+*,<p>was</p>
+,<p>will be</p>
+,<p>were</p>
+<p>Her children ... not at school yesterday.</p>,1,one,
+,<p>are</p>
+,<p>was</p>
+*,<p>were</p>
+<p>There ... an interesting exhibition there.</p>,1,one,
+*,<p>will be</p>
+,<p>are</p>
+,<p>were</p>
+<p>Mr Smith (to fix) his car yesterday morning.</p>,1,one,
+,<p>fix</p>
+,<p>fixing</p>
+*,<p>fixed </p>
+<p>His wife (to water) her lovely flowers yesterday.</p>,1,one,
+,<p>watering </p>
+*,<p>watered </p>
+,<p>waters </p>
+<p>They (to visit) their friends yesterday morning.</p>,1,one,
+*,<p>visited </p>
+,<p>visiting </p>
+,<p>visit </p>
+<p>I (not to go) to the cinema tomorrow.</p>,1,one,
+,<p>did not go </p>
+*,<p>will not go</p>
+,<p>go</p>
+<p>Our football team (to win) many games next year.</p>,1,one,
+,<p>win</p>
+*,<p>will win</p>
+,<p>won</p>
+<p>Who (to ring) you up an hour ago?</p>,1,one,
+*,<p>rang</p>
+,<p>ringed</p>
+,<p>ringged</p>
+<p>It (to take) you long to find his house yesterday.</p>,1,one,
+,<p>taked</p>
+*,<p>took</p>
+,<p>tooked</p>
+<p>One of her brothers (to make) a tour of Europe last summer.</p>,1,one,
+,<p>maked</p>
+,<p>maded</p>
+*,<p>made</p>
+<p>She (to become) Queen of England almost 70 years ago.</p>,1,one,
+*,<p>became</p>
+,<p>becomes</p>
+,<p>becomed</p>
+<p>Look! The baby (to sleep). </p>,1,one,
+*,<p>is sleeping </p>
+,<p>sleeps</p>
+,<p>slept </p>
+<p>The baby always (to sleep) after dinner.</p>,1,one,
+,<p>is sleeping </p>
+*,<p>sleeps</p>
+,<p>slept</p>
+<p>My grandmother (not to work). She is on pension.</p>,1,one,
+*,<p>doesn't work </p>
+,<p>isn't working </p>
+,<p>didn't work </p>
+<p>There ___ a lot of apples in the fridge.</p>,1,one,
+*,<p>are</p>
+,<p>is</p>

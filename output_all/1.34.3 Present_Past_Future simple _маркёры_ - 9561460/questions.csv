@@ -1,0 +1,49 @@
+HTML
+<p>I ______ last year.</p>,1,one,
+*,<p>swam </p>
+,<p>swim</p>
+,<p>will swim</p>
+<p>My niece and nephew _______ to the cinema last Monday</p>,1,one,
+*,<p>went</p>
+,<p>go</p>
+,<p>will go</p>
+<p>Her grandmother ________ TV yesterday evening </p>,1,one,
+*,<p>watched </p>
+,<p>watches </p>
+,<p>will watch </p>
+<p>She _______ a shower yesterday evening. </p>,1,one,
+*,<p>took</p>
+,<p>takes </p>
+,<p>will take </p>
+<p>She usually _______ a shower at half past nine. </p>,1,one,
+,<p>took</p>
+*,<p>takes </p>
+,<p>will take </p>
+<p>They always ______ to school at a quarter to nine. </p>,1,one,
+,<p>went</p>
+*,<p>go</p>
+,<p>will go</p>
+<p>We usually ________dinner at two o'clock. </p>,1,one,
+,<p>had</p>
+*,<p>have</p>
+,<p>will have</p>
+<p>My mother ____ to read books in the evening. </p>,1,one,
+,<p>liked</p>
+*,<p>likes </p>
+,<p>will like</p>
+<p>Our father ______ a present to his mother next Tuesday. </p>,1,one,
+,<p>sent </p>
+,<p>sends </p>
+*,<p>will send </p>
+<p>Her mother ______ a cake next Sunday. </p>,1,one,
+,<p>didn't make</p>
+,<p>doesn't make</p>
+*,<p>won't make</p>
+<p>I ________shopping next Thursday. </p>,1,one,
+,<p>went</p>
+,<p>go</p>
+*,<p>will go </p>
+<p>She ______ her mother about the house tomorrow morning. </p>,1,one,
+,<p>helped</p>
+,<p>helps</p>
+*,<p>will help</p>

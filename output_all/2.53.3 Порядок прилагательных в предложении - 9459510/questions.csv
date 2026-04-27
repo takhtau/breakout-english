@@ -1,0 +1,49 @@
+HTML
+<p>big eyes (blue)</p>,1,one,
+*,<p>big blue eyes</p>
+,<p>blue big eyes</p>
+,<p>the big blue eyes</p>
+<p>cold day (rainy)</p>,1,one,
+,<p>a rainy cold day</p>
+*,<p>a cold rainy day</p>
+,<p>the rainy cold day</p>
+<p>hot bath (nice)</p>,1,one,
+,<p>a hot nice bath</p>
+,<p>an nice hot bath</p>
+*,<p>a nice hot bath</p>
+<p>a gold watch (small/antique)</p>,1,one,
+*,<p>a small antique gold watch</p>
+,<p>an antique gold small watch</p>
+,<p>a gold small antique watch</p>
+<p>old mansion (stone/English)</p>,1,one,
+,<p>an English stone old mansion</p>
+*,<p>an old English stone mansion</p>
+,<p>a stone old English mansion</p>
+<p>beautiful wardrobe (polished)</p>,1,one,
+,<p>an beautiful polished wardrobe</p>
+,<p>a polished beautiful wardrobe</p>
+*,<p>a beautiful polished wardrobe</p>
+<p>black shoes (Italian)</p>,1,one,
+*,<p>black Italian shoes</p>
+,<p>Italian black shoes</p>
+,<p>the Italian black shoes</p>
+<p>old cottage (small)</p>,1,one,
+,<p>an old small cottage</p>
+,<p>a old small cottage</p>
+*,<p>a small old cottage</p>
+<p>small box (metal)</p>,1,one,
+*,<p>a small metal box </p>
+,<p>a metal small box</p>
+,<p>the metal small box</p>
+<p>fair hair (long)</p>,1,one,
+,<p>a fair long hair</p>
+*,<p>long fair hair</p>
+,<p>fair long hair</p>
+<p>old painting (interesting)</p>,1,one,
+,<p>a interesting old painting</p>
+,<p>an old interesting painting</p>
+*,<p>an interesting old painting</p>
+<p>round table (oak)</p>,1,one,
+*,<p>a round oak table</p>
+,<p>an oak round table</p>
+,<p>a oak round table</p>

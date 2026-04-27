@@ -1,0 +1,41 @@
+HTML
+<p>My best friend _____ me about his wedding.</p>,1,one,
+,<p>has been informing</p>
+,<p>was informed</p>
+*,<p>informed</p>
+<p>The exhibition _____ to the audience tomorrow morning.</p>,1,one,
+*,<p>will be opened</p>
+,<p>open</p>
+,<p>will open</p>
+<p>The Pyramids _____ long before the European civilization appeared.</p>,1,one,
+,<p>are constructed</p>
+,<p>have been constructed</p>
+*,<p>had been constructed</p>
+<p>Laura _____ to speak at the teacher's conference last week.</p>,1,one,
+,<p>asked</p>
+*,<p>was asked</p>
+,<p>is asked</p>
+<p>During World War II many cities _____ by the German army.</p>,1,one,
+*,<p>were occupied</p>
+,<p>occupied have</p>
+,<p>occupied</p>
+<p>His uncle _____ in the war.</p>,1,one,
+,<p>killed</p>
+*,<p>was killed</p>
+,<p>is killed</p>
+<p>The road _____ before the troops entered the city.</p>,1,one,
+*,<p>had been destroyed</p>
+,<p>destroyed</p>
+,<p>is destroyed</p>
+"<p>Go away from the firing range, you _____ .</p>",1,one,
+,<p>can kill</p>
+,<p>are killed</p>
+*,<p>can be killed</p>
+<p>These plants _____ three times a week.</p>,1,one,
+,<p>watered</p>
+*,<p>should be watered</p>
+,<p>should be water</p>
+<p>My little brother _____ to eat a lot of sweets.</p>,1,one,
+*,<p>is not allowed</p>
+,<p>will not allowed</p>
+,<p>must not allowed</p>

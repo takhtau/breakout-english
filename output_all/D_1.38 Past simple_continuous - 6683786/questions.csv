@@ -1,0 +1,37 @@
+HTML
+<p>Yesterday Cyril _____ his morning exercises.</p>,1,one,
+*,<p>did</p>
+,<p>does</p>
+,<p>done</p>
+<p>When ___he do  his first exercise?</p>,1,one,
+,<p>was</p>
+,<p>does</p>
+*,<p>did</p>
+"<p>When he did the exercises, he (3) _____ up his hands.</p>",1,one,
+*,<p>raised</p>
+,<p>raises</p>
+,<p>raise</p>
+"<p>While he  _____ that, he  _____ in....</p>",1,one,
+,<p>done/breathing</p>
+*,<p>was doing/ was breathing</p>
+,<p>does/breath</p>
+<p>Then he (6) _____ his hands.</p>,1,one,
+,<p>lower</p>
+*,<p>lowered</p>
+,<p>was lowering</p>
+"<p>When he (7) _____ that, ...</p>",1,one,
+,<p>done</p>
+*,<p>did</p>
+,<p>does</p>
+<p>... he (8) _____ out.</p>,1,one,
+,<p>breath</p>
+*,<p>was breathing</p>
+,<p>breathing</p>
+<p>He (9) _____ that exercise five or eight times.</p>,1,one,
+*,<p>repeated</p>
+,<p>repeat</p>
+,<p>was repeating</p>
+"<p>When he did his last exercise, he (10) _____ with his hands on his hips.</p>",1,one,
+,<p>jump</p>
+,<p>jumps</p>
+*,<p>jumped</p>

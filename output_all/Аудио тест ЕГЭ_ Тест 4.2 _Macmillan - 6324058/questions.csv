@@ -1,0 +1,29 @@
+HTML
+<p>A Gareth twice had problems sleeping during the night. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>B Gareth's dad is going to cut branches from the tree. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>C Gareth decides to miss football practice in order to get more sleep. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>D Margie had a cooke earlier in the day. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>E Neither Gareth nor Margie enjoy drinking coffee. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>F Margie's next lesson is in maths. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>G Gareth doesn't like the English lit teacher. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>

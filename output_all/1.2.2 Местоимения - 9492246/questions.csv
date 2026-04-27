@@ -1,0 +1,49 @@
+HTML
+<p>Она</p>,1,one,
+,<p>He</p>
+*,<p>She </p>
+,<p>It</p>
+<p>Lisa </p>,1,one,
+,<p>He</p>
+*,<p>She </p>
+,<p>It</p>
+<p>a Dad</p>,1,one,
+*,<p>He</p>
+,<p>She </p>
+,<p>It</p>
+<p>A pen</p>,1,one,
+,<p>He</p>
+,<p>She </p>
+*,<p>It</p>
+<p>a Mum</p>,1,one,
+,<p>He</p>
+*,<p>She </p>
+,<p>It</p>
+<p>a dog</p>,1,one,
+,<p>He</p>
+,<p>She </p>
+*,<p>It</p>
+<p>I and Mark</p>,1,one,
+,<p>You</p>
+*,<p>We</p>
+,<p>She </p>
+<p>Max and Misha </p>,1,one,
+*,<p>They</p>
+,<p>You</p>
+,<p>We</p>
+<p>I and Max </p>,1,one,
+,<p>I</p>
+,<p>You</p>
+*,<p>We</p>
+<p>I and John</p>,1,one,
+,<p>You</p>
+*,<p>We</p>
+,<p>He</p>
+<p>Я</p>,1,one,
+,<p>You</p>
+*,<p>I</p>
+,<p>We</p>
+<p>Ты</p>,1,one,
+*,<p>You</p>
+,<p>We</p>
+,<p>She </p>

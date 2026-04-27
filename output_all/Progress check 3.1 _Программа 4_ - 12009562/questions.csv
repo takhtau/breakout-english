@@ -1,0 +1,61 @@
+HTML
+<p>Susie (not to tell) the secret to anyone.</p>,1,one,
+*,<p>will not tell</p>
+,<p>will not be telling </p>
+,<p>doesn't tell</p>
+<p>We (to pass) an exam next week </p>,1,one,
+*,<p>will pass</p>
+,<p>will be passing </p>
+,<p>pass</p>
+<p>Tom (be) at school in 10 minutes</p>,1,one,
+,<p>will be being </p>
+*,<p>will be </p>
+,<p>be </p>
+<p>My father (to drive) a car tomorrow. </p>,1,one,
+,<p>will be driving </p>
+*,<p>will drive</p>
+,<p>drive</p>
+<p>They (to have) a meeting now.</p>,1,one,
+*,<p>are having</p>
+,<p>have</p>
+,<p>will have</p>
+<p>Look at the dog. It (to go) to bite you.</p>,1,one,
+*,<p>‘s going</p>
+,<p>will go</p>
+,<p>goes</p>
+<p>I (to go) to get some milk.</p>,1,one,
+,<p>is going</p>
+*,<p>am going</p>
+,<p>will go</p>
+<p>Don't talk to ...</p>,1,one,
+,<p>I</p>
+*,<p>me</p>
+,<p>mine</p>
+<p>He put his hand in ...</p>,1,one,
+,<p>me</p>
+,<p>I</p>
+*,<p>mine</p>
+<p>... put on a coat.</p>,1,one,
+*,<p>I</p>
+,<p>my</p>
+,<p>me</p>
+<p>The dress is ...</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>me</p>
+<p>Did you translate the text __________.</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>
+"<p>The knife was sharp, and she cut __________.</p>",1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>herself</p>
+<p>Can you do many things _________?</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>
+<p>He came into the room and introduced ___________</p>,1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>himself </p>

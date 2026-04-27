@@ -1,0 +1,41 @@
+HTML
+"<p>Here's a problem for you. Imagine you're in a prison cell with two doors. There's a duard at each door. You can ask one of the guards onr question, and then you can go through one door. ____________you choose the right door, you can go free. </p>",1,one,
+,<p>Unless </p>
+*,<p>If</p>
+,<p>Before </p>
+,<p>As soon </p>
+"<p>_____________, if you choose the wrong door, you have to stay in prison forever! </p>",1,one,
+,<p>In spite of </p>
+,<p>Despite </p>
+,<p>Although </p>
+*,<p>However </p>
+"<p>And it gets worse! ___________one of the guards always tells the truth, the other one always lies. And you don't know which one one tells the truth.</p>",1,one,
+,<p>However </p>
+*,<p>Although </p>
+,<p>Despite </p>
+,<p>In spite of </p>
+"<p>It's an impossible situation - isn't it? No, it's not. But________________you're extremely careful, you might choose the wrong door. </p>",1,one,
+*,<p>unless </p>
+,<p>when </p>
+,<p>if </p>
+,<p>as soon as </p>
+<p>______________you're absolutely sure it's the door to freedom. </p>,1,one,
+*,<p>until</p>
+,<p>if </p>
+,<p>when</p>
+,<p>while </p>
+<p>And you'll only know it's the right door____________you ask the right question. </p>,1,one,
+,<p>unless </p>
+,<p>as soon as </p>
+,<p>before </p>
+*,<p>when </p>
+"<p>________________or not knowing if the guard always tells the truth or always lies, you'll always get an answer that will help you.</p>",1,one,
+,<p>Although </p>
+,<p>However </p>
+*,<p>In spite </p>
+,<p>Despite </p>
+"<p>____________you get the answer, go through the other door. You'll be free! </p>",1,one,
+,<p>Before </p>
+,<p>Although </p>
+*,<p>As soon as </p>
+,<p>Unless </p>

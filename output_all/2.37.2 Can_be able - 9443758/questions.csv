@@ -1,0 +1,49 @@
+HTML
+<p>I ... see a bird in that tree.</p>,1,one,
+*,<p>can</p>
+,<p>am able to</p>
+,<p>able to</p>
+<p>I ... smell something burning.</p>,1,one,
+,<p>able to</p>
+*,<p>can</p>
+,<p>am able to</p>
+<p>I ... understand you right now.</p>,1,one,
+*,<p>am not able to</p>
+,<p>not able to</p>
+,<p>can't</p>
+"<p>When her arm is better, she will ... play piano again.</p>",1,one,
+*,<p>be able to</p>
+,<p>can</p>
+,<p>able to</p>
+"<p>I'm sorry, but i won't ... come to your birthday party next week.</p>",1,one,
+,<p>can</p>
+*,<p>be able to</p>
+,<p>able to</p>
+"<p>It is a fine day today, so we ... have a picnic.</p>",1,one,
+*,<p>are able to</p>
+,<p>able to</p>
+,<p>can</p>
+"<p>Of course, I ... translate this article.</p>",1,one,
+*,<p>can</p>
+,<p>am able</p>
+,<p>able to</p>
+<p>You ... go and tell her about it.</p>,1,one,
+*,<p>are able to</p>
+,<p>can</p>
+,<p>able to</p>
+<p>... you ... cook?</p>,1,one,
+,<p>Are/able to</p>
+,<p>Are/able</p>
+*,<p>Can/-</p>
+"<p>She is in a hurry, she ... wait for us.</p>",1,one,
+,<p>can't </p>
+*,<p>isn't able to</p>
+,<p>not able to</p>
+<p>I will ... speak French fluently. </p>,1,one,
+,<p>can</p>
+*,<p>be able to</p>
+,<p>able to</p>
+<p>I ... skate.</p>,1,one,
+,<p>am able</p>
+,<p>am able to</p>
+*,<p>can</p>

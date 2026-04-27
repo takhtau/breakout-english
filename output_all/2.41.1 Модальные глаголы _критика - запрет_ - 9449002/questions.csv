@@ -1,0 +1,49 @@
+HTML
+<p>You ... tell father what happened. </p>,1,one,
+*,<p>mustn't</p>
+,<p>shouldn't </p>
+,<p>might not</p>
+<p>You ... park here or you will get a fine. </p>,1,one,
+,<p>may not</p>
+*,<p>mustn't </p>
+,<p>shouldn't</p>
+<p>You ... call her. She is at work now.</p>,1,one,
+,<p>don't need to</p>
+,<p>may not</p>
+*,<p>can't </p>
+<p>You ... at least be polite to her.</p>,1,one,
+*,<p>could</p>
+,<p>mustn't</p>
+,<p>needn't</p>
+<p>He ... be more patient. </p>,1,one,
+,<p>mustn't</p>
+*,<p>should</p>
+,<p>can</p>
+<p>She ... stop wasting her parents' money. </p>,1,one,
+,<p>may</p>
+,<p>might</p>
+*,<p>ought to</p>
+<p>He ... have made more effort on winning the medal. </p>,1,one,
+*,<p>should</p>
+,<p>must</p>
+,<p>need</p>
+<p>You ... turn right. </p>,1,one,
+,<p>may not</p>
+*,<p>mustn't</p>
+,<p>might not</p>
+<p>You ... have given your telephone number to a stranger. </p>,1,one,
+,<p>might not</p>
+,<p>mustn't</p>
+*,<p>shouldn't</p>
+<p>You ... park your car there without permission.</p>,1,one,
+*,<p>mustn't</p>
+,<p>may not</p>
+,<p>needn't</p>
+<p>They ... make noises in the classroom. </p>,1,one,
+,<p>may not</p>
+*,<p>mustn't</p>
+,<p>needn't</p>
+<p>She ... have taken a gun with her. </p>,1,one,
+,<p>doesn't have to</p>
+,<p>needn't</p>
+*,<p>should</p>

@@ -1,0 +1,69 @@
+HTML
+<p>... eyes are blue.</p>,1,one,
+*,<p>my</p>
+,<p>mine</p>
+,<p>I</p>
+<p>Don't talk to ...</p>,1,one,
+,<p>I</p>
+*,<p>me</p>
+,<p>mine</p>
+<p>Did you translate the text __________.</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>
+"<p>The knife was sharp, and she cut __________.</p>",1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>herself</p>
+<p>Can you do many things _________?</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>
+<p>She (send) for yesterday.</p>,1,one,
+,<p>is sent </p>
+,<p>will be sent </p>
+*,<p>was sent</p>
+<p>In summer Nick (take) to the country.</p>,1,one,
+,<p>is taken</p>
+*,<p>will be taken</p>
+,<p>were taken</p>
+<p>This dull film much (talk) about.</p>,1,one,
+,<p>is talked</p>
+,<p>will be talked</p>
+*,<p>was talked</p>
+<p>We (show) a lot of beautiful paintings at the museum.</p>,1,one,
+,<p>are shown</p>
+,<p>will be shown</p>
+*,<p>were shown</p>
+<p>We (trouble) at the moment.</p>,1,one,
+,<p>is troubled</p>
+*,<p>are being troubled</p>
+,<p>are troubled</p>
+<p>Now you (chose) to do this work. </p>,1,one,
+,<p>are chosen</p>
+,<p>am being chosen</p>
+*,<p>are being chosen</p>
+<p>The cake (not to bake) at this moment.</p>,1,one,
+*,<p>is not being baked</p>
+,<p>is not baked</p>
+,<p>are not being baked</p>
+<p>At the moment the dinner (prepare) for you. </p>,1,one,
+*,<p>is being prepared</p>
+,<p>is prepared</p>
+,<p>am being prepared</p>
+<p>Look! Hippos (feed) over there.</p>,1,one,
+,<p>is being fed</p>
+*,<p>are being fed</p>
+,<p>are fed</p>
+<p>This building (reconstruct) now. </p>,1,one,
+,<p>are being reconstructed</p>
+,<p>is reconstructed</p>
+*,<p>is being reconstructed</p>
+<p>The money (spend). </p>,1,one,
+*,<p>has been spent</p>
+,<p>have been spent</p>
+,<p>was spent</p>
+<p>The room (not to book). </p>,1,one,
+,<p>have not been booked</p>
+*,<p>has not been booked</p>
+,<p>wasn't booked</p>

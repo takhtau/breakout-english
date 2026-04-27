@@ -1,0 +1,37 @@
+HTML
+<p>I always ___ my best.</p>,1,one,
+*,<p>try</p>
+,<p>am trying</p>
+"<p>I'm sorry, ___ to me?</p>",1,one,
+*,<p>are you talking</p>
+,<p>did you talk</p>
+<p>I ___ to the mountains this weekend.</p>,1,one,
+,<p>go</p>
+*,<p>am going</p>
+<p>What time ___ lunch?</p>,1,one,
+*,<p>do you normally eat</p>
+,<p>are you normally eating</p>
+<p>I have to go to bed early tonight because my train ___ at 6:00 AM tomorrow morning.</p>,1,one,
+,<p>is leaving</p>
+*,<p>leaves</p>
+"<p>We normally eat lunch at noon , but today ___ at 1.</p>",1,one,
+*,<p>we're eating </p>
+,<p>we eat</p>
+<p>How long ___ the flu lately?</p>,1,one,
+*,<p>have you been having</p>
+,<p>were you having</p>
+"<p>___ a good time today? Yes, I have.</p>",1,one,
+*,<p>Have you had</p>
+,<p>Do you have</p>
+<p>We ___ breakfast for two hours.</p>,1,one,
+*,<p>have been having</p>
+,<p>are having</p>
+<p>___ you _____ to your mum yet? </p>,1,one,
+*,<p>Have / talked</p>
+,<p>is talking</p>
+<p>She  _____  already ______ her work? </p>,1,one,
+*,<p>has/ done</p>
+,<p>is doing</p>
+<p>We  _____  the dishes now.</p>,1,one,
+,<p>has done</p>
+*,<p>are doing</p>

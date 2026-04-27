@@ -1,0 +1,49 @@
+HTML
+"<p>“My nephew is a very capable young man,” - The woman says that _______nephew is a very capable young man. </p>",1,one,
+,<p>my</p>
+*,<p>her</p>
+,<p>his</p>
+"<p>""Jack may go to the party with Alice"", said Hazel. - Hazel said Jack ... to the party with Alice.</p>",1,one,
+,<p>may go</p>
+,<p>can go</p>
+*,<p>might go</p>
+"<p>""I finished my homework"", said Alex. - Alex said he ... his homework.</p>",1,one,
+,<p>finished</p>
+,<p>has finished</p>
+*,<p>had finished</p>
+"<p>""It is breaking!"", said Henry. - Henry said it ...  </p>",1,one,
+,<p>broke</p>
+*,<p>was breaking</p>
+,<p>were breaking</p>
+"<p>""I am watching this show at the moment"", said Rose. - Rose said she ... that show at that moment..</p>",1,one,
+*,<p>was watching</p>
+,<p>watched</p>
+,<p>is watching</p>
+"<p>""Do you always spend your time here?"" - he said. - He asked her if she always spent her time_________</p>",1,one,
+,<p>here</p>
+*,<p>there</p>
+,<p>in this place</p>
+"<p>""Do they invite Martin?"" he asked. - He asked if they____________Martin. </p>",1,one,
+,<p>invite</p>
+,<p>had invited</p>
+*,<p>invited</p>
+<p>“Do you know when she will return?” he said. - He asked if I____________when she would return</p>,1,one,
+*,<p>knew</p>
+,<p>know </p>
+,<p>had known</p>
+"<p>""Does he like pizza?"" they said. - They asked if he________pizza. </p>",1,one,
+,<p>like</p>
+,<p>had liked</p>
+*,<p>liked</p>
+<p>She speaks ______ English and Arabic.</p>,1,one,
+,<p>Either </p>
+,<p>Neither</p>
+*,<p>Both </p>
+<p>_________ book was fascinating.</p>,1,one,
+,<p>Either </p>
+*,<p>Neither</p>
+,<p>Both </p>
+<p>I don’t think ___________ of them are at home.</p>,1,one,
+*,<p>Either </p>
+,<p>Neither</p>
+,<p>Both </p>

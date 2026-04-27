@@ -1,0 +1,37 @@
+HTML
+"<p>-Does she have a sister? <br/>-Yes, she has ______. </p>",1,one,
+,<p>ones</p>
+,<p>sister</p>
+*,<p>one</p>
+<p>I would like to buy the yellow shirt and ___________. </p>,1,one,
+,<p>ones</p>
+*,<p>the black one</p>
+,<p>the one</p>
+<p>That box is bigger than _________.</p>,1,one,
+*,<p>this one</p>
+,<p>one</p>
+,<p>these one</p>
+<p>This fork is dirty. Could you give me another ________? </p>,1,one,
+*,<p>one</p>
+,<p>the one</p>
+,<p>a one</p>
+<p>I'll give you a sweet. __________ would you like?</p>,1,one,
+,<p>a one</p>
+*,<p>Which one</p>
+,<p>The which one</p>
+<p>Look at these dresses. I don’t know __________ to put on. </p>,1,one,
+,<p>what one</p>
+,<p>a one</p>
+*,<p>which one</p>
+<p>-Which book do you like? <br/>-This ________</p>,1,one,
+,<p>a one</p>
+*,<p>one</p>
+,<p>ones</p>
+<p>This skirt is yellow and   __ is red.</p>,1,one,
+*,<p>that one</p>
+,<p>ones</p>
+,<p>the ones</p>
+"<p>I liked all her books, but this was her best _________.</p>",1,one,
+*,<p>one</p>
+,<p>other one</p>
+,<p>ones</p>

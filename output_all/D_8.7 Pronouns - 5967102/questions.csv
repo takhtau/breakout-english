@@ -1,0 +1,41 @@
+HTML
+<p>I can do the job alone. I don't need _____ to help me.</p>,1,one,
+,<p>somebody</p>
+*,<p>anybody</p>
+,<p>nobody</p>
+"<p>I opened the door, but I could see _____ .</p>",1,one,
+,<p>somebody</p>
+,<p>anybody</p>
+*,<p>nobody</p>
+"<p>Remember, don't tell _____ about him. It's a secret.</p>",1,one,
+,<p>somebody</p>
+*,<p>anybody</p>
+,<p>nobody</p>
+<p>We can't do it. We have _____ to help us.</p>,1,one,
+,<p>somebody</p>
+,<p>anybody</p>
+*,<p>nobody</p>
+<p>_____ must have been using my books. They've got all misplaced on the shelf.</p>,1,one,
+*,<p>somebody</p>
+,<p>anybody</p>
+,<p>nobody</p>
+<p>I didn't know about the meeting. _____ told me.</p>,1,one,
+,<p>somebody</p>
+,<p>anybody</p>
+*,<p>nobody</p>
+<p>_____ has broken the window. I don't know who.</p>,1,one,
+*,<p>somebody</p>
+,<p>anybody</p>
+,<p>nobody</p>
+<p>Is there _____ in the hall?</p>,1,one,
+,<p>somebody</p>
+*,<p>anybody</p>
+,<p>nobody</p>
+<p>That is a very hard question. _____ can answer it.</p>,1,one,
+,<p>somebody</p>
+,<p>anybody</p>
+*,<p>nobody</p>
+<p>I saw _____ near your house yesterday. He was reading a newspaper.</p>,1,one,
+*,<p>somebody</p>
+,<p>anybody</p>
+,<p>nobody</p>

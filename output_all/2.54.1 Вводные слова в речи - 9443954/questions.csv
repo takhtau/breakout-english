@@ -1,0 +1,49 @@
+HTML
+<p>__________she is single.</p>,1,one,
+,<p>Probably</p>
+,<p>I belive</p>
+*,<p>as far as I know</p>
+"<p>__________, I don't really like your boss.</p>",1,one,
+,<p>Actually </p>
+*,<p>Frankly speaking</p>
+,<p>I belive</p>
+"<p>_____________, this is not my cup of tea. </p>",1,one,
+,<p>Actually </p>
+*,<p>To tell the truth</p>
+,<p>I guess</p>
+"<p>________, that was the last train. </p>",1,one,
+,<p>Actually </p>
+,<p>To tell the truth</p>
+*,<p>I guess</p>
+"<p>It's not your business, _________. </p>",1,one,
+*,<p>Actually </p>
+,<p>probably</p>
+,<p>I think</p>
+"<p>It's not your business, _________. </p>",1,one,
+*,<p>actually </p>
+,<p>probably</p>
+,<p>I think</p>
+"<p>_______, Jenny just wanted to dance in a beautiful dress. </p>",1,one,
+,<p>by the way</p>
+*,<p>In other words</p>
+,<p>moreover</p>
+"<p>_________, its working hours were 24/7. </p>",1,one,
+,<p>by the way</p>
+,<p>I believe</p>
+*,<p>fortunately</p>
+"<p>__________, no one ever saw Gregory and Mandy in one room.</p>",1,one,
+*,<p>However</p>
+,<p>I think</p>
+,<p>Unfortunately</p>
+"<p>Try to keep a healthy way of life and you'll live longer, ______. </p>",1,one,
+,<p>probably</p>
+*,<p>after all</p>
+,<p>by the way</p>
+"<p>________, Harry and Hermione reached their destination. </p>",1,one,
+*,<p>Finally</p>
+,<p>In a word </p>
+,<p>In conclusion </p>
+"<p>________, there was a spectacular event. </p>",1,one,
+*,<p>In a word </p>
+,<p>Finally</p>
+,<p>In conclusion </p>

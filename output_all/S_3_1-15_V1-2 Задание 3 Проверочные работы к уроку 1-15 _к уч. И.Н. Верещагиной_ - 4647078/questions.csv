@@ -1,0 +1,31 @@
+HTML
+<p>The babies will sleep here.</p>,1,one,
+*,<p>The babies won't sleep here.</p>
+,<p>The babies don't sleep here.</p>
+<p>I want to learn the dialogue.</p>,1,one,
+,<p>I won't want to learn the dialogue.</p>
+*,<p>I don't want to learn the dialogue.</p>
+<p>He learns a lot of new words.</p>,1,one,
+*,<p>He doesn't learn many new words.</p>
+,<p>He won't learn many new words.</p>
+<p>They can skate in the park.</p>,1,one,
+*,<p>They can't skate in the park.</p>
+,<p>They won't skate in the park.</p>
+<p>I am from Berlin.</p>,1,one,
+*,<p>I'm not from Berlin.</p>
+,<p>I don't be from Berlin.</p>
+<p>They can visit the Browns.</p>,1,one,
+*,<p>They can't visit the Browns.</p>
+,<p>They doesn't visit the Browns.</p>
+<p>I am from Dmitrov.</p>,1,one,
+*,<p>I'm not from Dmitrov.</p>
+,<p>I don't be from Dmitrov.</p>
+<p>I want to go to the forest.</p>,1,one,
+*,<p>I don't want to go to the forest.</p>
+,<p>I won't want to go to the forest.</p>
+<p>I shall go to the park.</p>,1,one,
+*,<p>I shan't go to the park.</p>
+,<p>I won't go to the park.</p>
+<p>He often goes to the swimming pool.</p>,1,one,
+*,<p>He doesn't often go to the swimming pool.</p>
+,<p>He don't often go to the swimming pool.</p>

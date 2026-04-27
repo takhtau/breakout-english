@@ -1,0 +1,25 @@
+HTML
+<p>John says that this week he won't have time</p>,1,one,
+,<p>to study</p>
+*,<p>to see his friends </p>
+,<p>for football practice </p>
+<p>Mary and John will meet tomorrow </p>,1,one,
+,<p>right after school </p>
+*,<p>early in the evening </p>
+,<p>late in the evening </p>
+<p>John's parents are good at</p>,1,one,
+,<p>numbers </p>
+*,<p>English </p>
+,<p>all subjects </p>
+<p>The subject John likes more is</p>,1,one,
+,<p>Maths </p>
+,<p>History </p>
+*,<p>Science</p>
+<p>John says the history exam is </p>,1,one,
+,<p>in three weeks </p>
+,<p>in the middle of the month </p>
+*,<p>at the end of the month </p>
+<p>Mary jokes that their studies </p>,1,one,
+*,<p>will be a waste of time </p>
+,<p>will never end</p>
+,<p>are no fun </p>

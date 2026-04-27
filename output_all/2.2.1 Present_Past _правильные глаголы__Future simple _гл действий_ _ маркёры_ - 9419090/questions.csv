@@ -1,0 +1,49 @@
+HTML
+<p>Her first class (to start) at a quarter past eight.</p>,1,one,
+*,<p>starts </p>
+,<p>start </p>
+,<p>started </p>
+<p>He (to work) every day.</p>,1,one,
+,<p>work </p>
+,<p>working </p>
+*,<p>works</p>
+<p>Tom (to play) football on Saturdays.</p>,1,one,
+*,<p>plays</p>
+,<p>played</p>
+,<p>play</p>
+<p>I always (to read) books in the evening.</p>,1,one,
+*,<p>read</p>
+,<p>reads</p>
+,<p>reading</p>
+<p>She (to help) her mother 5 days ago.</p>,1,one,
+*,<p>helped </p>
+,<p>helps </p>
+,<p>help</p>
+<p>We (to cook) our meals on a fire last summer.</p>,1,one,
+,<p>cooking</p>
+*,<p>cooked </p>
+,<p>cooks</p>
+<p>You (to help) your sister last summer. </p>,1,one,
+*,<p>helped </p>
+,<p>helping</p>
+,<p>helps</p>
+<p>10. I (to play) computer games yesterday.</p>,1,one,
+*,<p>played</p>
+,<p>playing</p>
+,<p>plays</p>
+<p>He (to play) the piano tomorrow.</p>,1,one,
+,<p>played</p>
+*,<p>will play</p>
+,<p>playing</p>
+<p>He (to turn) on the TV to watch cartoons tomorrow morning.</p>,1,one,
+*,<p>will turn</p>
+,<p>turning </p>
+,<p>turned</p>
+<p>His parents (to cook) a special dinner for him tomorrow.</p>,1,one,
+*,<p>will cook</p>
+,<p>are cooking </p>
+,<p>cook </p>
+<p>They (to stay) at home next week.</p>,1,one,
+,<p>stayed</p>
+,<p>staying </p>
+*,<p>will stay</p>

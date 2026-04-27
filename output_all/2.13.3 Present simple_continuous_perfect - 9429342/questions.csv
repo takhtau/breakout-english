@@ -1,0 +1,49 @@
+HTML
+<p>The children (to run) at the stadium every day.</p>,1,one,
+*,<p>run</p>
+,<p>are running</p>
+,<p>have run</p>
+<p>They (to sing) merrily at the moment.</p>,1,one,
+,<p>sing</p>
+*,<p>are singing</p>
+,<p>have sung</p>
+<p>We ... just ... (to learn) a new song!</p>,~1,one,
+,<p>do/learn</p>
+,<p>are/learning</p>
+*,<p>have/learned</p>
+<p>... you ... (to work) right now?</p>,1,one,
+*,<p>Are/working</p>
+,<p>Do/work</p>
+,<p>Have/worked</p>
+<p>I (to prepare) for the English exams every day.</p>,1,one,
+,<p>am preparing</p>
+*,<p>prepare</p>
+,<p>have prepared</p>
+<p>I ... just ... (to take) a picture of it.</p>,1,one,
+,<p>am/taking</p>
+,<p>do/take</p>
+*,<p>have/taken</p>
+<p>Mark ... just ... (to order) ten bottles of Coke.</p>,1,one,
+*,<p>has/ordered</p>
+,<p>is/ordering</p>
+,<p>does/order</p>
+<p>Why ... you ... (to shiver) right now?</p>,1,one,
+,<p>do/shiver</p>
+*,<p>are/shivering</p>
+,<p>have/shivered</p>
+<p>The children (to play) with their train set now.</p>,1,one,
+,<p>have played</p>
+,<p>play</p>
+*,<p>are playing</p>
+<p>... you already ... (to write) your essay?</p>,1,one,
+*,<p>Have/written</p>
+,<p>Are/writing</p>
+,<p>Do/write</p>
+<p>The sun (not to rise) yet.</p>,1,one,
+,<p>doesn't rise</p>
+*,<p>hasn't risen</p>
+,<p>isn't rising</p>
+<p>I usually (not to read) the newspaper.</p>,1,one,
+,<p>haven't read</p>
+,<p>aren't reading</p>
+*,<p>don't read</p>

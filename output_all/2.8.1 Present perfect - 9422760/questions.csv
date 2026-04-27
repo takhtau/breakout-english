@@ -1,0 +1,49 @@
+HTML
+<p>Who has (to write) this article?</p>,1,one,
+,<p>write </p>
+,<p>wrote </p>
+*,<p>written </p>
+<p>We have already (to learn) a lot of English words.</p>,1,one,
+,<p>learning </p>
+*,<p>learnt </p>
+,<p>learn</p>
+<p>Who has (to teach) you to do it?</p>,1,one,
+*,<p>taught</p>
+,<p>teaching </p>
+,<p>teach </p>
+<p>He has just (to do) something for us.</p>,1,one,
+,<p>did </p>
+,<p>do</p>
+*,<p>done </p>
+<p>Have you (to find) the book?</p>,1,one,
+,<p>find </p>
+*,<p>found </p>
+,<p>finding </p>
+<p>We have just (to talk) about it.</p>,1,one,
+,<p>talk</p>
+,<p>talking </p>
+*,<p>talked </p>
+<p>He has just (to say) something about it.</p>,1,one,
+*,<p>said</p>
+,<p>say</p>
+,<p>saying </p>
+<p>He has (to tell) us nothing about it.</p>,1,one,
+,<p>tell</p>
+,<p>telling </p>
+*,<p>told</p>
+<p>She has (to tell) them some stories about dogs.</p>,1,one,
+*,<p>told</p>
+,<p>telling </p>
+,<p>tell</p>
+<p>We have (to have) two lessons today.</p>,1,one,
+,<p>have</p>
+*,<p>had</p>
+,<p>having</p>
+<p>She has not (to speak) yet.</p>,1,one,
+,<p>speak</p>
+,<p>spoke</p>
+*,<p>spoken</p>
+<p>They have (to ask) me several questions.</p>,1,one,
+,<p>ask </p>
+*,<p>asked </p>
+,<p>asking </p>

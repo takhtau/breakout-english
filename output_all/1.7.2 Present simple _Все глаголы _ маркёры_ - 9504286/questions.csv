@@ -1,0 +1,49 @@
+HTML
+<p>Linda takes a shower _____ (каждое утро).</p>,1,one,
+*,<p>every morning</p>
+,<p>every day</p>
+,<p>every afternoon</p>
+<p> I ____ meet my friends (часто).</p>,1,one,
+,<p>sometimes</p>
+*,<p>often</p>
+,<p>always</p>
+<p>They _____ go to the cinema in the evening (иногда).</p>,1,one,
+,<p>usually</p>
+,<p>today</p>
+*,<p>sometimes</p>
+<p>My cat ____ fish every day. (to eat) </p>,1,one,
+*,<p>eats</p>
+,<p>eat</p>
+,<p>to eats</p>
+<p> Brandon ____ stories in his free time. (to write) </p>,1,one,
+,<p>to write</p>
+*,<p>writes</p>
+,<p>write</p>
+<p>It ____ a lot in winter here. (to snow) </p>,1,one,
+,<p>snow</p>
+,<p>to snow</p>
+*,<p>snows</p>
+<p>We _____ in a big city. (not to live)</p>,1,one,
+*,<p>don't live</p>
+,<p>not live</p>
+,<p>doesn't live</p>
+<p>____ he a sportsman? </p>,1,one,
+,<p>Are</p>
+*,<p>Is</p>
+,<p>Does</p>
+<p>____ you from France? </p>,1,one,
+,<p>Do</p>
+,<p>Is</p>
+*,<p>Are</p>
+<p>____ Sandra hungry?</p>,1,one,
+*,<p>Is</p>
+,<p>Does</p>
+,<p>Am</p>
+<p>I _____ to bed late. (not to go)</p>,1,one,
+,<p>doesn't go</p>
+*,<p>don't go</p>
+,<p>not go</p>
+<p>Carla ____ a bicycle. (not to ride)</p>,1,one,
+,<p>don't ride</p>
+,<p>not rides</p>
+*,<p>doesn't ride</p>

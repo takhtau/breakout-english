@@ -1,0 +1,43 @@
+HTML
+<p>There are two good _______. </p>,1,one,
+*,<p>ones</p>
+,<p>one</p>
+,<p>the ones</p>
+<p>And they are the lucky _______. </p>,1,one,
+*,<p>ones</p>
+,<p>one</p>
+,<p>the ones</p>
+<p>_________ is very dangerous. </p>,1,one,
+,<p>These one</p>
+*,<p>This one</p>
+,<p>The ones</p>
+<p>_______ can make the city better. </p>,1,one,
+*,<p>One</p>
+,<p>This ones</p>
+"<p>These chairs are taken, but _________ is free.</p>",1,one,
+,<p>ones</p>
+*,<p>this one</p>
+<p>I bought a nice hat for my daughter and a very _________ for you.</p>,1,one,
+,<p>nice ones</p>
+*,<p>nice one</p>
+,<p>the nice</p>
+"<p>I don't know, which flowers to buy – the blue ones or ______________.</p>",1,one,
+,<p>ones which purple</p>
+,<p>a purple</p>
+*,<p>the purple ones</p>
+"<p>I have got an old jacket, I need to buy ______________.</p>",1,one,
+*,<p>a new beautiful one</p>
+,<p>beautiful</p>
+,<p>one beautiful</p>
+<p>There are lots of books here. __________ are yours? </p>,1,one,
+,<p>Which one</p>
+*,<p>Which ones</p>
+,<p>What ones</p>
+<p>Let’s look at the photos. ________ you took in Paris.</p>,1,one,
+*,<p>The ones</p>
+,<p>Ones</p>
+,<p>What ones</p>
+<p>I need new glasses. _________ I have are bad.</p>,1,one,
+,<p>Which one</p>
+,<p>Ones</p>
+*,<p>The ones</p>

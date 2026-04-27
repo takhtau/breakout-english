@@ -1,0 +1,43 @@
+HTML
+<p>My mum made me clean my room. </p>,1,one,
+,<p>Моя мама хочет чтобы я прибрала мою комнату.</p>
+,<p>Моя мама прибрала мою комнату.</p>
+*,<p>Моя мама заставила меня прибраться в комнате.</p>
+<p>He wanted me to give him a hand. </p>,1,one,
+*,"<p>Он хотел, чтобы я оказал ему помощь. </p>"
+,"<p>Он хотел, чтобы я подал ему руку. </p>"
+,<p>Он хотел оказать мне помощь.</p>
+<p>The teacher noticed some students __________ bad language during the breakes.</p>,1,one,
+*,<p>use</p>
+,<p>to use</p>
+<p>The teacher would like _____________ their homework properly. </p>,1,one,
+,<p>her students do </p>
+*,<p>her students to do </p>
+,<p>that her students do </p>
+"<p>Мы хотим, чтобы ты был счастлив. </p>",1,one,
+,<p>We wanting you to be happy.</p>
+,<p>We want to you to be happy.</p>
+*,<p>We want you to be happy.</p>
+"<p>Я слышу, как моя сестра играет на пианино.</p>",1,one,
+,<p>I can hear my sister to play to the piano.</p>
+,<p>I can hear my sister to playing the piano.</p>
+*,<p>I can hear my sister playing the piano.</p>
+<p>I heard you _____ with my parents.</p>,1,one,
+*,<p>talking</p>
+,<p>to talk</p>
+<p>I’d prefer you ______ </p>,1,one,
+,<p>buy this car</p>
+*,<p>to buy this car</p>
+,<p>buying this car</p>
+<p>He would like us ______ </p>,1,one,
+,<p>game to lose</p>
+,<p>game lose</p>
+*,<p>to lose the game</p>
+<p>Папа разрешает мне поехать с тобой в Китай. </p>,1,one,
+*,<p>Dad allows me to travel to China with you. </p>
+,<p>Dad allows to me to travel to China with you.</p>
+,<p>Dad allowing to me to travel to China with you.</p>
+<p>The police officer made him _____  the truth.</p>,1,one,
+,<p>to tell</p>
+*,<p>tell</p>
+,<p>telling</p>

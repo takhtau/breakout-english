@@ -1,0 +1,65 @@
+HTML
+<p>I usually (to have) meat only once a week. I (to eat) lots of fruit and vegetables.</p>,1,one,
+*,<p>have/eat</p>
+,<p>have/eating</p>
+,<p>had/ate </p>
+<p>He usually (to work) in the garden.</p>,1,one,
+*,<p>works</p>
+,<p>work </p>
+,<p>worked </p>
+<p>She (to study) English two days ago.</p>,1,one,
+*,<p>studied </p>
+,<p>study</p>
+,<p>studying </p>
+<p>Nick (to go) to school tomorrow.</p>,1,one,
+*,<p>will go </p>
+,<p>went</p>
+,<p>is going</p>
+<p>He ... always on a business trip.</p>,1,one,
+,<p>were</p>
+,<p>will be</p>
+*,<p>is</p>
+<p>He ... with his family now.</p>,1,one,
+,<p>are</p>
+*,<p>is</p>
+,<p>will be</p>
+<p>In two hours he ... in the Hague.</p>,1,one,
+*,<p>will be</p>
+,<p>is</p>
+,<p>were</p>
+<p>His sons ... so much excited.</p>,1,one,
+*,<p>are</p>
+,<p>was</p>
+,<p>is</p>
+<p>I (not to work) in my office now.</p>,1,one,
+*,<p>am not working</p>
+,<p>isn't working </p>
+,<p>don't work </p>
+<p>The children (not to sleep) now.</p>,1,one,
+*,<p>aren't sleeping </p>
+,<p>isn't sleeping </p>
+,<p>don't sleep </p>
+<p>My mother (to work) in a factory.</p>,1,one,
+,<p>ia working </p>
+*,<p>works</p>
+,<p>worked </p>
+<p>Henry usually (to wear) glasses and now he (to wear) sunglasses.</p>,1,one,
+*,<p>wears/ is wearing </p>
+,<p>wear/ wear </p>
+,<p>is wearing/wears</p>
+<p>My friend (to know) Spanish ten years ago.</p>,1,one,
+,<p>knowed</p>
+,<p>knows</p>
+*,<p>knew</p>
+<p>He (to sleep) three hours ago.</p>,1,one,
+,<p>sleeps</p>
+,<p>sleeped</p>
+*,<p>slept</p>
+<p>One of her brothers (to make) a tour of Europe last summer.</p>,1,one,
+,<p>maked</p>
+,<p>maded</p>
+*,<p>made</p>
+<p>She (to become) Queen of England almost 70 years ago.</p>,1,one,
+*,<p>became</p>
+,<p>becomes</p>
+,<p>becomed</p>

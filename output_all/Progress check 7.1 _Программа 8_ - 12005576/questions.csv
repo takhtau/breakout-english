@@ -1,0 +1,40 @@
+HTML
+<p>There isn't _____ milk in the glass.</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>There's _____ juice in the glass.</p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>Are there_____ sausages on the plate?</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>There are _____ sandwiches on the round plate. </p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>They needn't_________bread for sandwiches. </p>,1,one,
+*,<p>much </p>
+,<p>many </p>
+<p>How________water do you need? </p>,1,one,
+*,<p>much </p>
+,<p>many </p>
+<p>She has got________sausages in the fridge. </p>,1,one,
+,<p>much </p>
+*,<p>a lot of</p>
+<p>There aren't_________pears in the box. </p>,1,one,
+,<p>much </p>
+*,<p>many </p>
+,<p>a lot of</p>
+<p>How________sugar do you need for the cake? </p>,1,one,
+*,<p>much </p>
+,<p>many </p>
+,<p>a lot of</p>
+<p>There are ________ apples on the plate. Take one.</p>,1,one,
+*,<p>a few</p>
+,<p>a little</p>
+,<p>little</p>
+<p>There is ______ milk in the fridge. Can you buy some? </p>,1,one,
+,<p>few</p>
+*,<p>little</p>
+<p>I'd like to drink _______ coffee.</p>,1,one,
+*,<p>a little</p>
+,<p>a few</p>

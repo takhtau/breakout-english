@@ -1,0 +1,41 @@
+HTML
+"<p>I never ___ you that I loved her, I only said that I liked her.</p>",1,one,
+*,<p>told</p>
+,<p>have told</p>
+,<p>was telling</p>
+<p>I ___ to Greece until Sally and I went there last summer.</p>,1,one,
+,<p>have never been</p>
+*,<p>had never been</p>
+,<p>was never being</p>
+"<p>By the time I'm 50, I ___ a million dollars.</p>",1,one,
+,<p>will make</p>
+,<p>would make</p>
+*,<p>will have made</p>
+<p>I want ___ the exercises for advanced students.</p>,1,one,
+,<p>try</p>
+*,<p>to try</p>
+,<p>to have tried</p>
+"<p>Hey, you ___ at the computer all day. You should really take a break.</p>",1,one,
+*,<p>have been sitting</p>
+,<p>were sitting</p>
+,<p>did sit</p>
+"<p>He claimed that he had never seen that man, but I know that ___.</p>",1,one,
+,<p>he did</p>
+*,<p>he had</p>
+,<p>he was</p>
+<p>What ___ to her about last night? </p>,1,one,
+,<p>have you spoken</p>
+,<p>you spoke</p>
+*,<p>did you speak</p>
+<p>What have you been doing all day? ___ TV?</p>,1,one,
+,<p>Watch</p>
+*,<p>Watching</p>
+,<p>Have watched</p>
+<p>She ___ lunch when someone rang the doorbell.</p>,1,one,
+*,<p>was preparing</p>
+,<p>prepared</p>
+,<p>has been preparing</p>
+<p>She never ___ when someone leaves her a message.</p>,1,one,
+,<p>has called back</p>
+*,<p>calls back</p>
+,<p>will call back</p>

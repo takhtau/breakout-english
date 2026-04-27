@@ -1,0 +1,34 @@
+HTML
+<p>I think that ___ vegetables are carrots.</p>,1,one,
+,<p>good</p>
+,<p>better</p>
+*,<p>the best</p>
+<p>Who is ___ : your niece or nephew?</p>,1,one,
+,<p>good</p>
+*,<p>better</p>
+,<p>the best</p>
+<p>He is a ___ engineer. They like him.</p>,1,one,
+*,<p>good</p>
+,<p>better</p>
+,<p>the best</p>
+<p>Who is ___ than Tim?</p>,1,one,
+,<p>bad</p>
+*,<p>worse</p>
+,<p>the worst</p>
+<p>To go to the park is ___ thing to do.</p>,1,one,
+*,<p>bad</p>
+,<p>worse</p>
+,<p>the worst</p>
+<p>That's ___ that ends not good.</p>,1,one,
+*,<p>bad</p>
+,<p>worse</p>
+,<p>the worst</p>
+<p>My cousin Alek is a champion. He is a ___ sportsman than my brother.</p>,1,one,
+*,<p>better</p>
+,<p>worse</p>
+<p>Who reads ___ than you? Mike. He reads very well.</p>,1,one,
+,<p>worse</p>
+*,<p>better</p>
+<p>This skirt suits you ___. Don't buy it.</p>,1,one,
+*,<p>worse</p>
+,<p>better</p>

@@ -1,0 +1,69 @@
+HTML
+"<p>When I (1) _____ the telephone this morning, ...</p>",1,one,
+*,<p>answer</p>
+,<p>answered</p>
+,<p>were answering</p>
+<p>... I (2) _____ right away ...</p>,1,one,
+,<p>know</p>
+,<p>was knowing</p>
+*,<p>knew</p>
+<p>... that woman (3) _____ the wrong number.</p>,1,one,
+,<p>had had</p>
+,<p>has</p>
+*,<p>had</p>
+<p>But it (4) _____ her a long time to find out.</p>,1,one,
+,<p>was taking</p>
+,<p>had taken</p>
+*,<p>took</p>
+<p>She (5) _____ to know...</p>,1,one,
+,<p>was wanting</p>
+*,<p>wanted</p>
+,<p>wants</p>
+"<p>... what (6) _____ on, ...</p>",1,one,
+,<p>be</p>
+*,<p>was</p>
+,<p>had been</p>
+<p>... and whenthe first show (7) _____ .</p>,1,one,
+,<p>begin</p>
+,<p>begun</p>
+*,<p>began</p>
+"<p>I told her she (8) _____ the wrong number, ...</p>",1,one,
+*,<p>had got</p>
+,<p>got</p>
+,<p>was getting</p>
+<p>... but she (9) _____ asking her questions.</p>,1,one,
+*,<p>continued</p>
+,<p>continue</p>
+,<p>had continued</p>
+<p>Finally she (10) _____ what ...</p>,1,one,
+,<p>hear</p>
+,<p>was hearing</p>
+*,<p>heard</p>
+<p>... I (11) _____ .</p>,1,one,
+*,<p>was saying</p>
+,<p>say</p>
+,<p>sayed</p>
+<p>She (12) _____ to know ...</p>,1,one,
+,<p>was wanting</p>
+*,<p>wanted</p>
+,<p>had wanted</p>
+<p>... why I (13) _____ her right away ...</p>,1,one,
+,<p>had told</p>
+*,<p>hadn't told</p>
+,<p>didn't tell</p>
+<p>... that she (14) _____ the wrong number.</p>,1,one,
+,<p>have</p>
+*,<p>had</p>
+,<p>had had</p>
+<p>I (15) _____ to explain ...</p>,1,one,
+,<p>had tried</p>
+,<p>try</p>
+*,<p>tried</p>
+"<p>... that I (16) _____ her several times, ...</p>",1,one,
+,<p>told</p>
+*,<p>had told</p>
+,<p>was telling</p>
+<p>... but she (17) _____ off.</p>,1,one,
+*,<p>rang</p>
+,<p>ring</p>
+,<p>had rung</p>

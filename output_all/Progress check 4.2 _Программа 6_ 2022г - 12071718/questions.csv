@@ -1,0 +1,60 @@
+HTML
+<p>How much are four chocolate ________? (плитки)</p>,1,one,
+,<p>cups</p>
+*,<p>bars</p>
+,<p>slices</p>
+<p>I really want a ________ sweet honey. (ложка)</p>,1,one,
+*,<p>spoon of</p>
+,<p>bowl of</p>
+,<p>packet</p>
+<p>I need _______ of lemon to put it in my tea. (тонкий ломтик)</p>,1,one,
+*,<p>a slice</p>
+,<p>pieces</p>
+,<p>a loaf</p>
+<p>Tom eats the last ______ of bread. (тонкий кусочек)</p>,1,one,
+,<p>a loaf</p>
+*,<p>piece of</p>
+,<p>cups</p>
+<p>There aren't_________pears in the box. </p>,1,one,
+,<p>much </p>
+*,<p>many </p>
+,<p>a lot of</p>
+<p>I have got__________carrots in the garden. </p>,1,one,
+,<p>much </p>
+,<p>many </p>
+*,<p>a lot of</p>
+<p>There isn't________ water in the bottle. </p>,1,one,
+*,<p>much </p>
+,<p>many </p>
+,<p>a lot of</p>
+<p>There is ______ milk in the fridge. Can you buy some? </p>,1,one,
+,<p>few</p>
+*,<p>little</p>
+<p>This boy isn't very popular at school. He's got very _______ friends.</p>,1,one,
+,<p>a few</p>
+*,<p>few</p>
+,<p>little</p>
+<p>She _____ (to read) English books tomorrow evening.</p>,1,one,
+,<p>won't read</p>
+*,<p>will read</p>
+,<p>reads</p>
+<p>I ______ (not to buy) food there.</p>,1,one,
+,<p>will buy</p>
+*,<p>won't buy</p>
+,<p>buy</p>
+<p>Robert ____ coffee for breakfast the day before yesterday. </p>,1,one,
+*,<p>had</p>
+,<p>have</p>
+,<p>will have</p>
+<p>My friend always ________ TV at seven o'clock. </p>,1,one,
+,<p>watched </p>
+*,<p>watches </p>
+,<p>will watch</p>
+<p>My father usually ________ to the stadium on Sundays </p>,1,one,
+,<p>went</p>
+*,<p>goes</p>
+,<p>will go</p>
+<p>My grandparents _______ their friends next week.</p>,1,one,
+,<p>visited </p>
+,<p>visit </p>
+*,<p>will visit </p>

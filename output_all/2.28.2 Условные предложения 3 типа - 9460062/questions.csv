@@ -1,0 +1,49 @@
+HTML
+"<p>If I … (save) more money, I … (go) to Australia.</p>",1,one,
+,<p>had saved/would go</p>
+*,<p>had saved/would have gone</p>
+,<p>saved/would have gone</p>
+"<p>If our parents … (not argue), we … (spend) the weekend together.</p>",1,one,
+,<p>didn’t argued/would have spent</p>
+,<p>hadn’t argued/would spend</p>
+*,<p>hadn’t argued/would have spent</p>
+<p>They … (not allow) him to enter the office if he … (not put on) a tie.</p>,1,one,
+*,<p>wouldn’t have allowed/hadn’t put on</p>
+,<p>wouldn’t allow/hadn’t put on</p>
+,<p>wouldn’t have allowed/didn’t put on</p>
+"<p>If the storm … (not break out), the ship … (not sink).</p>",1,one,
+,<p>didn’t broken out/wouldn’t have sunk</p>
+,<p>hadn’t broken out/wouldn’t sink</p>
+*,<p>hadn’t broken out/wouldn’t have sunk</p>
+<p>I … (take) you to the airport if I … (have) a car. </p>,1,one,
+*,<p>would have taken/had had </p>
+,<p>would take/had had </p>
+,<p>would have taken/have</p>
+<p>You … (not visit) the doctor if you … (not drink) cold milk. </p>,1,one,
+,<p>wouldn’t have visited/didn’t drink</p>
+,<p>wouldn’t visit/hadn’t drunk</p>
+*,<p>wouldn’t have visited/hadn’t drunk </p>
+<p>She … (not lose) her bag if she … (be) more careful. </p>,1,one,
+,<p>wouldn’t have lost/was</p>
+*,<p>wouldn’t have lost/had been </p>
+,<p>wouldn’t lose/had been</p>
+"<p>If the driver … (not take) the wrong turning, we … (not arrive) late. </p>",1,one,
+,<p>hadn’t taken/ wouldn’t arrive </p>
+,<p>didn’t take/ wouldn’t have arrived</p>
+*,<p>hadn’t taken/ wouldn’t have arrived </p>
+"<p>If I..........(not go) out in the rain, I .............(not catch) a cold. </p>",1,one,
+,<p>Hadn’t gone/wouldn’t caught</p>
+,<p>didn't go/wouldn’t have caught</p>
+*,<p>Hadn’t gone/wouldn’t have caught</p>
+"<p>If I  ............(not catch) a cold, I ............... (not carry) a handkerchief. </p>",1,one,
+,<p>Hadn’t caught/wouldn’t carry </p>
+*,<p>Hadn’t caught/wouldn’t have been carrying </p>
+,<p>didn't caught /wouldn’t have been carrying </p>
+"<p>If I............. (not carry) a handkerchief, I...............(not drop) it. </p>",1,one,
+,<p>Hadn’t been carrying/wouldn’t drop</p>
+,<p>didn't carry/wouldn’t have dropped </p>
+*,<p>Hadn’t been carrying/wouldn’t have dropped </p>
+"<p>If I .................  (not drop) my handkerchief, Juan ............. (not pick) it up. </p>",1,one,
+,<p>Hadn’t dropped/wouldn’t pick </p>
+*,<p>Hadn’t dropped/wouldn’t have picked </p>
+,<p>didn’t drop/wouldn’t have picked </p>

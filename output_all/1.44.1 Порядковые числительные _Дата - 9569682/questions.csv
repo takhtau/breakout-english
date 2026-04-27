@@ -1,0 +1,45 @@
+HTML
+<p>January is the ________ month of the year. </p>,1,one,
+*,<p>first </p>
+,<p>one</p>
+,<p>oned </p>
+<p>March is the __________ month of the year. </p>,1,one,
+,<p>three</p>
+*,<p>third </p>
+,<p>threed </p>
+<p>Friday is the ________ day of the week. </p>,1,one,
+,<p>five </p>
+,<p>fives</p>
+*,<p>fifth </p>
+<p>Saturday is the _____ day of the week.</p>,1,one,
+*,<p>sixth </p>
+,<p>six</p>
+,<p>sixs </p>
+<p>The Women’s Day is on (08.03). </p>,1,one,
+,<p>the eight of March </p>
+*,<p>the eighth of March </p>
+,<p>the eighth in March</p>
+<p>Victory Day is on (09.05).</p>,1,one,
+,<p>the ninth in May </p>
+,<p>the nine of May </p>
+*,<p>the ninth of May </p>
+<p>My son was born on (2.12)</p>,1,one,
+*,<p>the second of December</p>
+,<p>the two of December</p>
+,<p>the second in December</p>
+<p>He is the ______ best student in the class. </p>,1,one,
+*,<p>second</p>
+,<p>two</p>
+,<p>twos</p>
+<p>We got married on (16.06.2013) </p>,1,one,
+,"<p>June of sixteenth, two thousand thirteen</p>"
+*,"<p>the sixteenth of June, two thousand thirteen</p>"
+,"<p>June the sixteenth, two thousands thirteen</p>"
+<p>I was born on (7.03)</p>,1,one,
+,<p> the seventh in March</p>
+,<p> the seven of March</p>
+*,<p> the seventh of March </p>
+<p>It was discovered in (1492)</p>,1,one,
+*,<p>fourteen ninety-two </p>
+,<p>fourteenth ninety-two </p>
+,<p>fourteen ninety-second</p>

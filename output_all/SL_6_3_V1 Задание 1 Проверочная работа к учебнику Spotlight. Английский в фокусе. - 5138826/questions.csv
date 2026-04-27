@@ -1,0 +1,61 @@
+HTML
+<p>You _____ brush your teeth. It's good for your teeth.</p>,1,one,
+*,<p>must</p>
+,<p>mustn't</p>
+,<p>can't</p>
+<p>You _____ wear the uniform. You can wear anything you like.</p>,1,one,
+,<p>must</p>
+*,<p>don't have to</p>
+,<p>mustn't</p>
+<p>You _____ run here. It's dangerous.</p>,1,one,
+,<p>must</p>
+,<p>don't have to</p>
+*,<p>mustn't</p>
+<p>You _____ put on the coat. It's warm today.</p>,1,one,
+,<p>must</p>
+*,<p>don't have to</p>
+,<p>mustn't</p>
+<p>He _____ his bike last spring.</p>,1,one,
+,<p>rides</p>
+*,<p>rode</p>
+,<p>is riding</p>
+<p>He _____ his bike regularly.</p>,1,one,
+,<p>ride</p>
+*,<p>rides</p>
+,<p>is riding</p>
+<p>Look! He _____ your bike.</p>,1,one,
+,<p>rode</p>
+,<p>rides</p>
+*,<p>is riding</p>
+<p>He won't _____ the bike.</p>,1,one,
+*,<p>buy</p>
+,<p>buys</p>
+,<p>bought</p>
+<p>When did he _____ the bike?</p>,1,one,
+*,<p>buy</p>
+,<p>buys</p>
+,<p>bought</p>
+<p>He _____ the bike two months ago.</p>,1,one,
+,<p>buy</p>
+*,<p>buys</p>
+,<p>bought</p>
+<p>My bike is more _____ than his.</p>,1,one,
+*,<p>expensive</p>
+,<p>better</p>
+,<p>old</p>
+<p>My bike is _____ than his.</p>,1,one,
+,<p>expensive</p>
+*,<p>better</p>
+,<p>old</p>
+<p>The _____ names are Oleg and Vlad.</p>,1,one,
+,<p>boy's</p>
+,<p>boys</p>
+*,<p>boys'</p>
+<p>_____ room is comfortable.</p>,1,one,
+,<p>They're</p>
+*,<p>Their</p>
+,<p>These</p>
+<p>_____ Oleg's brother. Right?</p>,1,one,
+,<p>You</p>
+*,<p>You're</p>
+,<p>Your</p>

@@ -1,0 +1,49 @@
+HTML
+"<p>Your sister isn’t married, ……….?</p>",1,one,
+,<p>isn't she </p>
+*,<p>is she</p>
+,<p>does she</p>
+"<p>You found my keys, ……….?</p>",1,one,
+*,<p>didn’t you </p>
+,<p>did you</p>
+,<p>do you</p>
+"<p>I am very smart, ……….?</p>",1,one,
+,<p>am I</p>
+,<p>isn't I</p>
+*,<p>aren’t I</p>
+"<p>Jack didn’t pass his exams, ……….?</p>",1,one,
+,<p>does he</p>
+,<p>didn't he</p>
+*,<p>did he </p>
+"<p>Our love will last forever, ……….?</p>",1,one,
+,<p>isn't it </p>
+*,<p>won’t it </p>
+,<p>will it </p>
+"<p>You have never been to China, ……….?</p>",1,one,
+*,<p>have you </p>
+,<p>haven't you</p>
+,<p>has you</p>
+"<p>Sandra has already got up, ……….?</p>",1,one,
+*,<p>hasn’t she </p>
+,<p>has she </p>
+,<p>haven't she </p>
+"<p>My coffee and croissants are not cold, ……….?</p>",1,one,
+,<p>is they</p>
+,<p>aren't they</p>
+*,<p>are they </p>
+"<p>They won’t spend all their money, ……….?</p>",1,one,
+*,<p>will they </p>
+,<p>won't they</p>
+,<p>are they</p>
+"<p>Tim is fond of table tennis, ……….?</p>",1,one,
+*,<p>isn’t he </p>
+,<p>is he</p>
+,<p>aren't he</p>
+"<p>This palace was built in the 16th century, ……….?</p>",1,one,
+,<p>weren't it</p>
+,<p>was it</p>
+*,<p>wasn’t it </p>
+"<p>Her son often rides a horse in the country, ……….?</p>",1,one,
+,<p>don't he</p>
+*,<p>doesn’t he </p>
+,<p>does he </p>

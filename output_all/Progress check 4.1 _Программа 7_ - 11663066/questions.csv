@@ -1,0 +1,62 @@
+HTML
+<p>We are next to her. She looks at ___ in silence.</p>,1,one,
+*,<p>us</p>
+,<p>we</p>
+,<p>them</p>
+<p>He shows his granny the book. He shows ___ the book. </p>,1,one,
+,<p>she</p>
+*,<p>her</p>
+,<p>it</p>
+<p>I show the book to my dad. I show the book to ___. </p>,1,one,
+,<p>he</p>
+,<p>her</p>
+*,<p>him</p>
+<p>_____ do you go to school?  - At 8.00.</p>,1,one,
+*,<p>When</p>
+,<p>What</p>
+,<p>Why</p>
+<p>___do you do homework?</p>,1,one,
+*,<p>Where</p>
+,<p>What</p>
+,<p>How</p>
+<p>____ do you play?</p>,1,one,
+*,<p>When</p>
+,<p>How old</p>
+<p>How old _____your teacher?</p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>are</p>
+<p>____ does he do every Sunday? </p>,1,one,
+,<p>When</p>
+*,<p>What</p>
+,<p>Where</p>
+<p>Where_____you go every morning? </p>,1,one,
+*,<p>do</p>
+,<p>does</p>
+,<p>did</p>
+<p>When______she usually come? </p>,1,one,
+,<p>do</p>
+*,<p>does</p>
+,<p>did</p>
+<p>His sister ______ cook very well.</p>,1,one,
+*,<p>can</p>
+,<p>may</p>
+,<p>must</p>
+<p>_________ I close the door?</p>,1,one,
+,<p>can</p>
+*,<p>may</p>
+,<p>must</p>
+<p>You ______ cross the street when the light is red.</p>,1,one,
+,<p>cannot</p>
+,<p>may not </p>
+*,<p>mustn't</p>
+<p>He never comes to school late! He _______ be on time.</p>,1,one,
+,<p>can</p>
+,<p>may</p>
+*,<p>must</p>
+<p>You _______ go out late.</p>,1,one,
+,<p>should</p>
+*,<p>shouldn't</p>
+<p>You _______ go to bed. It's late.</p>,1,one,
+*,<p>should</p>
+,<p>shouldn't</p>

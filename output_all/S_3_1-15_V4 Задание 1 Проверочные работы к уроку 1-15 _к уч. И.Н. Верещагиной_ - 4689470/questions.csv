@@ -1,0 +1,41 @@
+HTML
+<p>Have you got _____ aunt?</p>,1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>the</p>
+<p>_____ Danilovs have got a nice house.</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+,<p>-</p>
+<p>Bob wants _____ with us.</p>,1,one,
+,<p>go</p>
+,<p>goes</p>
+*,<p>to go</p>
+<p>Sam can _____ with us.</p>,1,one,
+*,<p>go</p>
+,<p>goes</p>
+,<p>to go</p>
+<p>Why _____ so hot in the classroom?</p>,1,one,
+,<p>it is</p>
+*,<p>is it</p>
+,<p>it</p>
+<p>He usually _____ snowballs.</p>,1,one,
+,<p>play</p>
+*,<p>plays</p>
+,<p>playing</p>
+<p>He is _____ snowballs.</p>,1,one,
+,<p>play</p>
+,<p>plays</p>
+*,<p>playing</p>
+<p>He _____ snowballs tomorrow.</p>,1,one,
+,<p>play</p>
+,<p>plays</p>
+*,<p>will play</p>
+<p>The sportsmen _____ from Russia.</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+,<p>live</p>
+<p>His _____ name is Alice.</p>,1,one,
+*,<p>sister's</p>
+,<p>sister</p>
+,<p>sisters'</p>

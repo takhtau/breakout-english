@@ -1,0 +1,39 @@
+HTML
+"<p>-Would you like a sandwich?<br/>-Yes, I'd like ______. </p>",1,one,
+*,<p>one</p>
+,<p>ones</p>
+,<p>the ones</p>
+<p>-I can't find my jeans!<br/>-The blue _______?</p>,1,one,
+,<p>one</p>
+*,<p>ones</p>
+<p>I've got a red marker and a green marker. __________ would you like? </p>,1,one,
+*,<p>Which one</p>
+,<p>What one</p>
+<p>These shoes look better than ________. </p>,1,one,
+,<p>this one</p>
+*,<p> those ones</p>
+<p>-Have you seen the film?<br/>-_______ with Leonardo DiCaprio? </p>,1,one,
+*,<p>The one</p>
+,<p>A one</p>
+<p>Are you talking about your old job or ______ new one?</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>-</p>
+"<p>My plate is dirty, I'll take a clean _______. </p>",1,one,
+,<p>the one</p>
+,<p>ones</p>
+*,<p>one</p>
+"<p>This house is small for our big family, we need _________ .</p>",1,one,
+,<p>the </p>
+,<p>a another ones</p>
+*,<p>an another one</p>
+<p>______ should not walk on the roads. </p>,1,one,
+,<p>The one</p>
+*,<p>One</p>
+<p>________ must always read  books.</p>,1,one,
+,<p>The one</p>
+*,<p>One</p>
+<p>We have different kinds of flowers. ___________ would you like? </p>,1,one,
+*,<p>Which ones</p>
+,<p>Which one</p>
+,<p>What ones</p>

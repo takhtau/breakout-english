@@ -1,0 +1,61 @@
+HTML
+<p>The picture (draw) by the artist now.</p>,1,one,
+,<p>drawn</p>
+,<p>are being drawn</p>
+*,<p>is being drawn</p>
+<p>They (to find) themselves on the shore of a large lake an hour ago.</p>,1,one,
+,<p>founded</p>
+*,<p>found</p>
+,<p>finded</p>
+<p>Next summer I ______ get up at 7 every Sunday.</p>,1,one,
+*,<p>will have to</p>
+,<p>have to</p>
+,<p>had to</p>
+"<p>""Jack may go to the party with Alice"", said Hazel. Hazel said Jack _____ to the party with Alice.</p>",1,one,
+,<p>can go</p>
+,<p>may go</p>
+*,<p>might go</p>
+<p>Have you already ____________ tomorrow's weather forecast?</p>,1,one,
+,<p>hear</p>
+*,<p>heard</p>
+,<p>hears</p>
+<p>He __________ a book the whole evening yesterday.</p>,1,one,
+,<p>read</p>
+*,<p>was reading</p>
+,<p>were reading</p>
+<p>_________ any good movies recently?</p>,1,one,
+,<p>Did you see</p>
+,<p>Do you see</p>
+*,<p>Have you seen</p>
+"<p>Kate, _____ sister I used to share a house with, has gone to work in Australia.</p>",1,one,
+*,<p>whose</p>
+,<p>that</p>
+,<p>where</p>
+<p>I never do anything until I have checked everything ________</p>,1,one,
+*,<p>myself</p>
+,<p>yourself</p>
+,<p>himself</p>
+<p>I hope you didn't hurt _______.</p>,1,one,
+,<p>myself</p>
+*,<p>yourself</p>
+,<p>himself</p>
+<p>I (to wait) for you a long time.</p>,1,one,
+,<p>waited</p>
+*,<p>have been waiting</p>
+,<p>have waited</p>
+<p>There was ... beautiful flower in this ... vase yesterday.</p>,1,one,
+*,<p>a/-</p>
+,<p>an/-</p>
+,<p>the/-</p>
+"<p>If I (to tell) her how beautiful she is, she (be) pleased.</p>",1,one,
+*,<p>told/would be</p>
+,<p>tell/would be</p>
+,<p>told/be</p>
+<p>They were (thrill) by his news.</p>,1,one,
+,<p>thrill</p>
+,<p>thrilling</p>
+*,<p>thrilled</p>
+<p>Your cat is ____ lazy.</p>,1,one,
+*,<p>so</p>
+,<p>such</p>
+,<p>what</p>

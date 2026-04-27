@@ -1,0 +1,49 @@
+HTML
+"<p>If Peter comes to my place, we__________  (to go) to play in the yard.</p>",1,one,
+*,<p>will go</p>
+,<p>go</p>
+,<p>goes</p>
+"<p>If Peter__________ (not to come) to my place, I will watch TV.</p>",1,one,
+,<p>don't come</p>
+*,<p>doesn't come</p>
+,<p>won't come</p>
+"<p>If Frank’s parents have their holidays in summer, they __________ (to go) to the seaside.</p>",1,one,
+,<p>go</p>
+,<p>goes</p>
+*,<p>will go</p>
+"<p>If they __________ (to have) their holidays in winter, they will stay at home.</p>",1,one,
+*,<p>have</p>
+,<p>has</p>
+,<p>will have</p>
+"<p>If the fog thickens, Harold _______ (to put up) the tent for the night.</p>",1,one,
+,<p>puts up</p>
+*,<p>will put up</p>
+,<p>put up</p>
+"<p>If I _______ (to finish) my work, I will go to the cinema.</p>",1,one,
+,<p>will finish</p>
+,<p>finishes</p>
+*,<p>finish</p>
+<p>We_______ (to buy) this book if our mother gives us some money.</p>,1,one,
+*,<p>will buy</p>
+,<p>buy</p>
+,<p>buys</p>
+<p>If we _______ (come) to your place you will show us your present.</p>,1,one,
+,<p>will come</p>
+*,<p>come</p>
+,<p>comes</p>
+<p>I_______ (return) you your ring if you ask me.</p>,1,one,
+,<p>return</p>
+,<p>returns</p>
+*,<p>will return</p>
+<p>I will wait for my friend if he_______ (to go) to the shop.</p>,1,one,
+*,<p>goes</p>
+,<p>will go</p>
+,<p>go</p>
+<p>My father_______ (start) writing if the sun rises.</p>,1,one,
+,<p>starts</p>
+*,<p>will start</p>
+,<p>start</p>
+<p>If you don't finish your study I _______ (not to present) you with a new computer.</p>,1,one,
+,<p>will give</p>
+,<p>don't give</p>
+*,<p>won't give</p>

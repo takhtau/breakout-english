@@ -1,0 +1,37 @@
+HTML
+<p>Boy drove the (sheep) to the village.</p>,1,one,
+*,<p>sheep</p>
+,<p>sheeps </p>
+<p>I have hurt my (foot.).</p>,1,one,
+,<p>foots</p>
+*,<p>feet</p>
+<p> These are  (lady-bird).</p>,1,one,
+,<p>lady-bird</p>
+*,<p>lady-birds</p>
+<p>Where are the (knife)?</p>,1,one,
+*,<p>knives </p>
+,<p>knifes </p>
+<p>These (factory) have good laboratories.</p>,1,one,
+,<p>factorys</p>
+*,<p>factories </p>
+<p>The last (leaf) fell from the trees.</p>,1,one,
+*,<p>leaves </p>
+,<p>leafs</p>
+<p>These (story) are very long.</p>,1,one,
+,<p>storys</p>
+*,<p>stories</p>
+<p>The (speech) were very interesting.</p>,1,one,
+*,<p>speeches </p>
+,<p>speechs</p>
+<p>He left the (key) on the table. </p>,1,one,
+,<p>keies</p>
+*,<p>keys</p>
+<p>Where are the (brush)?</p>,1,one,
+*,<p>brushes </p>
+,<p>brushs </p>
+<p>I like his new (play). </p>,1,one,
+,<p>plaies</p>
+*,<p>plays</p>
+<p>The roofs of the (house) were covered with snow.</p>,1,one,
+*,<p>houses </p>
+,<p>house</p>

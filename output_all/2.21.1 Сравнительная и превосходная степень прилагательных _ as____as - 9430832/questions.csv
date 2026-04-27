@@ -1,0 +1,49 @@
+HTML
+<p>It’s much (delicious) than the marmalade I usually buy.</p>,1,one,
+*,<p>more delicious</p>
+,<p>the most delicious</p>
+,<p>as delicious as</p>
+<p>We think Smucker’s Sweet Orange Marmalade is (delicious) marmalade in the world.</p>,1,one,
+,<p>more delicious</p>
+*,<p>the most delicious</p>
+,<p>as delicious as</p>
+<p>The rivers in America are much (big) than those in England.</p>,1,one,
+,<p>biggest</p>
+,<p>as big as</p>
+*,<p>bigger</p>
+<p>The island of Great Britain is (small) than Greenland.</p>,1,one,
+*,<p>smaller</p>
+,<p>smallest</p>
+,<p>as small as</p>
+<p>What is the name of the (high) mountain in Asia?</p>,1,one,
+,<p>higher</p>
+*,<p>highest</p>
+,<p>as high as</p>
+<p>The English Channel is (wide) than the Strait of Gibraltar.</p>,1,one,
+,<p>as wide as</p>
+,<p>widest</p>
+*,<p>wider</p>
+<p>Mike is (tall) Pete.</p>,1,one,
+*,<p>as tall as</p>
+,<p>taller </p>
+,<p>tallest</p>
+<p>Kate is not (nice) Ann.</p>,1,one,
+,<p>nicer</p>
+*,<p>as nice as</p>
+,<p>nicest</p>
+<p>My room is (light) this one.</p>,1,one,
+,<p>lighter</p>
+,<p>lightest</p>
+*,<p>as light as</p>
+<p>This book is not (thin) that one.</p>,1,one,
+*,<p>as thin as</p>
+,<p>thiner</p>
+,<p>thinest</p>
+<p>What is the name of the (big) port in the United States?</p>,1,one,
+,<p>bigger</p>
+*,<p>biggest</p>
+,<p>as big as</p>
+<p>Moscow is the (large) city in Russia.</p>,1,one,
+,<p>as large as</p>
+,<p>larger</p>
+*,<p>largest</p>

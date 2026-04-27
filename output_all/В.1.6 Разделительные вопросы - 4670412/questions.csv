@@ -1,0 +1,41 @@
+HTML
+"<p>You had a good time there, ________ ?</p>",1,one,"<p>Разделительный вопрос, две части</p><p>1) + (past simple),       2)- (вспомогательный глагол +not  [Past simple] + местоимение)              </p><p>did - вспомогательный глагол Past simple</p><p><br/></p><p><br/></p><table border=""1"" cellpadding=""0"" cellspacing=""0""><tbody><tr><td valign=""top"" width=""100%""><p><br/></p></td></tr></tbody></table><table border=""1"" cellpadding=""0"" cellspacing=""0""><tbody><tr><td valign=""top"" width=""100%""><p><br/></p></td></tr></tbody></table>"
+*,<p>didn't you</p>
+,<p>had you</p>
+,<p>hadn't you</p>
+"<p>There is nothing here, ________ ?</p>",1,one,
+,<p>is it</p>
+*,<p>is there</p>
+,<p>isn't there</p>
+"<p>They had a nice garden in front of their house, .............?</p>",1,one,
+,<p>hadn't they</p>
+*,<p>didn't they</p>
+,<p>did they</p>
+"<p>There is nothing funny in this text, ...........?</p>",1,one,
+,<p>is it</p>
+*,<p>is there</p>
+,<p>isn't there</p>
+"<p>The pupils had holidays in June,..........?</p>",1,one,
+,<p>hadn't they</p>
+*,<p>didn't they</p>
+,<p>had they</p>
+"<p>There is nothing new in this lesson, ...........?</p>",1,one,
+,<p>is it</p>
+*,<p>is there</p>
+,<p>isn't there</p>
+"<p>Helen had lunch at home,...........?</p>",1,one,
+,<p>had she</p>
+,<p>hadn't she</p>
+*,<p>didn't she</p>
+"<p>There is nobody behind the door, ...........?</p>",1,one,
+,<p>is it</p>
+*,<p>is there</p>
+,<p>isn't there</p>
+"<p> There is butter in the fridge, ________________?</p>",1,one,
+*,<p>isn't there</p>
+,<p>doesn't it</p>
+,<p>isn't it</p>
+"<p>Did you draw a picture,_____________?</p>",1,one,
+*,<p>didn't you</p>
+,<p>did you</p>
+,<p>weren't you</p>

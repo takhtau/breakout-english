@@ -1,0 +1,49 @@
+HTML
+<p>The bar in Barcelona in ... I met my wife is still there. </p>,1,one,
+*,<p>which</p>
+,<p>who</p>
+,<p>where</p>
+<p>The woman ... car is a BMW is coming tonight. </p>,1,one,
+,<p>which</p>
+*,<p>whose</p>
+,<p>that</p>
+<p>The house ... roof is old belongs to me. </p>,1,one,
+,<p>that</p>
+,<p>where</p>
+*,<p>whose</p>
+"<p>My boss, ... is very nice, lives in Manchester.</p>",1,one,
+*,<p>who</p>
+,<p>whose</p>
+,<p>which</p>
+"<p>My mother's house, ... I grew up in, is very small.</p>",1,one,
+,<p>where</p>
+*,<p>which</p>
+,<p>whose</p>
+"<p>Yesterday I called our friend Julie, ... lives in New York.</p>",1,one,
+,<p>which</p>
+,<p>where</p>
+*,<p>who</p>
+"<p>Last week I bought a new computer, ... I don't like now.</p>",1,one,
+*,<p>which</p>
+,<p>who</p>
+,<p>where</p>
+<p>The bike ... I loved was stolen.</p>,1,one,
+,<p>who</p>
+*,<p>that</p>
+,<p>whose</p>
+<p>We went to the village ... Lucy recommended.</p>,1,one,
+,<p>where</p>
+,<p>who</p>
+*,<p>that</p>
+"<p>The school, ... I studied, is in the centre of the city. </p>",1,one,
+*,<p>where</p>
+,<p>that</p>
+,<p>whose</p>
+<p>This is the café ... I ate a delicious cake yesterday. </p>,1,one,
+,<p>that</p>
+*,<p>where</p>
+,<p>who</p>
+<p>He’s marrying a girl ... family don’t seem to like him. </p>,1,one,
+,<p>which</p>
+,<p>that</p>
+*,<p>whose</p>

@@ -1,0 +1,31 @@
+HTML
+<p>You gained some weight = You put ___ a few pounds.</p>,1,one,
+*,<p>on</p>
+,<p>in</p>
+<p>Don't tell anyone about it = Keep it ___ yourself.</p>,1,one,
+*,<p>to</p>
+,<p>from</p>
+<p>Have you been in contact with Sarah? = Have you heard ___ Sarah?</p>,1,one,
+,<p>to</p>
+*,<p>from</p>
+<p>I've been spending time with her = I've been hanging ___ with her.</p>,1,one,
+*,<p>out</p>
+,<p>from</p>
+<p>Please take care of my little sister = Please look ___ my little sister.</p>,1,one,
+*,<p>after</p>
+,<p>at</p>
+<p>He disappointed me = He let me______.</p>,1,one,
+*,<p>down</p>
+,<p>on</p>
+<p>You can trust me = You can count ___ me.</p>,1,one,
+*,<p>on</p>
+,<p>in</p>
+<p>We often eat in restaurants = We often eat ___.</p>,1,one,
+*,<p>out</p>
+,<p>in</p>
+<p>I can't understand why you would say that = I can't figure ___ why you would say that.</p>,1,one,
+*,<p>out</p>
+,<p>at</p>
+<p>He is planning something = He is up ___ something.</p>,1,one,
+*,<p>to</p>
+,<p>from</p>

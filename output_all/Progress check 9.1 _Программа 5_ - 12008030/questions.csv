@@ -1,0 +1,47 @@
+HTML
+<p>She wants to buy _______ milk.</p>,1,one,
+,<p>a slice of</p>
+*,<p>a bottle of</p>
+,<p>cups of</p>
+"<p>Can I have two sandwiches and _________ bread, please?</p>",1,one,
+,<p>a jar of</p>
+*,<p>a piece of </p>
+"<p>Can you pass me a _________ of cheese, please! </p>",1,one,
+,<p>a can of</p>
+,<p>bottle of</p>
+*,<p>slice</p>
+<p>This ________ of cereal is empty. We need to buy a new one.</p>,1,one,
+,<p>a packet of</p>
+*,<p>carton of</p>
+,<p>loaf of</p>
+<p>_________ no milk in the fridge.</p>,1,one,
+*,<p>There is</p>
+,<p>There </p>
+,<p>Is there</p>
+<p>The girl is _______ the crowd.</p>,1,one,
+,<p>under</p>
+,<p>below</p>
+*,<p>among</p>
+<p>The cat won't come up  _______ to the fire.</p>,1,one,
+,<p>there</p>
+*,<p>near</p>
+<p>There is a desk ________ my window.</p>,1,one,
+*,<p>next to</p>
+,<p>inside</p>
+,<p>between</p>
+<p>Abstract noun</p>,1,one,
+*,<p>Time</p>
+,<p>Goose</p>
+,<p>Hospital</p>
+<p>Abstract noun</p>,1,one,
+,<p>Sticker</p>
+*,<p>Flour</p>
+,<p>Friend</p>
+<p>... Honey ... so sweet. You can add ... to your tea.</p>,1,one,
+,"<p>a, is, it</p>"
+,"<p>–, are, them</p>"
+*,"<p>–, is, it</p>"
+<p>What ... great information! ...  ... me happy.</p>,1,one,
+,"<p>a, they, makes</p>"
+,"<p>–, it, make</p>"
+*,"<p>–, it, makes</p>"

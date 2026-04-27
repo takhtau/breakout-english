@@ -1,0 +1,49 @@
+HTML
+"<p>_________, she's rather pretty.</p>",1,one,
+,<p>Actually </p>
+,<p>Probably </p>
+*,<p>Besides </p>
+"<p>________, you were very rude.</p>",1,one,
+*,<p>Besides </p>
+,<p>Actually </p>
+,<p>Probably </p>
+"<p>And_________that, she's very good company. </p>",1,one,
+,<p>Actually </p>
+*,<p>Besides </p>
+,<p>Probably </p>
+"<p>__________, I know the idea crossed your mind. </p>",1,one,
+,<p>Actually </p>
+*,<p>Besides </p>
+,<p>Probably </p>
+<p>I ________ would have figured it out myself if you hadn't tipped me off.</p>,1,one,
+,<p>Actually </p>
+,<p>Besides </p>
+*,<p>Probably </p>
+"<p>She was _________ telling the truth, sir. </p>",1,one,
+,<p>Actually </p>
+*,<p>Probably </p>
+,<p>Besides </p>
+"<p>He was just homesick, but _______ they couldn't see it that way. </p>",1,one,
+*,<p>Probably </p>
+,<p>Actually </p>
+,<p>Besides </p>
+<p>She ________forgot it's the opening and made another date. </p>,1,one,
+,<p>Actually </p>
+*,<p>Probably </p>
+,<p>Besides </p>
+"<p>__________, it’s not his car. It’s mine.</p>",1,one,
+*,<p>Actually </p>
+,<p>Probably </p>
+,<p>Besides </p>
+"<p>She looks very young, but she’s _____about 40. That’s be­cause she does a lot of sport. </p>",1,one,
+,<p>Probably </p>
+*,<p>Actually </p>
+,<p>Besides </p>
+"<p>_________, I don’t re­mem­ber him quite well. </p>",1,one,
+,<p>Probably </p>
+,<p>Besides </p>
+*,<p>Actually </p>
+<p>The situation is very bad. No one can ______help me. </p>,1,one,
+*,<p>Actually </p>
+,<p>Probably </p>
+,<p>Besides </p>

@@ -1,0 +1,49 @@
+HTML
+<p>We ________ to the circus last Saturday. </p>,1,one,
+*,<p>went</p>
+,<p>go</p>
+,<p>goes</p>
+<p>Billy _______ a cup of coffee an hour ago. </p>,1,one,
+,<p>drink </p>
+*,<p>drank </p>
+,<p>drinked </p>
+<p>Bob _______ her documents yesterday evening.</p>,1,one,
+,<p>find</p>
+,<p>finded </p>
+*,<p>found</p>
+<p>The child _____ lies a minute ago. </p>,1,one,
+*,<p>told</p>
+,<p>telled </p>
+,<p>tell</p>
+<p>I ________ a telegram to my Granny last Wednesday. </p>,1,one,
+,<p>send</p>
+,<p>sended </p>
+*,<p>sent</p>
+<p>I ________ to the sports ground the day before yesterday.</p>,1,one,
+*,<p>didn't go</p>
+,<p>don't go</p>
+,<p>didn't went</p>
+<p>My little nephew _______ with his cars yesterday evening. </p>,1,one,
+,<p>doesn't play</p>
+*,<p>didn't play</p>
+,<p>didn't played</p>
+<p>Her mother ______ shopping yesterday afternoon. </p>,1,one,
+,<p>doesn't go</p>
+,<p>didn't went </p>
+*,<p>didn't go</p>
+<p>We ______ supper with our friends yesterday evening. </p>,1,one,
+*,<p>didn't have</p>
+,<p>didn't had </p>
+,<p>don't have </p>
+<p>_______you watch TV yesterday? </p>,1,one,
+,<p>do</p>
+*,<p>did </p>
+,<p>does</p>
+<p>_______you play football two weeks ago? </p>,1,one,
+*,<p>did </p>
+,<p>do</p>
+,<p>does</p>
+<p>________she tell a story yesterday? </p>,1,one,
+,<p>do</p>
+,<p>does</p>
+*,<p>did </p>

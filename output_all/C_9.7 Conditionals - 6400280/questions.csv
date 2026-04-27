@@ -1,0 +1,31 @@
+HTML
+"<p>If his nose were smaller, he ___ very handsome.</p>",1,one,
+*,<p>would be</p>
+,<p>was</p>
+<p>I would come if I ___ a car.</p>,1,one,
+,<p>would have</p>
+*,<p>had</p>
+"<p>If she ___, she would tell him.</p>",1,one,
+,<p>knows</p>
+*,<p>knew</p>
+"<p>If his parents didn't give him money, he ___ so much.</p>",1,one,
+*,<p>wouldn't go out</p>
+,<p>didn't go out</p>
+"<p>If she ____ me, she would have told me.</p>",1,one,
+*,<p>didn't believe</p>
+,<p>wouldn't believe</p>
+<p>He wouldn't say that if he ___ it.</p>,1,one,
+,<p>wouldn't mean</p>
+*,<p>didn't mean</p>
+<p>I ___ on a trip around the world if I won the lottery.</p>,1,one,
+*,<p>would go</p>
+,<p>will go</p>
+<p>I ___ that if I were you.</p>,1,one,
+,<p>will not do</p>
+*,<p>would not do</p>
+"<p>If these walls ___ thicker, we wouldn't hear the neighbors.</p>",1,one,
+,<p>would be</p>
+*,<p>were</p>
+"<p>If I were a millionaire, ___ a mansion.</p>",1,one,
+*,<p>I'd buy</p>
+,<p>I'm going to buy</p>

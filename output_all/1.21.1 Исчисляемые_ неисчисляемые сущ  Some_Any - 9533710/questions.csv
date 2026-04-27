@@ -1,0 +1,37 @@
+HTML
+<p>She has got _____ pens.</p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+<p>Have you got ____ juice? </p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>Has he got ____ games?</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>There is ____ water in the cup.</p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>I have got ____ apples.</p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+<p>We have got _____ sweets.</p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>Do you have____ chocolate?</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+<p>I don’t have ___ money.</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+<p>Have you got ____ yellow paper?</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>Jack doesn’t have ____ pencils.</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+<p>They ask me ____ questions.</p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+"<p>Give me ____ money, please.</p>",1,one,
+*,<p>some</p>
+,<p>any</p>

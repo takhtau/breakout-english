@@ -1,0 +1,61 @@
+HTML
+<p>Did you see _____ brother there?</p>,1,one,
+,<p>Oleg</p>
+*,<p>Oleg's</p>
+,<p>him</p>
+<p>Did you see _____ there?</p>,1,one,
+*,<p>Oleg</p>
+,<p>Oleg's</p>
+,<p>his</p>
+<p>Can you help _____ with the computer?</p>,1,one,
+,<p>his</p>
+,<p>Oleg's</p>
+*,<p>him</p>
+<p>_____ potatoes have you got?</p>,1,one,
+*,<p>How many</p>
+,<p>How much</p>
+,<p>How</p>
+<p>_____ potato salad have you got?</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>_____ is she? - She is Olga's babysitter.</p>,1,one,
+*,<p>Who</p>
+,<p>What</p>
+,<p>Whose</p>
+<p>_____ babysitter is she? - Olga's.</p>,1,one,
+,<p>Who</p>
+,<p>What</p>
+*,<p>Whose</p>
+<p>Those _____ will leave their bikes behind the building.</p>,1,one,
+,<p>student</p>
+*,<p>students</p>
+,<p>students'</p>
+<p>The _____ bikes are behind the building.</p>,1,one,
+,<p>student</p>
+,<p>students</p>
+*,<p>students'</p>
+<p>You can use _____ ruler.</p>,1,one,
+,<p>second</p>
+*,<p>the second</p>
+,<p>two</p>
+<p>You can use _____ rulers.</p>,1,one,
+,<p>second</p>
+,<p>the second</p>
+*,<p>two</p>
+<p>He would like _____ you.</p>,1,one,
+,<p>help</p>
+*,<p>to help</p>
+,<p>helps</p>
+<p>We haven't got _____ peanut butter.</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+,<p>a</p>
+<p>I bought _____ peanut butter last night.</p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+,<p>a</p>
+<p>Is it _____ nut?</p>,1,one,
+,<p>some</p>
+,<p>any</p>
+*,<p>a</p>

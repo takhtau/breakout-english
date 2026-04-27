@@ -1,0 +1,17 @@
+HTML
+<p>Summer is ___ season.</p>,1,one,
+,<p>hot</p>
+,<p>hotter</p>
+*,<p>the hottest</p>
+<p>Winter is ___ than summer.</p>,1,one,
+,<p>the coldest</p>
+*,<p>colder</p>
+,<p>cold</p>
+<p>Spring is ___ than winter.</p>,1,one,
+,<p>warm</p>
+*,<p>warmer</p>
+,<p>the warmest</p>
+<p>Winter is ___ season.</p>,1,one,
+,<p>the warmest</p>
+*,<p>the coldest</p>
+,<p>the hottest</p>

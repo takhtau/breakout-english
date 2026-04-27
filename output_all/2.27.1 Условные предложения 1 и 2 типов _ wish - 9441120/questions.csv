@@ -1,0 +1,49 @@
+HTML
+"<p>If he were not such an outstanding actor, he (not to have) so many admirers.</p>",1,one,
+*,<p>wouldn't have</p>
+,<p>won't have</p>
+,<p>doesn't have</p>
+"<p>If you (to give) me your address, I will write you a letter.</p>",1,one,
+,<p>would give</p>
+*,<p>give</p>
+,<p>will give</p>
+"<p>If she (not to be) so absent-minded, she would be a much better student.</p>",~1,one,
+,<p>wouldn't be</p>
+,<p>isn't</p>
+*,<p>weren't</p>
+"<p>If my sister does not go to the south, we (to spend) the summer in St Petersburg together.</p>",1,one,
+*,<p>will spend</p>
+,<p>spend</p>
+,<p>would spend</p>
+"<p>If they (not to go) to Moscow last year, they would not have heard that famous musician.</p>",1,one,
+,<p>don't go</p>
+*,<p>hadn't gone</p>
+,<p>wouldn't go</p>
+"<p>If you (not to get) tickets to the Philharmonic, we will stay at home.</p>",1,one,
+,<p>won't get</p>
+,<p>wouldn't get</p>
+*,<p>don't get</p>
+"<p>If you were not so careless about your health, you (to consult) the doctor.</p>",~1,one,
+*,<p>would consult</p>
+,<p>will consult</p>
+,<p>consult</p>
+"<p>If it (to rain), we will have to stay at home.</p>",1,one,
+,<p>will rain</p>
+*,<p>rains</p>
+,<p>would rain</p>
+<p>I wish I (to have) a season ticket to the Philharmonic next winter.</p>,1,one,
+,<p>would have</p>
+,<p>have</p>
+*,<p>had</p>
+<p>I love sunny weather. I wish it (to be) warm and fine all the year round.</p>,1,one,
+*,<p>were</p>
+,<p>would be</p>
+,<p>is</p>
+<p>I wish you (to send) word as soon as you arrive.</p>,1,one,
+,<p>will send</p>
+*,<p>sent</p>
+,<p>sended</p>
+<p>I wish I (not to have) to do my homework every day.</p>,1,one,
+,<p>wouldn't have</p>
+,<p>hadn't</p>
+*,<p>didn't have</p>

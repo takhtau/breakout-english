@@ -1,0 +1,49 @@
+HTML
+<p>(Почему) ___are  they at home? </p>,1,one,
+*,<p>Why</p>
+,<p>What</p>
+,<p>When</p>
+<p>(Сколько лет)____ is your sister?</p>,1,one,
+,<p>Where</p>
+*,<p>How old</p>
+,<p>When</p>
+<p>(Где) ___am I?</p>,1,one,
+,<p>When</p>
+,<p>How old</p>
+*,<p>Where</p>
+<p>(Где) ___ is my phone?</p>,1,one,
+*,<p>Where</p>
+,<p>Why</p>
+,<p>When</p>
+<p>(Где)  ___is  the bank?</p>,1,one,
+,<p>Why</p>
+*,<p>Where</p>
+,<p>When</p>
+<p>(Когда)___ are you at home?</p>,1,one,
+,<p>How</p>
+*,<p>When</p>
+,<p>Where</p>
+<p>( Когда) is breakfast?</p>,1,one,
+*,<p>When</p>
+,<p>Why</p>
+,<p>How old</p>
+<p>How old ___ you?</p>,1,one,
+,<p>am</p>
+*,<p>are</p>
+,<p>is</p>
+<p>Why ___ you so clever?</p>,1,one,
+,<p>is</p>
+,<p>am</p>
+*,<p>are</p>
+<p>Where ___ you from?</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+,<p>am</p>
+<p>How old ___ I?</p>,1,one,
+,<p>is</p>
+*,<p>am</p>
+,<p>are</p>
+<p>What ___ it?</p>,1,one,
+,<p>am</p>
+,<p>are</p>
+*,<p>is</p>

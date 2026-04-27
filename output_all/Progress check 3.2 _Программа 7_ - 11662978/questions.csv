@@ -1,0 +1,61 @@
+HTML
+<p>My brother is _____ pupil.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>an</p>
+<p>My father is ______ teacher.</p>,1,one,
+,<p>the</p>
+,<p>an</p>
+*,<p>a</p>
+<p>This is____ orange.</p>,1,one,
+,<p>the</p>
+*,<p>an</p>
+,<p>a</p>
+<p>I always cook dinner in ____ evening.</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>the</p>
+<p>There _____ a vase on the table.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There_________three dogs in the bedroom. </p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>_______ there a fridge in the kitchen? </p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>_______ there chairs in the kitchen?</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>What ___ your favourite colour?</p>,1,one,
+,<p>are</p>
+,<p>am</p>
+*,<p>is</p>
+<p>What ____ your favourite flowers?</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+,<p>am</p>
+<p>When ___ your birthday?</p>,1,one,
+,<p>am</p>
+,<p>are</p>
+*,<p>is</p>
+<p>There is a white cloud in ___ sky.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>the</p>
+<p>We have got ___ big room.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>an</p>
+<p>This is ___ computer.</p>,1,one,
+,<p>the</p>
+,<p>-</p>
+*,<p>a</p>
+<p>They play with ___ ball.</p>,1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>-</p>
+<p>____ is it?</p>,1,one,
+*,<p>What</p>
+,<p>Why</p>
+,<p>How</p>

@@ -1,0 +1,33 @@
+HTML
+<p>This is a girl. What is ___ name?</p>,1,one,
+*,<p>her</p>
+,<p>his</p>
+,<p>their</p>
+<p>Those boys are my friends. What are ___ names?</p>,1,one,
+,<p>her</p>
+,<p>his</p>
+*,<p>their</p>
+<p>Jim plays with a dog. Is it ___ dog?</p>,1,one,
+,<p>her</p>
+*,<p>his</p>
+,<p>their</p>
+<p>That boy is Tom. ___ father is my teacher.</p>,1,one,
+,<p>Her</p>
+*,<p>His</p>
+,<p>Their</p>
+"<p>Tim and Abby play with a ball, ___ ball is nice.</p>",1,one,
+,<p>her</p>
+,<p>his</p>
+*,<p>their</p>
+<p>Helen has got a dog. ___ dog is little.</p>,1,one,
+*,<p>Her</p>
+,<p>His</p>
+,<p>Their</p>
+<p>Billy likes to play with ___ monkey.</p>,1,one,
+,<p>her</p>
+*,<p>his</p>
+,<p>their</p>
+<p>Jane and Kate are sisters. ___ mother is a doctor.</p>,1,one,
+,<p>Her</p>
+,<p>His</p>
+*,<p>Their</p>

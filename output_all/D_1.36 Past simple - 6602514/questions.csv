@@ -1,0 +1,41 @@
+HTML
+<p>You often _____ her in your letters.</p>,1,one,
+*,<p>mentioned</p>
+,<p>mentiond</p>
+,<p>didn't mentioned</p>
+<p>She _____ a large blunt knobby nose.</p>,1,one,
+*,<p>had</p>
+,<p>didn't had</p>
+,<p>hads</p>
+<p>I _____ off the computer a minute ago.</p>,1,one,
+,<p>turn</p>
+*,<p>turned</p>
+,<p>turns</p>
+<p>We _____ the party last week.</p>,1,one,
+*,<p>enjoyed</p>
+,<p>enjoy</p>
+,<p>enjoyd</p>
+<p>Mother _____ a lot of work last year.</p>,1,one,
+*,<p>did</p>
+,<p>do</p>
+,<p>does</p>
+<p>He _____ with acute intensity.</p>,1,one,
+,<p>did talk</p>
+,<p>talk</p>
+*,<p>talked</p>
+<p>I _____ a lot of money on books yesterday.</p>,1,one,
+,<p>spend</p>
+,<p>spended</p>
+*,<p>spent</p>
+<p>When _____ you _____ to the cinema last?</p>,1,one,
+,"<p>did, went</p>"
+*,"<p>did, go</p>"
+,"<p>do, go</p>"
+"<p>I _____ the office, _____ around and _____ up to the secretary.</p>",1,one,
+,"<p>was entering, looked, come</p>"
+*,"<p>entered, looked, came</p>"
+,"<p>enter, look, came</p>"
+<p>We _____ an accident near the park yesterday.</p>,1,one,
+,<p>see</p>
+*,<p>saw</p>
+,<p>seen</p>

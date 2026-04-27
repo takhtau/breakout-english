@@ -1,0 +1,41 @@
+HTML
+"<p>If you are feeling tired, you__________to bed early tonight. </p>",1,one,
+*,<p>should go </p>
+,<p>shouldn't go </p>
+,<p>go </p>
+<p>Look at the sky! It___________a beautiful day. </p>,1,one,
+,<p>will be </p>
+*,<p>is going to be </p>
+,<p>is being </p>
+"<p>First she did the washing up,__________she started her homework. </p>",1,one,
+*,<p>then </p>
+,<p>when </p>
+,<p>as soon as </p>
+<p>To be a teacher you have to be very________ . </p>,1,one,
+,<p>curious</p>
+,<p>athletic </p>
+*,<p>patient</p>
+<p>I like listening to___________because I'm very curious about other people lives. </p>,1,one,
+,<p>articles</p>
+,<p>music</p>
+*,<p>gossip </p>
+<p>I_____________in a hospital for the next few months. </p>,1,one,
+,<p>worked</p>
+*,<p>am working</p>
+,<p>work </p>
+"<p>If run fast, you_________tired. </p>",1,one,
+,<p>are getting</p>
+,<p>got </p>
+*,<p>get</p>
+<p>The robber ran away______he saw the police car. </p>,1,one,
+,<p>until</p>
+,<p>then</p>
+*,<p>as soon as</p>
+<p>Jack was__________to see that we were preparing breakfast. </p>,1,one,
+,<p>surprise</p>
+*,<p>surprised </p>
+,<p>surprising </p>
+"<p>When you________a lot, you may fail your exams. </p>",1,one,
+*,<p>don't study</p>
+,<p>didn't study </p>
+,<p>weren't studying </p>

@@ -1,0 +1,31 @@
+HTML
+<p>  </p>,1,one,
+*,<p>There is a good Italian restaurant nearby.</p>
+,<p>There is good Italian restaurant nearby.</p>
+<p>  </p>,1,one,
+*,<p>Gold is a precious metal.</p>
+,<p>Gold is precious metal.</p>
+<p>  </p>,1,one,
+,<p>Smiths have bought a new flat.</p>
+*,<p>The Smiths have bought a new flat.</p>
+<p>  </p>,1,one,
+,<p>I am reading a interesting book.</p>
+*,<p>I am reading an interesting book.</p>
+<p>  </p>,1,one,
+*,<p>The largest river in the USA is the Mississippi River.</p>
+,<p>The largest river in USA is the Mississippi River.</p>
+<p>  </p>,1,one,
+,<p>They went to Alps every summer.</p>
+*,<p>They went to the Alps every summer.</p>
+<p>  </p>,1,one,
+,<p>Jane is editor.</p>
+*,<p>Jane is an editor.</p>
+<p>  </p>,1,one,
+*,<p>I would like to have a cup of coffee.</p>
+,<p>I would like to have cup of coffee.</p>
+<p>  </p>,1,one,
+*,<p>Jack is a good worker.</p>
+,<p>Jack is good worker.</p>
+<p>  </p>,1,one,
+,<p>Mexico is a rich in oil.</p>
+*,<p>Mexico is rich in oil.</p>

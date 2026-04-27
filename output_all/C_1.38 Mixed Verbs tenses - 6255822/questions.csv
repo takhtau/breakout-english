@@ -1,0 +1,41 @@
+HTML
+"<p>By the time I got to the hotel, ___ any rooms left.</p>",1,one,
+*,<p>there weren't</p>
+,<p>there hadn't been</p>
+,<p>there isn't</p>
+<p>I was afraid to ask her out because she ___ me before.</p>,1,one,
+,<p>was rejecting</p>
+*,<p>had rejected</p>
+,<p>rejected</p>
+<p>I ___ to music when she came in.</p>,1,one,
+*,<p>was listening</p>
+,<p> listened</p>
+,<p>have been listening </p>
+<p>What have you been doing? I ___ a lot.</p>,1,one,
+,<p>have worked</p>
+,<p>worked</p>
+*,<p>have been working</p>
+<p>Last night I ___ that I was living in China.</p>,1,one,
+,<p>dreamed</p>
+,<p>have dreamed</p>
+*,<p>dreamt</p>
+<p>I don't know why you insist on ___ to Cambodia.</p>,1,one,
+*,<p>going</p>
+,<p>to go</p>
+,<p>to be going</p>
+<p>The movie that we ___ last Monday was really awful.</p>,1,one,
+,<p>have seen</p>
+*,<p>saw</p>
+,<p>were seeing</p>
+<p>He ___ his granddaughter daily.</p>,1,one,
+,<p>calling</p>
+*,<p>calls</p>
+,<p>is calling</p>
+<p>I read the book that you gave me - could you ___ me another one?</p>,1,one,
+,<p>to lend</p>
+,<p>will lend</p>
+*,<p>lend</p>
+<p>He ___ her if she hadn't waved to him.</p>,1,one,
+,<p>didn't see</p>
+*,<p>would not have seen</p>
+,<p>will not have seen</p>

@@ -1,0 +1,49 @@
+HTML
+<p>Where ... you from? </p>,1,one,
+*,<p>are</p>
+,<p>am</p>
+,<p>is</p>
+<p>Where ... your books now?</p>,1,one,
+,<p>am</p>
+*,<p>are</p>
+,<p>were</p>
+<p>... your little sister in bed now?</p>,1,one,
+,<p>will be</p>
+,<p>was</p>
+*,<p>is</p>
+<p>I ... in the kitchen now. </p>,1,one,
+*,<p>am</p>
+,<p>is</p>
+,<p>were</p>
+<p>My aunt ... very depressed last Sunday.</p>,1,one,
+*,<p>was</p>
+,<p>were</p>
+,<p>are</p>
+<p>Last month they ... in the Hermitage.</p>,1,one,
+*,<p>were</p>
+,<p>was</p>
+,<p>will be</p>
+<p>He ... a pupil twenty years ago.</p>,1,one,
+*,<p>was</p>
+,<p>were</p>
+,<p>is</p>
+<p>... your father at work yesterday?</p>,1,one,
+,<p>were</p>
+*,<p>was</p>
+,<p>will be</p>
+<p>In two weeks they ... in the Tretyakov Art Gallery.</p>,1,one,
+*,<p>will be</p>
+,<p>were</p>
+,<p>are</p>
+<p>She ... at school tomorrow.</p>,1,one,
+,<p>is</p>
+,<p>am</p>
+*,<p>will be</p>
+"<p>When I come home tomorrow, all my family ... at home.</p>",1,one,
+,<p>was</p>
+*,<p>will be</p>
+,<p>is</p>
+<p>He ... in St Petersburg tomorrow.</p>,1,one,
+*,<p>will be</p>
+,<p>are</p>
+,<p>was</p>

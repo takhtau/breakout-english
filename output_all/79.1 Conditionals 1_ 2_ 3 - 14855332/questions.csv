@@ -1,0 +1,49 @@
+HTML
+"<p>If I ----- harder, I would have passed the exam.</p>",1,one,
+,<p>have studied</p>
+*,<p>had studied</p>
+,<p>would study</p>
+"<p>If I won the lottery, I ----- around the world.</p>",1,one,
+*,<p>would travel</p>
+,<p>will travel</p>
+,<p>travelled</p>
+"<p>If he ----- rich, he’d buy a new car.</p>",1,one,
+,<p>will be</p>
+,<p>is</p>
+*,<p>were</p>
+"<p>If it ----- tomorrow, I will stay at home.</p>",1,one,
+,<p>will rain</p>
+,<p>rained</p>
+*,<p>rains</p>
+<p>----- you travel around the world if you won the lottery?</p>,1,one,
+,<p>will</p>
+*,<p>would</p>
+,<p>did</p>
+<p>Would you ----- a new car if you had saved more money?</p>,1,one,
+*,<p>have bought</p>
+,<p>had bought</p>
+,<p>bought</p>
+"<p>----- you study, you will fail the exam.</p>",1,one,
+,<p>When</p>
+,<p>If</p>
+*,<p>Unless</p>
+<p>Will you help Amanda if she you?</p>,1,one,
+*,<p>asks</p>
+,<p>will ask</p>
+,<p>asked</p>
+<p>----- you have called me if I had asked you?</p>,1,one,
+,<p>Will</p>
+*,<p>Would</p>
+,<p>Had</p>
+"<p>If she ----- her project on time, she will lose points.</p>",1,one,
+,<p>didn't finish</p>
+*,<p>doesn't finish</p>
+,<p>won't finish</p>
+"<p>If we ----- the earlier train, we would have arrived on time.</p>",1,one,
+,<p>took</p>
+,<p>have taken</p>
+*,<p>had taken</p>
+"<p>If he were more careful, he ----- make so many mistakes.</p>",1,one,
+*,<p>wouldn't</p>
+,<p>would</p>
+,<p>will</p>

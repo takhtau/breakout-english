@@ -1,0 +1,41 @@
+HTML
+<p>The robber _____ .</p>,1,one,
+*,<p>was arrested</p>
+,<p>arrested</p>
+,<p>was being arrest</p>
+<p>Blue shoes _____ by them.</p>,1,one,
+,<p>worn</p>
+,<p>was worn</p>
+*,<p>are worn</p>
+<p>The book _____ by them.</p>,1,one,
+,<p>have been read</p>
+,<p>has not read</p>
+*,<p>has not been read</p>
+<p>I don't think we must _____ everything tomorrow.</p>,1,one,
+*,<p>finish</p>
+,<p>have finished</p>
+,<p>be finished</p>
+<p>The secretary _____ to her new boss yesterday.</p>,1,one,
+,<p>introduced</p>
+*,<p>was introduced</p>
+,<p>is introduced</p>
+<p>The book must _____ by 12 December.</p>,1,one,
+*,<p>be returned</p>
+,<p>have returned</p>
+,<p>will be returned</p>
+"<p>America's first college, Harvard, _____ in Massachusetts in 1636.</p>",1,one,
+,<p>is being found</p>
+,<p>had been founded</p>
+*,<p>was founded</p>
+"<p>Detroit _____ as the first capital city of Michigan, but now Lansing is the capital city of Michigan.</p>",1,one,
+,<p>chosen</p>
+*,<p>was chosen</p>
+,<p>have been chosen</p>
+<p>It is a big company. It _____ two hundred people.</p>,1,one,
+,<p>is employed</p>
+*,<p>employs</p>
+,<p>employing</p>
+"<p>When I came to the party, John _____ home.</p>",1,one,
+,<p>had already been gone</p>
+,<p>was gone</p>
+*,<p>had already gone</p>

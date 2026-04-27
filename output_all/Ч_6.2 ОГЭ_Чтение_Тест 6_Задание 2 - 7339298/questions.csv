@@ -1,0 +1,34 @@
+HTML
+"<p><img class=""fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2020-12-08%2F491ae4aa-61c4-4321-8850-7df4fd803b53-fR0xJCoHuFE.jpg""/>Text</p>"
+<p>The average person in Wales speak Welsh. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+"<p>For a long time, education in Wales was given only in English. </p>",1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+"<p>at one point, the Welsh language nearly died out.</p>",1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>The Welsh Language Society sometimes hurt people during its actions. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>Traffic police are required to speak both English and Welsh. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>Many common activities in Wales today are carried out in English. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>People who leave Wales to find work still make good use of Welish. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>People have to speak english in all EU meetings. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>

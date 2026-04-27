@@ -1,0 +1,37 @@
+HTML
+<p>___ cat is mine. (эта рядом)</p>,1,one,
+*,<p>This</p>
+,<p>That</p>
+<p>____ cat is yours. (та- далеко)</p>,1,one,
+,<p>This</p>
+*,<p>That</p>
+<p>____ man speaks English well. (этот)</p>,1,one,
+*,<p>This</p>
+,<p>That</p>
+<p>____ pencil is good. (этот)</p>,1,one,
+,<p>That</p>
+*,<p>This</p>
+<p>_____ girl is our teacher’s daughter. (эта)</p>,1,one,
+*,<p>This</p>
+,<p>That</p>
+<p>_____ computer is fast. (тот)</p>,1,one,
+,<p>This</p>
+*,<p>That</p>
+<p>____ man is strong. (тот)</p>,1,one,
+*,<p>That</p>
+,<p>This</p>
+<p>I like ___ game. (этот)</p>,1,one,
+,<p>that</p>
+*,<p>this</p>
+<p>What is ____? (это)</p>,1,one,
+*,<p>this</p>
+,<p>that</p>
+<p>___ book is my book. (этот)</p>,1,one,
+,<p>That</p>
+*,<p>This</p>
+<p>____ car is good. (тот)</p>,1,one,
+*,<p>That</p>
+,<p>This</p>
+<p>Is ____ chair green? (этот)</p>,1,"one, shuffle",
+,<p>that</p>
+*,<p>this</p>

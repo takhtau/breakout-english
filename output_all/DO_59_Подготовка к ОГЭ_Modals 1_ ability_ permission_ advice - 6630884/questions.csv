@@ -1,0 +1,7 @@
+HTML
+<p>match </p>,~1,,
+,<p>There's a lot of washing-up; I think we should </p>,<p>offer to do it.</p>
+,<p>It's getting quite late and we ought</p>,<p>to think about getting a taxi.</p>
+,"<p>I don't have much money, but you can</p>",<p>borrow some if you need it.</p>
+,<p>It's amazing that Andrew could</p>,<p>walk when he was just six months old.</p>
+,<p>Passengers travelling in first class may</p>,<p>wait for their flight in the VIP area.</p>

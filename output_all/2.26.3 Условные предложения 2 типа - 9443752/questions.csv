@@ -1,0 +1,49 @@
+HTML
+"<p>If I (know)how to do exercises on conditional mood type 2, I (be) glad</p>",1,one,
+*,<p>knew/would be</p>
+,<p>know/would be</p>
+,<p>knew/be</p>
+"<p>If he (not to get up) so early, he (not to be) so productive</p>",1,one,
+,<p>don't get up/be</p>
+*,<p>didn't get up/wouldn't be</p>
+,<p>don't get up/wouldn't be</p>
+"<p>If she (know) the answer, she (share) it with others?</p>",1,one,
+*,<p>knew/would share</p>
+,<p>know/ would share</p>
+,<p>knew/share</p>
+<p>I (eat) a whole cake if my stomach (not to hurt). </p>,1,one,
+*,<p>would eat/didn't hurt</p>
+,<p>ate/didn't hurt</p>
+,<p>would eat/don't hurt</p>
+<p>I  (not to question) his loyalty if I (be) you</p>,1,one,
+,<p>wouldn't question/was</p>
+,<p>didn't question/were</p>
+*,<p>wouldn't question/were</p>
+<p>You (heal) all the people in the world if you could?</p>,1,one,
+*,<p>Would heal</p>
+,<p>Did you heal</p>
+,<p>Do you heal</p>
+"<p>If I (tell) her how beautiful she is, she (be) pleased</p>",1,one,
+*,<p>told/would be</p>
+,<p>tell/would be</p>
+,<p>told/be</p>
+"<p>If you (not ti play) so well, you (not to be) on the team now</p>",1,one,
+,<p>don't play/wouldn't be</p>
+*,<p>didn't play/wouldn't be</p>
+,<p>wouldn't play/wouldn't be</p>
+"<p>If you (have) a car, you (let) me drive it?</p>",1,one,
+*,<p>had/would let</p>
+,<p>have/let</p>
+,<p>had/let</p>
+<p>You (be) fat if you (eat) unhealthy food often</p>,1,one,
+*,<p>would be/ate</p>
+,<p>would be/would eat</p>
+,<p>would be/eat</p>
+<p>He (not to answer) even if all of us (call) him</p>,1,one,
+,<p>didn't answer/called</p>
+,<p>wouldn't answer/call </p>
+*,<p>wouldn't answer/called</p>
+<p>She (start) doing this exercise if she (learn) about the benefits it brings?</p>,1,one,
+*,<p>Would start/learned </p>
+,<p>Will start/learn</p>
+,<p>Would start/learn</p>

@@ -1,0 +1,41 @@
+HTML
+"<p>""Jack may go to the party with Alice"", said Hazel. - Hazel said Jack ... to the party with Alice.</p>",1,one,
+,<p>may go</p>
+,<p>can go</p>
+*,<p>might go</p>
+"<p>""I brought a cat to the house"", said Danny. - Danny said he ... a cat to the house.</p>",1,one,
+*,<p>had brought</p>
+,<p>has brought</p>
+,<p>brought</p>
+"<p>""I took it home with me yesterday"", said Jecky. - Jecky said she ... it home with her the day before.</p>",1,one,
+,<p>took</p>
+*,<p>had taken</p>
+,<p>has taken</p>
+"<p>""The kids had a day off school"", said mum. - Mum said the kids ... a day off school.</p>",1,one,
+,<p>had</p>
+,<p>have had</p>
+*,<p>had had</p>
+"<p>""I took them ice-skating"", said dad. - Dad said he ... them ice-skating. </p>",1,one,
+*,<p>had taken</p>
+,<p>has taken</p>
+,<p>took</p>
+<p>In summer Nick (take) to the country.</p>,1,one,
+,<p>is taken</p>
+*,<p>will be taken</p>
+,<p>were taken</p>
+<p>This dull film much (talk) about.</p>,1,one,
+,<p>is talked</p>
+,<p>will be talked</p>
+*,<p>was talked</p>
+<p>We (show) a lot of beautiful paintings at the museum.</p>,1,one,
+,<p>are shown</p>
+,<p>will be shown</p>
+*,<p>were shown</p>
+<p>This book very often (ask) for.</p>,1,one,
+*,<p>is asked </p>
+,<p>will be asked</p>
+,<p>was asked</p>
+<p>My idea (not to understand) yesterday.</p>,1,one,
+,<p>isn't understood.</p>
+,<p>won't be understood.</p>
+*,<p>was not understood.</p>

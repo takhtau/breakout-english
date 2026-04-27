@@ -1,0 +1,31 @@
+HTML
+<p>You can use the tools now. They_______already_______________ . (RETURN) </p>,1,,
+*,have/returned
+<p>The tools___________three days ago. (RETURN) </p>,1,,
+*,were returned
+<p>I hope the tools______________tomorrow. (RETURN) </p>,1,,
+*,will be returned
+"<p>I____________the tools tomorrow, I promise. (RETURN) </p>",1,,
+*,will return
+"<p>If the tools_____________tonight, we___________the gate tomorrow. (RETURN/REPAIR) </p>",1,,
+*,are returned/will repair
+<p>I wonder if the tools__________tonight. (RETURN) </p>,1,,
+*,will be return
+<p>He asked if the tools_____________the next day. (RETURN) </p>,1,,
+*,would be returned
+<p>He asked if the tools__________________the day before. (RETURN) </p>,1,,
+*,had been returned
+<p>He has written three books. They____________into two films. (MAKE) </p>,1,,
+*,have been made
+<p>At the moment one of his books_______________into a new film. (MAKE) </p>,1,,
+*,is being made
+"<p>The tower_____________in the fifteenth century, but now it______________. It________________for two hundred years. (BUILD/NOT USE/NOT USE) </p>",1,,
+*,was built/not used/hasn't been used
+<p>Look to the right! A new tower____________now. It_________________soon. (BUILD/BUILD) </p>,1,,
+*,is being built/will be built
+<p>His books__________already_____________into many languages. (TRANSLATE) </p>,1,,
+*,have/been translated
+<p>At present his latest book____________into Russian. (TRANSLATE) </p>,1,,
+*,is being translated
+<p>The book must______________into Russian. (TRANSLATE) </p>,1,,
+*,be translated

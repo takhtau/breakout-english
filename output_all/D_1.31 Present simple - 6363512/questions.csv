@@ -1,0 +1,41 @@
+HTML
+<p> </p>,1,one,
+,<p>The boys does not play golf every Sunday.</p>
+,<p>The boys plays golf every Sunday.</p>
+*,<p>The boys do not play golf every Sunday.</p>
+<p> </p>,1,one,
+*,<p>My parents live in a detached house.</p>
+,<p>My parents lives in a detached house.</p>
+,<p>My parents does live in a detached house.</p>
+<p> </p>,1,one,
+,<p>This train leave at 10.30 every day.</p>
+*,<p>This train leaves at 10.30 every day.</p>
+,<p>This train at 10.30 every day leaves.</p>
+<p> </p>,1,one,
+,<p>Do write your relatives to you regularly?</p>
+*,<p>Do your relatives write to you regularly?</p>
+,<p>Do your relatives writes to you regularly?</p>
+<p> </p>,1,one,
+,<p>They plays volleyball at weekends.</p>
+,<p>They don't volleyball play at weekends.</p>
+*,<p>They don't play volleyball at weekends.</p>
+<p> </p>,1,one,
+,<p>A surgeon is a person who make operations.</p>
+,<p>A surgeon is a person who don't make operations.</p>
+*,<p>A surgeon is a person who makes operations.</p>
+<p> </p>,1,one,
+,<p>Be careful with the paint. It contain a certain amount of lead.</p>
+*,<p>Be careful with the paint. It contains a certain amount of lead.</p>
+,<p>Be careful with the paint. It doesn't contain a certain amount of lead.</p>
+<p> </p>,1,one,
+*,<p>Does London have many museums?</p>
+,<p>Do London have many museums?</p>
+,<p>Does London has many museums?</p>
+<p> </p>,1,one,
+*,"<p>Now I understand the meaning of this word, but still I don't know how to use it.</p>"
+,"<p>Now I understand the meaning of this word, but still I don't knows how to use it.</p>"
+,"<p>Now I doesn't understand the meaning of this word, but still I don't know how to use it.</p>"
+<p> </p>,1,one,
+*,"<p>I always feel ill at ease with the boss, I can't say why.</p>"
+,"<p>I feel ill always at ease with the boss, I can't say why.</p>"
+,"<p>I always feel ill at ease with the boss, I can't says why.</p>"

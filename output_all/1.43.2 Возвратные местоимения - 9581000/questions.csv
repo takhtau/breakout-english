@@ -1,0 +1,49 @@
+HTML
+<p>Do you believe in _________?</p>,1,one,
+*,<p>yourself</p>
+,<p>myself</p>
+,<p>themselves</p>
+<p>Did you make the dress ______________ ?</p>,1,one,
+,<p>ourselves</p>
+*,<p>yourself</p>
+,<p>herself</p>
+<p>Anna repaired the chair ________.</p>,1,one,
+,<p>himself</p>
+,<p>myself</p>
+*,<p>herself</p>
+<p>I hurt _______ when I fell down the stairs.</p>,1,one,
+*,<p>myself</p>
+,<p>ourselves</p>
+,<p>himself</p>
+<p>You see you've cut ___________ again. Be more careful.</p>,1,one,
+,<p>herself</p>
+*,<p>yourself</p>
+,<p>themselves</p>
+<p>I think that poor dog hurt ______.</p>,1,one,
+,<p>myself</p>
+,<p>ourselves</p>
+*,<p>itself</p>
+<p>He came into the room and introduced ___________.</p>,1,one,
+*,<p>himself</p>
+,<p>herself</p>
+,<p>itself</p>
+<p>We didn't know where to hide ___________</p>,1,one,
+,<p>themselves</p>
+*,<p>ourselves</p>
+,<p>myself</p>
+<p>She is very sure of ___________</p>,1,one,
+,<p>himself</p>
+,<p>yourself</p>
+*,<p>herself</p>
+"<p>Children, you can't do that ___________</p>",1,one,
+*,<p>yourselves</p>
+,<p>ourselves</p>
+,<p>yourself</p>
+<p>They always speak only about ___________</p>,1,one,
+,<p>itself</p>
+*,<p>themselves</p>
+,<p>ourselves</p>
+<p>We should always believe in ___________</p>,1,one,
+,<p>itself</p>
+,<p>yourself</p>
+*,<p>ourselves</p>

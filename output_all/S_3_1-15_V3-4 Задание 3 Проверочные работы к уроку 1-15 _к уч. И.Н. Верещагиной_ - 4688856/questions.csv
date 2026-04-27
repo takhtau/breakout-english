@@ -1,0 +1,31 @@
+HTML
+<p>He speaks Russian.</p>,1,one,
+*,<p>He doesn't speak Russian.</p>
+,<p>He don't speak Russian.</p>
+<p>He can draw well.</p>,1,one,
+*,<p>He can't draw well.</p>
+,<p>He doesn't draw well.</p>
+<p>They want to play volleyball.</p>,1,one,
+*,<p>They don't want to play volleyball.</p>
+,<p>They doesn't want to play volleyball.</p>
+<p>I am from Smolensk.</p>,1,one,
+*,<p>I'm not from Smolensk.</p>
+,<p>I don't be from Smolensk.</p>
+<p>She will read the book.</p>,1,one,
+*,<p>She won't read the book.</p>
+,<p>She don't read the book.</p>
+<p>I am from Vladimir.</p>,1,one,
+*,<p>I'm not from Vladimir.</p>
+,<p>I don't be from Vladimir.</p>
+<p>They often speak over the telephone.</p>,1,one,
+*,<p>They don't often speak over the telephone.</p>
+,<p>They doesn't often speak over the telephone.</p>
+<p>She speaks three foreign languages.</p>,1,one,
+*,<p>She doesn't speak three foreign languages.</p>
+,<p>She don't speak three foreign languages.</p>
+<p>He will wash his hands.</p>,1,one,
+*,<p>He won't wash his hands.</p>
+,<p>He don't wash his hands.</p>
+<p>They can work in the garden.</p>,1,one,
+*,<p>They can't work in the garden.</p>
+,<p>They doesn't work in the garden.</p>

@@ -1,0 +1,51 @@
+HTML
+"<p>Ian......................a shower at the moment, so could you call back in about half an hour?</p>",1,one,
+,<p>takes</p>
+*,<p>is taking</p>
+,<p>has taken</p>
+,<p>has been taken</p>
+<p>...............................to Ipswich before?</p>,1,one,
+,<p>Do you ever go</p>
+,<p>Are you ever going</p>
+*,<p>Have you ever been</p>
+,<p>Have you ever been going</p>
+<p>I..........................to all the local newspapers and TV stations to complain.</p>,1,one,
+,<p>already write</p>
+,<p>already writing </p>
+*,<p>have already written</p>
+,<p>have already been writing</p>
+<p>.........................TV for the last four hours? Turn it off and get some exercise!</p>,1,one,
+,<p>Do you watch</p>
+,<p>Are you watching</p>
+,<p>Watched you</p>
+*,<p>Have you been watching</p>
+"<p>Edik, ...............................hockey competitively or just for fun?</p>",1,one,
+*,<p>do you usually play</p>
+,<p>are you usually playing</p>
+,<p>have you usually played</p>
+,<p>have you usually been playing</p>
+<p>That's the first time......................an answer right today!</p>,1,one,
+,<p>I get</p>
+,<p>I am getting</p>
+*,<p>I have got</p>
+,<p>I have been getting</p>
+"<p>Jessica has....................left, I'm afraid.</p>",1,one,
+*,<p>already</p>
+,<p>yet</p>
+,<p>still</p>
+,<p>so far</p>
+<p>Dan.........................in the living room while we redecorate his bedroom.</p>,1,one,
+,<p>sleeps</p>
+*,<p>is sleeping</p>
+,<p>has slept</p>
+,<p>does sleep</p>
+"<p>Unfortunately, Simone.....................a day off very often.</p>",1,one,
+*,<p>doesn't get</p>
+,<p>isn't getting</p>
+,<p>hasn't got</p>
+,<p>hasn't been getting</p>
+"<p>Actually, I......................a cup of tea first thing every morning, but then I switch to coffee.</p>",1,one,
+*,<p>drink</p>
+,<p>am drinking </p>
+,<p>have drunk</p>
+,<p>have been drinking</p>

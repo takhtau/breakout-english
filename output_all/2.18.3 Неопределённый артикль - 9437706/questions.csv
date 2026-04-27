@@ -1,0 +1,49 @@
+HTML
+"<p>If you lend me … few coins, I would buy … newspaper.</p>",1,one,
+*,<p>a/a</p>
+,<p>an/a</p>
+,<p>-/a</p>
+"<p>He was late, I had to wait for him for half … hour.</p>",1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>-</p>
+<p>She ate … ice cream and as … result she got … sore throat.</p>,1,one,
+,<p>a/a/a</p>
+*,<p>an/a/a</p>
+,<p>-/a/a</p>
+<p>Would you like to go for … walk with me in the evening?</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+"<p>Don't leave … iron here, it's hot!</p>",1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>-</p>
+<p>… orange is … my favourite fruit.</p>,1,one,
+,<p>a/-</p>
+*,<p>an/-</p>
+,<p>-/-</p>
+<p>As … rule he sleeps 8 hours … day.</p>,1,one,
+*,<p>a/a</p>
+,<p>an/a</p>
+,<p>-/-</p>
+<p>I wish you to have … good time in … Moscow.</p>,1,one,
+*,<p>a/-</p>
+,<p>an/-</p>
+,<p>-/-</p>
+<p>Nancy is … kind girl. She is … 15.</p>,1,one,
+*,<p>a/-</p>
+,<p>an/-</p>
+,<p>-/-</p>
+<p>This is.......animal. It is......my animal. </p>,1,one,
+,<p>a/-</p>
+*,<p>an/-</p>
+,<p>-/-</p>
+"<p>It’s such......brilliant idea, you are so clever! </p>",1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+<p>My friend is.......programmer. </p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>

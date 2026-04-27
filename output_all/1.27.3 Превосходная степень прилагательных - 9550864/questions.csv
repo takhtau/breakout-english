@@ -1,0 +1,49 @@
+HTML
+<p>What is _______ (long) river in the world?</p>,1,one,
+*,<p>the longest</p>
+,<p>most long</p>
+,<p>longgest</p>
+<p>Who is ________ (intelligent) person in your family?</p>,1,one,
+,<p>intelligentest</p>
+*,<p>the most intelligent</p>
+,<p>more intelligent</p>
+<p>What is _______ (near) book shop?</p>,1,one,
+,<p>most near</p>
+,<p>nearrest</p>
+*,<p>the nearest</p>
+<p>What is _______ (beautiful) city in your opinion?</p>,1,one,
+*,<p>the most beautiful</p>
+,<p>beautifulest</p>
+,<p>more beautiful</p>
+<p> Who is your _____ (good) friend? </p>,1,one,
+,<p>goodest</p>
+*,<p>best</p>
+,<p>most good</p>
+<p>Lina is _____ (cute) girl in class.</p>,1,one,
+,<p>most cute</p>
+,<p>cuttest</p>
+*,<p>the cutest</p>
+<p>What is _____ (far) place in the world?</p>,1,one,
+*,<p>the farthest</p>
+,<p>most far</p>
+,<p>farest</p>
+<p>Maria is _____ (young) of all three.</p>,1,one,
+,<p>most young</p>
+*,<p>the youngest</p>
+,<p>younggest</p>
+<p>English is _____ (easy) language for me.</p>,1,one,
+,<p>most easy</p>
+,<p>easyest</p>
+*,<p>the easiest</p>
+<p>My father is ______ (old) in my family.</p>,1,one,
+*,<p>the eldest</p>
+,<p>oldest</p>
+,<p>most old</p>
+<p>This is ______ (fast) car.</p>,1,one,
+,<p>fasttest</p>
+*,<p>the fastest</p>
+,<p>most fast</p>
+<p>This task is the _______ (difficult) for me.</p>,1,one,
+,<p>difficultest</p>
+,<p>the difficult</p>
+*,<p>the most difficult</p>

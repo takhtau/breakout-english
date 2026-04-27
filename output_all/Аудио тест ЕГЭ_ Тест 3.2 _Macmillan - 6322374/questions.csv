@@ -1,0 +1,29 @@
+HTML
+<p>A Ryan doesn't do some of the things mentioned in the recycling lesson. </p>,1,one,
+*,<p>True</p>
+,<p>False</p>
+,<p>Not stated </p>
+"<p>B Until today, Macy has used the bin in her bedroom for recycling lesson. </p>",1,one,
+,<p>True</p>
+*,<p>False</p>
+,<p>Not stated </p>
+<p>C Ryan's dad has got a very large recycling bin in his office. </p>,1,one,
+,<p>True</p>
+,<p>False</p>
+*,<p>Not stated </p>
+<p>D Macy never eats food in her bedroom. </p>,1,one,
+,<p>True</p>
+*,<p>False</p>
+,<p>Not stated </p>
+<p>E Ryan has visited a recycling plant in the past. </p>,1,one,
+,<p>True</p>
+,<p>False</p>
+*,<p>Not stated </p>
+<p>F Macy makes a complaint about rinsing containers. </p>,1,one,
+*,<p>True</p>
+,<p>False</p>
+,<p>Not stated </p>
+<p>G Ryan's family empty their recycling bin less frequently than their rubbish bin. </p>,1,one,
+*,<p>True</p>
+,<p>False</p>
+,<p>Not stated </p>

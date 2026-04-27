@@ -1,0 +1,33 @@
+HTML
+<p>Elizabeth______________to bed at around eleven o'clock.</p>,1,one,
+*,<p>usually goes</p>
+,<p>is usually going</p>
+<p>Dan______________on the other phone right now.</p>,1,one,
+,<p>talks</p>
+*,<p>is talking</p>
+<p>We______________any meat at the moment as we're both on a diet.</p>,1,one,
+,<p>don't eat</p>
+*,<p>aren't eat</p>
+<p>______________increasingly safe?</p>,1,one,
+,<p>Does air travel get</p>
+*,<p>Is air travel getting</p>
+<p>My mum______________me every weekend without fail.</p>,1,one,
+*,<p>calls</p>
+,<p>is calling</p>
+<p>How much_____________________?</p>,1,one,
+*,<p>do babysitters generally earn</p>
+,<p>are babysitters generally earning</p>
+<p>_____________________up with excuses for not having done your homework. It's annoying!</p>,1,one,
+,<p>You always come</p>
+*,<p>You're always coming</p>
+"<p>_____________________out much during the week, but_________________to go out somewhere on Saturday night.</p>",1,many,
+*,<p>I don't go</p>
+,<p>I'm not going</p>
+*,<p>I always try</p>
+,<p>I'm always trying</p>
+"<p>No, the train_____________________at Cirencester on Saturday.</p>",1,one,
+*,<p>does stop</p>
+,<p>is stopping</p>
+<p>My mum_____________________part in ice-skating competitions almost evert weekend.</p>,1,one,
+*,<p>takes</p>
+,<p>is taking</p>

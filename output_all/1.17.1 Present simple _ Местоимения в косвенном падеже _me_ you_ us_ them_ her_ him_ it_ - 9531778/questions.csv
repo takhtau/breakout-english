@@ -1,0 +1,49 @@
+HTML
+<p>He sees ___. (меня)</p>,1,one,
+*,<p>me</p>
+,<p>you</p>
+,<p>it</p>
+<p>Give ___ the books. (им)</p>,1,one,
+,<p>him</p>
+*,<p>them</p>
+,<p>us</p>
+<p>Tell ____ the truth. (ему)</p>,1,one,
+,<p>her</p>
+,<p>you</p>
+*,<p>him</p>
+<p>I give ___ a notebook. (ей)</p>,1,one,
+*,<p>her</p>
+,<p>me</p>
+,<p>them</p>
+<p>I look at ____. (на него)</p>,1,one,
+,<p>her</p>
+*,<p>him</p>
+,<p>it</p>
+<p>I see ____ in the street. (тебя)</p>,1,one,
+,<p>me</p>
+,<p>them</p>
+*,<p>you</p>
+<p>Tell ___ everything. (мне)</p>,1,one,
+*,<p>me</p>
+,<p>us</p>
+,<p>it</p>
+<p>You can take ____. (это)</p>,1,one,
+,<p>them</p>
+*,<p>it</p>
+,<p>him</p>
+<p>Let ____ take an apple. (мне)</p>,1,one,
+,<p>her</p>
+,<p>you</p>
+*,<p>me</p>
+<p>Give ____ a lamp. (им)</p>,1,one,
+*,<p>them</p>
+,<p>us</p>
+,<p>it</p>
+<p>Give ____ the boxes. (нам)</p>,1,one,
+,<p>her</p>
+*,<p>us</p>
+,<p>you</p>
+<p>Put ___ on the table. (их)</p>,1,one,
+,<p>me</p>
+,<p>him</p>
+*,<p>them</p>

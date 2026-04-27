@@ -1,0 +1,49 @@
+HTML
+<p>He usually (to work) in the centre of Chicago.</p>,1,one,
+*,<p>works</p>
+,<p>working</p>
+,<p>work</p>
+<p>The children (to eat) soup now.</p>,1,one,
+*,<p>are eating </p>
+,<p>is eating </p>
+,<p>eat </p>
+<p>He often (not to sleep) after dinner.</p>,1,one,
+,<p>do not sleep </p>
+,<p>is not sleeping </p>
+*,<p>does not sleep</p>
+<p>Nina (not to sleep) now.</p>,1,one,
+*,<p>isn't sleeping </p>
+,<p>doesn't sleep </p>
+,<p>don't sleep</p>
+<p>My friends from Switzerland (to speak) four languages.</p>,1,one,
+*,<p>speak </p>
+,<p>are speaking </p>
+,<p>speaks </p>
+<p>I (to wear) a suit now.</p>,1,one,
+,<p>wear</p>
+,<p>wears</p>
+*,<p>am wearing</p>
+<p>My sister (to eat) sweets every day.</p>,1,one,
+,<p>eat</p>
+,<p>is eating </p>
+*,<p>eats </p>
+<p>She (not to eat) sweets now.</p>,1,one,
+*,<p>isn't eating </p>
+,<p>doesn't eat</p>
+,<p>do not eat</p>
+<p>They always (to do) their homework in the afternoon.</p>,1,one,
+*,<p>do</p>
+,<p>are doing </p>
+,<p>does</p>
+<p>I (to write) an exercise now.</p>,1,one,
+*,<p>am writing </p>
+,<p>write </p>
+,<p>wrote </p>
+<p>They (to play) in the yard now.</p>,1,one,
+,<p>play</p>
+,<p>plays </p>
+*,<p>are playing </p>
+<p>He (to help) his mother every day.</p>,1,one,
+,<p>help </p>
+*,<p>helps</p>
+,<p>is helping </p>

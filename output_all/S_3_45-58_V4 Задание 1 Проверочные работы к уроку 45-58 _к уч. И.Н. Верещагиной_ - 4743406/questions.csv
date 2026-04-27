@@ -1,0 +1,41 @@
+HTML
+"<p>The monkey is clever, _____ ?</p>",1,one,
+,<p>isn't she</p>
+,<p>is she</p>
+*,<p>isn't it</p>
+<p> _____ and Ann's dolls are in the box.</p>,1,one,
+*,<p>Betty</p>
+,<p>Betty's</p>
+,<p>Her</p>
+<p> Horses are cleverer _____ cows.</p>,1,one,
+*,<p>than</p>
+,<p>then</p>
+,<p>-</p>
+<p>Can you read Text _____ ?</p>,1,one,
+*,<p>Two</p>
+,<p>second</p>
+,<p>the second</p>
+<p>I didn't read _____ text.</p>,1,one,
+,<p>Two</p>
+,<p>second</p>
+*,<p>the second</p>
+<p>The _____ puppy is clever.</p>,1,one,
+,<p>Browns</p>
+,<p>Brown's</p>
+*,<p>Browns'</p>
+<p>You must _____ home.</p>,1,one,
+*,<p>go</p>
+,<p>to go</p>
+,<p>going</p>
+<p>She _____ to go home.</p>,1,one,
+,<p>can</p>
+,<p>must</p>
+*,<p>wants</p>
+<p>Paul is _____ pupil in his class.</p>,1,one,
+,<p>clever</p>
+,<p>cleverer</p>
+*,<p>the cleverest</p>
+<p>This elephant is _____ than that elephant.</p>,1,one,
+,<p>big</p>
+*,<p>bigger</p>
+,<p>the biggest</p>

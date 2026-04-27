@@ -1,0 +1,49 @@
+HTML
+<p>Cats ____ milk yesterday</p>,1,one,
+,<p>drinked</p>
+*,<p>drank</p>
+,<p>was drinking</p>
+<p>I _____ home at 4 o’clock yesterday</p>,1,one,
+,<p>were going</p>
+,<p>went</p>
+*,<p>was going</p>
+<p>Brian ______ books to the library before last Thursday</p>,1,one,
+*,<p>had returned</p>
+,<p>returned</p>
+,<p>was returning</p>
+<p>My sister ________ for two months before that concert.</p>,1,one,
+*,<p>had been practising</p>
+,<p>was practising</p>
+,<p>practised</p>
+<p>____ Brian _____ to find a better job for three weeks? </p>,1,one,
+,<p>had/tried</p>
+*,<p>had/been trying</p>
+,<p>was/trying</p>
+<p>A group of tourists ______ this cathedral before the guide told them about its history.</p>,1,one,
+*,<p>had already visited</p>
+,<p>had been already visiting</p>
+,<p>was visiting</p>
+<p>He ____ in a pool last week</p>,1,one,
+,<p>hadn't swam</p>
+*,<p>didn't swim</p>
+,<p>didn't swam</p>
+<p>Мы играли в баскетбол в 6 часов в прошлое воскресенье.</p>,1,one,
+,<p>We had been playing basketball at 6 o’clock last Sunday</p>
+*,<p>We were playing basketball at 6 o’clock last Sunday</p>
+,<p>We played basketball at 6 o’clock last Sunday</p>
+<p>Полли изучала экономику с момента поступления в университет.</p>,1,one,
+*,<p>Polly had been studying economy since she entered university.</p>
+,<p>Polly was studying economy since she entered university</p>
+,<p>Polly had studied economy since she entered university</p>
+<p>Шел ли дождь всю ночь в прошлый вторник? </p>,1,one,
+,<p>Had it rained all night last Tuesday?</p>
+*,<p>Was it raining all night last Tuesday?</p>
+,<p>Had it been raining all night last Tuesday? </p>
+<p>Моя собака не ела свой корм вчера .</p>,1,one,
+,<p>My dog wasn't eating its food.</p>
+*,<p>My dog didn't eat its food yesterday.</p>
+,<p>My dog hadn't eaten its food before yesterday.</p>
+<p>Я не сделал этого.</p>,1,one,
+,<p>I wasn't done it.</p>
+,<p>I hadn't been done it.</p>
+*,<p>I hadn't done it.</p>

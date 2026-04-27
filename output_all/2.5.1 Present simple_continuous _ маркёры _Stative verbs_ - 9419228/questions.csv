@@ -1,0 +1,49 @@
+HTML
+<p>I (not to know) what to give my brother for his birthday. </p>,1,one,
+*,<p>don't know</p>
+,<p>am not knowing</p>
+,<p>doesn't know</p>
+<p>They want (to publish) this book in July.</p>,1,one,
+,<p>publishing</p>
+*,<p>to publish</p>
+,<p>to publishing</p>
+<p>She thinks he always (to drive) dangerously.</p>,1,one,
+,<p>is driving</p>
+,<p>drive</p>
+*,<p>drives</p>
+<p>He understands that sometimes he (to eat) noisily.</p>,1,one,
+*,<p>eats</p>
+,<p>is eating</p>
+,<p>eat</p>
+<p>I see that he (to stand) in the doorway at the moment.</p>,1,one,
+,<p>stands</p>
+*,<p>is standing</p>
+,<p>are standing</p>
+<p>You (not to recognize) him.</p>,1,one,
+,<p>are not recognizing</p>
+,<p>doesn't recognize</p>
+*,<p>don't recognize</p>
+<p>I (to have) dinner now.</p>,1,one,
+*,<p>am having</p>
+,<p>has</p>
+,<p>have</p>
+<p>We always (to go) to the seaside.</p>,1,one,
+,<p>are going</p>
+*,<p>go</p>
+,<p>is going</p>
+<p>We all (to like) the sea.</p>,1,one,
+,<p>are liking</p>
+,<p>likes</p>
+*,<p>like</p>
+<p>What you (to do) here now?</p>,1,one,
+*,<p>are you doing</p>
+,<p>do you do</p>
+,<p>is you doing</p>
+<p>You want (to see) my father. </p>,1,one,
+,<p>seeing</p>
+*,<p>to see</p>
+,<p>see</p>
+<p>Michael (to know) German rather well.</p>,1,one,
+,<p>is knowing</p>
+,<p>to know</p>
+*,<p>knows</p>

@@ -1,0 +1,37 @@
+HTML
+<p>The sunshine made me ___ of our trip to Mexico.</p>,1,one,
+*,<p>think</p>
+,<p>to think</p>
+,<p>thinking</p>
+<p>I had my hair ___ last night.</p>,1,one,
+,<p>trim</p>
+*,<p>trimmed</p>
+,<p>trimming</p>
+<p>He is going to ___ next week.</p>,1,one,
+,<p>have fixed his car </p>
+*,<p>have  his car fixed</p>
+,<p>have his car fix</p>
+<p>Susan had ___.</p>,1,one,
+*,<p>the windows cleaned</p>
+,<p>the windows clean</p>
+,<p>the windows be cleaned</p>
+<p>I'll let you ___ my car.</p>,1,one,
+,<p>to drive</p>
+*,<p>drive</p>
+,<p>driving</p>
+"<p>Hey, do you want me to help you ___?</p>",1,one,
+,<p>to pack</p>
+,<p>packing</p>
+*,<p>pack</p>
+<p>Why don't you ___ with my friends?</p>,1,one,
+,<p>let me to go out</p>
+*,<p>let me go out</p>
+,<p>let me go to</p>
+<p>I had my wallet ___ yesterday.</p>,1,one,
+*,<p>stolen</p>
+,<p>stole</p>
+,<p>to steal</p>
+<p>I had Juan ___ yesterday.</p>,1,one,
+,<p>to fix my door</p>
+*,<p>fix my door </p>
+,<p>fixed my door</p>

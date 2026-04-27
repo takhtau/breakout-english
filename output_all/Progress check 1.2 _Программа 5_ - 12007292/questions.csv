@@ -1,0 +1,60 @@
+HTML
+<p>Whose ____this pet?</p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>are</p>
+<p>Who____those boys? </p>,1,one,
+,<p>am</p>
+,<p>is</p>
+*,<p>are</p>
+<p>What_____Rex usually drink?</p>,1,one,
+,<p>do</p>
+*,<p>does</p>
+,<p>did</p>
+"<p>Lima’s friends can be helpful, _________?</p>",1,one,
+,<p>do they</p>
+,<p>can't she</p>
+*,<p>can't they</p>
+"<p>It’s his book, _________?</p>",1,one,
+*,<p>isn't it</p>
+,<p>is it</p>
+,<p>does it</p>
+"<p>It can’t be true, _________?</p>",1,one,
+,<p>isn't it</p>
+*,<p>can it</p>
+,<p>does it</p>
+"<p>They weren’t nice people, ________?</p>",1,one,
+,<p>weren't they</p>
+,<p>was they</p>
+*,<p>were they</p>
+"<p>Your friend worked in a shop, ________?</p>",1,one,
+,<p>didn't it</p>
+*,<p>didn't he</p>
+,<p>did he</p>
+"<p>Tom left the house yesterday, ________?</p>",1,one,
+*,<p>didn't he</p>
+,<p>did he</p>
+,<p>wasn't he</p>
+"<p>She moved to Tyumen, ________?</p>",1,one,
+*,<p>didn't she</p>
+,<p>did she</p>
+,<p>wasn't she</p>
+"<p>Miranda and Jeremy were right, ________?</p>",1,one,
+,<p>didn't they</p>
+*,<p>weren't they</p>
+,<p>were they</p>
+"<p>Mike was always busy, ________?</p>",1,one,
+,<p>did he</p>
+,<p>weren't he</p>
+*,<p>wasn't he</p>
+<p>You ________ like to spend time with me.</p>,1,one,
+*,<p>don't you</p>
+,<p>weren't </p>
+,<p>aren't</p>
+<p>___you _____ lessons now?</p>,1,one,
+,<p>did / take</p>
+*,<p>are / taking</p>
+,<p>do /take</p>
+<p>_____ starts work at 8 a.m?</p>,1,one,
+*,<p>Who</p>
+,<p>Whose</p>

@@ -1,0 +1,49 @@
+HTML
+"<p>When you ______ ice, it _____ . </p>",1,one,
+*,<p>heat/melts</p>
+,<p>heats/melt</p>
+,<p>heats/melts</p>
+"<p>If you ______, you __ hungry. </p>",1,one,
+,<p>doesn't eat/get</p>
+*,<p>don't eat/get</p>
+,<p>don't eat/got</p>
+"<p>If it ________, the plants _______ . </p>",1,one,
+,<p>doesn’t rain/died </p>
+,<p>doesn’t rain/dies </p>
+*,<p>doesn’t rain/die</p>
+"<p>If you _______ ice in water, it ________ . </p>",1,one,
+*,<p>drop/floats </p>
+,<p>will drop/float</p>
+,<p>drop/float </p>
+"<p>If we _________ at 7 o’clock, we_________ on time.</p>",1,one,
+,<p>leaves/will arrive </p>
+*,<p>leave/will arrive </p>
+,<p>will leave/arrive </p>
+"<p>If Bob _______ a good job, he ___________ a new car. </p>",1,one,
+*,<p>gets/will buy </p>
+,<p>get/will buy </p>
+,<p>will get/buys </p>
+"<p>If you ___________wine, you _________ sleepy. </p>",1,one,
+,<p>won't drink/don't feel </p>
+,<p>doesn't drink/won't feel </p>
+*,<p>don't drink/won't feel </p>
+<p>The child ________ crying if the toy _____________ . </p>,1,one,
+,<p>starts/will break</p>
+*,<p>will start/breaks</p>
+,<p>will start/break </p>
+<p>We ________ to the beach if the weather _________ sunny tomorrow</p>,1,one,
+,<p>go/will be</p>
+,<p>will go/be</p>
+*,<p>will go/is</p>
+<p>I _______ late for the concert if I ___________ a taxi</p>,1,one,
+,<p>be/won't find</p>
+,<p>be/don't find</p>
+*,<p>will be/don't find</p>
+"<p>If he _________ Prime Minister, he ________ taxes. </p>",1,one,
+*,<p>becomes/will raise </p>
+,<p>become/will raise </p>
+,<p>will become/raise </p>
+"<p>If you _________ more careful, you __________ so many mistakes. </p>",1,one,
+,<p>be/won't make</p>
+*,<p>are/won't make</p>
+,<p>will be/don't make</p>

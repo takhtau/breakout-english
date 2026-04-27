@@ -1,0 +1,49 @@
+HTML
+<p>Plastic will melt if it ----- too hot.</p>,1,one,
+,<p>will get</p>
+*,<p>gets</p>
+,<p>got</p>
+"<p>If Dad were here, he ----- what to do.</p>",1,one,
+*,<p>would know</p>
+,<p>knew</p>
+,<p>would have known</p>
+"<p>If I ----- up late, I will feel dreadful in the morning.</p>",1,one,
+,<p>stayed</p>
+,<p>would stay</p>
+*,<p>stay</p>
+<p>We will have to get back if the roads ----- congested.</p>,1,one,
+,<p>will be</p>
+*,<p>are</p>
+,<p>were</p>
+<p>I wouldn't worry about it if I ----- you.</p>,1,one,
+,<p>was</p>
+*,<p>were</p>
+,<p>will be</p>
+<p>He won't go to sleep unless you ----- him a story.</p>,1,one,
+*,<p>tell</p>
+,<p>will tell</p>
+,<p>told</p>
+<p>Will you accept their invitation if they ----- it?</p>,1,one,
+*,<p>offer</p>
+,<p>offered</p>
+,<p>will offer</p>
+"<p>If you ----- in my place, what would you do?</p>",1,one,
+,<p>would be</p>
+,<p>are</p>
+*,<p>were</p>
+<p>I ----- if I had not tripped.</p>,1,one,
+,<p>had won</p>
+*,<p>would have one</p>
+,<p>will win</p>
+<p>He wouldn’t have returned if he ----- the wallet on the desk.</p>,1,one,
+*,<p>hadn't left</p>
+,<p>didn't leave</p>
+,<p>doesn't leave</p>
+"<p>I ----- on time, if I hadn’t overslept.</p>",1,one,
+,<p>would arrived</p>
+*,<p>would have arrived</p>
+,<p>would arrive</p>
+"<p>If I ----- Oliver's letter, I would have never discovered the truth.</p>",1,one,
+,<p>had discovered</p>
+*,<p>hadn't discovered</p>
+,<p>didn't discover</p>

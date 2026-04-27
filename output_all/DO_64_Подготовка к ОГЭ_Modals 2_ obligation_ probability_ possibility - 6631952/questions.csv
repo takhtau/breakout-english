@@ -1,0 +1,17 @@
+HTML
+<p>You're expecting David to ring. The phone rings. (must)</p>,1,,
+*,It/That must be David.
+<p>Anna is a better runner than Rula. You think Anna will probably win the race tomorrow. </p>,1,,
+*,Anna should win the race.
+"<p>A letter arrives. It's possible that it's from your cousin, Janice. (could)</p>",1,,
+*,It/That letter could be from (my cousine) Janice.
+"<p>There's a knock at the door. Your mum says it might be Colin, but you know Colin is on holiday. (can't)</p>",1,,
+*,It can't be Colin (because he's on holiday).
+<p>You see someone wearing a costume. You think there's a strong probability that she's going to a fancy-dress party. (must)</p>,1,,
+*,She must be going to a fancy-dress party.
+<p>Your sister is looking for her hairbrush. You think it's possible that it's in the living room. (might)</p>,1,,
+*,It/Your hairbrush might be in the living room.
+<p>You're waiting for Harriet to arrive. You think she'll probably be there in half an hour. (should)</p>,1,,
+*,Harriet/She should be here in half an hour.
+<p>You're talking about why James seems to be bad. You think it's possible he's in trouble at school. (could)</p>,1,,
+*,James/He could be in trouble at school.

@@ -1,0 +1,49 @@
+HTML
+<p>I ___ a shower when you called.</p>,~1,one,
+*,<p>was taking</p>
+,<p>took</p>
+,<p>was taken</p>
+<p>My brother ___ never been to Europe until he went there last year.</p>,~1,one,
+,<p>has</p>
+*,<p>had</p>
+,<p>hadn't</p>
+<p>Diane ___ very sick but she decided to go out anyway.</p>,~1,one,
+*,<p>was feeling</p>
+,<p>has been feeling</p>
+,<p>has felt</p>
+<p>He ___ her all night.</p>,~1,one,
+,<p>has called</p>
+,<p>call</p>
+*,<p>was calling</p>
+<p>I ___ to go swimming but the water was too cold.</p>,~1,one,
+,<p>have wanted</p>
+*,<p>wanted</p>
+,<p>am want</p>
+<p>I ___ able to sleep well for a week now.</p>,~1,one,
+,<p>didn't was</p>
+,<p>was not</p>
+*,<p>haven't been </p>
+"<p>When I first saw her, she ___ on the balcony.</p>",~1,one,
+*,<p>was standing</p>
+,<p>has stood</p>
+,<p>has been standing</p>
+<p>Really? You moved to a new apartament? How long ___ there?</p>,~1,one,
+*,<p>have you been living</p>
+,<p>did you live</p>
+,<p>did you living</p>
+"<p>Every time I see that movie, it ___ me cry.</p>",~1,one,
+,<p>has made</p>
+,<p>made</p>
+*,<p>makes</p>
+<p>I ___ smoking three years ago.</p>,~1,one,
+,<p>have stopped</p>
+,<p>have been stopping</p>
+*,<p>stopped</p>
+<p>I _______ already (have dinner).</p>,~1,one,
+*,<p>have had dinner</p>
+,<p>have been eaten</p>
+,<p>ate</p>
+"<p>When I (enter ) the hall, the students  (listen) to a lecture on history of the English language.</p>",~1,one,
+*,<p>entered / were listening</p>
+,<p>was entering/ were listening</p>
+,<p>entered / listened</p>

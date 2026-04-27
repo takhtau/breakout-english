@@ -1,0 +1,31 @@
+HTML
+<p>I usually ___ to rock music.</p>,1,one,
+*,<p>listen</p>
+,<p>am listening</p>
+<p>What is she doing? She ___ to music.</p>,1,one,
+,<p>listens</p>
+*,<p>is listening</p>
+<p>My professor always ___ very slowly.</p>,1,one,
+,<p>is speaking</p>
+*,<p>speaks</p>
+<p>What are you going tonight? We ___ to see a movie.</p>,1,one,
+*,<p>are going</p>
+,<p>go</p>
+<p>He normally ____ very fast.</p>,1,one,
+*,<p>drives</p>
+,<p>is driving</p>
+<p>I never ___ what to expect.</p>,1,one,
+,<p>am knowing </p>
+*,<p>know</p>
+"<p>I'm sorry, Angela can't come to the phone - she ___ a shower.</p>",1,one,
+*,<p>is taking </p>
+,<p>takes</p>
+<p>I ___ home right now.</p>,1,one,
+,<p>go</p>
+*,<p>am going </p>
+<p>Those girls ___ out every Friday.</p>,1,one,
+,<p>are going</p>
+*,<p>go</p>
+<p>I ___ classical music.</p>,1,one,
+*,<p>like</p>
+,<p>am liking</p>

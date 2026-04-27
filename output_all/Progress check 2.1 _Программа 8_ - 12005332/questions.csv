@@ -1,0 +1,57 @@
+HTML
+<p> We play with a cat. ____ cat is beautiful.</p>,1,one,
+,<p>Their</p>
+*,<p>Our</p>
+,<p>My</p>
+<p>I have a house. _____ house is big.</p>,1,one,
+,<p>her</p>
+,<p>Your</p>
+*,<p>My</p>
+<p>You have a cat. Is _____ cat clever?</p>,1,one,
+,<p>my</p>
+*,<p>your</p>
+,<p>yours</p>
+<p>This is a dog. ____ color is brown. </p>,1,one,
+,<p>Their</p>
+,<p>My</p>
+*,<p>Its</p>
+<p> Lana has a bag. This is ____ bag.</p>,1,one,
+*,<p>her</p>
+,<p>my</p>
+,<p>his</p>
+<p>__ you kind?</p>,1,one,
+,<p>am</p>
+*,<p>are</p>
+,<p>is</p>
+<p>___ you sad?</p>,1,one,
+,<p>am</p>
+*,<p>are</p>
+,<p>is</p>
+<p>I _______ get up at 8 am. (обычно)</p>,1,one,
+,<p>never</p>
+,<p>always</p>
+*,<p>usually </p>
+<p>She (всегда) _____plays tennis in the morning.  </p>,1,one,
+,<p>never</p>
+*,<p>always</p>
+,<p>usually </p>
+<p>They (часто) ______ get up early. </p>,1,one,
+*,<p>often</p>
+,<p>never</p>
+,<p>usually </p>
+<p>  ______  eat rabbits.</p>,1,one,
+,<p>Wolf</p>
+*,<p>Wolves</p>
+,<p>Wolfs</p>
+<p>____ they ____ English every day?</p>,1,one,
+*,<p>Do/speak</p>
+,<p>Does/speak</p>
+,<p>Do/to speak</p>
+<p>______ draw a house . </p>,1,one,
+*,<p>Children</p>
+,<p>Child</p>
+,<p>Childs</p>
+<p>______ don't sleep at night.</p>,1,one,
+*,<p>Mice</p>
+,<p>Mouse</p>
+,<p>Mouses</p>

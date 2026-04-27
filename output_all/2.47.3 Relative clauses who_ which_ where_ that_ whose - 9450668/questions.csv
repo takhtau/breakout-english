@@ -1,0 +1,49 @@
+HTML
+"<p>There was me and there was Kate, ... party it was, and then there were two other people. </p>",1,one,
+*,<p>whose</p>
+,<p>that</p>
+,<p>which</p>
+"<p>Kate, ... sister I used to share a house with, has gone to work in Australia.</p>",1,one,
+,<p>where</p>
+*,<p>whose</p>
+,<p>that</p>
+<p>The train ... goes to Manchester leaves from platform 3. </p>,1,one,
+,<p>who</p>
+,<p>where</p>
+*,<p>that</p>
+<p>The lady ... teaches us German lives next door. </p>,1,one,
+*,<p>who</p>
+,<p>which</p>
+,<p>whose</p>
+<p>The film ... I saw yesterday was fantastic. </p>,1,one,
+,<p>who</p>
+*,<p>that</p>
+,<p>whose</p>
+<p>The guy ... laptop had been stolen called the police. </p>,1,one,
+,<p>which</p>
+,<p>that</p>
+*,<p>whose</p>
+<p>Every summer John goes to the town ... his parents were born.</p>,1,one,
+*,<p>where</p>
+,<p>who</p>
+,<p>that</p>
+"<p>That red car, ... is in my garage now, was bought by my sister. </p>",1,one,
+,<p>who</p>
+*,<p>which</p>
+,<p>where</p>
+<p>That’s the cat ... I saw in my garden.</p>,1,one,
+,<p>who</p>
+,<p>where</p>
+*,<p>that</p>
+<p>Richard is the man ... married my cousin Janet. </p>,1,one,
+*,<p>who</p>
+,<p>whose</p>
+,<p>which</p>
+<p>The young man ... lives upstairs is very friendly. </p>,1,one,
+,<p>which</p>
+*,<p>who</p>
+,<p>where</p>
+<p>I’m trying to find the poem ... was written by my younger brother. </p>,1,one,
+,<p>who</p>
+,<p>where</p>
+*,<p>that</p>

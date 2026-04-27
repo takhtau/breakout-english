@@ -1,0 +1,49 @@
+HTML
+<p>I bought a new car ... is very fast.</p>,1,one,
+*,<p>that</p>
+,<p>who</p>
+,<p>where</p>
+"<p>She lives in New York, ... she likes. </p>",1,one,
+,<p>who</p>
+*,<p>which</p>
+,<p>whose</p>
+<p>I like the woman ... lives next door. </p>,1,one,
+,<p>which</p>
+,<p>where</p>
+*,<p>who</p>
+"<p>I live in London, ... has some fantastic parks. </p>",1,one,
+*,<p>which</p>
+,<p>who</p>
+,<p>where</p>
+<p>I'm looking for a secretary ... can use a computer well.</p>,1,one,
+,<p>which</p>
+*,<p>who</p>
+,<p>whose</p>
+<p>She has a son ... is a doctor.</p>,1,one,
+,<p>where</p>
+,<p>whose</p>
+*,<p>who</p>
+<p>We bought a house ... is 200 years old.</p>,1,one,
+*,<p>that</p>
+,<p>who</p>
+,<p>where</p>
+<p>I sent a letter ... arrived three weeks later.</p>,1,one,
+,<p>who</p>
+*,<p>that</p>
+,<p>whose</p>
+<p>The dog ... owner lives next door is over there. </p>,1,one,
+,<p>that</p>
+,<p>who</p>
+*,<p>whose</p>
+<p>The little girl ... doll was lost is sad. </p>,1,one,
+*,<p>whose</p>
+,<p>that</p>
+,<p>where</p>
+<p> I live in the city ... I study.</p>,1,one,
+,<p>who</p>
+*,<p>where</p>
+,<p>which</p>
+<p>The bar in Barcelona ... I met my wife is still there. </p>,1,one,
+,<p>that</p>
+,<p>who</p>
+*,<p>where</p>

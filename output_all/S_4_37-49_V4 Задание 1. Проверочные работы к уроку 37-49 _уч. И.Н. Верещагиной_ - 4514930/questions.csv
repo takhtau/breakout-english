@@ -1,0 +1,41 @@
+HTML
+<p>You...................wash up now. I'll do it in the afternoon.</p>,1,one,
+,<p>can't</p>
+*,<p>don't have to</p>
+,<p>mustn't</p>
+<p>I made.................mistakes in this test. I hope I'll have no mistakes in the next test.</p>,1,one,
+,<p>little</p>
+*,<p>few</p>
+,<p>much</p>
+<p>I never have...........apple juice.</p>,1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>-</p>
+<p>Let's have a party on.............seventh of March. </p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>You never fight. - .............. .</p>,1,one,
+*,"<p>No, I don't</p>"
+,"<p>Yes, I don't</p>"
+,"<p>Yes, I am</p>"
+<p>He asked............same question.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>We have.............met him.</p>,1,one,
+*,<p>already</p>
+,<p>yet</p>
+,<p>ever</p>
+<p>Nobody.............leap frog now.</p>,1,one,
+,<p>play</p>
+*,<p>plays</p>
+,<p>doesn't play</p>
+"<p>You had to buy fruit, ...........?</p>",1,one,
+*,<p>didn't you</p>
+,<p>hadn't you</p>
+,<p>had you</p>
+<p>Once I met a boy................could speak five languages. </p>,1,one,
+*,<p>who</p>
+,<p>which</p>
+,<p>what</p>

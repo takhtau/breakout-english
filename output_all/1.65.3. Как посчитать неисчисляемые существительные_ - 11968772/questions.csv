@@ -1,0 +1,45 @@
+HTML
+<p>She wants to buy _______ milk.</p>,1,one,
+,<p>a slice of</p>
+*,<p>a bottle of</p>
+,<p>cups of</p>
+"<p>Can I have two sandwiches and _________ bread, please?</p>",1,one,
+,<p>a jar of</p>
+*,<p>a slice of </p>
+"<p>Can you pass me a _________ of cheese, please! </p>",1,one,
+,<p>a can of</p>
+,<p>bottle of</p>
+*,<p>slice</p>
+<p>This ________ of cereal is empty. We need to buy a new one.</p>,1,one,
+,<p>a packet of</p>
+*,<p>carton of</p>
+,<p>loaf of</p>
+<p> To make this fish salad you need _______ of sea food.</p>,1,one,
+,<p>a bar of</p>
+,<p>the packet</p>
+*,<p>a can  </p>
+<p>Remember to buy _________  milk when you are at the supermarket.</p>,1,one,
+*,<p>a carton of</p>
+,<p>the packet</p>
+,<p>a can of</p>
+<p>How much does _________ of banana cost?</p>,1,one,
+,<p>a bottle</p>
+*,<p>a kilo</p>
+,<p>the bowl</p>
+<p>He gives me a ________ of biscuits. </p>,1,one,
+,<p>kilos</p>
+*,<p>packet</p>
+<p>She eats a ________ chocolate every day. </p>,1,one,
+*,<p>bar of</p>
+,<p>spoon of</p>
+,<p>carton</p>
+<p>I put a _______ yoghurt into the fruit salad.</p>,1,one,
+,<p>piece </p>
+*,<p>packet of</p>
+<p>She poured me ________ coffee. </p>,1,one,
+,<p>piece of</p>
+*,<p>a cup of</p>
+<p>He cuts ________ of bread into thick slices.</p>,1,one,
+*,<p>a piece</p>
+,<p>a cup</p>
+,<p>loaves</p>

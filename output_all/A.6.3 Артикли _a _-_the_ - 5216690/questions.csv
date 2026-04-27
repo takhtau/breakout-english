@@ -1,0 +1,49 @@
+HTML
+<p>Look at ___ clock. It is ___ time to go to ___ school.</p>,1,one,
+*,<p>the/-/-</p>
+,<p>a/the/the</p>
+,<p>a/-/the</p>
+<p>He has ___ breakfast in ___ morning.</p>,1,one,
+,<p>a/the</p>
+,<p>the/a</p>
+*,<p>-/the</p>
+<p>They take ___ shower every day.</p>,1,one,
+*,<p>a</p>
+,<p>-</p>
+,<p>the</p>
+<p>In ___ afternoon I don't sleep. I do it at ___ night.</p>,1,one,
+*,<p>the/-</p>
+,<p>-/a</p>
+,<p>a/the</p>
+<p>It is time for ___ bed. Go to ___ bed.</p>,1,one,
+,<p>-/the</p>
+*,<p>-/-</p>
+,<p>-/a</p>
+<p>I like to play ___ football at ___ sports ground.</p>,1,one,
+*,<p>-/the</p>
+,<p>a/the</p>
+,<p>-/a</p>
+<p>After ___ breakfast she helps about ___ house.</p>,1,one,
+*,<p>-/the</p>
+,<p>a/a</p>
+,<p>-/a</p>
+<p>In ___ evening she is at ___ home.</p>,1,one,
+*,<p>the/-</p>
+,<p>a/the</p>
+,<p>-/a</p>
+<p>We have ___ dinner at ___ school.</p>,1,one,
+,<p>a/the</p>
+*,<p>-/-</p>
+,<p>a/a</p>
+<p>They like to read ___ books.</p>,1,one,
+,<p>a</p>
+*,<p>-</p>
+,<p>the</p>
+<p>My brother goes to ___ swimming pool after ___ school.</p>,1,one,
+,<p>a/a</p>
+*,<p>-/-</p>
+,<p>the/the</p>
+<p>He is ___ frog. He lives in ___ lake.</p>,1,one,
+*,<p>a/a</p>
+,<p>-/the</p>
+,<p>the/a</p>

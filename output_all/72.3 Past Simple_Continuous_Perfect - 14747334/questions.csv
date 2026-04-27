@@ -1,0 +1,49 @@
+HTML
+<p>Our warnings ----- them on that day.</p>,1,one,
+,<p>hadn’t stop</p>
+,<p>wasn’t stop</p>
+*,<p>didn’t stop</p>
+<p>We ----- lunch together the week before last.</p>,1,one,
+,<p>did had</p>
+*,<p>had</p>
+,<p>were having</p>
+<p>Where ----- yesterday morning?</p>,1,one,
+,<p>be you</p>
+,<p>did you</p>
+*,<p>were you</p>
+<p>She found the way quickly although she ----- there once.</p>,1,one,
+,<p>has only been</p>
+,<p>were only</p>
+*,<p>had only been</p>
+<p>She ----- all her assignments before the deadline.</p>,1,one,
+,<p>did finished</p>
+*,<p>had finished</p>
+,<p>had finish</p>
+<p>She ----- previously lived in Chicago.</p>,1,one,
+*,<p>had</p>
+,<p>did</p>
+,<p>was</p>
+"<p>By the time I ----- high school, I had already decided on my future career path.</p>",1,one,
+,<p>finish</p>
+*,<p>finished</p>
+,<p>was finish</p>
+<p>Rachel was staring out the window when she ----- something unusual.</p>,1,one,
+,<p>was seeing</p>
+,<p>had saw</p>
+*,<p>saw</p>
+<p>How long had they known each other before they ----- true friends?</p>,1,one,
+*,<p>became</p>
+,<p>were became</p>
+,<p>had became</p>
+<p>We were watching a movie when the power ----- out.</p>,1,one,
+,<p>go</p>
+*,<p>went</p>
+,<p>had gone</p>
+<p>Miles ----- on the porch when his dog barked behind the house.</p>,1,one,
+*,<p>was sitting</p>
+,<p>was sit</p>
+,<p>had sat</p>
+"<p>Who ----- the door open? When I arrived home, it ----- open.</p>",1,one,
+,<p>left; had been</p>
+*,<p>had left; was</p>
+,<p>was leaving; had left</p>

@@ -1,0 +1,53 @@
+HTML
+<p>It’s nice to see you again. What ----- since we last met?</p>,1,one,
+,<p>did you do</p>
+,<p>have you done</p>
+*,<p>have you been doing</p>
+<p>‘Sorry I’m late.’ ‘That’s all right. I ----- long.’</p>,1,one,
+,<p>haven’t waited</p>
+*,<p>haven’t been waiting</p>
+,<p>didn’t wait</p>
+<p>I ----- with some friends until I find a place of my own.</p>,1,one,
+*,<p>’m living</p>
+,<p>‘ve been living</p>
+,<p>live</p>
+<p>You ----- at your phone. Don’t you have anything else to do?</p>,1,one,
+,<p>always look</p>
+*,<p>’re always looking</p>
+,<p>have always looked</p>
+<p>Most people ----- to swim when they are children.</p>,1,one,
+*,<p>learn</p>
+,<p>’re learning</p>
+,<p>have been learning</p>
+<p>I ----- my keys again. I ----- them.</p>,1,one,
+,<p>lost; always lose</p>
+*,<p>’ve lost; ’m always losing</p>
+,<p>had lost; always lose</p>
+"<p>When we got home last night, we found that somebody ----- into the flat.</p>",1,one,
+*,<p>had broken</p>
+,<p>broke</p>
+,<p>has broken</p>
+<p>How long -----? When ----- here?</p>,1,one,
+,<p>have you waited; have you got</p>
+,<p>did you wait; did you get</p>
+*,<p>have you been waiting; did you get</p>
+<p>I wonder where Joe is. I ----- him since last week.</p>,1,one,
+,<p>hadn’t seen</p>
+,<p>didn’t see</p>
+*,<p>haven’t seen</p>
+"<p>At first, I thought I ----- the right thing, but I soon ----- that I ----- a big mistake.</p>",1,one,
+,<p>did; was realising; made</p>
+*,<p>’d done; realised; ’d made</p>
+,<p>have done; realised; made</p>
+<p>The people sitting next to me on the plane were nervous. They ----- before.</p>,1,one,
+*,<p>hadn’t flown</p>
+,<p>haven’t flown</p>
+,<p>haven’t been flying</p>
+<p>The house is dirty. They ----- it for weeks.</p>,1,one,
+,<p>didn’t cleaned</p>
+*,<p>haven’t cleaned</p>
+,<p>haven’t been cleaning</p>
+<p>Don’t put the dictionary away. I ----- it.</p>,1,one,
+,<p>use</p>
+*,<p>’m using</p>
+,<p>’ve been using</p>

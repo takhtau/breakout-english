@@ -1,0 +1,31 @@
+HTML
+<p>  </p>,1,one,
+*,<p>John will begin his new job tomorrow.</p>
+,<p>John will be beginning his new job tomorrow.</p>
+<p>  </p>,1,one,
+,<p>By 2001 he will work for ten hours.</p>
+*,<p>By 2001 he will have worked for ten hours.</p>
+<p>  </p>,1,one,
+,<p>He will be staying with us as often as possible.</p>
+*,<p>He will stay with us as often as possible.</p>
+<p>  </p>,1,one,
+*,<p>From two till three he will be working in the garden.</p>
+,<p>From two till three he'll work in the garden.</p>
+<p>  </p>,1,one,
+,<p>He said he'll be in the south the next week.</p>
+*,<p>He said he would be in the south the next week.</p>
+<p>  </p>,1,one,
+*,<p>What is she going to do on Friday?</p>
+,<p>What will she be doing on Friday?</p>
+<p>  </p>,1,one,
+,<p>Computers are going to be important but they are not going to replace teachers.</p>
+*,<p>Computers will be important but they won't replace teachers.</p>
+<p>  </p>,1,one,
+*,<p>If I have time I'll go.</p>
+,<p>If I have time I'll have gone.</p>
+<p>  </p>,1,one,
+*,<p>Where are you going to stay in Paris?</p>
+,<p>Where will you have stayed in Paris?</p>
+<p>  </p>,1,one,
+,<p>What time will they be returning home?</p>
+*,<p>What time will they return home?</p>

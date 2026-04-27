@@ -1,0 +1,49 @@
+HTML
+"<p>__________you stop him, or I will. </p>",1,one,
+*,<p>Either</p>
+,<p>Neither</p>
+,<p>Both</p>
+"<p>___________you apologize, or I’ll never speak to you again. </p>",1,one,
+*,<p>Either</p>
+,<p>Neither</p>
+,<p>Both</p>
+<p>Do you want it ready for Thursday or Friday? - _______ day is fine for me. </p>,1,one,
+*,<p>Either</p>
+,<p>Neither</p>
+,<p>Both</p>
+<p>I don’t think he is going to invite _________ of us. </p>,1,one,
+*,<p>Either</p>
+,<p>Neither</p>
+,<p>Both</p>
+<p>__________ of my friends came to class today. </p>,1,one,
+,<p>Either</p>
+*,<p>Neither</p>
+,<p>Both</p>
+<p>___________of their parents understood what the baby was trying to say. </p>,1,one,
+,<p>Either</p>
+*,<p>Neither</p>
+,<p>Both</p>
+"<p>_________of our cars has enough petrol, so we have to take the bus. </p>",1,one,
+,<p>Either</p>
+*,<p>Neither</p>
+,<p>Both</p>
+<p>Would you like your sandwich with cheese or chicken? - __________. I’m on a diet. </p>,1,one,
+,<p>Either</p>
+*,<p>Neither</p>
+,<p>Both</p>
+<p>____________ are slim. </p>,1,one,
+,<p>Either</p>
+,<p>Neither</p>
+*,<p>Both</p>
+"<p>I’m sorry, but I’ve lost _________ of your books. </p>",1,one,
+,<p>Either</p>
+,<p>Neither</p>
+*,<p>Both</p>
+<p>Martin speaks well ________ English and Russian. </p>,1,one,
+,<p>Either</p>
+,<p>Neither</p>
+*,<p>Both</p>
+<p>_________ of them has the same opinion. </p>,1,one,
+,<p>Either</p>
+,<p>Neither</p>
+*,<p>Both</p>

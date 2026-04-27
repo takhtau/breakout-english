@@ -1,0 +1,49 @@
+HTML
+<p>You ... have followed the instructions of your coach. Then you would have won the game.</p>,1,one,
+*,<p>should</p>
+,<p>can</p>
+,<p>might</p>
+<p>You ... leave your suitcases here. This place is full of thieves. </p>,1,one,
+,<p>might not</p>
+*,<p>mustn't</p>
+,<p>allowed to</p>
+<p>You ... park here. It is prohibited.</p>,1,one,
+,<p>may not</p>
+,<p>needn't</p>
+*,<p>mustn't</p>
+<p>Не ... take more than two pills at once. It may damage his health.</p>,1,one,
+*,<p>mustn't</p>
+,<p>allowed to</p>
+,<p>needn't</p>
+<p>Staff ... smoke when serving customers. It's a rule. </p>,1,one,
+,<p>shouldn't</p>
+*,<p>mustn't</p>
+,<p>don't have to</p>
+<p>Candidates ... ask more than five questions. </p>,1,one,
+,<p>allowed to</p>
+,<p>needn't</p>
+*,<p>mustn't</p>
+<p>You ... have cleared up the mess long ago. Why didn't you do that?</p>,1,one,
+*,<p>ought to</p>
+,<p>must</p>
+,<p>can</p>
+<p>She ... have been more attentive to her family. Now she regrets it.</p>,1,one,
+,<p>can</p>
+*,<p>should</p>
+,<p>need</p>
+"<p>She ... have opened my letter, because it was private.</p>",1,one,
+,<p>can't</p>
+,<p>didn't have to</p>
+*,<p>shouldn't</p>
+<p>I ... have called him. That was a mistake.</p>,1,one,
+*,<p>oughtn't to</p>
+,<p>needn't</p>
+,<p>might not</p>
+<p>She ... have fooled these people. That was rude.</p>,1,one,
+,<p>can't</p>
+*,<p>oughtn't to </p>
+,<p>didn't have to</p>
+<p>You ... run at school.</p>,1,one,
+,<p>needn't</p>
+,<p>might not</p>
+*,<p>mustn't</p>

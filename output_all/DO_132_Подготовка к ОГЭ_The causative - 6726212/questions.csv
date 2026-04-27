@@ -1,0 +1,15 @@
+HTML
+<p>Mandy <strong>is having cut her hair</strong> at the moment. </p>,1,,
+*,is having her hair cut
+<p>I might <strong>have the house redecorated</strong> next summer. </p>,1,,
+*,+
+<p>Our dog loves <strong>having his back scratching. </strong></p>,1,,
+*,having his back scratched
+<p>The receptionist<strong> had the suitcases brought up</strong> to the room. </p>,1,,
+*,+
+<p>We're not going to<strong> have costumes make</strong> for the play. </p>,1,,
+*,have costumes made
+<p>How often do you <strong>have checked your teeth</strong>? </p>,1,,
+*,have your teeth checked
+"<p>You don't like <strong>having your photo taken</strong>, do you? </p>",1,,
+*,+

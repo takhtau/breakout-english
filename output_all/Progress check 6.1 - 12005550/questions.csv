@@ -1,0 +1,52 @@
+HTML
+<p>There is one room ___ their house. (в)</p>,1,one,
+*,<p>in</p>
+,<p>on</p>
+,<p>next to</p>
+<p>There is a piano ____ the wall. (рядом с)</p>,1,one,
+,<p>on</p>
+*,<p>next to</p>
+,<p>behind</p>
+<p>There is a French book _____ the shelf. (на)</p>,1,one,
+,<p>in</p>
+,<p>under</p>
+*,<p>on</p>
+<p>There is a big balcony ___ his flat. (в)</p>,~1,one,
+*,<p>in</p>
+,<p>under</p>
+,<p>between</p>
+<p>There is an armchair ____ the door. (рядом с)</p>,1,one,
+,<p>under</p>
+*,<p>next to</p>
+,<p>in front of</p>
+<p>There is a big table ____ the room. (в)</p>,1,one,
+,<p>on</p>
+,<p>in front of</p>
+*,<p>in</p>
+<p>There _______ beautiful trees in the garden. </p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>There_____ a cat on the table.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There_____ 3 dogs in the box. </p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>There _____4 hens in the house.</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>Mum __ cooking dinner now.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>___ you doing homework now?</p>,1,one,
+*,<p>Are</p>
+,<p>Is</p>
+,<p>Do</p>
+<p>He _______ a book now.</p>,1,one,
+*,<p>is reading</p>
+,<p>reads</p>
+,<p>read</p>
+<p>They ______ a game now.</p>,1,one,
+*,<p>are playing</p>
+,<p>is playing</p>
+,<p>play</p>

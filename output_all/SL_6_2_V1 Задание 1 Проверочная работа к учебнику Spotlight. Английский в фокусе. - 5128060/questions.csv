@@ -1,0 +1,57 @@
+HTML
+<p>Granny _____ at the moment.</p>,1,one,
+,<p>sleeps</p>
+,<p>sleep</p>
+*,<p>is sleeping</p>
+<p>Granny _____ to bed at 10 o'clock.</p>,1,one,
+,<p>go</p>
+*,<p>goes</p>
+,<p>am going</p>
+<p>_____ biscuits would you like?</p>,1,one,
+*,<p>How many</p>
+,<p>How much</p>
+,<p>How</p>
+<p>_____ jam would you like?</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>_____ is that? - That's Paul.</p>,1,one,
+*,<p>Who</p>
+,<p>What</p>
+,<p>Whose</p>
+<p>_____ camera is that? - It's Paul's.</p>,1,one,
+,<p>Who</p>
+*,<p>Whose</p>
+,<p>What</p>
+<p>_____ is the camera?</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>Who</p>
+<p>_____ are they? - They're cameras.</p>,1,one,
+*,<p>What</p>
+,<p>Who</p>
+,<p>Whose</p>
+<p>_____ is a ruler in the pencil case.</p>,1,one,
+*,<p>There</p>
+,<p>Those</p>
+,<p>These</p>
+<p>_____ are rulers.</p>,1,one,
+,<p>That</p>
+*,<p>Those</p>
+,<p>This</p>
+<p>_____ two rulers in the pencil case.</p>,1,one,
+,<p>There's</p>
+,<p>It is</p>
+*,<p>There are</p>
+<p>Don't call him now. He _____ his homework.</p>,1,one,
+,<p>doing</p>
+,<p>is doing</p>
+*,<p>does</p>
+<p>He never _____ his homework on Sundays.</p>,1,one,
+,<p>doing</p>
+,<p>is doing</p>
+*,<p>does</p>
+<p>Look at the _____ tails!</p>,1,one,
+,<p>dog</p>
+,<p>dog's</p>
+*,<p>dogs'</p>

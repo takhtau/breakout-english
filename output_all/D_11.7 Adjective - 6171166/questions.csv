@@ -1,0 +1,41 @@
+HTML
+<p>The hotel is _____ than I expected.</p>,1,one,
+,<p>cheap</p>
+*,<p>cheaper</p>
+,<p>the cheapest</p>
+<p>It's _____ hotel in the town.</p>,1,one,
+,<p>cheap</p>
+,<p>cheaper</p>
+*,<p>the cheapest</p>
+<p>This film is _____ than the film we saw last week.</p>,1,one,
+,<p>interesting</p>
+*,<p>more interesting</p>
+,<p>the most interesting</p>
+<p>It's _____ film I've ever seen.</p>,1,one,
+,<p>interesting</p>
+*,<p>more interesting</p>
+,<p>the most interesting</p>
+<p>Russia is a very _____ country.</p>,1,one,
+*,<p>large</p>
+,<p>the largest</p>
+,<p>larger</p>
+<p>My room is _____ in our flat.</p>,1,one,
+,<p>big</p>
+*,<p>the biggest</p>
+,<p>bigger</p>
+<p>The island of Great Britain is _____ than Greenland.</p>,1,one,
+*,<p>smaller</p>
+,<p>the smallest</p>
+,<p>small</p>
+<p>My native town is very _____ .</p>,1,one,
+,<p>more beautiful</p>
+,<p>the most beautiful</p>
+*,<p>beautiful</p>
+<p>This is _____ song I've ever heard.</p>,1,one,
+*,<p>the most wonderful</p>
+,<p>wonderful</p>
+,<p>more wonderful</p>
+<p>He is _____ than his friend.</p>,1,one,
+,<p>happy</p>
+*,<p>happier</p>
+,<p>the happiest</p>

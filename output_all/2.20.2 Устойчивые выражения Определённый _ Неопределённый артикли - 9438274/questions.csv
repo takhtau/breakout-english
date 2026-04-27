@@ -1,0 +1,49 @@
+HTML
+<p>Where is ... cat? — ... cat is on ... sofa.</p>,1,one,
+,<p>a/a/a</p>
+*,<p>the/the/the</p>
+,<p>-/the/a</p>
+<p>Where is ... book? — ... book is on ... shelf.</p>,1,one,
+*,<p>the/the/the</p>
+,<p>-/the/the</p>
+,<p>the/a/-</p>
+<p>Where are ... flowers? — ... flowers are in ... beautiful vase.</p>,1,one,
+*,<p>the/the/a</p>
+,<p>the/the/the</p>
+,<p>-/-/a</p>
+<p>Where is ... vase? — ... vase is on ... little table near ... window.</p>,1,one,
+*,<p>the/the/a/the</p>
+,<p>-/the/a/-</p>
+,<p>the/a/a/-</p>
+<p>I am ... boy. I am ... pupil. I study at ... school.</p>,1,one,
+,<p>the/the/a</p>
+*,<p>a/a/-</p>
+,<p>the/a/-</p>
+<p>Do you see ... little girl with ... big ball in her hands?</p>,1,one,
+,<p>the/the</p>
+*,<p>a/a</p>
+,<p>-/the</p>
+<p>She is ... pupil of our ... school.</p>,1,one,
+,<p>an/-</p>
+*,<p>a/-</p>
+,<p>the/-</p>
+<p>There was ... beautiful flower in this ... vase yesterday.</p>,1,one,
+*,<p>a/-</p>
+,<p>an/-</p>
+,<p>the/the</p>
+<p>Our TV set is on ... little table in ... corner of ... room.</p>,1,one,
+,<p>the/the/the</p>
+,<p>-/the/a</p>
+*,<p>a/the/the</p>
+<p>There is no ... bread on ...table. </p>,1,one,
+,<p>-/a</p>
+,<p>the/the</p>
+*,<p>-/the</p>
+<p>There is ... little brown coffee table in our room in ... front of ... sofa.</p>,1,one,
+*,<p>a/-/the</p>
+,<p>a/the/the</p>
+,<p>-/-/the</p>
+<p>Where is ... table in your ... room?</p>,1,one,
+,<p>a/-</p>
+*,<p>the/-</p>
+,<p>-/-</p>

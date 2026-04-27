@@ -1,0 +1,49 @@
+HTML
+<p>He (to write) books since he was a young man.</p>,1,one,
+*,<p>has been writing </p>
+,<p>have written </p>
+,<p>wrote</p>
+<p>What you (to do) here since morning?</p>,1,one,
+,<p>have you done</p>
+*,<p>have you been doing</p>
+,<p>did you do</p>
+<p>Today she (to help) her mother since morning.</p>,1,one,
+,<p>helped</p>
+,<p>has helped</p>
+*,<p>has been helping </p>
+<p>They already (to wash) the floor and (to dust) the furniture.</p>,1,one,
+*,<p>have washed/dusted</p>
+,<p>have been washing/dusting</p>
+,<p>washed/dusted</p>
+<p>He (to run) for ten minutes without any rest.</p>,1,one,
+,<p>ran</p>
+*,<p>has been running </p>
+,<p>has run </p>
+<p>You (to find) your notebook?</p>,1,one,
+*,<p>Have you found</p>
+,<p>Have you been finding </p>
+,<p>Did you find</p>
+"<p>I already (to look) for it for two hours, but (not to find) it yet.</p>",1,one,
+,<p>have looked/haven't found</p>
+*,<p>have been looking/haven't found</p>
+,<p>have been looking/haven't been finding </p>
+"<p>I (to wait) for an answer from my cousin for a month already, but (not to receive) it yet.</p>",1,one,
+*,<p>have been waiting/haven't recieved </p>
+,<p>have waited/haven't recieved</p>
+,<p>waited/recieved</p>
+<p>She already (to do) her homework for two hours; but she (not to do) half of it yet.</p>,1,one,
+,<p>did/ didn't do </p>
+*,<p>has been doing/hasn't done</p>
+,<p>has done/hasn't been doing</p>
+<p>It is difficult for me to speak about this opera as I (not to hear) it.</p>,1,one,
+,<p>have not been hearing</p>
+*,<p>have not heard</p>
+,<p>didn't hear</p>
+"<p>I just (to receive) a letter from my granny, but I (not yet to receive) any letters from my parents.</p>",1,one,
+*,<p>have recieved/haven't recieved</p>
+,<p>recieved/didn't recieve </p>
+,<p>have recieved/recieved</p>
+<p>Jane already (to feed) the cat. You needn’t do it.</p>,1,one,
+,<p>has been feeding </p>
+*,<p>have already fed</p>
+,<p>fed</p>

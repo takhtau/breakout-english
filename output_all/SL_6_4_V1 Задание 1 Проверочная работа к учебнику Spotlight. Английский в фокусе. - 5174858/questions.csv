@@ -1,0 +1,57 @@
+HTML
+<p>This is Ted's laptop. Sam _____ it now.</p>,1,one,
+,<p>use</p>
+,<p>uses</p>
+*,<p>is using</p>
+<p>This laptop _____ to Ted now.</p>,1,one,
+,<p>belong</p>
+*,<p>belongs</p>
+,<p>belonging</p>
+<p>What _____ tonight?</p>,1,one,
+,<p>do you do</p>
+,<p>you do</p>
+*,<p>are you doing</p>
+<p>What _____ on Sundays?</p>,1,one,
+*,<p>do you do</p>
+,<p>you do</p>
+,<p>are you doing</p>
+<p>I have _____ to Moscow tomorrow.</p>,1,one,
+,<p>fly</p>
+*,<p>to fly</p>
+,<p>am flying</p>
+<p>I _____ to Moscow tomorrow. I bought the tickets yesterday.</p>,1,one,
+,<p>fly</p>
+,<p>to fly</p>
+*,<p>am flying</p>
+<p>I hope I _____ to Moscow tomorrow.</p>,1,one,
+,<p>fly</p>
+*,<p>will fly</p>
+,<p>am flying</p>
+<p>I travel a lot. I often _____ to Moscow.</p>,1,one,
+*,<p>fly</p>
+,<p>will fly</p>
+,<p>am flying</p>
+<p>What are your plans? - I _____ to Moscow.</p>,1,one,
+,<p>fly</p>
+,<p>will fly</p>
+*,<p>am flying</p>
+<p>Have you got _____ questions to ask?</p>,1,one,
+*,<p>many</p>
+,<p>much</p>
+,<p>a</p>
+<p>I don't want to buy _____ juice for the party.</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+,<p>a</p>
+<p>Is there _____ water in the kettle?</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+,<p>a</p>
+<p>_____ laptops are there in the classroom?</p>,1,one,
+*,<p>How many</p>
+,<p>How much</p>
+,<p>How</p>
+<p>_____ are you going to fix your laptop?</p>,1,one,
+,<p>How many</p>
+,<p>How much</p>
+*,<p>How</p>

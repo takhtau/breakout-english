@@ -1,0 +1,41 @@
+HTML
+<p>He will come tomorrow. She told me that he ___ tomorrow.</p>,1,one,
+,<p>is coming</p>
+,<p>will come</p>
+*,<p>would come</p>
+<p>I see the clouds. He told me that she ___ the clouds.</p>,1,one,
+,<p>sees</p>
+,<p>is seeing</p>
+*,<p>saw</p>
+<p>My mother is taking the bus to work tomorrow. He told me that his mother ___ the bus to work tomorrow.</p>,1,one,
+,<p>is taking</p>
+*,<p>was taking</p>
+,<p>will take</p>
+<p>I will call you. I told her that I_____ her.</p>,1,one,
+,<p>will call</p>
+*,<p>would call</p>
+,<p>would have called</p>
+<p>I have been there. She told me that she ___ there.</p>,1,one,
+*,<p>had been</p>
+,<p>has been</p>
+,<p>was</p>
+<p>I will be studying tomorrow. I told him that I ___ tomorrow.</p>,1,one,
+,<p>will be studying</p>
+*,<p>would be studying</p>
+,<p>will study</p>
+<p>Open the window! He asked me ___ the window.</p>,1,one,
+*,<p>to open</p>
+,<p>open</p>
+,<p> opened</p>
+<p>I am happy. She told me that she ___ happy.</p>,1,one,
+,<p>has been</p>
+,<p>is</p>
+*,<p>was</p>
+<p>I have seen that movie. He told me that he ___ that movie.</p>,1,one,
+*,<p>had seen</p>
+,<p>will have seen</p>
+,<p>has seen</p>
+<p>I am flying to India tomorrow. He told me that he ___ tomorrow.</p>,1,one,
+,<p>is flying</p>
+*,<p>was flying</p>
+,<p>will fly</p>

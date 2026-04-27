@@ -1,0 +1,49 @@
+HTML
+<p>My cousin (to look) for a job at the moment.</p>,1,one,
+*,<p>is looking</p>
+,<p>looks</p>
+,<p>has looked</p>
+<p>He (not to find) a job yet.</p>,1,one,
+,<p>isn't finding</p>
+*,<p>hasn't found</p>
+,<p>doesn't find</p>
+<p>What ... you ... (to study) now?</p>,1,one,
+,<p>have/studied</p>
+,<p>do/study</p>
+*,<p>are/studying</p>
+<p>They ... just ... (to give) you a pay rise.</p>,1,one,
+*,<p>have/given</p>
+,<p>do/give</p>
+,<p>are/giving</p>
+<p>Sometimes she (to knit) a sweater for her grandson.</p>,1,one,
+,<p>is knitting </p>
+*,<p>knits</p>
+,<p>has knit</p>
+<p>You usually (not to eat) much.</p>,1,one,
+,<p>haven't eaten </p>
+,<p>aren't eating</p>
+*,<p>don't eat</p>
+<p>People (to plant) carrots and tomatoes now.</p>,1,one,
+*,<p>are planting</p>
+,<p>have planted</p>
+,<p>plant</p>
+<p>How long ... you ... (to be) sick?</p>,1,one,
+,<p>are/being</p>
+*,<p>have/been</p>
+,<p>do/be</p>
+<p>... you ... (to see) any good movies recently?</p>,1,one,
+,<p>Do/see</p>
+,<p>Are/seeing</p>
+*,<p>Have/seen</p>
+<p>... Mike ... (to leave) for work yet?</p>,1,one,
+*,<p>Has/left</p>
+,<p>Do/leave</p>
+,<p>Is/leaving</p>
+<p>The boy (to do) his homework every day.</p>,1,one,
+,<p>is doing</p>
+*,<p>does</p>
+,<p>has done</p>
+<p>I (to have) dinner with my friends at the moment.</p>,1,one,
+,<p>have</p>
+,<p>have had</p>
+*,<p>am having</p>

@@ -1,0 +1,49 @@
+HTML
+<p>Go ______! (Налево)</p>,1,one,
+*,<p>left</p>
+,<p>right</p>
+,<p>straight</p>
+<p>______ right!</p>,1,one,
+,<p>Going</p>
+,<p>To go</p>
+*,<p>Go</p>
+<p>_____the book!</p>,1,one,
+,<p>To open</p>
+*,<p>Open</p>
+,<p>Opening</p>
+<p>_______ the light!</p>,1,one,
+*,<p>Turn on</p>
+,<p>To turn on</p>
+,<p>Turning on</p>
+<p>_____ you sister!</p>,1,one,
+,<p>Helping</p>
+,<p>To help</p>
+*,<p>Help</p>
+<p>_______ your grandparents!</p>,1,one,
+,<p>To visit</p>
+*,<p>Visit</p>
+,<p>Visiting</p>
+<p>_______ that money!</p>,1,one,
+,<p>Not take</p>
+,<p>Not to take</p>
+*,<p>Don't take</p>
+<p>______ Coke!</p>,1,one,
+*,<p>Don't drink</p>
+,<p>Not to drink</p>
+,<p>Not drink</p>
+<p>_____ at the museum!</p>,1,one,
+,<p>Not to run</p>
+*,<p>Don't run</p>
+,<p>Not run</p>
+<p>Let's ______!</p>,1,one,
+,<p>doing yoga</p>
+*,<p>do yoga</p>
+,<p>to do yoga</p>
+<p>Let's _______food  for home!</p>,1,one,
+*,<p>buy</p>
+,<p>to buy</p>
+,<p>buying</p>
+<p>Let's _______ your teeth!</p>,1,one,
+*,<p>brush</p>
+,<p>brushing</p>
+,<p>to brush</p>

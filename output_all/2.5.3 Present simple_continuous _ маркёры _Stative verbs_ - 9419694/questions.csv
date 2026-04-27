@@ -1,0 +1,49 @@
+HTML
+<p>Barbara’s boss (to see) that she is always late for work.</p>,1,one,
+*,<p>sees</p>
+,<p>is seeing</p>
+,<p>see</p>
+<p>I want (to call) him every month.</p>,1,one,
+,<p>calling</p>
+*,<p>to call</p>
+,<p>call</p>
+<p>You (to hear) me now.</p>,1,one,
+,<p>are hearing</p>
+,<p>to hear</p>
+*,<p>hear</p>
+<p>Ruth (to learn) English now.</p>,1,one,
+*,<p>is learning</p>
+,<p>learns</p>
+,<p>learn</p>
+<p>She likes (to learn) languages.</p>,1,one,
+,<p>to learn</p>
+*,<p>learning</p>
+,<p>learn</p>
+<p>She wants (to impress) everybody.</p>,1,one,
+,<p>impressing</p>
+,<p>impress</p>
+*,<p>to impress</p>
+<p>You understand what language he (to speak) now.</p>,1,one,
+*,<p>is speaking</p>
+,<p>speaks</p>
+,<p>speak</p>
+<p>We know that he never (to take) risks.</p>,1,one,
+,<p>is taking</p>
+*,<p>takes</p>
+,<p>take</p>
+<p>I (not to like) to watch TV very often.</p>,1,one,
+,<p>am not liking</p>
+,<p>doesn't like</p>
+*,<p>don't like</p>
+"<p>At the moment I (to enjoy) my favourite film ""Gone with the Wind"".</p>",1,one,
+*,<p>am enjoying</p>
+,<p>enjoy</p>
+,<p>to enjoy</p>
+<p>Hurry up! We (not to have) much time left.</p>,1,one,
+,<p>are not having</p>
+*,<p>don't have</p>
+,<p>doesn't have</p>
+<p>I think that she (to try) to lose weight now.</p>,1,one,
+,<p>tries</p>
+,<p>try</p>
+*,<p>is trying</p>

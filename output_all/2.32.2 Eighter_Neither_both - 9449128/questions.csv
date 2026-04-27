@@ -1,0 +1,49 @@
+HTML
+<p>She speaks ______ English and Arabic.</p>,1,one,
+,<p>Either </p>
+,<p>Neither</p>
+*,<p>Both </p>
+"<p>I have had a long, hard day and I’m _______ tired and hungry.</p>",1,one,
+,<p>Either </p>
+,<p>Neither</p>
+*,<p>Both </p>
+"<p>I’d only been in about two fights in my life, and I lost _______of them. </p>",1,one,
+,<p>Either </p>
+,<p>Neither</p>
+*,<p>Both </p>
+<p>A prize was given to__________ of the players. </p>,1,one,
+,<p>Either </p>
+,<p>Neither</p>
+*,<p>Both </p>
+<p>_________ book was fascinating.</p>,1,one,
+,<p>Either </p>
+*,<p>Neither</p>
+,<p>Both </p>
+<p>___________ of the films is interesting. I was bored to death when I was watching them. </p>,1,one,
+,<p>Either </p>
+*,<p>Neither</p>
+,<p>Both </p>
+<p>____________of your books will be accepted.</p>,1,one,
+,<p>Either </p>
+*,<p>Neither</p>
+,<p>Both </p>
+<p>__________ of my dogs like playing with toys.</p>,1,one,
+,<p>Either </p>
+*,<p>Neither</p>
+,<p>Both </p>
+<p>I don’t think ___________ of them are at home.</p>,1,one,
+*,<p>Either </p>
+,<p>Neither</p>
+,<p>Both </p>
+<p>There are only two options and I’m not interested in _______ of them.</p>,1,one,
+*,<p>Either </p>
+,<p>Neither</p>
+,<p>Both </p>
+<p>Has anyone stayed in __________of these places? </p>,1,one,
+*,<p>Either </p>
+,<p>Neither</p>
+,<p>Both </p>
+<p>_________ you leave the building now or I'm calling the police. </p>,1,one,
+*,<p>Either </p>
+,<p>Neither</p>
+,<p>Both </p>

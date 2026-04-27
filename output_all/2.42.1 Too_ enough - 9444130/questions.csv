@@ -1,0 +1,34 @@
+HTML
+<p>The bag isn't … for me to buy.</p>,1,one,
+,<p>cheap enough</p>
+*,<p>too cheap</p>
+<p>We don’t have … to make the cake. </p>,1,one,
+,<p>too flour</p>
+*,<p>enough flour</p>
+<p>This homework is … for me.</p>,1,one,
+*,<p>too difficult</p>
+,<p>difficult enough</p>
+<p>You can get to the city centre … . </p>,1,one,
+*,<p>easily enough</p>
+,<p>too easily</p>
+"<p>You put … in your soup. Sorry, I won’t eat it. </p>",1,one,
+,<p>enough onions</p>
+*,<p>too many onions</p>
+<p>The story ends … to be read to our children. </p>,1,one,
+*,<p>too sadly</p>
+,<p>sadly enough</p>
+<p>This film is … .</p>,1,one,
+,<p>too much interesting</p>
+*,<p>interesting enough</p>
+<p>The building of the cathedral was … to be restored after the bombing. </p>,1,one,
+*,<p>too damaged</p>
+,<p>damaged enough</p>
+<p>The man spoke … about himself and nobody liked him.</p>,1,one,
+*,<p>too little</p>
+,<p>little enough</p>
+<p>The boy didn’t have … to lift the rucksack. </p>,1,one,
+,<p>too strength</p>
+*,<p>enough strength</p>
+<p>Fast food has … to be eaten every day. </p>,1,one,
+,<p>enough calories</p>
+*,<p>too many calories</p>

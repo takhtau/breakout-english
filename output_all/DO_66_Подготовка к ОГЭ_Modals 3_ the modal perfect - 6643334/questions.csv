@@ -1,0 +1,13 @@
+HTML
+<p>I expect Adrian did a lot of revision. (must)</p><p>Adrian_________________a lot of revision. </p>,1,,
+*,must have done
+<p>I don't believe that Jim stole the money. (can't) </p><p>Jim______________the money. </p>,1,,
+*,can't have stolen
+<p>It's possible that I have made a mistake. (could)</p><p>I______________a mistake. </p>,1,,
+*,could have made
+<p>There's a chance that someone saw us. (may) </p><p>Someone_______________us. </p>,1,,
+*,may have seen
+<p>It's possible that Tim hasn't arrived yet. (might)</p><p>Tim_______________yet. </p>,1,,
+*,might not have arrived
+<p>I'm sure that Irene wasn't at the party because she was ill. (have) </p><p>Irene______________at the party because she was ill.</p>,1,,
+*,can't have been

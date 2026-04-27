@@ -1,0 +1,41 @@
+HTML
+<p>She must _____ the soup.</p>,1,one,
+*,<p>eat</p>
+,<p>eats</p>
+,<p>to eat</p>
+<p>The write shirt is _____ than the black shirt.</p>,1,one,
+,<p>good</p>
+*,<p>better</p>
+,<p>the best</p>
+"<p>It's _____ today, isn't it?</p>",1,one,
+*,<p>cold</p>
+,<p>more cold</p>
+,<p>coldest</p>
+<p>The puppy is _____ .</p>,1,one,
+,<p>swim</p>
+,<p>swims</p>
+*,<p>swimming</p>
+<p>What _____ clever children!</p>,1,one,
+,<p>a</p>
+,<p>the</p>
+*,<p>-</p>
+<p>Robert doesn't want to read _____ story.</p>,1,one,
+,<p>three</p>
+,<p>third</p>
+*,<p>the third</p>
+<p>He _____ put on his new jeans.</p>,1,one,
+*,<p>won't</p>
+,<p>shan't</p>
+,<p>isn't</p>
+<p>_____ go shopping today.</p>,1,one,
+,<p>she is</p>
+*,<p>she must</p>
+,<p>she wants</p>
+<p>Who has got a puppy? - They _____ .</p>,1,one,
+,<p>has</p>
+*,<p>have</p>
+,<p>are</p>
+<p>Her English is very _____ .</p>,1,one,
+*,<p>good</p>
+,<p>well</p>
+,<p>badly</p>

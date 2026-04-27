@@ -1,0 +1,61 @@
+HTML
+<p>Do you come on Saturday or _______?</p>,1,one,
+,<p>Yesterday</p>
+*,<p>Sunday</p>
+,<p>Last week</p>
+<p>Where do you want to live: in the flat or _______?</p>,1,one,
+*,<p>house</p>
+,<p>Tyumen</p>
+,<p>city</p>
+<p>Does your mother work in the bank or _______?</p>,1,one,
+*,<p>at school</p>
+,<p>doctor</p>
+,<p>fireman</p>
+<p>Do you want to play the piano or _______?</p>,1,one,
+,<p>the notebook</p>
+*,<p>the guitar</p>
+,<p>the blanket</p>
+<p>Is it cold or _______?</p>,1,one,
+*,<p>hot</p>
+,<p>fast</p>
+,<p>hard</p>
+<p>July is the _____ month of the year. </p>,1,one,
+*,<p>seventh</p>
+,<p>seven </p>
+,<p>sevened</p>
+<p>Christmas in Russia is on (06.01). </p>,1,one,
+*,<p>the sixth of January </p>
+,<p>the six of January </p>
+,<p>the sixth in January </p>
+<p>I was born on (8.02)</p>,1,one,
+,<p>the eight of February </p>
+*,<p> the eighth of February </p>
+,<p>the eighth in February </p>
+<p>August is the ______ month of the year. </p>,1,one,
+,<p>eight</p>
+*,<p>eighth </p>
+,<p>eighted </p>
+<p>Christmas in America is on (25.12).</p>,1,one,
+,<p>the twenty-fifth in December </p>
+,<p>the twenty-five of December </p>
+*,<p>the twenty-fifth of December </p>
+<p>12:00</p>,1,,
+*,It’s twelve o`clock.
+*,It is twelve o`clock.
+*,twelve o`clock
+<p>11:45</p>,1,,
+*,It’s quarter to twelve.
+*,It is quarter to twelve.
+*,quarter to twelve
+<p>7:07</p>,1,,
+*,It’s seven past seven.
+*,It is seven past seven.
+*,seven past seven
+<p>8:50</p>,1,,
+*,It’s ten to nine.
+*,It is ten to nine.
+*,ten to nine
+<p>4:30</p>,1,,
+*,It’s half past four.
+*,It is half past four.
+*,half past four

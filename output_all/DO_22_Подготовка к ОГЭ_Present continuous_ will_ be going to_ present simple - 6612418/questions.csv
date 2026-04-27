@@ -1,0 +1,25 @@
+HTML
+"<p>- Have you made plans for the summer? </p><p>- Yes,___________to Spain.</p>",1,one,
+,<p>We'll go </p>
+*,<p>We're going </p>
+,<p>We go </p>
+<p>- We're moving house tomorrow</p><p>- Really? ___________you with the furniture. </p>,1,one,
+,<p>I help </p>
+,<p>I'm helping </p>
+*,<p>I'll help </p>
+"<p>-  Do you need this paintbrush?</p><p>- Ah, yes____________it to me, please? </p>",1,one,
+,<p>Do you pass</p>
+*,<p>Will you pass</p>
+,<p>Are you passing </p>
+"<p>- What do you want to be when you grow up, Stevie? </p><p>- ___________a scientist. That's what I want to do, anyway. </p>",1,one,
+,<p>I be </p>
+*,<p>I'm going to be </p>
+,<p>I'm being </p>
+"<p>- John is a better player than Martin, isn't he? </p><p>- Oh, yes________the match tomorrow, I expect. </p>",1,one,
+*,<p>He'll win </p>
+,<p>He wins </p>
+,<p>He's winning </p>
+"<p>- The weather has been terrible, hasn't it? </p><p>- Yes, I think____________again later. </p>",1,one,
+*,<p>It's going to rain </p>
+,<p>It's raining </p>
+,<p>It rains </p>

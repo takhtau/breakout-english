@@ -1,0 +1,49 @@
+HTML
+"<p>While I -----, she was cooking.</p>",1,one,
+,<p>cleaned</p>
+,<p>had cleaned</p>
+*,<p>was cleaning</p>
+<p>He ----- school four years ago.</p>,1,one,
+,<p>was finishing</p>
+*,<p>finished</p>
+,<p>had finished </p>
+<p>We often ----- football after school.</p>,1,one,
+*,<p>played</p>
+,<p>were playing</p>
+,<p>had played</p>
+<p>When ----- finish your project?</p>,1,one,
+,<p>had you</p>
+,<p>were you</p>
+*,<p>did you</p>
+"<p>When the train ----- moving, the passengers ----- already boarded.</p>",1,one,
+,<p>was starting; were</p>
+,<p>started; did</p>
+*,<p>started; had</p>
+<p>I ----- my mum with dishes when the doorbell -----.</p>,1,one,
+,<p>was helping; ringed</p>
+,<p>had helped; rang</p>
+*,<p>was helping; rang</p>
+<p>My elder brother ----- in the park the whole day yesterday.</p>,1,one,
+,<p>had cycled</p>
+*,<p>was cycling</p>
+,<p>cycled</p>
+<p>My younger sister ------ asleep by the time I ----- home.</p>,1,one,
+*,<p>had fallen; got</p>
+,<p>fell; had got</p>
+,<p>was falling; was getting</p>
+<p>----- they won any matches before they ----- playing for the school league?</p>,1,one,
+,<p>Did; had started</p>
+*,<p>Had; started</p>
+,<p>Did; were starting</p>
+<p>He ----- for his friend at the bus stop when he ----- an old classmate.</p>,1,one,
+,<p>waited; was seeing</p>
+,<p>had waited; saw</p>
+*,<p>was waiting; saw</p>
+<p>The sun ----- as we left home.</p>,1,one,
+,<p>rose</p>
+,<p>had risen</p>
+*,<p>was rising</p>
+<p>They ----- abroad until last summer.</p>,1,one,
+*,<p>hadn't travelled</p>
+,<p>didn’t travel</p>
+,<p>weren’t travelling</p>

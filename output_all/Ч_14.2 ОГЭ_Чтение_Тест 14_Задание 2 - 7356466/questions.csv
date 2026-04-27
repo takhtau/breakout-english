@@ -1,0 +1,34 @@
+HTML
+"<p><img class=""fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2020-12-09%2Fa719bd1c-473f-4960-8555-681de2dc494a-jqipsR6Urnc.jpg""/>Text</p>"
+<p>Ivan the Terrible's mother died five years after his father. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>Ivan's younger brother wanted to become Tsar of All the Russians. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>The fire at the Print Yard was an accident. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>Ivan created a symbol of Russia that still exists today. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>Ivan's wife died very early in their marriage. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+"<p>When Ivan tried to quit as leader, many poorer people were pleased. </p>",1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+"<p>In his later years, Ivan felt that some people were against him. </p>",1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+"<p>The English were the first people to call him ""Ivan the Terrible"". </p>",1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>

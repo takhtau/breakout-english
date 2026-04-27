@@ -1,0 +1,41 @@
+HTML
+"<p>They had a nice garden in front of their house, .............?</p>",1,one,
+,<p>hadn't they</p>
+*,<p>didn't they</p>
+,<p>did they</p>
+<p>The hotel wasn't cheap. - .....................</p>,1,one,
+,"<p>Yes, it wasn't</p>"
+*,"<p>No, it wasn,t</p>"
+,"<p>No, it didn't</p>"
+"<p>There is nothing funny in this text, ...........?</p>",1,one,
+,<p>is it</p>
+*,<p>is there</p>
+,<p>isn't there</p>
+<p>.....................cheese in the fridge.</p>,1,one,
+*,<p>There is</p>
+,<p>It is</p>
+,<p>There are</p>
+<p>She could.............walk.</p>,1,one,
+,<p>hard</p>
+*,<p>hardly</p>
+,<p>good</p>
+<p>She worked............ .</p>,1,one,
+*,<p>hard</p>
+,<p>hardly</p>
+,<p>good</p>
+<p>Is she going................the poem by heart?</p>,1,one,
+,<p>learn</p>
+,<p>learns</p>
+*,<p>to learn</p>
+<p>I was late yesterday. It...............me two hours to get to the museum.</p>,1,one,
+,<p>takes</p>
+,<p>will take</p>
+*,<p>took</p>
+<p>What.................on the carpet?</p>,1,one,
+*,<p>is there</p>
+,<p>are there</p>
+,<p>it is</p>
+<p>They didn't invite............tj the party.</p>,1,one,
+,<p>somebody</p>
+*,<p>anybody</p>
+,<p>nobody</p>

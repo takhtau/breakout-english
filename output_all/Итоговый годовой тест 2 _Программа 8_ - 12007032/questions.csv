@@ -1,0 +1,51 @@
+HTML
+<p>Can the doll open _____ eyes?</p>,1,one,
+,<p>her</p>
+*,<p>its</p>
+,<p>it's</p>
+<p>He _____ play at school.</p>,1,one,
+,<p>isn't</p>
+,<p>don't</p>
+*,<p>doesn't</p>
+<p>These are Mr Brown's _____ .</p>,1,one,
+,<p>son</p>
+*,<p>children</p>
+,<p>daughter</p>
+<p>He doesn't like _____ toys.</p>,1,one,
+*,<p>those</p>
+,<p>a</p>
+,<p>that</p>
+<p>The boys _____ like to swim.</p>,1,one,
+*,<p>don't</p>
+,<p>doesn't</p>
+,<p>aren't</p>
+<p>Are the _____ from Africa?</p>,1,one,
+*,<p>women</p>
+,<p>woman</p>
+,<p>child</p>
+<p>_____ don't like cats.</p>,1,one,
+,<p>the dog</p>
+,<p>the mouse</p>
+*,<p>mice</p>
+<p>Where does the _____ mother work?</p>,1,one,
+*,<p>children's</p>
+,<p>childrens'</p>
+,<p>children</p>
+<p>___ you playing now?</p>,1,one,
+*,<p>Are</p>
+,<p>Is</p>
+<p>What ___ you usually have for breakfast?</p>,1,one,
+*,<p>do</p>
+,<p>does</p>
+<p>There____ a table in the bedroom.</p>,1,one,
+,<p>are</p>
+*,<p>is</p>
+<p>There____ 4 rooms in the house.</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+<p>I have got ___ apple.</p>,1,one,
+*,<p>an</p>
+,<p>a</p>
+<p>I buy a pen. ___ pen is red.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>

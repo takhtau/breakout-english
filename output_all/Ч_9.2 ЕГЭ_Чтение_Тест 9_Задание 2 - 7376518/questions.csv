@@ -1,0 +1,10 @@
+HTML
+"<p><img class=""fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2020-12-10%2Fef39ce29-6ccc-493d-86a1-167576678113-pjq9rxnxNPo.jpg""/>Text</p>"
+<p>Match </p>,~1,"norightshuffle,text",
+,<p>A</p>,<p>1</p>
+,<p>B</p>,<p>6</p>
+,<p>C</p>,<p>4</p>
+,<p>D</p>,<p>3</p>
+,<p>E</p>,<p>2</p>
+,<p>F</p>,<p>7</p>
+,,<p>5</p>

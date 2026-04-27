@@ -1,0 +1,37 @@
+HTML
+<p>____ is my brother. (это)</p>,1,one,
+*,<p>This</p>
+,<p>That</p>
+<p>____ book is his. (эта)</p>,1,one,
+,<p>That</p>
+*,<p>This</p>
+<p>____ woman is a professor. (та)</p>,1,one,
+*,<p>That</p>
+,<p>This</p>
+<p>____ is his dog. (та)</p>,1,one,
+,<p>This</p>
+*,<p>That</p>
+<p>_______are zebras.(те)</p>,1,one,
+,<p>These</p>
+*,<p>Those</p>
+<p>________are tables. (эти)</p>,1,one,
+*,<p>These</p>
+,<p>Those</p>
+<p>_________books are not interesting. (те)</p>,1,one,
+,<p>These</p>
+*,<p>Those</p>
+<p> Who are _______ people? (эти)</p>,1,one,
+*,<p>These</p>
+,<p>Those</p>
+<p>Jane________a backpack.</p>,1,one,
+,<p>have got</p>
+*,<p>has got</p>
+<p>He_________a book. </p>,1,one,
+,<p>have got</p>
+*,<p>has got</p>
+<p>We________a desk. </p>,1,one,
+*,<p>have got</p>
+,<p>has got</p>
+<p>She__________a toy</p>,1,one,
+,<p>have got</p>
+*,<p>has got</p>

@@ -1,0 +1,31 @@
+HTML
+<p>He gave ___ the money.</p>,1,one,
+*,<p>him </p>
+,<p>to him</p>
+<p>She went ___ on Friday.</p>,1,one,
+,<p>him </p>
+*,<p>to him</p>
+<p>I will lend ___ my book.</p>,1,one,
+*,<p>him </p>
+,<p>to him</p>
+<p>You should give that shirt ___.</p>,1,one,
+,<p>her</p>
+*,<p>to her</p>
+<p>You should give ___ that shirt.</p>,1,one,
+*,<p>her</p>
+,<p>to her</p>
+<p>I phoned ___ three times.</p>,1,one,
+*,<p>him </p>
+,<p>to him</p>
+<p>Are you talking ___?</p>,1,one,
+,<p>me</p>
+*,<p>to me</p>
+<p>I spoke ___ about the trip.</p>,1,one,
+,<p>you</p>
+*,<p>to you</p>
+<p>I didn't see ___ at the supermarket.</p>,1,one,
+*,<p>them</p>
+,<p>to them</p>
+<p>She did not tell ___ her name.</p>,1,one,
+*,<p>me</p>
+,<p>to me</p>

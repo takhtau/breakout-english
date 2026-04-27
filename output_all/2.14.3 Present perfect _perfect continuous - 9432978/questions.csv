@@ -1,0 +1,49 @@
+HTML
+<p>I (to wait) for you a long time.</p>,1,one,
+*,<p>have been waiting</p>
+,<p>have waited</p>
+,<p>waited</p>
+<p>I (to stay) with them for two weeks now.</p>,1,one,
+*,<p>have been staying </p>
+,<p>have stayed</p>
+,<p>stayed</p>
+<p>She (to talk) to her boss since morning. I believe she is in trouble.</p>,1,one,
+,<p>has talked</p>
+*,<p>has been talking </p>
+,<p>talked </p>
+<p>It (to rain) all day long. I’m sick and tired of this weather.</p>,1,one,
+*,<p>has been raining</p>
+,<p>has rained</p>
+,<p>rained</p>
+<p>He (not to work) all weekend. He is lying.</p>,1,one,
+,<p>hasn't worked</p>
+,<p>didn't work</p>
+*,<p> hasn’t been working</p>
+<p>Things (to go) really well lately.</p>,1,one,
+,<p>didn't go</p>
+*,<p>have not been going</p>
+,<p>have not gone</p>
+<p> I (to talk) to her before. </p>,1,one,
+*,<p>have talked</p>
+,<p>have been talking</p>
+,<p>talked</p>
+"<p>I can’t go to the mountains with you, I (to break) my arm. </p>",1,one,
+*,<p>have broken</p>
+,<p>broke</p>
+,<p>have been breaking</p>
+<p>I’m so upset. You (not to do) your homework again!</p>,1,one,
+,<p>haven't been doing </p>
+,<p>didn't do </p>
+*,<p>haven’t done </p>
+<p>We just (to cook) potatoes with vegetables </p>,1,one,
+*,<p> have cooked</p>
+,<p>have been cooking</p>
+,<p>cooked</p>
+<p>I (to see) a koala in the local zoo three times. </p>,1,one,
+,<p>have been seeing </p>
+*,<p>have seen</p>
+,<p>saw</p>
+<p>That person (to visit) 20 countries. </p>,1,one,
+*,<p>has visited</p>
+,<p>has been visiting </p>
+,<p>visited</p>

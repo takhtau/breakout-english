@@ -1,0 +1,69 @@
+HTML
+"<p>If I (not to train) so hard, I (not to be) tired</p>",1,one,
+*,<p>had not trained/ I would not have been </p>
+,<p>had not trained/ I would not be </p>
+,<p>did not train/ I would not have been</p>
+<p>I (not to be late) if I (to wake up) in time. </p>,1,one,
+,<p>would not have been late/woke up </p>
+,<p>would not be late/had woken up</p>
+*,<p>would not have been late/had woken up </p>
+"<p>If he (to buy) her flowers, she (to be) glad.</p>",1,one,
+,<p>had bought/would be</p>
+*,<p>had bought/would have been </p>
+,<p>bought/would have been </p>
+<p>This student is the (attentive) in our group.</p>,1,one,
+*,<p>most attentive</p>
+,<p>more attentive</p>
+,<p>as attentive as</p>
+<p>I need a (warm) coat.</p>,1,one,
+,<p>warmest</p>
+*,<p>warmer</p>
+,<p>as warm as</p>
+<p>He was one of the (experienced) workers at the factory.</p>,1,one,
+,<p>more experienced</p>
+*,<p>most experienced</p>
+,<p>as experienced as</p>
+<p>(Good) late than never.</p>,1,one,
+,<p>As good as</p>
+,<p>The best</p>
+*,<p>Better</p>
+"<p>If he (not to come) on time, we (to wait) for him.</p>",1,one,
+*,<p>doesn't come/will wait</p>
+,<p>don't come/will wait</p>
+,<p>won't come/wait</p>
+"<p>If no one (to come) to help, we (to do) the work ourselves.</p>",1,one,
+,<p>will come/do</p>
+*,<p>comes/will do</p>
+,<p>come/will do</p>
+"<p>If you (to put on) your glasses, you (to see) better.</p>",1,one,
+,<p>will put on/see</p>
+,<p>puts one/see</p>
+*,<p>put on/will see</p>
+"<p>If it (to rain), the river (to flood).</p>",1,one,
+,<p>will rain/floods</p>
+,<p>rain/flood</p>
+*,<p>rains/floods</p>
+"<p>If these shoes were not too big for me, I (to buy) them.</p>",1,one,
+*,<p>would buy</p>
+,<p>bought</p>
+,<p>will buy</p>
+"<p>If you (to ring) me up, I will tell you a secret.</p>",1,one,
+,<p>would ring</p>
+*,<p>ring</p>
+,<p>will ring</p>
+<p>I wish I (can) give up smoking.</p>,1,one,
+*,<p>could</p>
+,<p>would can</p>
+,<p>can</p>
+<p>He wishes he (to know) something about cars.</p>,1,one,
+,<p>would know</p>
+*,<p>knew</p>
+,<p>will know</p>
+<p>I ... go to the hospital to visit my aunt last week.</p>,1,one,
+,<p>have to</p>
+*,<p>had to</p>
+,<p>will have to</p>
+<p>You ... open the first file now.</p>,1,one,
+*,<p>have to</p>
+,<p>had to</p>
+,<p>will have to</p>

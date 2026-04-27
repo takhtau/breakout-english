@@ -1,0 +1,60 @@
+HTML
+<p>Is it ___ banana or ___ aplle?</p>,1,one,
+*,<p>a/an</p>
+,<p>an/a</p>
+,<p>-</p>
+<p>Is your mother ___ teacher or ___ doctor?</p>,1,one,
+,<p>an/a</p>
+*,<p>a/a</p>
+,<p>an/an</p>
+<p>His brother is not ___ egineer.</p>,1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>-</p>
+<p>Do you want to be ___ cosmonaut?</p>,1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>-</p>
+<p>I have got ___ sister.</p>,1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>-</p>
+<p>Her name is ___ Jenny.</p>,1,one,
+,<p>an</p>
+,<p>a</p>
+*,<p>-</p>
+<p>She has got ___ cat.</p>,1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>-</p>
+"<p>She has got ___ dog, too.</p>",1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>-</p>
+<p>Jenny is not ___ engineer.</p>,1,one,
+*,<p>an</p>
+,<p>a</p>
+,<p>-</p>
+"<p>He has got ___ mother, ___ father, ___ sister and ___ 2 brothers.</p>",1,one,
+,<p>-/-/-/a</p>
+*,<p>a/a/a/-</p>
+,<p>-/a/a/-</p>
+"<p>He has got ___ mother, ___ father, ___ sister and ___ 2 brothers.</p>",1,one,
+,<p>-/-/-/a</p>
+*,<p>a/a/a/-</p>
+,<p>-/a/a/-</p>
+<p>Have you got ___ family?</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+<p>Is your name ___ Tom?</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>-</p>
+<p>Have you got ___ brother?</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+<p>Is he ___ engineer?</p>,1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>-</p>

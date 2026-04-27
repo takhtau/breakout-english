@@ -1,0 +1,61 @@
+HTML
+"<p>If there ----- an election tomorrow, who ----- for?</p>",1,one,
+,<p>is; would you vote</p>
+,<p>were; will you vote</p>
+*,<p>was; would you vote</p>
+<p>She ----- be here. I saw her come in.</p>,1,one,
+,<p>can</p>
+*,<p>must</p>
+,<p>may</p>
+<p>She ----- possibly be here. I know for certain that she’s away on holiday.</p>,1,one,
+,<p>needn’t</p>
+,<p>mustn't</p>
+*,<p>can’t</p>
+<p>The room -----. Let’s open a window.</p>,1,one,
+,<p>is smelling</p>
+*,<p>smells</p>
+,<p>smell</p>
+<p>It’s not true. I ----- it.</p>,1,one,
+*,<p>don’t believe</p>
+,<p>’m not believing</p>
+,<p>am not believe</p>
+<p>Dad ----- the car when I want to use it!</p>,1,one,
+,<p>has been cleaning</p>
+,<p>always cleans</p>
+*,<p>is always cleaning</p>
+<p>----- you ever ----- in a helicopter?</p>,1,one,
+,<p>Did; fly</p>
+,<p>Have; been flying</p>
+*,<p>Have; flown</p>
+<p>My mum didn’t hear ----- the back door.</p>,1,one,
+*,<p>me lock/locking</p>
+,<p>I lock</p>
+,<p>me to lock</p>
+<p>We didn't feel like playing Scrabble because we ----- a long game of Monopoly.</p>,1,one,
+,<p>just finished</p>
+,<p>have just finished</p>
+*,<p>had just finished</p>
+<p>I ----- to read more in my childhood.</p>,1,one,
+*,<p>used</p>
+,<p>was used</p>
+,<p>am used</p>
+<p>I ----- to living in Canada in spite of the cold weather.</p>,1,one,
+,<p>get used</p>
+,<p>used</p>
+*,<p>got used</p>
+<p>Which is ----- smallest continent in ----- world?</p>,1,one,
+,<p>the; -</p>
+*,<p>the; the</p>
+,<p>a; the</p>
+<p>He did very ----- in the exam – ----- than expected.</p>,1,one,
+,<p>badly; worst</p>
+,<p>bad; worse </p>
+*,<p>badly; worse</p>
+<p>I couldn’t sleep despite ----- very tired.</p>,1,one,
+*,<p>being</p>
+,<p>to be</p>
+,<p>I was</p>
+"<p>Lisa’s very funny. She’s got a great sense of humour, ----- she?</p>",1,one,
+,<p>doesn’t</p>
+*,<p>hasn’t</p>
+,<p>isn’t</p>

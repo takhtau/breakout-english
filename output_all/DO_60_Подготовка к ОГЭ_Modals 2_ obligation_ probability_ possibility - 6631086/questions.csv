@@ -1,0 +1,33 @@
+HTML
+<p>We have to pay the electricity bill before Friday.</p>,1,one,
+,<p>We can pay it if we want to.</p>
+*,<p>We must pay it.</p>
+,<p>We've already paid it.</p>
+<p>You don't need to buy me a birthday present.</p>,1,one,
+,<p>You must buy me a birthday present.</p>
+*,<p>It's not necessary to buy me a birthday present.</p>
+,<p>You mustn't buy me a birthday present.</p>
+<p>I have to do some work on my project this evening.</p>,1,one,
+,<p>I haven't got time to do the work.</p>
+,<p>I've already done the work.</p>
+*,<p>I need to do the work.</p>
+<p>Lenny didn't have to see the head teacher after all.</p>,1,one,
+*,<p>It wasn't necessary for Lenny to see the head teacher.</p>
+,<p>Lenny went to see the head teacher.</p>
+,<p>Lenny is waiting to see the head teacher.</p>
+<p>Students mustn't run in school buildings. </p>,1,one,
+,<p>They can run if they want to.</p>
+,<p>Students don't like running.</p>
+*,<p>Running isn't allowed.</p>
+<p>All passengers must fasten their seatbelts.</p>,1,one,
+*,<p>They have to fasten their seatbelts now.</p>
+,<p>They don't have to fasten their seatbelts. </p>
+,<p>They can fasten their seatbelts.</p>
+<p>Mr Reed had to go to the police station to answer some questions.</p>,1,one,
+,<p>Mr Reed was able to go to the police station.</p>
+,<p>Mr Reed forgot to go to the police station.</p>
+*,<p>Mr Reed was obliged to go to the police station.</p>
+"<p>It's kind of you to offer to help, but you really don't need to.</p>",1,one,
+,<p>I don't want you to help me.</p>
+*,<p>Your help isn't necessary.</p>
+,<p>You won't be able to help me.</p>

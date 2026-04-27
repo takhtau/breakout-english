@@ -1,0 +1,31 @@
+HTML
+<p>  </p>,1,one,
+*,<p>John has lived here since 1990.</p>
+,<p>John lived here since 1990.</p>
+<p>  </p>,1,one,
+,<p>Hi! I didn't see you for ages.</p>
+*,<p>Hi! I haven't seen you for ages.</p>
+<p>  </p>,1,one,
+,<p>This is the first time I was to New York.</p>
+*,<p>This is the first time I've been to New York.</p>
+<p>  </p>,1,one,
+*,<p>John has been looking for a job since he finished university.</p>
+,<p>John looked for a job since he finished university.</p>
+<p>  </p>,1,one,
+,<p>Were you busy this morning?</p>
+*,<p>Have you been busy this morning?</p>
+<p>  </p>,1,one,
+*,<p>Have you heard from Ben recently?</p>
+,<p>Did you hear from Ben recently?</p>
+<p>  </p>,1,one,
+*,<p>Where is mother? She has gone to the shops.</p>
+,<p>Where is mother? She went to the shops.</p>
+<p>  </p>,1,one,
+,<p>Have you been at home on Friday?</p>
+*,<p>Were you at home on Friday?</p>
+<p>  </p>,1,one,
+*,<p>Your mother phoned a few minutes ago.</p>
+,<p>Your mother has phoned a few minutes ago.</p>
+<p>  </p>,1,one,
+,<p>Victoria has been a great queen.</p>
+*,<p>Victoria was a great queen.</p>

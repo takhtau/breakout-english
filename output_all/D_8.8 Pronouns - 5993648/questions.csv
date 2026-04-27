@@ -1,0 +1,41 @@
+HTML
+<p>I have _____ to tell you.</p>,1,one,
+*,<p>something</p>
+,<p>anything</p>
+,<p>nothing</p>
+<p>There's _____ in my soup. It's a mosquito.</p>,1,one,
+*,<p>something</p>
+,<p>anything</p>
+,<p>nothing</p>
+<p>Don't you have _____ to do?</p>,1,one,
+,<p>something</p>
+*,<p>anything</p>
+,<p>nothing</p>
+<p>I have _____ to read this night. So I am going to watch TV.</p>,1,one,
+,<p>something</p>
+,<p>anything</p>
+*,<p>nothing</p>
+<p>He looked at me and didn't say _____ .</p>,1,one,
+,<p>something</p>
+*,<p>anything</p>
+,<p>nothing</p>
+"<p>Let me see your pictures. If there's _____ , I'll buy it. </p>",1,one,
+*,<p>something</p>
+,<p>anything</p>
+,<p>nothing</p>
+<p>She said _____ but I didn't understand it. </p>,1,one,
+*,<p>something</p>
+,<p>anything</p>
+,<p>nothing</p>
+"<p>""How much does it cost to visit the museum?"" - ""_____ . It's free"". </p>",1,one,
+,<p>something</p>
+,<p>anything</p>
+*,<p>nothing</p>
+<p>He felt terrible. He couldn't do _____ else. </p>,1,one,
+,<p>something</p>
+*,<p>anything</p>
+,<p>nothing</p>
+<p>I've had a terrible day. _____ went wrong. </p>,1,one,
+*,<p>something</p>
+,<p>anything</p>
+,<p>nothing</p>

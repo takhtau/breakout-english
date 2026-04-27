@@ -1,0 +1,49 @@
+HTML
+<p>How long ___ Nora _____ in the pool before the rain started? </p>,1,one,
+,<p>was/swimming</p>
+,<p>did/swim</p>
+*,<p>had/been swimming</p>
+<p>_____ she ______ a car last month?</p>,1,one,
+*,<p>did/drive</p>
+,<p>did/drove</p>
+,<p>had/been driven</p>
+<p>Eve and Tony ______ all day last Saturday.</p>,1,one,
+*,<p>were skating</p>
+,<p>had been skating</p>
+,<p>skated</p>
+<p>The baby _____ before you left home.</p>,1,one,
+,<p>was woking up</p>
+,<p>had been woking up</p>
+*,<p>had woken up</p>
+<p>.     I ____ your brother before we both entered university</p>,1,one,
+,<p>hadn't been meeting</p>
+,<p>hadn't meet</p>
+*,<p>hadn't met</p>
+<p>Robert and Frank _____________ that computer for two hours yesterday</p>,1,one,
+,<p>wasn't fixing</p>
+*,<p>hadn’t been fixing</p>
+,<p>hadn't fixed</p>
+<p>Why _____ Ed _____ his training yesterday? </p>,1,one,
+*,<p>did/miss</p>
+,<p>was/missing</p>
+,<p>had/missed</p>
+<p>I ______ a letter to my granny from 4 to 4:30 pm on Sunday</p>,1,one,
+,<p>had been written</p>
+,<p>had been writing</p>
+*,<p>was writing</p>
+"<p>Я не пил кофе, когда ты звонил.</p>",1,one,
+,<p>I didn't drink coffee when you called </p>
+,<p>I hadn't been drinking coffee when you called </p>
+*,<p>I wasn’t drinking coffee when you called </p>
+<p>Они ездили на работу на автобусе прошлым утром</p>,1,one,
+*,<p>They went to work by bus last morning</p>
+,<p>They was going to work by bus last morning</p>
+,<p>They had go to work by bus last morning</p>
+<p>Я действительно был рад что Рон выиграл соревнования</p>,1,one,
+,<p>I had been really happy that Ron winning that competition </p>
+*,<p>I was really happy that Ron won that competition.</p>
+,<p>I had really happy that Ron won that competition</p>
+<p>Мы не катались на коньках вчера 3 часа.</p>,1,one,
+,<p>We weren't skating for three hours yesterday.</p>
+,<p>We didn't skated for three hours yesterday.</p>
+*,<p>We hadn’t been skating for three hours yesterday.</p>

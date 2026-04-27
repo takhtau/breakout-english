@@ -1,0 +1,41 @@
+HTML
+<p>I'm going to have Mike ___ my computer to see what is wrong.</p>,1,one,
+*,<p>look at</p>
+,<p>to look at</p>
+,<p>looked at</p>
+"<p>One of my wisdom teeth really hurt, so I went to the dentist to have it ___.</p>",1,one,
+,<p>remove</p>
+*,<p>removed</p>
+,<p>to be removed</p>
+<p>Are you going to ___ like this?</p>,1,one,
+,<p>let him to suffer </p>
+,<p>allow him suffer</p>
+*,<p>let him suffer</p>
+<p>Jimmy is dead. The mafia boss ___.</p>,1,one,
+,<p>had killed</p>
+*,<p>had him killed</p>
+,<p>had him to be killed</p>
+<p>Julie will not let her daughter ___ the boy from across the street.</p>,1,one,
+*,<p>marry</p>
+,<p>to marry</p>
+,<p>married</p>
+<p>I had the wall ___ when I was renovating my apartament.</p>,1,one,
+,<p>to be knocked down</p>
+*,<p>knocked down</p>
+,<p>knock down</p>
+<p>I ___ her and apologize.</p>,1,one,
+,<p>made him to call</p>
+,<p>made him called</p>
+*,<p>made him call</p>
+<p>I have ___ many times.</p>,1,one,
+,<p>my heart broken</p>
+*,<p>had my heart broken</p>
+,<p>had my hear broke</p>
+<p>The authorities ___ as soon as they found out she was there illegally.</p>,1,one,
+*,<p>had her deported</p>
+,<p>have her deport</p>
+,<p>had her to be deported</p>
+"<p>I had some tests ___, but they didn't find anything.</p>",1,one,
+*,<p>done</p>
+,<p>to be done</p>
+,<p>have done</p>

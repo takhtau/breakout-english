@@ -1,0 +1,41 @@
+HTML
+<p>What is your.............name?</p>,1,one,
+,<p>uncle</p>
+*,<p>uncle's</p>
+,<p>uncles'</p>
+"<p>He bought the dictionary,...........?</p>",1,one,
+*,<p>didn't he</p>
+,<p>doesn't he</p>
+,<p>did he</p>
+<p>It...........snow las Friday?</p>,1,one,
+*,<p>didn't</p>
+,<p>wasn't</p>
+,<p>isn't</p>
+<p>What size..................?</p>,1,one,
+,<p>do you</p>
+,<p>have you</p>
+*,<p>are you</p>
+"<p>It looks nice,............</p>",1,one,
+,<p>is it</p>
+,<p>isn't it</p>
+*,<p>doesn't it</p>
+<p>..................was the weather two days ago?</p>,1,one,
+,<p>What</p>
+*,<p>How</p>
+,<p>Why</p>
+<p>..................was the weather like two days ago?</p>,1,one,
+*,<p>What</p>
+,<p>How</p>
+,<p>Why</p>
+<p>The shoes are better............the boots.</p>,1,one,
+*,<p>than</p>
+,<p>then</p>
+,<p> -</p>
+<p>..................trousers were dirty.</p>,1,one,
+,<p>This</p>
+,<p>That</p>
+*,<p>The</p>
+<p>It........... . Put on your black boots.</p>,1,one,
+,<p>rains</p>
+,<p>rain</p>
+*,<p>is raining</p>

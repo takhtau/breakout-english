@@ -1,0 +1,49 @@
+HTML
+<p>He’s ----- architect.</p>,1,one,
+,<p>a</p>
+,<p>the</p>
+*,<p>an</p>
+<p>It took me ----- hour to get home.</p>,1,one,
+*,<p>an</p>
+,<p>-</p>
+,<p>the</p>
+<p>She has ----- university degree.</p>,1,one,
+,<p>an</p>
+*,<p>a</p>
+,<p>-</p>
+<p>What ----- surprise!</p>,1,one,
+,<p>-</p>
+,<p>an</p>
+*,<p>a</p>
+"<p>Yesterday I bought ----- pair of shoes. Unfortunately, ----- shoes are too tight.</p>",1,one,
+,<p>-; the</p>
+,<p>a; -</p>
+*,<p>a; the</p>
+<p>We had dinner in ----- restaurant last night. – What is ----- name of the restaurant?</p>,1,one,
+*,<p>a; the</p>
+,<p>the; a</p>
+,<p>-; the</p>
+"<p>At ----- present, my son is studying economics at university.</p>",1,one,
+,<p>a</p>
+*,<p>-</p>
+,<p>the</p>
+"<p>She fell in love with whales at ----- first sight, ----- day she saw them long ago in her childhood.</p>",1,one,
+,<p>the; -</p>
+,<p>-; a</p>
+*,<p>-; the</p>
+"<p>----- more he insisted he was innocent, ----- less they seemed to believe him.</p>",1,one,
+,<p>A; a</p>
+*,<p>The; the</p>
+,<p>-; -</p>
+<p>We'll have to stop for petrol on ----- way to ----- airport.</p>,1,one,
+*,<p>the; the</p>
+,<p>the; an</p>
+,<p>-; the</p>
+<p>Extra information will be found at ----- bottom of ----- page.</p>,1,one,
+*,<p>the; the</p>
+,<p>the; -</p>
+,<p>a; the</p>
+<p>Our department provides services for ----- unemployed.</p>,1,one,
+,<p>an</p>
+,<p>-</p>
+*,<p>the</p>

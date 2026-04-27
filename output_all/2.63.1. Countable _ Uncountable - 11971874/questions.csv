@@ -1,0 +1,41 @@
+HTML
+<p>I don’t have _______ apples.</p>,1,one,
+*,<p>many</p>
+,<p>much</p>
+<p>I drink _______ water.</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+<p>I eat _______ apples every day.</p>,1,one,
+*,<p>a few</p>
+,<p>little</p>
+<p>I need ____ water.</p>,1,one,
+,<p>few</p>
+*,<p>a little</p>
+<p>I have ______ money for you. </p>,1,one,
+,<p>a few</p>
+,<p>few</p>
+*,<p>some</p>
+<p>Do you have _______ bananas?</p>,1,one,
+*,<p>any</p>
+,<p>little</p>
+,<p>some</p>
+<p>She will be back in _________ minutes.</p>,1,one,
+*,<p>a few</p>
+,<p>a little</p>
+,<p>a no</p>
+<p>I don't have ________ money today.</p>,1,one,
+*,<p>a lot of</p>
+,<p>lot</p>
+,<p>many</p>
+<p>I need ________ flour to make a cake.</p>,1,one,
+,<p>any</p>
+,<p>many</p>
+*,<p>some</p>
+<p>We have _______ milk.</p>,1,one,
+,<p>any</p>
+*,<p>no</p>
+,<p>many</p>
+<p>There are _________ photos on the wall. </p>,1,one,
+,<p>a little</p>
+*,<p>a lot of</p>
+,<p>the no</p>

@@ -1,0 +1,49 @@
+HTML
+<p>I think I _______ (to go) to the zoo today. </p>,1,one,
+*,<p>will go</p>
+,<p>go</p>
+,<p>going</p>
+<p>I think she _______ (to go) to the Natural History Museum. </p>,1,one,
+,<p>will goes</p>
+*,<p>will go</p>
+,<p>goes</p>
+<p>I think we_________ (to buy) two tickets. </p>,1,one,
+,<p>will buys</p>
+,<p>buy</p>
+*,<p>will buy</p>
+<p>Kate  ___________ (to be) ten tomorrow. </p>,1,one,
+*,<p>will be</p>
+,<p>is</p>
+,<p>will is</p>
+<p>My aunt  ___________ (to travel) to Canada next summer. </p>,1,one,
+,<p>travels</p>
+*,<p>will travel</p>
+,<p>will travels</p>
+<p>I  _____________ (to phone) you in the evening. </p>,1,one,
+,<p>phone</p>
+,<p>will phones</p>
+*,<p>will phone</p>
+<p>It's sunny today. It ________ (not to rain).</p>,1,one,
+*,<p>won't rain</p>
+,<p>will rain</p>
+,<p>not rains</p>
+<p>Rob is nine. He __________ (to be) ten on his next birthday.</p>,1,one,
+,<p>is</p>
+*,<p>will be</p>
+,<p>will is</p>
+<p>It's 25 degrees today. It _________ (not to snow) tomorrow.</p>,1,one,
+,<p>will snow</p>
+,<p>not snows</p>
+*,<p>won't snow</p>
+<p>____ he _____ (to be) twenty on his next birthday?</p>,1,one,
+*,<p>Will/be</p>
+,<p>Won't/be</p>
+,<p>Is/be</p>
+<p>_____ you ______ (to pass) all your exams next month?</p>,1,one,
+,<p>Won't/pass</p>
+*,<p>Will/pass</p>
+,<p>Do/pass</p>
+<p>____ it _____ (to be) sunny later?</p>,1,one,
+,<p>Won't/be</p>
+,<p>Does/be</p>
+*,<p>Will/be</p>

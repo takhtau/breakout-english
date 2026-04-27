@@ -1,0 +1,41 @@
+HTML
+<p> </p>,1,one,
+*,<p>I always talk too much when I'm nervous.</p>
+,<p>I talk too much always when I'm nervous.</p>
+,<p>I always talks too much when I'm nervous.</p>
+<p> </p>,1,one,
+*,<p>He usually walks to the corner with Pall.</p>
+,<p>He usually walk to the corner with Pall.</p>
+,<p>He walks to the corner usually with Pall.</p>
+<p> </p>,1,one,
+,<p>He want to see you for a minute.</p>
+,<p>He is wanting to see you for a minute.</p>
+*,<p>He wants to see you for a minute.</p>
+<p> </p>,1,one,
+,<p>They get ready to move to their new house.</p>
+*,<p>They are getting ready to move to their new house.</p>
+,<p>They getting ready to move to their new house.</p>
+<p> </p>,1,one,
+,<p>He having a meeting with the men this afternoon.</p>
+*,<p>He is having a meeting with the men this afternoon.</p>
+,<p>He have a meeting with the men this afternoon.</p>
+<p> </p>,1,one,
+,"<p>Tears flowed slowly down her cheeks. ""What are you cry for?""</p>"
+,"<p>Tears flowed slowly down her cheeks. ""What do you cry for?""</p>"
+*,"<p>Tears flowed slowly down her cheeks. ""What are you crying for?""</p>"
+<p> </p>,1,one,
+*,<p>My mother thinks that hitch-hiking is dangerous.</p>
+,<p>My mother think that hitch-hiking is dangerous.</p>
+,<p>My mother thinks that hitch-hiking dangerous.</p>
+<p> </p>,1,one,
+,<p>Listen to them! What language are they speak?</p>
+*,<p>Listen to them! What language are they speaking?</p>
+,<p>Listen to them! What language they speak?</p>
+<p> </p>,1,one,
+,<p>The early bird catch the worm.</p>
+*,<p>The early bird catches the worm.</p>
+,<p>The early bird catching the worm.</p>
+<p> </p>,1,one,
+,<p>The food that mother cooking in the kitchen is smelling delicious.</p>
+,<p>The food that mother cooks in the kitchen smell delicious.</p>
+*,<p>The food that mother is cooking in the kitchen smells delicious.</p>

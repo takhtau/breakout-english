@@ -1,0 +1,53 @@
+HTML
+"<p>I can do it_________, thank you!</p>",1,one,
+*,<p>myself</p>
+,<p>herself</p>
+,<p>yourself </p>
+<p>Let me________your wrist with this bandage. </p>,1,one,
+,<p>sprain</p>
+*,<p>wrap </p>
+,<p>break</p>
+<p>I__________a new digital camera. I'm sure we'll take nice pictures with it. </p>,1,one,
+*,<p>have bought</p>
+,<p>have been buying</p>
+,<p>haven't bought </p>
+<p>The government is trying a variety of things to________pollution. </p>,1,one,
+,<p>burn</p>
+,<p>emit </p>
+*,<p>reduce</p>
+<p>I saw a_______that was very funny. </p>,1,one,
+,<p>thriller </p>
+,<p>romance</p>
+*,<p>comedy </p>
+"<p>If we continue to pollute the environment, many endangered species________extinct. </p>",1,one,
+*,<p>will become</p>
+,<p>become </p>
+,<p>are becoming </p>
+<p>We should take children________for a walk. It's a lovely day! </p>,1,one,
+*,<p>out</p>
+,<p>away </p>
+,<p>off </p>
+<p>I went to Berlin two years___________ . </p>,1,one,
+,<p>since</p>
+,<p>before</p>
+*,<p>ago</p>
+<p>We can________a birthday party. It'll be fun!</p>,1,one,
+*,<p>throw</p>
+,<p>practise</p>
+,<p>move</p>
+"<p>If you're tired, you should________some rest. </p>",1,one,
+,<p>put</p>
+*,<p>get</p>
+,<p>take</p>
+"<p>You haven't finished the milk,_________?</p>",1,one,
+,<p>did you?</p>
+,<p>haven't you?</p>
+*,<p>have you?</p>
+<p>Mike is_________Pete. They will both do will in the exam. </p>,1,one,
+*,<p>as clever as</p>
+,<p>cleverer than </p>
+,<p>most clever </p>
+<p>I_____________ my ankle and it really hurts. </p>,1,one,
+*,<p>'ve twisted</p>
+,<p>'m twisting </p>
+,<p>'ve been twisting </p>

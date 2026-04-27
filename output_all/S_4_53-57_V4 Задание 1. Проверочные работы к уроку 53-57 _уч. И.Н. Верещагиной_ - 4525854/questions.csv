@@ -1,0 +1,41 @@
+HTML
+"<p>They had a lot of balls, ...................?</p>",1,one,
+*,<p>didn't they</p>
+,<p>hadn't they</p>
+,<p>did they</p>
+<p>- We never had English on Friday.</p><p>-....................... .</p>,1,one,
+,"<p>No, we hadn't</p>"
+,"<p>Yes, we didn't</p>"
+*,"<p>No, we didn't</p>"
+"<p>I am at home, ....................?</p>",1,one,
+*,<p>aren't I</p>
+,<p>am I</p>
+,<p>don't I</p>
+<p>- Who gets up at 6 o'clock?</p><p>- My brothers ............. .</p>,1,one,
+,<p>does</p>
+*,<p>do</p>
+,<p>get up</p>
+"<p>Will...............tired? - Yes, they will.</p>",1,one,
+,<p>be they</p>
+*,<p>they be</p>
+,<p>they</p>
+<p>He lives in Tula. - How long....................there?</p>,1,one,
+,<p>does he live</p>
+*,<p>has he lived</p>
+,<p>did he live</p>
+<p>They.................lunch. They are working again.</p>,1,one,
+,<p>have</p>
+,<p>had</p>
+*,<p>have had</p>
+<p>.................a lot of children in the park.</p>,1,one,
+,<p>It won't be</p>
+*,<p>There will be</p>
+,<p>It will be</p>
+<p>If you go there you...............to meet him.</p>,1,one,
+,<p>could</p>
+*,<p>will be able</p>
+,<p>had</p>
+<p>You................hurry. We have a lot of time.</p>,1,one,
+,<p>mustn't</p>
+*,<p>don't have to</p>
+,<p>cannot</p>

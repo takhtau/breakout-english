@@ -1,0 +1,29 @@
+HTML
+"<p>""I wish I had more money.""</p>",1,one,
+*,"<p>""So do I.""</p>"
+,"<p>""So I do.""</p>"
+,"<p>""So did I.""</p>"
+"<p>""We never seem to spend much time together in my family.""</p>",1,one,
+,"<p>""Neither we do.""</p>"
+*,"<p>""Neither do we.""</p>"
+,"<p>""So we do.""</p>"
+"<p>""I'm not going to Jacob's party next Sunday.""</p>",1,one,
+,"<p>""Neither I am.""</p>"
+*,"<p>""Nor am I.""</p>"
+,"<p>""Nor I am.""</p>"
+"<p>""I didn't do my homework last night.""</p>",1,one,
+,"<p>""Nor I did.""</p>"
+,"<p>""Nor didn't I.""</p>"
+*,"<p>""Nor did I.""</p>"
+"<p>""I'll be on holiday this time next week.""</p>",1,one,
+*,"<p>""So will I.""</p>"
+,"<p>""So do I.""</p>"
+,"<p>""So I will.""</p>"
+"<p>""I had no idea Chris was getting married.""</p>",1,one,
+,"<p>""Neither didn't I.""</p>"
+,"<p>""Neither I did.""</p>"
+*,"<p>""Neither did I.""</p>"
+"<p>""I should really get more exercise.""</p>",1,one,
+,"<p>""So I should."" </p>"
+,"<p>""So should I.""</p>"
+*,"<p>""So shouldn't I.""</p>"

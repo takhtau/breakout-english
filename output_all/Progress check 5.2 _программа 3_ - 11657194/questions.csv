@@ -1,0 +1,65 @@
+HTML
+<p>The new cinema in our district is much (big) than the old one.</p>,1,one,
+*,<p>bigger</p>
+,<p>biggest</p>
+,<p>as big as</p>
+<p>There is a (great) number of cars and buses in the streets of Moscow than in any other city of Russia.</p>,1,one,
+,<p>greatest</p>
+*,<p>greater</p>
+,<p>as great as</p>
+<p>Sergei is (old) Michael.</p>,~1,one,
+*,<p>as old as</p>
+,<p>older</p>
+,<p>oldest</p>
+<p>Nick’s English is not (good) his friend’s.</p>,1,one,
+,<p>better</p>
+,<p>best</p>
+*,<p>as good as</p>
+<p>... he ... (to be) very displeased if I (not to ring) him up?</p>,1,one,
+,<p>Will he be/won't ring</p>
+,<p>Does he be/don't ring</p>
+*,<p>Will he be/don't ring</p>
+"<p>If he (not to come) on time, we (to wait) for him.</p>",1,one,
+*,<p>doesn't come/will wait</p>
+,<p>don't come/will wait</p>
+,<p>won't come/wait</p>
+"<p>If you (to put on) your glasses, you (to see) better.</p>",1,one,
+,<p>will put on/see</p>
+,<p>puts one/see</p>
+*,<p>put on/will see</p>
+"<p>If no one (to come) to help, we (to do) the work ourselves.</p>",1,one,
+,<p>will come/do</p>
+*,<p>comes/will do</p>
+,<p>come/will do</p>
+"<p>If he (to know) her number, he (to call) her?</p>",1,one,
+,<p>know/call</p>
+,<p>know/would call</p>
+*,<p>knew/would call</p>
+"<p>If they (not to sleep) so much, they (to be able) to do more things</p>",1,one,
+*,<p>didn't sleep/wouldn't be able</p>
+,<p>don't sleep/don't be able </p>
+,<p>didn't sleep/didn't be able</p>
+"<p>If she (not to have) this disease, she (to feel) well</p>",1,one,
+,<p>haven't/would feel</p>
+*,<p>didn't have/would feel</p>
+,<p>didn't have/feel</p>
+<p>What you (to do) if she (to tell) you the truth?</p>,1,one,
+*,<p>Would do/told</p>
+,<p>Will do?will tell</p>
+,<p>Do yoy do/tell</p>
+<p>Your work is not enough _____ .</p>,1,one,
+,<p>science</p>
+,<p>unscientific</p>
+*,<p>scientific</p>
+<p>I hope you can ________ the money you borrowed.</p>,1,one,
+,<p>paid</p>
+,<p>repay</p>
+*,<p>repaid</p>
+<p>They … (not allow) him to enter the office if he … (not put on) a tie.</p>,1,one,
+*,<p>wouldn’t have allowed/hadn’t put on</p>
+,<p>wouldn’t allow/hadn’t put on</p>
+,<p>wouldn’t have allowed/didn’t put on</p>
+"<p>If the storm … (not break out), the ship … (not sink).</p>",1,one,
+,<p>didn’t broken out/wouldn’t have sunk</p>
+,<p>hadn’t broken out/wouldn’t sink</p>
+*,<p>hadn’t broken out/wouldn’t have sunk</p>

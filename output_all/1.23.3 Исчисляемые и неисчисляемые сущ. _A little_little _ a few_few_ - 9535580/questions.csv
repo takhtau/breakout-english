@@ -1,0 +1,49 @@
+HTML
+<p>There are ________ apples on the plate. Take one.</p>,1,one,
+*,<p>a few</p>
+,<p>a little</p>
+,<p>little</p>
+<p>There is ______ milk in the fridge. Can you buy some? </p>,1,one,
+,<p>few</p>
+*,<p>little</p>
+,<p>a little</p>
+"<p>If you want to make pancakes, you need _______ eggs.</p>",~1,one,
+,<p>a little</p>
+,<p>few</p>
+*,<p>a few</p>
+<p>I'd like to drink _______ coffee.</p>,1,one,
+*,<p>a little</p>
+,<p>little</p>
+,<p>a few</p>
+<p>This boy isn't very popular at school. He's got very _______ friends.</p>,1,one,
+,<p>a few</p>
+*,<p>few</p>
+,<p>little</p>
+<p>Can you buy ______ bottles of water for me?</p>,1,one,
+,<p>a little</p>
+,<p>little</p>
+*,<p>a few</p>
+"<p>We have______ tomatoes, we can't cook tomato-soup.</p>",1,one,
+*,<p>few</p>
+,<p>a few</p>
+,<p>little</p>
+"<p>My parents give me ______ pocket money every week, so I can buy something.</p>",1,one,
+,<p>little</p>
+*,<p>a little</p>
+,<p>a few</p>
+<p>Can you please buy _______ apples?</p>,1,one,
+,<p>few</p>
+,<p>little</p>
+*,<p>a few</p>
+<p>I only need ______ minutes to get ready.</p>,1,one,
+*,<p>a few</p>
+,<p>a little</p>
+,<p>little</p>
+"<p>There is ______ flour, we can't make pancakes. </p>",1,one,
+,<p>a little</p>
+*,<p>little</p>
+,<p>few</p>
+"<p>We have ______ vegetables, we can't make a salad.</p>",1,one,
+,<p>little</p>
+,<p>a few</p>
+*,<p>few</p>

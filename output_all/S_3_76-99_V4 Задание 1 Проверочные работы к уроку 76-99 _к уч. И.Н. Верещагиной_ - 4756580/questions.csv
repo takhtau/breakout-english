@@ -1,0 +1,41 @@
+HTML
+<p>Nobody _____ him.</p>,1,one,
+,<p>teach</p>
+,<p>doesn't teach</p>
+*,<p>teaches</p>
+<p>It _____ snow last Sunday.</p>,1,one,
+*,<p>didn't</p>
+,<p>wasn't</p>
+,<p>isn't</p>
+<p>Do the _____ like apple juice?</p>,1,one,
+,<p>baby</p>
+*,<p>babies</p>
+,<p>child</p>
+<p>He didn't give them _____ sweets.</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+,<p>no</p>
+<p>We shall not see _____ funny there.</p>,1,one,
+,<p>something</p>
+*,<p>anything</p>
+,<p>nothing</p>
+<p>Who _____ you the book?</p>,1,one,
+,<p>did give</p>
+*,<p>gave</p>
+,<p>does give</p>
+<p>_____ a lot of vegetables in this shop.</p>,1,one,
+,<p>they are</p>
+,<p>these are</p>
+*,<p>there are</p>
+<p>It _____ now.</p>,1,one,
+*,<p>isn't raining</p>
+,<p>isn't rain</p>
+,<p>doesn't rain</p>
+<p>It doesn't often _____ here.</p>,1,one,
+*,<p>snow</p>
+,<p>snows</p>
+,<p>snowing</p>
+"<p>She had a lot of questions, _____ ?</p>",1,one,
+*,<p>didn't she</p>
+,<p>hadn't she</p>
+,<p>did she</p>

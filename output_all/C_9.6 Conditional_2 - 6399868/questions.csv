@@ -1,0 +1,31 @@
+HTML
+"<p>If my grandfather were younger, he ___ so many things.</p>",1,one,
+*,<p>wouldn't forget</p>
+,<p>didn't forget</p>
+"<p>If I ___ more money, I would buy a new car.</p>",1,one,
+,<p>would have</p>
+*,<p>had</p>
+"<p>If she had an umbrella, she ___ wet.</p>",1,one,
+*,<p>wouldn't get</p>
+,<p>didn't get</p>
+"<p>If we ___ a car, we would get there in 30 minutes.</p>",1,one,
+,<p>would have</p>
+*,<p>had</p>
+<p>I ___ more careful if I were you.</p>,1,one,
+*,<p>would be</p>
+,<p>were</p>
+"<p>If animals could talk, I wonder what they ___?</p>",1,one,
+,<p>said</p>
+*,<p>would say</p>
+"<p>If she ___ harder, she would make more money.</p>",1,one,
+,<p>will work</p>
+*,<p>worked</p>
+<p>If he changed jobs. He ___ much happier.</p>,1,one,
+,<p>will be</p>
+*,<p>would be</p>
+"<p>If it wasn't raining, we ___ to the beach.</p>",1,one,
+*,<p>would go</p>
+,<p>will go</p>
+<p>You wouldn't feel so tired if you ___ more.</p>,1,one,
+,<p>will sleep</p>
+*,<p>slept</p>

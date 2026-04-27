@@ -1,0 +1,25 @@
+HTML
+"<p>""Could you pass me the salt, please?' I asked the man next to me.</p><p>I asked the man next to me___________me the salt. </p>",1,one,
+,<p>pass </p>
+,<p>if he passes </p>
+*,<p>to pass </p>
+<p>'Would you mind waiting a moment?' the shop assistant asked the woman. </p><p>The shop assistant asked the woman__________for a moment. </p>,1,one,
+*,<p>to wait </p>
+,<p>waiting </p>
+,<p>she wait</p>
+"<p>'Please don't leave your dirty football boots in the hall,' Mum said to Doug. </p><p>Mum told Doug___________his dirty football boots in the hall. </p>",1,one,
+,<p>that he doesn't leave </p>
+*,<p>not to leave </p>
+,<p>don't leave </p>
+<p>'Could you tell us where you were at six o'clock? the police officer asked Barry. </p><p>The police officer asked Barry__________he had been at six o'clock. </p>,1,one,
+,<p>telling them where </p>
+,<p>where he tells them </p>
+*,<p>to tell them where </p>
+<p>'Could you have your e-mail address?' I asked Mariella. </p><p>I asked Mariella____________email address. </p>,1,one,
+*,<p>to give me her </p>
+,<p>give me your </p>
+,<p>give me her </p>
+<p>' Can I have a mew Xbox for my birthday?' I asked my mum. </p><p>I asked my mum_____________a new Xbox. </p>,1,one,
+,<p>that she get me </p>
+,<p>get me </p>
+*,<p>to get me </p>

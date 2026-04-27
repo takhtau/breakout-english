@@ -1,0 +1,37 @@
+HTML
+<p>A fish ________ walk.</p>,1,one,
+*,<p>can't</p>
+,<p>can</p>
+<p>A dog __________ speak.</p>,1,one,
+*,<p>can't</p>
+,<p>can</p>
+<p>A crocodile ________ jump.</p>,1,one,
+*,<p>can't</p>
+,<p>can</p>
+<p>A bird _______ fly!</p>,1,one,
+*,<p>can</p>
+,<p>can't</p>
+<p>A wolf  ______ climb a tree.</p>,1,one,
+,<p>can</p>
+*,<p>can't</p>
+<p> _______ you ride a bike?</p>,1,one,
+,<p>Can't</p>
+*,<p>Can</p>
+<p>A tiger_______ run.</p>,1,one,
+,<p>can't</p>
+*,<p>can</p>
+<p>____ a mum cook?</p>,1,one,
+,<p>Can't</p>
+*,<p>Can</p>
+<p>_____ you swim?</p>,1,one,
+*,<p>Can</p>
+,<p>Can't</p>
+<p>____ a fish swim?</p>,1,one,
+,<p>Can't</p>
+*,<p>Can</p>
+<p>A monkey ______ climb a tree .</p>,1,one,
+,<p>can't</p>
+*,<p>can</p>
+<p>Kangaroos ______ jump. </p>,1,one,
+,<p>can't</p>
+*,<p>can</p>

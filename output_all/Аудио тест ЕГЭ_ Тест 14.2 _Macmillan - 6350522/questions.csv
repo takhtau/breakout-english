@@ -1,0 +1,29 @@
+HTML
+<p>A Lionel was only allowed to buy school clothes on his shopping trip. </p>,1,one,
+,<p>True </p>
+*,<p>False</p>
+,<p>Not stated</p>
+<p>B Lionel saw some people he knew while shopping. </p>,1,one,
+*,<p>True </p>
+,<p>False</p>
+,<p>Not stated</p>
+<p>C Sonia didn't go shopping at the same time as Lionel. </p>,1,one,
+*,<p>True </p>
+,<p>False</p>
+,<p>Not stated</p>
+<p>D Sonia wanted to talk to the man selling phone packages. </p>,1,one,
+,<p>True </p>
+*,<p>False</p>
+,<p>Not stated</p>
+<p>E Sonia spoke to the phone salesman for about five minutes. </p>,1,one,
+,<p>True </p>
+,<p>False</p>
+*,<p>Not stated</p>
+<p>F The man never asked Sonia to purchase a mobile phone package. </p>,1,one,
+*,<p>True </p>
+,<p>False</p>
+,<p>Not stated</p>
+<p>G Sonia hopes she will appear on TV in a mobile phone advert. </p>,1,one,
+,<p>True </p>
+,<p>False</p>
+*,<p>Not stated</p>

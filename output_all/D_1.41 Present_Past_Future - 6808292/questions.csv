@@ -1,0 +1,41 @@
+HTML
+"<p>""Where is your luggage?"" - ""I _____ it at the station"".</p>",~1,one,
+*,<p>have left</p>
+,<p>left</p>
+,<p>had left</p>
+<p>The train _____ at 5 o'clock tomorrow.</p>,~1,one,
+,<p>will arrive</p>
+,<p>arrive</p>
+*,<p>arrives</p>
+"<p>If I _____ time, I'll go with you.</p>",~1,one,
+,<p>will have</p>
+,<p>has</p>
+*,<p>have</p>
+<p>Mike _____ a letter at the moment.</p>,~1,one,
+,<p>writes</p>
+,<p>wrote</p>
+*,<p>is writing</p>
+<p>I _____ in London 5 years ago.</p>,~1,one,
+,<p>had lived</p>
+,<p>has lived</p>
+*,<p>lived</p>
+<p>My mother _____ TV at 5 o'clock yesterday.</p>,~1,one,
+,<p>watched</p>
+*,<p>was watching</p>
+,<p>has watched</p>
+<p>Mary _____ all her homework by 5 o'clock yesterday.</p>,~1,one,
+*,<p>had done</p>
+,<p>has done</p>
+,<p>did</p>
+<p>I _____ to school tomorrow.</p>,~1,one,
+*,<p>will not go</p>
+,<p>don't go</p>
+,<p>didn't go</p>
+<p>I _____ football at 7 o'clock tomorrow.</p>,~1,one,
+,<p>will play</p>
+*,<p>will be playing</p>
+,<p>will playing</p>
+<p>My parents _____ together since 1972.</p>,~1,one,
+*,<p>have lived</p>
+,<p>live</p>
+,<p>are living</p>

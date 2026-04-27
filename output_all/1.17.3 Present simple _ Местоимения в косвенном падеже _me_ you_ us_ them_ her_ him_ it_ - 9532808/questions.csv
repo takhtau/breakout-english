@@ -1,0 +1,49 @@
+HTML
+<p>We are next to her. She looks at ___ in silence.</p>,1,one,
+*,<p>us</p>
+,<p>we</p>
+,<p>them</p>
+<p>He shows his granny the book. He shows ___ the book. </p>,1,one,
+,<p>she</p>
+*,<p>her</p>
+,<p>it</p>
+<p>I show the book to my dad. I show the book to ___. </p>,1,one,
+,<p>he</p>
+,<p>her</p>
+*,<p>him</p>
+<p>We want to go with you. Take ___ as you find us. </p>,1,one,
+*,<p>us</p>
+,<p>them</p>
+,<p>we</p>
+<p>It is small. Take ____! (это)</p>,1,one,
+,<p>him</p>
+*,<p>it</p>
+,<p>he</p>
+<p>He needs to talk to me. Tell ___ to call me up right away.</p>,1,one,
+,<p>me</p>
+,<p>he</p>
+*,<p>him</p>
+<p>They are great! Tell me everything about ___ </p>,1,one,
+*,<p>them</p>
+,<p>us</p>
+,<p>they</p>
+<p>He gives you a letter. This letter is for ___. </p>,1,one,
+,<p>us</p>
+*,<p>you</p>
+,<p>them</p>
+<p>He can't write. Give ____ a pen. </p>,1,one,
+,<p>you</p>
+,<p>he</p>
+*,<p>him</p>
+<p>You have a birthday! I give ____ a present. </p>,1,one,
+*,<p>you</p>
+,<p>your</p>
+,<p>us</p>
+<p>She is a good person. Don't speak about ____ like this.</p>,1,one,
+,<p>she</p>
+*,<p>her</p>
+,<p>it</p>
+<p>We have a party! You give ____ a present.</p>,1,one,
+,<p>me</p>
+,<p>we</p>
+*,<p>us</p>

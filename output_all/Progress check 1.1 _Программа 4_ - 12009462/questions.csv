@@ -1,0 +1,68 @@
+HTML
+<p>At the moment he ... in Amsterdam.</p>,1,one,
+*,<p>is</p>
+,<p>was</p>
+,<p>were</p>
+<p>Last week he ... in Chicago.</p>,1,one,
+*,<p>was</p>
+,<p>were</p>
+,<p>will be</p>
+<p>Three days ago you ... in Paris.</p>,1,one,
+,<p>was</p>
+,<p>are</p>
+*,<p>were</p>
+<p>She always (to have) light lunches.</p>,1,one,
+,<p>have</p>
+*,<p>has</p>
+,<p>having</p>
+<p>You (to watch) TV every day.</p>,1,one,
+*,<p>watch</p>
+,<p>watches </p>
+,<p>watched</p>
+<p>He (to turn) on the TV to watch cartoons every morning.</p>,1,one,
+,<p>turn</p>
+*,<p>turns </p>
+,<p>turned </p>
+<p>Kate (to cook) dinner yesterday.</p>,1,one,
+,<p>cook</p>
+*,<p>cooked</p>
+,<p>cooks</p>
+<p>They (not to take) care of the garden next summer.</p>,1,one,
+*,<p>will not take </p>
+,<p>are not taking </p>
+,<p>don't take</p>
+<p>We (to go) to the zoo tomorrow.</p>,1,one,
+,<p>went </p>
+*,<p>will go</p>
+,<p>go</p>
+<p>I (not to go) to the cinema tomorrow.</p>,1,one,
+,<p>did not go </p>
+*,<p>will not go</p>
+,<p>go</p>
+<p>I (to wear) it yesterday.</p>,1,one,
+*,<p>wore</p>
+,<p>weared</p>
+,<p>wored</p>
+<p>Yesterday he (to eat) breakfast.</p>,1,one,
+,<p>eated</p>
+*,<p>ate</p>
+,<p>eatted</p>
+<p>My friend (to know) Spanish ten years ago.</p>,1,one,
+,<p>knowed</p>
+,<p>knows</p>
+*,<p>knew</p>
+<p>There ___ a cat  under the bed.</p>,1,one,
+,<p>are</p>
+*,<p>is</p>
+<p>Pat (not to cook) dinner at the moment. She (to talk) on the phone now.</p>,1,one,
+*,<p>isn't cooking/is talking</p>
+,<p>doesn't cook/talks</p>
+,<p>didn't cook/is talking </p>
+<p>I (not to drink) coffee now. I (to write) an English exercise at the moment.</p>,1,one,
+*,<p>'m not drinking/'m writing </p>
+,<p>don't drink/m' writing </p>
+,<p>didn't drink/write</p>
+<p>Look! _______ are sleeping. </p>,1,one,
+*,<p>Children</p>
+,<p>A child</p>
+,<p>Childs</p>

@@ -1,0 +1,41 @@
+HTML
+<p>My car ___ on the freeway.</p>,1,one,
+,<p>broke through</p>
+,<p>broke up</p>
+*,<p>broke down</p>
+<p>The thief managed to ___ the police barricade.</p>,1,one,
+*,<p>break through</p>
+,<p>break in</p>
+,<p>break on</p>
+<p>My girlfriend and I ___ last month.</p>,1,one,
+,<p>broke through</p>
+,<p>broke in</p>
+*,<p>broke up</p>
+"<p>Hey, ___ the girl with the red hair. She's very pretty. </p>",1,one,
+,<p>look out</p>
+,<p>look in</p>
+*,<p>look at</p>
+<p>___! Things will get better.</p>,1,one,
+,<p>Cheer on</p>
+,<p>Cheer at</p>
+*,<p>Cheer up</p>
+<p>The police are trying to ___ on drunk drivers.</p>,1,one,
+,<p>crack up</p>
+*,<p>crack down</p>
+,<p>crack through</p>
+<p>He is sso funny! He really cracks me ___.</p>,1,one,
+*,<p>up</p>
+,<p>around</p>
+,<p>on</p>
+"<p>I thought the movie was going to end, but it just ___.</p>",1,one,
+,<p>dragged in</p>
+*,<p>dragged on</p>
+,<p>dragged into</p>
+<p>I'm really tired because I ___ at 5 AM this morning.</p>,1,one,
+*,<p>got up</p>
+,<p>got around</p>
+,<p>got on</p>
+<p>Friends can help you to ___ a difficult time in your life.</p>,1,one,
+,<p>get around</p>
+,<p>get by</p>
+*,<p>get through</p>

@@ -1,0 +1,41 @@
+HTML
+<p>She will visit us next week. She told me that she ___ next week.</p>,1,one,
+*,<p>would visit us</p>
+,<p>will visit us</p>
+,<p>visits us</p>
+<p>I talk to my brother every day. He told me that he ___ to his brother.</p>,1,one,
+,<p>was talking</p>
+*,<p>talked</p>
+,<p>is talking</p>
+<p>My friend will help me study. She told me that her friend ___ her study.</p>,1,one,
+,<p>will help</p>
+,<p>helps</p>
+*,<p>would help</p>
+<p>Mary lives in Miami. My friend told me that Mary ___ in Miami.</p>,1,one,
+,<p>lives</p>
+,<p>was living</p>
+*,<p>lived</p>
+<p>I have seen that movie. She told me that she ___ that movie.</p>,1,one,
+*,<p>had seen</p>
+,<p>has seen</p>
+,<p>saw</p>
+<p>I will be in Paris next week. I told him that I ___ in Paris next week.</p>,1,one,
+,<p>will be</p>
+*,<p>would be</p>
+,<p>am</p>
+<p>Turn off the light! He asked me ___ the light.</p>,1,one,
+,<p>to turned</p>
+,<p>turn off</p>
+*,<p>to turn off</p>
+<p>I am a good dancer. She told me that she ___ a good dancer.</p>,1,one,
+,<p>is</p>
+*,<p>was</p>
+,<p>will be</p>
+<p>I have been to that bar. He told me that he ___ to that bar.</p>,1,one,
+*,<p>had been</p>
+,<p>will have been</p>
+,<p>is being</p>
+<p>I am writing an email to my girlfriend. He told me that he ___ an email to his girlfriend.</p>,1,one,
+,<p>is writing</p>
+*,<p>was writing</p>
+,<p>writes</p>

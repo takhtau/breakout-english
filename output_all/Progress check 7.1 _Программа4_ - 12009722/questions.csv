@@ -1,0 +1,57 @@
+HTML
+"<p>""You ate the whole pizza"", said Dan. - Dan said I ... the whole pizza.</p>",1,one,
+*,<p>had eaten</p>
+,<p>ate</p>
+,<p>has eaten</p>
+"<p>""It is breaking!"", said Henry. - Henry said it ...  </p>",1,one,
+,<p>broke</p>
+*,<p>was breaking</p>
+,<p>were breaking</p>
+"<p>""I finished my homework"", said Alex. - Alex said he ... his homework.</p>",1,one,
+,<p>finished</p>
+,<p>has finished</p>
+*,<p>had finished</p>
+"<p>""I will teach online next week"", said Mary. - Mary said she .... online the following week.</p>",1,one,
+*,<p>would teach</p>
+,<p>will teach</p>
+,<p>taught</p>
+"<p>""I am going to buy a new car"", said Jill. - Jill said she ... a new car.</p>",1,one,
+,<p>has bought</p>
+*,<p>was going to buy</p>
+,<p>is going to buy</p>
+"<p>""Your brother can't go to school now"", said mum. - Mum said my brother ... to school at that moment.</p>",1,one,
+,<p>couldn't gone</p>
+,<p>can't go</p>
+*,<p>couldn't go</p>
+"<p>""I am watching this show at the moment"", said Rose. - Rose said she ... that show at that moment..</p>",1,one,
+*,<p>was watching</p>
+,<p>watched</p>
+,<p>is watching</p>
+<p>She often (send) to the post office. </p>,1,one,
+*,<p>is sent </p>
+,<p>will be sent </p>
+,<p>sends </p>
+<p> Last year she (send) to Cambridge.</p>,1,one,
+,<p>is sent </p>
+,<p>will be sent </p>
+*,<p>was sent</p>
+<p> He (send) to Harvard next week. </p>,1,one,
+,<p>is sent </p>
+*,<p>will be sent </p>
+,<p>was sent</p>
+<p> She always (send) for. </p>,1,one,
+*,<p>is sent </p>
+,<p>will be sent </p>
+,<p>was sent</p>
+<p>She (send) for yesterday.</p>,1,one,
+,<p>is sent </p>
+,<p>will be sent </p>
+*,<p>was sent</p>
+<p> I (send) for tomorrow. </p>,1,one,
+,<p>is sent </p>
+*,<p>will be sent </p>
+,<p>was sent</p>
+<p>They always (invite) to Ann's birthday.</p>,1,one,
+*,<p>are invited</p>
+,<p>will be invited</p>
+,<p>were invited</p>

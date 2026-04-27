@@ -1,0 +1,101 @@
+HTML
+<p>The old man's clothes __ torn.</p>,1,one,
+,<p>was</p>
+,<p>is</p>
+*,<p>were</p>
+,<p>has been</p>
+<p>He used __ in a bank.</p>,1,one,
+,<p>work</p>
+*,<p>to work</p>
+,<p>working</p>
+,<p>to working</p>
+"<p>We mustn't climb the mountain, __ we?</p>",1,one,
+,<p>can</p>
+,<p>can't</p>
+,<p>mustn't</p>
+*,<p>must</p>
+<p>What __ shame you could not join us!</p>,1,one,
+,<p>an</p>
+,<p>the</p>
+,<p>-</p>
+*,<p>a</p>
+<p>The President __ a fund for the homeless.</p>,1,one,
+,<p>found</p>
+,<p>finds</p>
+,<p>founds</p>
+*,<p>founded</p>
+<p>He sailed from Southampton down __ English Channel.</p>,1,one,
+,<p>an</p>
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>He draws extremely __.</p>,1,one,
+,<p>good</p>
+,<p>bad</p>
+*,<p>well</p>
+,<p>fine</p>
+<p>Go __ immediately!</p>,1,one,
+,<p>in</p>
+,<p>into</p>
+,<p>of</p>
+*,<p>out</p>
+"<p>If I __ a millionaire, I'll give lots of money to the poor.</p>",1,one,
+,<p>be</p>
+,<p>is</p>
+*,<p>become</p>
+,<p>are</p>
+<p>Do you own this lovely house or do you __ it?</p>,1,one,
+,<p>employ</p>
+*,<p>rent</p>
+,<p>hire</p>
+,<p>appoint</p>
+<p>Shall I throw __ coffee away?</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+,<p>these</p>
+*,<p>this</p>
+<p>He is fond of __ speeches in public.</p>,1,one,
+,<p>make</p>
+,<p>makes</p>
+*,<p>making</p>
+,<p>doing</p>
+"<p>Some people like summer best, some like spring or autumn, __ prefer winter.</p>",1,one,
+,<p>another</p>
+,<p>the other</p>
+,<p>the others</p>
+*,<p>others</p>
+<p>I think I know __ can help us.</p>,1,one,
+,<p>that</p>
+*,<p>what</p>
+,<p>which</p>
+,<p>whom</p>
+"<p>Hey, Jack! How are you getting __? - Fine, thanks.</p>",1,one,
+,<p>of</p>
+,<p>off</p>
+*,<p>on</p>
+,<p>over</p>
+<p>There is __ provocative in her behavior. She is very shy and modest.</p>,1,one,
+,<p>something</p>
+,<p>anything</p>
+,<p>everything</p>
+*,<p>nothing</p>
+"<p>Well, girls, who is going to __ the table for tea?</p>",1,one,
+*,<p>lay</p>
+,<p>He</p>
+,<p>laid</p>
+,<p>lain</p>
+<p>The students watched the famous surgeon __ the operation and couldn't help admiring his skill.</p>,1,one,
+,<p>made</p>
+*,<p>making</p>
+,<p>doing</p>
+,<p>do</p>
+"<p>Nobody likes to be cheated, __ he?</p>",1,one,
+,<p>doesn't</p>
+*,<p>does</p>
+,<p>is</p>
+,<p>isn't</p>
+<p>The sun __ early in this part of the world.</p>,1,one,
+,<p>sits</p>
+,<p>is sitting</p>
+,<p>has set</p>
+*,<p>sets</p>

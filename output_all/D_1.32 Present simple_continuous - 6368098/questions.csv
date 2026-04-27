@@ -1,0 +1,41 @@
+HTML
+<p>Ron and Michael _____ at the table and doing their homework.</p>,1,one,
+,<p>is sitting</p>
+*,<p>are sitting</p>
+,<p>are siting</p>
+<p>I _____ for Liz. Do you know where she is?</p>,1,one,
+*,<p>am looking</p>
+,<p>look</p>
+,<p>am look</p>
+<p>They haven't got anywhere to live at the moment. They _____ with friends.</p>,1,one,
+*,<p>are staying</p>
+,<p>stay</p>
+,<p>staying</p>
+"<p>""Are you ready, Ann?"" - ""Yes, I _____ "".</p>",1,one,
+,<p>am comming</p>
+,<p>come</p>
+*,<p>am coming</p>
+<p>Have you got an umbrella? It _____ to train.</p>,1,one,
+,<p>starts</p>
+*,<p>is starting</p>
+,<p>start</p>
+<p>You _____ a lot of noise. Could you be quieter? I _____ to concentrate.</p>,1,one,
+,"<p>makes, am trying</p>"
+*,"<p>are making, am trying</p>"
+,"<p>make, try</p>"
+<p>Why are all these people here? What _____ ?</p>,1,one,
+,<p>happen</p>
+,<p>are happening</p>
+*,<p>is happening</p>
+"<p>"" _____ Ron _____ this week?"" - ""No, he's on holiday"".</p>",1,one,
+*,<p>is working</p>
+,<p>does work</p>
+,<p>is work</p>
+<p>Why _____ you _____ at me like that? What's the matter?</p>,1,one,
+,<p>do look</p>
+,<p>is looking</p>
+*,<p>are looking</p>
+"<p>Jenny _____ a student at university. "" _____ she? What is she studying?""</p>",1,one,
+,"<p>does, is</p>"
+,"<p>is, does</p>"
+*,"<p>is, is</p>"

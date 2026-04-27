@@ -1,0 +1,31 @@
+HTML
+<p>You have to be more ___.</p>,1,one,
+*,<p>careful</p>
+,<p>carefully</p>
+<p>We have to walk more ___. We're late!</p>,1,one,
+,<p>quick</p>
+*,<p>quickly</p>
+<p>I did this ___.</p>,1,one,
+,<p>willing</p>
+*,<p>willingly</p>
+<p>He was ___ to help me.</p>,1,one,
+*,<p>willing</p>
+,<p>willingly</p>
+<p>They speak English very ___.</p>,1,one,
+*,<p>well</p>
+,<p>good</p>
+<p>You did your homework very___.</p>,1,one,
+,<p>good</p>
+*,<p>well</p>
+<p>My grandfather is very ___.</p>,1,one,
+*,<p>clever</p>
+,<p>cleverly</p>
+<p>He speaks very ___.</p>,1,one,
+,<p>quiet </p>
+*,<p>quietly</p>
+<p>Our neighborhood is very ___.</p>,1,one,
+*,<p>quiet </p>
+,<p>quietly</p>
+<p>What a ___ movie!</p>,1,one,
+*,<p>quiet </p>
+,<p>quietly</p>

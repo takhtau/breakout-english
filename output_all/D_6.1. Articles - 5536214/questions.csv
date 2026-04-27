@@ -1,0 +1,41 @@
+HTML
+<p>Jack is _____ editor of _____ university newspaper.</p>,1,one,
+,"<p>an, a</p>"
+*,"<p>the, the</p>"
+,"<p>the, -</p>"
+<p>Linda is _____ daughter of _____ famous singer.</p>,1,one,
+,"<p>-, a</p>"
+,"<p>-, the</p>"
+*,"<p>the, a</p>"
+<p>You are right. _____ food here could be better.</p>,1,one,
+,<p>A</p>
+,<p>-</p>
+*,<p>The</p>
+<p>I bought this watch in _____ Switzerland.</p>,1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>a</p>
+<p>_____ Statue of Liberty was a gift of friendship from _____ France to _____ United States.</p>,1,one,
+,"<p>The, the, the</p>"
+*,"<p>The, -, the</p>"
+,"<p>-, -, the</p>"
+<p>No one in _____ French class knew _____ correct answer to _____ Mrs Duval's question.</p>,1,one,
+,"<p>-, the, the</p>"
+,"<p>the, the, the</p>"
+*,"<p> the/-, the, -</p>"
+<p>_____ Lake Erie is one of _____ five Great Lakes in _____ North America.</p>,1,one,
+,"<p>The, the, the</p>"
+,"<p>-, -, -</p>"
+*,"<p> -, the, -</p>"
+"<p>While we were in _____ Alaska, we saw _____ Eskimo village.</p>",1,one,
+,"<p>the, the</p>"
+*,"<p>-, an</p>"
+,"<p> -, -</p>"
+<p>_____ Queen Elizabeth II is _____ monarch of _____ Great Britain.</p>,1,one,
+*,"<p>-, the, -</p>"
+,"<p>The, the, the</p>"
+,"<p> -, -, -</p>"
+<p>My _____ car is ten years old.</p>,1,one,
+,<p>the</p>
+,<p>a</p>
+*,<p>-</p>

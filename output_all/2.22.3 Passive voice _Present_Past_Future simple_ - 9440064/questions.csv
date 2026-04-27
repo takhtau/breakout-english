@@ -1,0 +1,49 @@
+HTML
+<p>She often (send) to the post office. </p>,1,one,
+*,<p>is sent </p>
+,<p>will be sent </p>
+,<p>sends </p>
+<p> Last year she (send) to Cambridge.</p>,1,one,
+,<p>is sent </p>
+,<p>will be sent </p>
+*,<p>was sent</p>
+<p> He (send) to Harvard next week. </p>,1,one,
+,<p>is sent </p>
+*,<p>will be sent </p>
+,<p>was sent</p>
+<p> She always (tell) a secret.</p>,1,one,
+*,<p>is told</p>
+,<p>will be told</p>
+,<p>was told</p>
+<p>A doctor (send) for yesterday.</p>,1,one,
+,<p>is sent </p>
+,<p>will be sent </p>
+*,<p>was sent</p>
+<p> I (ask) tomorrow.</p>,1,one,
+,<p>is asked </p>
+*,<p>will be asked</p>
+,<p>was asked</p>
+<p>They always (invite) to Ann's birthday.</p>,1,one,
+*,<p>are invited</p>
+,<p>will be invited</p>
+,<p>were invited</p>
+<p>In next summer Nick (take) to the country.</p>,1,one,
+,<p>is taken</p>
+*,<p>will be taken</p>
+,<p>were taken</p>
+<p>This film much (talk) about yesterday.</p>,1,one,
+,<p>is talked</p>
+,<p>will be talked</p>
+*,<p>was talked</p>
+<p>We (show) a lot of beautiful paintings at the museum last week.</p>,1,one,
+,<p>are shown</p>
+,<p>will be shown</p>
+*,<p>were shown</p>
+<p>This book very often (ask) for.</p>,1,one,
+*,<p>is asked </p>
+,<p>will be asked</p>
+,<p>was asked</p>
+<p>My idea (not to understand) yesterday.</p>,1,one,
+,<p>isn't understood.</p>
+,<p>won't be understood.</p>
+*,<p>was not understood.</p>

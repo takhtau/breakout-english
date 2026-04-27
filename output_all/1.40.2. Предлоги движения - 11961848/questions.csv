@@ -1,0 +1,45 @@
+HTML
+<p>I go ________ the park. (по направлению к)</p>,1,one,
+,<p>in front of</p>
+,<p>away</p>
+*,<p>towards</p>
+<p>They are walking ________ the street. (через/поперек)</p>,1,one,
+,<p>off</p>
+*,<p>across</p>
+,<p>through</p>
+<p>The road goes ________ the forest. (через)</p>,1,one,
+*,<p>through</p>
+,<p>below</p>
+,<p>from</p>
+<p>Let a bird fly _______ the cage. (из)</p>,1,one,
+*,<p>out of</p>
+,<p>along</p>
+,<p>in</p>
+<p>He jumped _______ the roof. (с)</p>,1,one,
+,<p>past</p>
+*,<p>off</p>
+,<p>in front of</p>
+<p>Carl cuts a small piece _______ the cake. (с)</p>,1,one,
+,<p>at</p>
+,<p>above</p>
+*,<p>off</p>
+<p>I am bringing this bag ________ Tim. (от)</p>,1,one,
+,<p>past</p>
+*,<p>from</p>
+,<p>under</p>
+<p>I have a phone call ________ John. (от)</p>,1,one,
+*,<p>from</p>
+,<p>up</p>
+,<p>on</p>
+<p>We dived _______ the sea. (внутрь)</p>,1,one,
+*,<p>into</p>
+,<p>out of</p>
+,<p>down</p>
+<p>The ship sailed ________ the coast. (вдоль)</p>,1,one,
+,<p>past</p>
+*,<p>along</p>
+,<p>across</p>
+<p>He walked _______ me. (мимо)</p>,1,one,
+,<p>from</p>
+,<p>at</p>
+*,<p>past</p>

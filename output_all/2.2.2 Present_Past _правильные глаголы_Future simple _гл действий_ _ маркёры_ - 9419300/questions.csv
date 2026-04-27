@@ -1,0 +1,49 @@
+HTML
+<p>My friend (to live) in St Petersburg.</p>,1,one,
+,<p>live</p>
+*,<p>lives </p>
+,<p>lived </p>
+<p>The children (to play) in the yard every day.</p>,1,one,
+*,<p>play</p>
+,<p>playing</p>
+,<p>played</p>
+<p>He usually (to work) in the garden.</p>,1,one,
+*,<p>works</p>
+,<p>work </p>
+,<p>worked </p>
+<p>I usually (to have) meat only once a week. I (to eat) lots of fruit and vegetables.</p>,1,one,
+*,<p>have/eat</p>
+,<p>have/eating</p>
+,<p>had/ate </p>
+<p>She (to study) English two days ago.</p>,1,one,
+*,<p>studied </p>
+,<p>study</p>
+,<p>studying </p>
+<p>We (to enjoy) swimming in the ocean last weekend.</p>,1,one,
+,<p>enjoy </p>
+,<p>enjoying </p>
+*,<p>enjoyed </p>
+<p>Last night he (to wash) his face with soap and water.</p>,1,one,
+,<p>wash</p>
+,<p>washing</p>
+*,<p>washed</p>
+<p>Who (to paint) the world-known picture “Mona Lisa”?</p>,1,one,
+,<p>paint</p>
+*,<p>painted</p>
+,<p>paints </p>
+<p>He (to give) me a complete examination next week.</p>,1,one,
+,<p>gave</p>
+*,<p>will give </p>
+,<p>gives </p>
+<p>Nick (to go) to school tomorrow.</p>,1,one,
+*,<p>will go </p>
+,<p>went</p>
+,<p>is going</p>
+<p>I (not to see) him tomorrow.</p>,1,one,
+*,<p>won't see</p>
+,<p>saw</p>
+,<p>see</p>
+<p>He (to go) to the theatre tomorrow.</p>,1,one,
+,<p>went</p>
+,<p>goes</p>
+*,<p>will go</p>

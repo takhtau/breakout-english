@@ -1,0 +1,101 @@
+HTML
+"<p>I don't take __ with my coffee, I prefer it black.</p>",1,one,
+,<p>surgar</p>
+*,<p>milk</p>
+,<p>tea</p>
+,<p>bread</p>
+"<p>If I haven't got enough money, I'll __ some from the bank.</p>",1,one,
+,<p>give</p>
+*,<p>take</p>
+,<p>lend</p>
+,<p>ask</p>
+<p>They say the __ will rise next year.</p>,1,one,
+,<p>sale</p>
+*,<p>prices</p>
+,<p>cost</p>
+,<p>sells</p>
+<p>The meeting is __ held on the first Monday of the month. It never changes.</p>,1,one,
+,<p>sometimes</p>
+*,<p>always</p>
+,<p>often</p>
+,<p>usually</p>
+<p>It __ to rain soon.</p>,1,one,
+,<p>going</p>
+,<p>is being</p>
+*,<p>is going</p>
+,<p>will</p>
+<p>Would you please __ be late for your next class?</p>,1,one,
+,<p>don't</p>
+,<p>doesn't</p>
+*,<p>not</p>
+,<p>no to</p>
+<p>I'd like to __ the question of your future education.</p>,1,one,
+,<p>talk</p>
+,<p>speak</p>
+,<p>say</p>
+*,<p>discuss</p>
+<p>Over a thousand working hours were __ last year because of the earthquake</p>,1,one,
+,<p>loose</p>
+,<p>lose</p>
+*,<p>lost</p>
+,<p>loss</p>
+<p>The journey took a long time but we arrived __.</p>,1,one,
+,<p>in fact</p>
+,<p>actually</p>
+,<p>perhaps</p>
+*,<p>at last</p>
+<p>I am __ I must ask you to leave.</p>,1,one,
+*,<p>afraid</p>
+,<p>regretful</p>
+,<p>scared</p>
+,<p>frightened</p>
+<p>How can we __ our projects more attractive?</p>,1,one,
+*,<p>make</p>
+,<p>do </p>
+,<p>effect</p>
+,<p>decide</p>
+<p>The meeting is going to __ next Tuesday.</p>,1,one,
+,<p>take on</p>
+*,<p>take place</p>
+,<p>take part</p>
+,<p>take off</p>
+"<p>Would you __ closing the window, please?</p>",1,one,
+*,<p>mind</p>
+,<p>object</p>
+,<p>agree</p>
+,<p>like</p>
+<p>Helen made her husband __ some shopping.</p>,1,one,
+,<p>doing</p>
+,<p>make</p>
+*,<p>do </p>
+,<p>making</p>
+"<p>If the child __ no better, we shall have to take him to hospital.</p>",1,one,
+,<p>are</p>
+,<p>has</p>
+,<p>does</p>
+*,<p>is</p>
+<p>__ something strange in this situation.</p>,1,one,
+*,<p>There is</p>
+,<p>It is</p>
+,<p>This is</p>
+,<p>That is</p>
+<p>The shoes are __ fashionable!</p>,1,one,
+,<p>such</p>
+,<p>the</p>
+*,<p>so</p>
+,<p>this</p>
+<p>The new pair of trousers __ a bit tight on me.</p>,1,one,
+,<p>are</p>
+*,<p>is</p>
+,<p>were</p>
+,<p>am</p>
+"<p>If you think __ , you'll give me the right answer.</p>",1,one,
+,<p>little</p>
+,<p>few</p>
+,<p>less</p>
+*,<p>a little</p>
+<p>Are you getting __ at the next stop?</p>,1,one,
+,<p>on</p>
+*,<p>off</p>
+,<p>away</p>
+,<p>in</p>

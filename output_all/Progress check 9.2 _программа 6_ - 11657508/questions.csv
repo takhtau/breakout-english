@@ -1,0 +1,49 @@
+HTML
+<p>... speaks Chinese?</p>,1,one,
+,<p>Whose</p>
+*,<p>Who</p>
+,<p>Who's</p>
+<p>... she?</p>,1,one,
+,<p>Whose</p>
+,<p>Who</p>
+*,<p>Who's</p>
+<p>... son is he?</p>,1,one,
+,<p>Who</p>
+,<p>Who's</p>
+*,<p>Whose</p>
+<p>... went there yesterday?</p>,1,one,
+*,<p>Who</p>
+,<p>Whose</p>
+,<p>Who's</p>
+"<p>You know Harry, _________?</p>",1,one,
+,<p>do you</p>
+,<p>does you</p>
+*,<p>don’t you</p>
+"<p>She isn't married, _________?</p>",1,one,
+,<p>does she</p>
+*,<p>is she</p>
+,<p>isn't she</p>
+"<p>Lima’s friends can be helpful, _________?</p>",1,one,
+,<p>do they</p>
+,<p>can't she</p>
+*,<p>can't they</p>
+"<p>I am your friend, _________?</p>",1,one,
+,<p>am not I</p>
+*,<p>aren't I</p>
+,<p>are I</p>
+<p>It takes ______ ten minutes to walk to work. (ему)</p>,1,one,
+,<p>she</p>
+*,<p>him</p>
+,<p>I</p>
+<p>How long ______ ___ _______ you to come from Tyumen to Moscow? (present simple)</p>,1,one,
+,<p>it takes</p>
+*,<p>does it take</p>
+,<p>do you take</p>
+<p>In Siberia it ______ (snow) every winter.</p>,1,one,
+,<p>snowed</p>
+*,<p>snows</p>
+,<p>is snowing</p>
+<p>_____ it ______ (rain) at the moment?</p>,1,one,
+,<p>do / rain</p>
+,<p>does / rain</p>
+*,<p>is /raining</p>

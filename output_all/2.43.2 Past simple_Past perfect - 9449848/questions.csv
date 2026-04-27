@@ -1,0 +1,49 @@
+HTML
+<p>Mother saw that Nick (not to wash) his hands.</p>,1,one,
+*,<p>hadn't washed</p>
+,<p>didn't wash</p>
+,<p>doesn't wash</p>
+<p>The teacher (to understand) that Lena hadn't done her homework.</p>,1,one,
+,<p>had understood</p>
+*,<p>understood</p>
+,<p>understands</p>
+<p>I knew that my friend (not to come) yet.</p>,1,one,
+,<p>didn't come</p>
+,<p>come</p>
+*,<p>hadn't come</p>
+"<p>When I (to wake) up yesterday, father had already gone to work.</p>",1,one,
+*,<p>woke up</p>
+,<p>had woken up</p>
+,<p>wake up</p>
+<p>Nick thought that his father (not to come) home yet.</p>,1,one,
+,<p>didn't come</p>
+*,<p>hadn't come</p>
+,<p>comes</p>
+<p>Mary (to tell) us that she had cooked a good dinner.</p>,1,one,
+,<p>had told</p>
+,<p>tells</p>
+*,<p>told</p>
+<p>Yesterday I found the book which I (to lose) in summer.</p>,1,one,
+*,<p>had lost</p>
+,<p>lost</p>
+,<p>lose</p>
+"<p>When we (to come) to the station, the train had already left.</p>",1,one,
+,<p>had come</p>
+*,<p>came</p>
+,<p>come</p>
+<p>By two o’clock the teacher (to examine) all the students.</p>,1,one,
+,<p>examined</p>
+,<p>examines</p>
+*,<p>had examined</p>
+<p>On my way to school I (to remember) that I had left my report at home.</p>,1,one,
+*,<p>remembered</p>
+,<p>had remembered</p>
+,<p>remember</p>
+<p>My friends were glad to hear that I (to pass) all the exams successfully.</p>,1,one,
+,<p>passed</p>
+*,<p>had passed</p>
+,<p>pass</p>
+<p>Poor Oliver (to lie) unconscious on the spot where Sikes had left him.</p>,1,one,
+,<p>had lain</p>
+,<p>lies</p>
+*,<p>lay</p>

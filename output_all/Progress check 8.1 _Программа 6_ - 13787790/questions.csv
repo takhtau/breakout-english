@@ -1,0 +1,65 @@
+HTML
+<p>Do you believe in _________?</p>,1,one,
+*,<p>yourself</p>
+,<p>myself</p>
+,<p>themselves</p>
+<p>Anna repaired the chair ________.</p>,1,one,
+,<p>himself</p>
+,<p>myself</p>
+*,<p>herself</p>
+"<p>Children, you can't do that ___________</p>",1,one,
+*,<p>yourselves</p>
+,<p>ourselves</p>
+,<p>yourself</p>
+<p>... at school now?</p>,1,one,
+,<p>Who</p>
+*,<p>Who's</p>
+,<p>Whose</p>
+<p>... lives in that house?</p>,1,one,
+,<p>Who's</p>
+*,<p>Who</p>
+,<p>Whose</p>
+<p>... birthday is it today?</p>,1,one,
+,<p>Who's</p>
+*,<p>Whose</p>
+,<p>Who</p>
+"<p>You know Harry, _________?</p>",1,one,
+,<p>do you</p>
+,<p>does you</p>
+*,<p>don’t you</p>
+"<p>I see, you are Russian, _________?</p>",1,one,
+,<p>do you</p>
+*,<p>aren't you</p>
+,<p>am I</p>
+"<p>I am your friend, _________?</p>",1,one,
+,<p>am not I</p>
+*,<p>aren't I</p>
+,<p>are I</p>
+<p>______ it windy today?</p>,1,one,
+,<p>Does</p>
+*,<p>Is</p>
+,<p>Do</p>
+<p>In summer it is often _______. (солнечно)</p>,1,one,
+,<p>windy</p>
+,<p>cold</p>
+*,<p>sunny</p>
+<p>In Siberia it ______ (snow) every winter.</p>,1,one,
+*,<p>snows</p>
+,<p>is snowing</p>
+,<p>does snow</p>
+<p>_____ it ______ (rain) at the moment?</p>,1,one,
+,<p>Does/rain</p>
+*,<p>Is/raining</p>
+,<p>Are/raining</p>
+<p> I listen to music _______ after school.</p>,1,one,
+*,<p>to relax</p>
+,<p>for relaxing </p>
+,<p>to relaxing </p>
+<p>I’ll become a doctor _______ people.</p>,1,one,
+,<p>for helping </p>
+*,<p>to help</p>
+,<p>to helping </p>
+<p>He’s saving money ______ a flat.</p>,1,one,
+,<p>for buying </p>
+,<p>to buying </p>
+*,<p>to buy </p>

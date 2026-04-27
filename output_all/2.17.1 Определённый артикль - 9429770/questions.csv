@@ -1,0 +1,49 @@
+HTML
+<p>He’s got a computer. ... computer is new.</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+,<p>An</p>
+<p>This is a tree. ... tree is green.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>An</p>
+<p>I can see three boys. ... boys are playing.</p>,~1,one,
+,<p>A</p>
+,<p>-</p>
+*,<p>The</p>
+<p>We wrote a dictation yesterday. ... dictation was long.</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+,<p>An</p>
+<p>Last year I gave my mother a bracelet for her birthday. She liked ... bracelet.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>An</p>
+<p>She has a ball. ... ball is big.</p>,1,one,
+,<p>-</p>
+,<p>An</p>
+*,<p>The</p>
+<p>I got a letter from my  friend yesterday. ... letter was interesting.</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+,<p>An</p>
+<p>This is a pen. ... pen is red.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>-</p>
+<p>These are pencils. ... pencils are black.</p>,1,one,
+,<p>A</p>
+,<p>-</p>
+*,<p>The</p>
+<p>This is a soup. ... soup is so tasty.</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+,<p>-</p>
+<p>This is a pineapple. ... pineapple is delicious.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>An</p>
+"<p>Elaine, ... apples are good for you!</p>",1,one,
+*,<p>-</p>
+,<p>a</p>
+,<p>the</p>

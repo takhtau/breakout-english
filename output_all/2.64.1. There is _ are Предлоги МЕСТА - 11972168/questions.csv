@@ -1,0 +1,49 @@
+HTML
+<p>There is a shelf ________ the table.</p>,1,one,
+*,<p>above</p>
+,<p>in</p>
+,<p>outside</p>
+<p>There are a lot of beds _________ the hospital. </p>,1,one,
+,<p>above</p>
+*,<p>inside</p>
+,<p>outside</p>
+<p>There is a boy _________ my back. </p>,1,one,
+,<p>between</p>
+,<p>inside</p>
+*,<p>behind</p>
+<p>There is a monster _________ my bed!</p>,1,one,
+,<p>between</p>
+,<p>among</p>
+*,<p>under</p>
+<p>Is there a temperature now 20 degrees _________ zero?</p>,1,one,
+,<p>between</p>
+*,<p>below</p>
+,<p>in front of</p>
+<p>Are there helicopters __________ the trees? </p>,1,one,
+*,<p>over</p>
+,<p>below</p>
+,<p>at</p>
+<p>There _______ five rooms downstairs.</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+,<p>on</p>
+<p>____________ clothes for sale.</p>,1,one,
+,<p>There is</p>
+*,<p>There are</p>
+,<p>In there </p>
+<p>There ________ many chairs in the room. </p>,1,one,
+,<p>is</p>
+,<p>between</p>
+*,<p>are </p>
+<p>There _____ a mirror in my room.</p>,1,one,
+,<p>near</p>
+,<p>are </p>
+*,<p>is</p>
+<p>_________ no life on the moon. </p>,1,one,
+,<p>There </p>
+*,<p>There is</p>
+,<p>There are</p>
+<p>_________ an example on page 10. </p>,1,one,
+*,<p>There is</p>
+,<p>There are</p>
+,<p>There </p>

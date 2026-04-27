@@ -1,0 +1,49 @@
+HTML
+<p>----- words 'sale' and 'sail' are pronounced ----- same.</p>,1,one,
+*,<p>The; the</p>
+,<p>The; -</p>
+,<p>-; a</p>
+<p>It is ----- least I can do.</p>,1,one,
+,<p>a</p>
+,<p>-</p>
+*,<p>the</p>
+<p>I bumped into her quite by ----- chance in ----- Oxford Street.</p>,1,one,
+*,<p>-; -</p>
+,<p>-; the</p>
+,<p>a; the</p>
+<p>He took ----- offence at my question.</p>,1,one,
+*,<p>-</p>
+,<p>an</p>
+,<p>the</p>
+"<p>I'd like ----- appointment for ----- tomorrow morning, please.</p>",1,one,
+,<p>-; -</p>
+,<p>an; a</p>
+*,<p>an; -</p>
+<p>Get ----- good night's sleep and you'll feel better tomorrow.</p>,1,one,
+,<p>-</p>
+*,<p>a</p>
+,<p>the</p>
+<p>He has ----- bad heart.</p>,1,one,
+,<p>an</p>
+,<p>the</p>
+*,<p>a</p>
+<p>She knew ----- poem by ----- heart.</p>,1,one,
+*,<p>the; -</p>
+,<p>a; the</p>
+,<p>the; an</p>
+<p>What ----- wonderful weather!</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>-</p>
+<p>My aunt has grown such ----- big pumpkin.</p>,1,one,
+*,<p>a</p>
+,<p>-</p>
+,<p>the</p>
+"<p>Yesterday I bought ----- pair of shoes. Unfortunately, ----- shoes are too tight.</p>",1,one,
+,<p>-; the</p>
+,<p>a; -</p>
+*,<p>a; the</p>
+"<p>----- more he insisted he was innocent, ----- less they seemed to believe him.</p>",1,one,
+,<p>A; a</p>
+*,<p>The; the</p>
+,<p>-; -</p>

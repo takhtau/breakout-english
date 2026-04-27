@@ -1,0 +1,48 @@
+HTML
+<p>I’m not sure but he ____ be wrong. </p>,1,one,
+,<p>must</p>
+*,<p>may</p>
+<p>She _____ her words. </p>,1,one,
+*,<p>won’t dare to deny </p>
+,<p>won’t dare denys </p>
+,<p>won’t dared to deny </p>
+<p>Helen has no friends. She ____ be very lonely. </p>,1,one,
+*,<p>must</p>
+,<p>may</p>
+,<p>can</p>
+<p>She _____ go to the swimming-pool today. </p>,1,one,
+,<p>must</p>
+*,<p>could </p>
+,<p>dare</p>
+<p>____ tell me what to do! </p>,1,one,
+,<p>How you dare </p>
+,<p>Dare you how </p>
+*,<p>How dare you </p>
+<p>_____ these shoes cost so much money?  </p>,1,one,
+*,<p>can</p>
+,<p>need</p>
+,<p>dare</p>
+<p>She _____ run very fast. She always wins.</p>,1,one,
+,<p>need</p>
+*,<p>must </p>
+,<p>may</p>
+<p>They _____ be doing sightseeing. </p>,1,one,
+,<p>dare</p>
+,<p>can</p>
+*,<p>may</p>
+"<p>Должно быть ты голоден, ты не ел 10 часов.</p>",1,one,
+*,"<p>You must be hungry, you haven’t eaten for 10 hours! </p>"
+,"<p>You can be hungry, you haven’t eaten for 10 hours! </p>"
+,"<p>You may be hungry, you haven’t eaten for 10 hours!</p>"
+"<p>Не может быть, чтобы ты был в школе сейчас.</p>",1,one,
+,<p>You may not be at school now. </p>
+*,<p>You can’t be at school now. </p>
+,<p>You don't dare be at school now. </p>
+<p>Мы не решаемся прерывать его вопросами. </p>,1,one,
+*,<p>We dare not interrupt him with questions.</p>
+,<p>We can't interrupt him with questions. </p>
+,<p>We may not interrupt him with questions. </p>
+<p>Не может быть чтобы Майк опоздал на такое важное совещание. </p>,1,one,
+,<p>Mike may not have been late for such an important meeting </p>
+,<p>Mike mustn't late for such an important meeting </p>
+*,<p>Mike couldn’t have been late for such an important meeting.</p>

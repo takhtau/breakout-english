@@ -1,0 +1,13 @@
+HTML
+<p>Will they send the letters first class? (sent)</p><p>Will____________first class? </p>,1,,
+*,the letters be sent
+<p>I'm not sure if they eat pizza in China. (is)</p><p>I'm not sure if______________in China. </p>,1,,
+*,pizza is eaten
+<p>Someone told me that they don't make cars in the UK anymore. (made)</p><p>Someone told me that______________in the UK anymore. </p>,1,,
+*,cars aren't made
+<p>Do they usually feed the animals three times a day? (fed)</p><p>Are_____________three times a day? </p>,1,,
+*,the animals usually fed
+"<p>Mr Jones is ill, so he won't give us a geography test today! (be)</p><p>Mr Jones is ill, so____________a geography test today!</p>",1,,
+*,we won't be given
+<p>Did they take her to hospital in an ambulance? (she)</p><p>Was_____________to hospital in an ambulance? </p>,1,,
+*,she taken

@@ -1,0 +1,41 @@
+HTML
+<p>This girl is ________ dancer in our group.</p>,1,one,
+,<p>good</p>
+,<p>better</p>
+*,<p>the best</p>
+<p>Rex is _________ dog of all.</p>,1,one,
+,<p>clever</p>
+,<p>cleverer</p>
+*,<p>the cleverest</p>
+<p>Men are ____________ than women.</p>,1,one,
+,<p>strong</p>
+*,<p>stronger</p>
+,<p>the strongest</p>
+<p>The baby is very _________</p>,1,one,
+*,<p>pretty</p>
+,<p>prettier</p>
+,<p>the prettiest</p>
+<p>Monkeys are ____________ than tigers.</p>,1,one,
+,<p>funny</p>
+*,<p>funnier</p>
+,<p>the funniest</p>
+<p>Mr. Brown is ______________ teacher of all.</p>,1,one,
+,<p>kind</p>
+,<p>kinder</p>
+*,<p>the kindest</p>
+<p>Mary knows English __________  than Kelly.</p>,1,one,
+,<p>good</p>
+*,<p>better</p>
+,<p>the best</p>
+<p>Elephants are very __________ animals.</p>,1,one,
+*,<p>strong</p>
+,<p>stronger</p>
+,<p>the strongest</p>
+"<p>I can't hear you. Please, speak _________ .</p>",1,one,
+,<p>loud</p>
+*,<p>louder</p>
+,<p>the loudest</p>
+<p>Blue whale is _____________ animal.</p>,1,one,
+,<p>big</p>
+,<p>bigger</p>
+*,<p>the biggest</p>

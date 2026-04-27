@@ -1,0 +1,41 @@
+HTML
+<p>I _____ at home.</p>,1,one,
+*,<p>am</p>
+,<p>is</p>
+,<p>-</p>
+<p>Bob _____ in Africa.</p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>-</p>
+<p>Kate _____ a bike.</p>,1,one,
+,<p>is</p>
+*,<p>has got</p>
+,<p>have got</p>
+<p>I have got a _____ .</p>,1,one,
+*,<p>kitten</p>
+,<p>kittens</p>
+,<p>cats</p>
+<p>They _____ five games.</p>,1,one,
+,<p>is</p>
+,<p>has got</p>
+*,<p>have got</p>
+<p>He _____ five.</p>,1,one,
+*,<p>is</p>
+,<p>has got</p>
+,<p>have got</p>
+<p>_____ I in his office?</p>,1,one,
+,<p>is</p>
+*,<p>am</p>
+,<p>have </p>
+<p>_____ from Russia?</p>,1,one,
+,<p>you are</p>
+,<p>have you</p>
+*,<p>are you</p>
+<p>_____ he in the house?</p>,1,one,
+*,<p>is</p>
+,<p>am</p>
+,<p>has</p>
+<p>_____ he got a house?</p>,1,one,
+,<p>is</p>
+,<p>am</p>
+*,<p>has</p>

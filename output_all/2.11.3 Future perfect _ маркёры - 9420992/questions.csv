@@ -1,0 +1,49 @@
+HTML
+<p>I (to finish) reading this articles by 6 o'clock tomorrow.</p>,1,one,
+*,<p>will have finished</p>
+,<p>will finish</p>
+,<p>will be finishing</p>
+<p>He (to arrive) by next Monday. </p>,1,one,
+,<p>will be arriving</p>
+*,<p>will have arrived</p>
+,<p>will arrive</p>
+<p>We (to meet) Simon by next winter.</p>,1,one,
+,<p>will meet</p>
+,<p>will be meeting</p>
+*,<p>will have met</p>
+<p>They (to leave) Moscow by next Friday.</p>,1,one,
+*,<p>will have left</p>
+,<p>will leave</p>
+,<p>will be leaving</p>
+<p>... I ... (to finish) writing this book by next month? </p>,1,one,
+,<p>Will/finish</p>
+*,<p>Will/have finished</p>
+,<p>Will/be finishing</p>
+<p>... he ... (to get married) by next summer? </p>,1,one,
+,<p>Will/be getting married</p>
+,<p>Will/get married</p>
+*,<p>Will/have got married</p>
+<p>... it ... (to get) colder by next morning?</p>,1,one,
+*,<p>Will/have got</p>
+,<p>Will/get</p>
+,<p>Will/be getting</p>
+<p>... they ... (to leave) their jobs by that time next year?</p>,1,one,
+,<p>Will/be leaving</p>
+*,<p>Will/have left</p>
+,<p>Will/leave</p>
+<p>She (to forget) about her promise in five years. </p>,1,one,
+,<p>will be forgetting</p>
+,<p>will forget</p>
+*,<p>will have forgotten</p>
+<p>They (to retire) when their children grow up. </p>,1,one,
+*,<p>will have retired</p>
+,<p>will retire</p>
+,<p>will be retiring</p>
+<p>I (not to read) that book by next week. </p>,1,one,
+,<p>won't be reading</p>
+*,<p>won't have read</p>
+,<p>won't read</p>
+<p>We (not to find) the replacement for our manager until we provide good perks.</p>,1,one,
+,<p>won't be finding</p>
+,<p>won't find</p>
+*,<p>won't have found</p>

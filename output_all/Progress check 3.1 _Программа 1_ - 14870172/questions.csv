@@ -1,0 +1,53 @@
+HTML
+<p>The situation is serious. Something must ----- before it’s too late.</p>,1,one,
+,<p>be doing</p>
+*,<p>be done</p>
+,<p>do</p>
+<p>Please go away. I want to ----- alone.       </p>,1,one,
+*,<p>be left</p>
+,<p>be leaving</p>
+,<p>have been left</p>
+<p>Have you heard? The trip -----.</p>,1,one,
+,<p>was cancelled</p>
+,<p>has cancelled</p>
+*,<p>has been cancelled</p>
+<p>You ----- plenty of time to decide. </p>,1,one,
+,<p>will have been given</p>
+,<p>will give</p>
+*,<p>will be given</p>
+"<p>I didn’t see the original document, but I ----- a copy.</p>",1,one,
+*,<p>was shown</p>
+,<p>was showing</p>
+,<p>will be shown</p>
+<p>A neighbour of mine disappeared six months ago. He ----- since then.</p>,1,one,
+,<p>wasn't seen</p>
+*,<p>hasn't been seen</p>
+,<p>hasn't seen</p>
+<p>Tom’s car was stolen recently. It ----- yet.</p>,1,one,
+,<p>isn't found</p>
+,<p>hasn't found</p>
+*,<p>hasn't been found</p>
+"<p>Three hours from now, the cinema will be empty. The film -----. Everyone ----- home. (уже закончится и уже уйдут)</p>",1,one,
+*,<p>will have finished; will have gone</p>
+,<p>will finish; will go</p>
+,<p>will be finished; will be going</p>
+<p>Sally always leaves for work at 8.30 in the morning. She ----- at home at 9 o’clock – she ----- to work. (уже уйдет на работу)</p>,1,one,
+,<p>won’t be being; ’ll go</p>
+*,<p>won’t be; ’ll have gone</p>
+,<p>won’t be; went</p>
+<p>The government ----- new legislation by the end of next year.</p>,1,one,
+,<p>will be passing</p>
+,<p>will pass</p>
+*,<p>will have passed</p>
+"<p>Please, be patient for a while. They ----- by next Monday.</p>",1,one,
+,<p>will have been left</p>
+,<p>will leave</p>
+*,<p>will have left</p>
+<p>They ----- for two months by the end of their vacation.</p>,1,one,
+*,<p>will have been travelling</p>
+,<p>will be travelling</p>
+,<p>will travel</p>
+<p>What ----- at the meeting?</p>,1,one,
+,<p>will be discussing</p>
+,<p>will discuss</p>
+*,<p>will be discussed</p>

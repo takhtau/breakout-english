@@ -1,0 +1,53 @@
+HTML
+<p>We need to do more to help ----- homeless.</p>,1,one,
+,<p>a</p>
+,<p>-</p>
+*,<p>the</p>
+<p>This book is published by ----- Cambridge University Press</p>,1,one,
+,<p>a</p>
+*,<p>-</p>
+,<p>the</p>
+<p>We ----- be late. The meeting starts in five minutes and it takes 15 minutes to get there.</p>,1,one,
+,<p>are to</p>
+,<p>will</p>
+*,<p>'re going to</p>
+<p>Jane ----- be late for the meeting. She’s always late.</p>,1,one,
+*,<p>will</p>
+,<p>’s going to</p>
+,<p>was going to</p>
+<p>We’re late. The film ----- by the time we get to the cinema.</p>,1,one,
+,<p>had already started</p>
+,<p>will already start</p>
+*,<p>will already have started</p>
+<p>There’s an election next week. Who ----- for?</p>,1,one,
+*,<p>will you be voting</p>
+,<p>will you vote</p>
+,<p>will you have voted</p>
+<p>The match is on TV tonight. ----- it?</p>,1,one,
+,<p>Will you have watched</p>
+*,<p>Will you be watching</p>
+,<p>Do you watch</p>
+"<p>When you ----- here again, you must come and see us.</p>",1,one,
+,<p>were</p>
+,<p>will be</p>
+*,<p>are</p>
+"<p>If you need to contact me, I ----- at ----- Lion Hotel until Friday.</p>",1,one,
+,<p>’ll stay; the</p>
+*,<p>’ll be staying; the</p>
+,<p>’m staying; -</p>
+"<p>Ben is on holiday and ----- his money very quickly. If he continues like this, he ----- all his money before the end of his holiday.</p>",1,one,
+*,<p>is spending; will have spent</p>
+,<p>spends; will spend</p>
+,<p>is spending; will be spending</p>
+<p>----- hotel where we stayed was very cheap.</p>,1,one,
+,<p>A</p>
+,<p>-</p>
+*,<p>The</p>
+<p>Your sweater is ----- same colour as mine.</p>,1,one,
+,<p>-</p>
+*,<p>the</p>
+,<p>a</p>
+<p>There are millions of stars in ----- space.</p>,1,one,
+*,<p>-</p>
+,<p>a</p>
+,<p>the</p>

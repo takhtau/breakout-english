@@ -1,0 +1,65 @@
+HTML
+<p>This is my table. On ... table I have two pencils.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>the</p>
+<p>This is a bag. ... bag is brown.</p>,1,one,
+*,<p>The</p>
+,<p>-</p>
+,<p>A</p>
+<p>I have two ... sisters.</p>,1,one,
+,<p>a</p>
+,<p>the</p>
+*,<p>-</p>
+<p>He is at ... home.</p>,1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>a</p>
+<p>Would you like to go for … walk with me in the evening?</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+"<p>If you lend me … few coins, I would buy … newspaper.</p>",1,one,
+*,<p>a/a</p>
+,<p>an/a</p>
+,<p>-/a</p>
+<p>As … rule he sleeps 8 hours … day.</p>,1,one,
+*,<p>a/a</p>
+,<p>an/a</p>
+,<p>-/-</p>
+<p>Nancy is … kind girl. She is … 15.</p>,1,one,
+*,<p>a/-</p>
+,<p>an/-</p>
+,<p>-/-</p>
+<p>My new dress is made of ... silk.</p>,1,one,
+,<p>the</p>
+*,<p>-</p>
+,<p>an</p>
+<p>... Saturday is the sixth day of the week.</p>,1,one,
+*,<p>-</p>
+,<p>The</p>
+,<p>A</p>
+<p>He is planning to have a nice party with his ... friends.</p>,1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>a</p>
+<p>He is going to make a phone call to his ... grandfather.</p>,1,one,
+,<p>a</p>
+*,<p>-</p>
+,<p>the</p>
+"<p>They have ... son, but they have no ... daughter.</p>",1,one,
+,<p>-/-</p>
+*,<p>a/-</p>
+,<p>the/-</p>
+<p>We have ... large room. There is ... big sofa in ... room. </p>,1,one,
+,<p>-/the/a</p>
+,<p>a/the/the</p>
+*,<p>a/a/the</p>
+<p>There is ... large piano in ... hall.</p>,1,one,
+,<p>-/-</p>
+*,<p>a/the</p>
+,<p>the/-</p>
+<p>There are ... several pictures on... pale green walls.</p>,1,one,
+,<p>-/-</p>
+*,<p>-/the</p>
+,<p>the/-</p>

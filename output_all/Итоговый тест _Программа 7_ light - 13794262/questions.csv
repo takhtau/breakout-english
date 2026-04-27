@@ -1,0 +1,63 @@
+HTML
+<p> Don’t sit on that chair. ______ is broken. </p>,1,one,
+,<p>He</p>
+,<p>She</p>
+*,<p>It</p>
+<p>____ your friends always _____ football at three o'clock?</p>,1,one,
+,<p>Does/play</p>
+*,<p>Do/play</p>
+,<p>Do/plays</p>
+<p>____ you ____ now?</p>,1,one,
+,<p>Do/sleep</p>
+*,<p>Are/sleeping</p>
+,<p>Are/sleep</p>
+<p>She________a notebook.</p>,1,one,
+,<p>have got</p>
+*,<p>has got</p>
+<p>There are ________ in the fridge. </p>,1,one,
+,<p>carrot </p>
+*,<p>carrots </p>
+,<p>carrotes </p>
+<p>___ sky is blue.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>-</p>
+<p>There_____ a cat on the table.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p> _____ do you live?</p>,1,one,
+*,<p>Where</p>
+,<p>What</p>
+,<p>When</p>
+<p>I haven’t got ___ food.</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>There aren't________apples in the box. </p>,1,one,
+,<p>much </p>
+*,<p>many </p>
+<p>July is the ______ (hot) month of the year. </p>,1,one,
+,<p>hotest</p>
+,<p>most hot</p>
+*,<p>hottest</p>
+<p>I have got a dog. It is my ____ toy.</p>,1,one,
+,<p>dog</p>
+*,<p>dog's</p>
+,<p>dogs'</p>
+<p>He has got very _______ friends.</p>,1,one,
+*,<p>few</p>
+,<p>little</p>
+<p>______ Carol six last year?</p>,1,one,
+*,<p>Was</p>
+,<p>Were</p>
+<p>Last night I _________ (to listen) to some CDs.</p>,1,one,
+*,<p>listened</p>
+,<p>listend</p>
+,<p>listen</p>
+<p>I ____ swim.</p>,1,one,
+*,<p>can</p>
+,<p>may</p>
+,<p>must</p>
+<p>She ____ to school tomorrow.</p>,1,one,
+,<p>go</p>
+,<p>goes</p>
+*,<p>will go</p>

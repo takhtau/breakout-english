@@ -1,0 +1,59 @@
+HTML
+<p> I have got three _______ of milk in the kitchen. (кувшина)</p>,1,one,
+*,<p>jugs</p>
+,<p>bottles</p>
+,<p>glasses</p>
+"<p>Do you have _______ white bread in your house? (буханка, батон)</p>",1,one,
+,<p>packet of</p>
+,<p>a piece</p>
+*,<p>a loaf of</p>
+"<p>I _________ speak Chinese when I was 10, because I studied another language.</p>",1,one,
+,<p>could</p>
+*,<p>couldn't </p>
+<p>I have got _______ sweets. </p>,1,one,
+,<p>much</p>
+*,<p>a lot of</p>
+<p>How_______sweets are there on the table? </p>,1,one,
+,<p>much</p>
+*,<p>many</p>
+,<p>a lot of</p>
+<p>You have _________ mistakes in the test. Correct them!</p>,1,one,
+*,<p>a few</p>
+,<p>little</p>
+,<p>a little</p>
+<p>There is ________ bread in the cupboard. It’s enough for dinner.</p>,1,one,
+,<p>a few</p>
+*,<p>a little</p>
+,<p>few</p>
+<p>Christina__________French. She doesn't want to be a teacher. </p>,1,one,
+*,<p>is not going to study </p>
+,<p>won't study </p>
+,<p>isn't studying </p>
+<p>What are your plans for your future job? - I________a teacher. </p>,1,one,
+,<p>will be</p>
+,<p>are being </p>
+*,<p>am going to be</p>
+<p>They _____ probably come to the party.</p>,1,one,
+,<p>am going to</p>
+*,<p>will </p>
+,<p>are going to</p>
+<p>My sister and I ______ volleyball the day before yesterday. </p>,1,one,
+*,<p>played</p>
+,<p>play </p>
+,<p>will play</p>
+<p>My father usually ________ to the stadium on Sundays </p>,1,one,
+,<p>went</p>
+*,<p>goes</p>
+,<p>will go</p>
+<p>My friend always ________ TV at seven o'clock. </p>,1,one,
+,<p>watched </p>
+*,<p>watches </p>
+,<p>will watch</p>
+<p>Her grandmother _______ TV tomorrow at ten o'clock. </p>,1,one,
+,<p>watched</p>
+,<p>watches </p>
+*,<p>will watch</p>
+<p>His aunt ______ to St. Petersburg next month. </p>,1,one,
+,<p>went</p>
+,<p>goes</p>
+*,<p>will go</p>

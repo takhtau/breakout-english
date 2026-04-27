@@ -1,0 +1,57 @@
+HTML
+<p>What's wrong? He _____ writing.</p>,1,one,
+*,<p>isn't</p>
+,<p>don't</p>
+,<p>doesn't</p>
+<p>He _____ write dictations.</p>,1,one,
+,<p>isn't</p>
+,<p>don't</p>
+*,<p>doesn't</p>
+<p>How often _____ fishing?</p>,1,one,
+,<p>are you going</p>
+*,<p>do you go</p>
+,<p>you go</p>
+<p>He _____ goes fishing on Saturdays.</p>,1,one,
+*,<p>always</p>
+,<p>at the moment</p>
+,<p>now</p>
+<p>Don't call her now. She's _____ her grandson.</p>,1,one,
+,<p>teach</p>
+,<p>teaches</p>
+*,<p>teaching</p>
+<p>Look at the _____ tails!</p>,1,one,
+,<p>rat</p>
+,<p>rat's</p>
+*,<p>rats'</p>
+"<p>Are these deer? - Yes, _____ are.</p>",1,one,
+,<p>it</p>
+,<p>these</p>
+*,<p>they</p>
+<p>_____ are maps.</p>,1,one,
+,<p>That</p>
+*,<p>Those</p>
+,<p>This</p>
+<p>_____ two maps on the wall.</p>,1,one,
+,<p>There's</p>
+,<p>It's</p>
+*,<p>There are</p>
+<p>_____ maps are there on the wall?</p>,1,one,
+*,<p>How many</p>
+,<p>How much</p>
+,<p>How</p>
+<p>_____ are the maps? - 100 roubles.</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>_____ is that boy? - He's Larry.</p>,1,one,
+*,<p>Who</p>
+,<p>Whose</p>
+,<p>What</p>
+<p>_____ scooter is it? - It's Larry's.</p>,1,one,
+,<p>Who</p>
+*,<p>Whose</p>
+,<p>What</p>
+<p>_____ are they? - They're scooters.</p>,1,one,
+,<p>Who</p>
+,<p>Whose</p>
+*,<p>What</p>

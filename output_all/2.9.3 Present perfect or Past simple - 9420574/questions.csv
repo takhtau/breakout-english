@@ -1,0 +1,49 @@
+HTML
+<p>He ... just ... (to come) home.</p>,1,one,
+*,<p>has/come</p>
+,<p>have/come</p>
+,<p>did/come</p>
+<p>He (to come) home a minute ago.</p>,1,one,
+,<p>has come</p>
+*,<p>came</p>
+,<p>have come</p>
+<p>Nick (to play) football yesterday.</p>,1,one,
+,<p>has played</p>
+,<p>have played</p>
+*,<p>played</p>
+<p>She ... already ... (to come) from school.</p>,1,one,
+*,<p>has/come</p>
+,<p>have/come</p>
+,<p>did/come</p>
+<p>I (to read) this book last year.</p>,1,one,
+,<p>have read</p>
+*,<p>read</p>
+,<p>has read</p>
+<p>I ... never ... (to be) to Washington.</p>,1,one,
+,<p>did/be</p>
+,<p>has/been</p>
+*,<p>have/been</p>
+<p>... you ever ... (to be) to New York?</p>,1,one,
+*,<p>Have/been</p>
+,<p>Has/been</p>
+,<p>Did/be</p>
+<p>I don’t think you ... ever ... (to see) Niagara Falls.</p>,1,one,
+,<p>did/see</p>
+*,<p>have/seen</p>
+,<p>has/seen</p>
+<p>I (to invite) Linda to the party yesterday.</p>,1,one,
+,<p>has invited</p>
+,<p>have invited</p>
+*,<p>invited</p>
+<p>I (not to see) her for ages.</p>,1,one,
+*,<p>haven't seen</p>
+,<p>hasn't seen</p>
+,<p>didn't see</p>
+<p>I (to call) her an hour ago.</p>,1,one,
+,<p>have called</p>
+*,<p>called</p>
+,<p>has called</p>
+<p>She (to leave) the room a moment ago.</p>,1,one,
+,<p>have left</p>
+,<p>has left</p>
+*,<p>left</p>

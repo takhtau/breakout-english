@@ -1,0 +1,61 @@
+HTML
+<p>... eyes are blue.</p>,1,one,
+*,<p>my</p>
+,<p>mine</p>
+,<p>I</p>
+<p>It was in ... envelope. </p>,~1,one,
+,<p>mine</p>
+*,<p>my</p>
+,<p>I</p>
+<p>The dress is ...</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>me</p>
+<p>I can't tell which are ...</p>,1,one,
+*,<p>mine</p>
+,<p>my</p>
+,<p>me</p>
+"<p>The knife was sharp, and she cut __________.</p>",1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>herself</p>
+<p>Does your friend Nick often talk to you about _________?</p>,1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>himself </p>
+<p>Did you translate the text __________.</p>,1,one,
+,<p>myself</p>
+*,<p>yourself </p>
+,<p>himself </p>
+<p>He fell down and hurt __________.</p>,1,one,
+,<p>myself</p>
+,<p>yourself </p>
+*,<p>himself </p>
+<p>She likes (to learn) languages.</p>,1,one,
+,<p>to learn</p>
+*,<p>learning</p>
+,<p>learn</p>
+<p>We just (to hear) a strange noise. </p>,1,one,
+,<p>heard</p>
+,<p>have been hearing </p>
+*,<p>have  heard</p>
+<p>You (to play) with a ball for three hours already.</p>,1,one,
+*,<p>have been playing</p>
+,<p>have played</p>
+,<p>played</p>
+<p>He __________have a sense of responsibility.</p>,1,one,
+*,<p>should</p>
+,<p>must</p>
+,<p>ought to</p>
+"<p>Anna, you _________ feed those poor kittens.</p>",1,one,
+,<p>must</p>
+,<p>should</p>
+*,<p>ought to</p>
+<p>Do you think this book is worth ...?</p>,1,one,
+*,<p>reading</p>
+,<p>to read</p>
+,<p>read</p>
+<p>I admit ... a mistake.</p>,1,one,
+,<p>to make</p>
+*,<p>making</p>
+,<p>make</p>

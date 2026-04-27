@@ -1,0 +1,41 @@
+HTML
+<p>People here _______ like to see so much litter in their streets. (-)</p>,1,one,
+,<p>would</p>
+*,<p>wouldn't</p>
+<p>Andrew _______ like to call the police. (-)</p>,1,one,
+,<p>would</p>
+*,<p>wouldn't</p>
+<p>________ you like to sunbathe on the beach right now?</p>,1,one,
+*,<p>would</p>
+,<p>wouldn't</p>
+<p>Eleonora ________ like to meet you. (+)</p>,1,one,
+*,<p>would</p>
+,<p>wouldn't</p>
+<p>_________ your children like to have a ride on this carousel? </p>,1,one,
+*,<p>would</p>
+,<p>wouldn't</p>
+<p>We ________ like to have coffee here. (+)</p>,1,one,
+*,<p>would</p>
+,<p>wouldn't</p>
+<p>The students _______ like to be in a hurry. (-)</p>,1,one,
+,<p>would</p>
+*,<p>wouldn't</p>
+<p>________ you like to eat something? </p>,1,one,
+*,<p>would</p>
+,<p>wouldn't</p>
+<p>We wouldn't _________ to travel by bus.</p>,1,one,
+*,<p>like</p>
+,<p>to like</p>
+,<p>liking</p>
+<p>Would you _______ to take my place? </p>,1,"one, shuffle",
+*,<p>like</p>
+,<p>to like</p>
+,<p>liking</p>
+<p>I would ________ to clarify this statement </p>,1,"one, shuffle",
+*,<p>like</p>
+,<p>to like</p>
+,<p>liking</p>
+<p>What would you _________ to do tomorrow? </p>,1,"one, shuffle",
+*,<p>like</p>
+,<p>to like</p>
+,<p>liking</p>

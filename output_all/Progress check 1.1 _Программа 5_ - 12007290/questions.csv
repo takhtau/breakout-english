@@ -1,0 +1,60 @@
+HTML
+<p>Who____those boys? </p>,1,one,
+,<p>am</p>
+,<p>is</p>
+*,<p>are</p>
+<p>How often_______ Rex eat? </p>,1,one,
+,<p>do</p>
+*,<p>does</p>
+,<p>did</p>
+<p>What_____you usually do?</p>,1,one,
+*,<p>do</p>
+,<p>does</p>
+,<p>did</p>
+<p>Where_____you ______ now? </p>,1,one,
+*,<p>are / going</p>
+,<p>do /go</p>
+,<p>are / go</p>
+<p>(Когда) ___ you usually wake up? </p>,1,one,
+*,<p>When do</p>
+,<p>When does</p>
+,<p>Who do</p>
+<p>(Почему)______she always cry? </p>,1,one,
+,<p>How do</p>
+*,<p>Why does</p>
+,<p>What do</p>
+"<p>You know Harry, _________?</p>",1,one,
+,<p>do you</p>
+,<p>does you</p>
+*,<p>don’t you</p>
+"<p>She isn't married, _________?</p>",1,one,
+,<p>does she</p>
+*,<p>is she</p>
+,<p>isn't she</p>
+"<p>Your friend reads a lot, _________?</p>",1,one,
+*,<p>doesn't he</p>
+,<p>is he</p>
+,<p>isn't he</p>
+<p>______ is the bag?</p>,1,one,
+*,<p>Whose</p>
+,<p>Who</p>
+"<p>I see, you are Russian, _________?</p>",1,one,
+,<p>do you</p>
+*,<p>aren't you</p>
+,<p>am I</p>
+"<p>Nick is a perfect doctor, _________?</p>",1,one,
+,<p>does he</p>
+,<p>aren't he</p>
+*,<p>isn't he</p>
+<p>Who ______ you?</p>,1,one,
+,<p>is loving</p>
+,<p>love</p>
+*,<p>loves</p>
+"<p>I am your friend, _________?</p>",1,one,
+,<p>am not I</p>
+*,<p>aren't I</p>
+,<p>are I</p>
+"<p>She didn’t live near here, _________?</p>",1,one,
+*,<p>did she</p>
+,<p>did it</p>
+,<p>did </p>

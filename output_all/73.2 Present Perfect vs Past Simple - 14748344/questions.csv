@@ -1,0 +1,49 @@
+HTML
+<p>----- yourself lately?</p>,1,one,
+,<p>Did you weigh</p>
+*,<p>Have you weighed</p>
+,<p>Did you weighed</p>
+<p>I ----- out of time during the exam and couldn't finish all the questions.</p>,1,one,
+,<p>run</p>
+*,<p>ran</p>
+,<p>have run</p>
+<p>I ----- her recently.</p>,1,one,
+,<p>hasn’t seen</p>
+*,<p>haven’t seen</p>
+,<p>hadn’t see</p>
+<p>He ----- Chemistry class three times last month.</p>,1,one,
+,<p>has skipped</p>
+,<p>had skipped</p>
+*,<p>skipped</p>
+<p>It's strange that he ----- yet</p>,1,one,
+,<p>Didn’t arrive</p>
+*,<p>Hasn’t arrived</p>
+,<p>Didn’t arrived</p>
+<p>My parents ----- me new stereo headphones the other day.</p>,1,one,
+*,<p>bought</p>
+,<p>have bought</p>
+,<p>buy</p>
+<p>She ----- PE class twice this month.</p>,1,one,
+*,<p>has skipped</p>
+,<p>skipped</p>
+,<p>skips</p>
+<p>In recent years school books ----- more complicated.</p>,1,one,
+,<p>became</p>
+,<p>had became</p>
+*,<p>have become</p>
+"<p>They ----- their group project several times, and now they ----- out of time.</p>",1,one,
+,<p>already put off; are running </p>
+,<p>have already put off; run</p>
+*,<p>have already put off; are running</p>
+<p>The school ----- its computer lab.</p>,1,one,
+,<p>has recently upgrades</p>
+,<p>recently upgrade</p>
+*,<p>has recently upgraded</p>
+<p>When ----- your niece ----- learning English?</p>,1,one,
+*,<p>did; start</p>
+,<p>has; start</p>
+,<p>has; started</p>
+<p>I ----- home.</p>,1,one,
+,<p>‘m just left</p>
+*,<p>‘ve just left</p>
+,<p>just left</p>

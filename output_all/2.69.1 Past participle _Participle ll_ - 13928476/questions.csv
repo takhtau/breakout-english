@@ -1,0 +1,49 @@
+HTML
+<p>The museum was just ... last year.</p>,1,one,
+,<p>opening</p>
+*,<p>opened</p>
+,<p>open</p>
+<p>Recently they ... a new film.</p>,1,one,
+*,<p>have watched</p>
+,<p>has watched</p>
+,<p>watched</p>
+<p>The store ... only 2 days.</p>,1,one,
+*,<p>was opened</p>
+,<p>opened</p>
+,<p>open</p>
+<p>My pencil is ... . </p>,1,one,
+*,<p>broken</p>
+,<p>broke</p>
+,<p>breaking</p>
+<p>An ... book was on the table.</p>,1,one,
+,<p>opening</p>
+*,<p>opened</p>
+,<p>open</p>
+"<p>... for help, Jim called the police.</p>",1,one,
+,<p>Asks</p>
+*,<p>Asked</p>
+,<p>Ask</p>
+<p>She heard her name ... .</p>,1,one,
+,<p>mention</p>
+,<p>mentions</p>
+*,<p>mentioned</p>
+<p>My sister likes ... eggs.</p>,1,one,
+*,<p>boiled</p>
+,<p>boil</p>
+,<p>boils</p>
+<p>A fish ... out of the water cannot live.</p>,1,one,
+,<p>take</p>
+*,<p>taken</p>
+,<p>took</p>
+<p> She managed to restore the ... dress. </p>,1,one,
+,<p>ruining</p>
+*,<p>ruined</p>
+,<p>ruin</p>
+<p>When ... he refused to come.</p>,1,one,
+*,<p>called </p>
+,<p>call</p>
+,<p>calling</p>
+<p>... by the noise of the sea the child began crying.</p>,1,one,
+,<p>Frightening</p>
+*,<p>Frightened</p>
+,<p>Frighten</p>

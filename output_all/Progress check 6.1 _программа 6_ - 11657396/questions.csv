@@ -1,0 +1,56 @@
+HTML
+<p>We have ___ big dog.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>an</p>
+<p>This is ___ tree.</p>,1,one,
+,<p>the</p>
+,<p>an</p>
+*,<p>a</p>
+<p>There is ___  jar of orange marmalade.</p>,1,one,
+*,<p>a</p>
+,<p>the</p>
+,<p>-</p>
+<p>This is __ old road.</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>an</p>
+<p>We go to_______gym twice a week. </p>,1,one,
+,<p>a</p>
+,<p>-</p>
+*,<p>the</p>
+<p>In_______afternoon he goes home.</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+,<p>-</p>
+<p>There is_______orange on the shelf. </p>,1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>the</p>
+<p>I have______pencil. </p>,1,one,
+,<p>an</p>
+,<p>the</p>
+*,<p>a</p>
+<p>She smiles ______.</p>,1,one,
+,<p>nice</p>
+*,<p>nicely</p>
+<p>I work _______ .</p>,1,one,
+*,<p>hard </p>
+,<p>hardly</p>
+,<p>hardely </p>
+<p>Did you sleep ________? </p>,1,one,
+*,<p>well</p>
+,<p>good</p>
+,<p>welly</p>
+<p>Children are walking ________ the forest.</p>,1,one,
+*,<p>through</p>
+,<p>over</p>
+,<p>under</p>
+<p>The boat is going ____ the bridge.</p>,1,one,
+*,<p>under</p>
+,<p>to</p>
+,<p>over</p>
+<p>The boy is swimming  ____ the river.</p>,1,one,
+*,<p>across</p>
+,<p>to</p>
+,<p>over</p>

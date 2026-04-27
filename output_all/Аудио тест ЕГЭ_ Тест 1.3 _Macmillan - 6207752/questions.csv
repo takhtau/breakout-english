@@ -1,0 +1,29 @@
+HTML
+<p>The tour company that John works for provides...</p>,1,one,
+,<p>large-scale tourism </p>
+*,<p>environmental education</p>
+,<p>food and drink tours</p>
+"<p>While at university, John studied...</p>",1,one,
+,<p>biology</p>
+,<p>forest conservation </p>
+*,<p>zoo management </p>
+<p>What must travellers do before they go on trip?</p>,1,one,
+*,<p>Participate in a short course on environmental protection. </p>
+,<p>Sign forms promising not to damage the environment </p>
+,<p>Donate money to an environmental protection programme. </p>
+<p>John believes that most people...</p>,1,one,
+,<p>know a great deal about rainforests</p>
+,<p>want to travel to rainforests</p>
+*,<p>are unaware of the importance of rainforests</p>
+<p>How does John describe the fight to protect rainforests in Brazil?</p>,1,one,
+,<p>The government is losing the fight. </p>
+*,"<p>Despite some good news, the struggle is ongoing. </p>"
+,<p>It is going extremely well</p>
+<p>What does John say about the native peoples? </p>,1,one,
+,<p>It is very rare that they get to meet with them. </p>
+,<p>All native people are willing to engage with the tour. </p>
+*,<p>Cultural understanding is gained from some of them. </p>
+"<p>In the future, John hopes his company will...</p>",1,one,
+*,<p>begin tours in new regions </p>
+,<p>expand tours in existing regions</p>
+,<p>focus more on South-East Asia. </p>

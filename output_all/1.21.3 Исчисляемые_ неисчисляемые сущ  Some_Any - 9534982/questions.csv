@@ -1,0 +1,37 @@
+HTML
+<p>There isn't _____ milk in the crystal glass.</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>There's _____ juice in the crystal glass. </p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>Are there_____ sausages on the round plate? </p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>There are _____ sandwiches on the round plate. </p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>There are ______ornaments on the tree.</p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+<p>Are there ______ lights on the tree?</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+<p>There's ______ jam on the wooden table.</p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+<p>Is there  ______ bread in the basket?</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+<p>There aren't  ______ vegetables in the fridge.</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>Are there ________  tasty apples in the bag?</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+<p>There are _______  bananas on the wooden table. </p>,1,one,
+*,<p>some</p>
+,<p>any</p>
+<p>There is  ________ butter on the plate.</p>,1,one,
+,<p>any</p>
+*,<p>some</p>

@@ -1,0 +1,31 @@
+HTML
+"<p>My car broke down yesterday, I hope the mechanic can fix it ___.</p>",1,one,
+,<p>quick</p>
+*,<p>quickly</p>
+<p>She dances very ___.</p>,1,one,
+*,<p>well</p>
+,<p>good</p>
+<p>He's an ___ man. He never lies.</p>,1,one,
+*,<p>honest</p>
+,<p>honestly</p>
+<p>He broke the news to her ____.</p>,1,one,
+,<p>gentle</p>
+*,<p>gently</p>
+<p>My cat is very  ___.</p>,1,one,
+*,<p>quick</p>
+,<p>quickly</p>
+<p>I make new friends very ___.</p>,1,one,
+,<p>easy</p>
+*,<p>easily</p>
+<p>Why do you drive so ___?</p>,1,one,
+,<p>quick</p>
+*,<p>quickly</p>
+"<p>In the United States, food is not as ___ as in Europe.</p>",1,one,
+*,<p>expensive </p>
+,<p>expensively</p>
+<p>I was ___ confused by his question.</p>,1,one,
+,<p>complete</p>
+*,<p>completely</p>
+<p>She always wears ___ clothes.</p>,1,one,
+*,<p>bright</p>
+,<p>brightly</p>

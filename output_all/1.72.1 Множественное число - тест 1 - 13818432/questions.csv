@@ -1,0 +1,37 @@
+HTML
+<p>I like ...</p>,1,one,
+,<p>monkeyes</p>
+*,<p>monkeys</p>
+<p>... are beautiful.</p>,1,one,
+,<p>Butterflyes</p>
+*,<p>Butterflies</p>
+<p>... are big.</p>,1,one,
+,<p>Foot</p>
+*,<p>Feet</p>
+<p>... often cry.</p>,1,one,
+,<p>Babyes</p>
+*,<p>Babies</p>
+<p>He doesn't like ...</p>,1,one,
+,<p>tomatos</p>
+*,<p>tomatoes</p>
+<p>... are green.</p>,1,one,
+*,<p>Buses</p>
+,<p>Buss</p>
+<p>... are tasty.</p>,1,one,
+*,<p>Bananas</p>
+,<p>Bananaes</p>
+<p>... work every day.</p>,1,one,
+,<p>Person</p>
+*,<p>People</p>
+<p>... are big.</p>,1,one,
+,<p>Spideres</p>
+*,<p>Spiders</p>
+<p>... run.</p>,1,one,
+*,<p>Foxes</p>
+,<p>Foxs</p>
+<p>He likes ...</p>,1,one,
+*,<p>stories</p>
+,<p>storyes</p>
+<p>... are brown.</p>,1,one,
+,<p>Potatos</p>
+*,<p>Potatoes</p>

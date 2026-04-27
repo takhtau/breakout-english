@@ -1,0 +1,49 @@
+HTML
+<p>Du und ... Bruder lernen Englisch in der Schule.</p>,1,one,
+,<ul><li>deine</li></ul>
+*,<ul><li>dein</li></ul>
+,<ul><li>sein</li></ul>
+<p>... Schule ist nicht groβ.</p>,1,one,
+,<ul><li>Unser</li></ul>
+*,<ul><li>Unsere</li></ul>
+,<ul><li>Unseres</li></ul>
+<p>... Haustier ist so lieb!</p>,1,one,
+,<ul><li>Eure</li></ul>
+*,<ul><li>Euer</li></ul>
+,<ul><li>Eueres</li></ul>
+"<p>Meine Groβmutter ist alt, ... Brille ist kaputt.</p>",1,one,
+,<ul><li>ihr</li></ul>
+*,<ul><li>ihre</li></ul>
+,<ul><li>deine</li></ul>
+<p>Я делаю свои домашние задания.</p>,1,one,
+*,<ul><li>Ich mache meine Hausaufgaben.</li></ul>
+,<ul><li>Ich mache deine Hausaufgaben</li></ul>
+,<ul><li>Du machst deine Hausgaben</li></ul>
+<p>Он любит свою кошку.</p>,1,one,
+,<ul><li>Er mag ihre Katze.</li></ul>
+*,<ul><li>Er mag seine Katze.</li></ul>
+,<ul><li>Er mag deine Katze.</li></ul>
+"<p>Ist ... Onkel Architekt? - Ja, ... Onkel und ... Tante sind Architekten.</p>",1,one,
+*,<ul><li>dein...mein...meine</li></ul>
+,<ul><li>sein...mein...meine</li></ul>
+,<ul><li>deine...meine...mein</li></ul>
+"<p>Ist ... Mama Lehrerin? - Ja, ... Vater und ... Mutter sind Architekten.</p>",1,one,
+*,<ul><li>dein...mein...meine</li></ul>
+,<ul><li>sein...mein...meine</li></ul>
+,<ul><li>deine...meine...mein</li></ul>
+"<p>Ist ... Mama Lehrerin? - Ja, ... Vater und ... Mutter sind Architekten.</p>",1,one,
+*,<ul><li>dein...mein...meine</li></ul>
+,<ul><li>sein...mein...meine</li></ul>
+,<ul><li>deine...meine...mein</li></ul>
+<p>______Nachbar hat mir das Fahrrad geschenkt. (ihr)</p>,1,one,
+,<ul><li>ihr</li></ul>
+*,<ul><li>euer</li></ul>
+,<ul><li>unser</li></ul>
+<p>_______ Nachbar wohnt allein und geht zu Fuß. (ich)</p>,1,one,
+*,<ul><li>mein</li></ul>
+,<ul><li>unser</li></ul>
+,<ul><li>deine</li></ul>
+"<p>Frau Meier, haben Sie _______ Pass mitgebracht?</p>",1,one,
+,<ul><li>euer</li></ul>
+*,<ul><li>Ihren</li></ul>
+,<ul><li>unser</li></ul>

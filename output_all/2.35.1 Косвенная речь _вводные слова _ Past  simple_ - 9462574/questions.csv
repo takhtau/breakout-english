@@ -1,0 +1,49 @@
+HTML
+"<p>""I worked yesterday"" - He said that he ... the day before. </p>",1,one,
+*,<p>had worked</p>
+,<p>worked</p>
+,<p>has worked</p>
+"<p>""Tony did that"" - She said Tony ... that.</p>",1,one,
+,<p>did</p>
+*,<p>had done</p>
+,<p>has done</p>
+"<p>""Mr Smith drove through a red light"", said the policeman. - The policeman said Mr Smith ... through a red light.</p>",1,one,
+,<p>drove</p>
+,<p>has driven</p>
+*,<p>had driven</p>
+"<p>""The shop will close next week"", my mum said. - My mum said that the shop ... the following week.</p>",1,one,
+,<p>had closed</p>
+*,<p>would close</p>
+,<p>closed</p>
+"<p>""I am there now"" - She said she ... there at that moment. </p>",1,one,
+*,<p>was</p>
+,<p>had been</p>
+,<p>has been</p>
+"<p>""Jim is making a card for me now"", Amy said. - Amy said Jim ... a card for her at that moment.</p>",1,one,
+,<p>made</p>
+*,<p>was making</p>
+,<p>had made</p>
+"<p>""The dog ate my homework!"", said Ivan. - Ivan said the dog ... his homework. </p>",1,one,
+*,<p>had eaten</p>
+,<p>ate</p>
+,<p>has eaten</p>
+"<p>""We moved into the area two years ago"", Bella said. - Bella said they ... into the area two years before.</p>",1,one,
+,<p>were moving</p>
+*,<p>had moved</p>
+,<p>moved</p>
+"<p>""I will score a goal tomorrow!"", Marina said. - Marina said she ... a goal the next day.</p>",1,one,
+*,<p>would score</p>
+,<p>scored</p>
+,<p>will score</p>
+"<p>""I can't go there"", said Spencer. - Spencer said ... there.</p>",1,one,
+*,<p>couldn't go</p>
+,<p>couldn't gone</p>
+,<p>can't go</p>
+"<p>""I am listening to music"" - He said he ... to music.</p>",1,one,
+,<p>is listening</p>
+*,<p>was listening</p>
+,<p>listened</p>
+"<p>""My was doing her homework"", said Carol. - Carol said her sister ... her homework. </p>",1,one,
+,<p>is doing</p>
+,<p>was doing</p>
+*,<p>had been doing</p>

@@ -1,0 +1,49 @@
+HTML
+<p>His father (not to watch) TV at the moment.</p>,1,one,
+,<p>doesn't watch</p>
+*,<p>isn't watching </p>
+,<p>didn't watch</p>
+<p>Pat (not to cook) dinner at the moment. She (to talk) on the phone now.</p>,1,one,
+*,<p>isn't cooking/is talking</p>
+,<p>doesn't cook/talks</p>
+,<p>didn't cook/is talking </p>
+<p>She (to cook) dinner every Monday.</p>,1,one,
+,<p>cooked</p>
+*,<p>cooks</p>
+,<p>is cooking </p>
+<p>I (not to drink) coffee now. I (to write) an English exercise at the moment.</p>,1,one,
+*,<p>'m not drinking/'m writing </p>
+,<p>don't drink/m' writing </p>
+,<p>didn't drink/write</p>
+<p>Look! The baby (to sleep). </p>,1,one,
+*,<p>is sleeping </p>
+,<p>sleeps</p>
+,<p>slept </p>
+<p>The baby always (to sleep) after dinner.</p>,1,one,
+,<p>is sleeping </p>
+*,<p>sleeps</p>
+,<p>slept</p>
+<p>My grandmother (not to work). She is on pension.</p>,1,one,
+*,<p>doesn't work </p>
+,<p>isn't working </p>
+,<p>didn't work </p>
+<p>My father (not to sleep) now. He (to work) in the garden.</p>,1,one,
+,<p>isn't sleeping/ works</p>
+*,<p>isn't sleeping/is working </p>
+,<p>doesn't sleep/works</p>
+<p>I usually (to get) up at seven o’clock in the morning.</p>,1,one,
+*,<p>get</p>
+,<p>am getting </p>
+,<p>gets</p>
+<p>My cousin (to go) to school every day.</p>,1,one,
+,<p>went</p>
+,<p>go</p>
+*,<p>goes </p>
+<p>My mother (not to play) the piano now.</p>,1,one,
+*,<p>isn't playing </p>
+,<p>doesn't play</p>
+,<p>don't play</p>
+<p>She often (to play) the piano in the morning.</p>,1,one,
+,<p>play</p>
+,<p>played</p>
+*,<p>plays</p>

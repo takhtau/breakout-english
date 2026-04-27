@@ -1,0 +1,31 @@
+HTML
+<p>I ___ and I didn't hear you come in.</p>,1,one,
+*,<p>was sleeping</p>
+,<p>slept</p>
+"<p>I ___ to see her twice, but she wasn't home.</p>",1,one,
+*,<p>came</p>
+,<p>was coming</p>
+<p>What ___? I was watching TV.</p>,1,one,
+*,<p>were you doing</p>
+,<p>did you dod</p>
+<p>Robin Hood was a character who ___ from the rich and gave to the poor.</p>,1,one,
+*,<p>stole</p>
+,<p>was stealing</p>
+"<p>Hey, did you talk to her? Yes, I ___ to her.</p>",1,one,
+,<p>was talking</p>
+*,<p>talked</p>
+<p>I ___ home very late last night.</p>,1,one,
+*,<p>came</p>
+,<p>was coming</p>
+<p>How long ___ the flu? </p>,1,one,
+*,<p>have you had</p>
+,<p>were you having</p>
+"<p>___ a good time in Brazil? Yes, I had a blast!</p>",1,one,
+,<p>Were you having</p>
+*,<p>Did you have</p>
+<p>We ___ breakfast when she walked into the room.</p>,1,one,
+,<p>had</p>
+*,<p>were having</p>
+"<p>Last month I decided to buy a new car, and today I finally ___ it.</p>",1,one,
+*,<p>bought</p>
+,<p>was buying</p>

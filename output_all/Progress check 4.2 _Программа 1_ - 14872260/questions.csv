@@ -1,0 +1,53 @@
+HTML
+"<p>There was an accident outside our house, but we ----- saw ----- heard anything.</p>",1,one,
+*,<p>neither; nor</p>
+,<p>either; or</p>
+,<p>both; and</p>
+"<p>I asked two people how to get to the station, but ----- of them knew.        </p>",1,one,
+,<p>both</p>
+,<p>either</p>
+*,<p>neither</p>
+<p>We tried two hotels. ----- of them were full.</p>,1,one,
+*,<p>both</p>
+,<p>neither</p>
+,<p>either</p>
+"<p>I could ----- the potatoes, but I decided that boiling them was healthier.</p>",1,one,
+,<p>roast</p>
+,<p>not roast</p>
+*,<p>have roasted</p>
+<p>The bruise ought to ----- days ago. I wonder why it didn't.</p>,1,one,
+,<p>be disappearing</p>
+*,<p>have disappeared</p>
+,<p>disappear</p>
+<p>You should talk to your doctor first because that diet ----- dangerous.</p>,1,one,
+*,<p>might be</p>
+,<p>might have been</p>
+,<p>couldn’t be</p>
+"<p>Nicola ----- to travel a lot, but she doesn’t go away much these days.</p>",1,one,
+,<p>is used </p>
+,<p>didn’t use</p>
+*,<p>used</p>
+<p>Sarah ----- to working nights. It took her a few months to get used to night shifts.</p>,1,one,
+,<p>didn’t use</p>
+*,<p>wasn’t used</p>
+,<p>used</p>
+<p>He ----- to snore. He should consult a doctor about this problem.</p>,1,one,
+,<p>used not</p>
+,<p>isn’t used</p>
+*,<p>didn't use</p>
+<p>I saw her ----- along the road.</p>,1,one,
+,<p>was running</p>
+,<p>ran</p>
+*,<p>running</p>
+<p>They didn’t expect ----- disobedient.</p>,1,one,
+*,<p>us to be</p>
+,<p>we to be</p>
+,<p>we were</p>
+<p>Hot weather makes ----- tired.</p>,1,one,
+,<p>I feel</p>
+*,<p>me feel</p>
+,<p>me to feel</p>
+<p>Lisa suddenly felt somebody ----- her on the shoulder.</p>,1,one,
+,<p>to touch</p>
+,<p>have touched</p>
+*,<p>touch</p>

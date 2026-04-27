@@ -1,0 +1,49 @@
+HTML
+<p>Isn't that ... cat?</p>,1,one,
+*,<p>my</p>
+,<p>mine</p>
+,<p>me</p>
+<p>He lost ... pencil.</p>,1,one,
+,<p>mine</p>
+*,<p>my</p>
+,<p>me</p>
+<p>That horse isn't ...</p>,1,one,
+,<p>I</p>
+,<p>my</p>
+*,<p>mine</p>
+<p>... am your schoolmate.</p>,1,one,
+*,<p>I</p>
+,<p>me</p>
+,<p>my</p>
+<p>She is ... neighbour.</p>,1,one,
+,<p>mine</p>
+*,<p>my</p>
+,<p>me</p>
+<p>... am his student.</p>,1,one,
+,<p>me</p>
+,<p>mine</p>
+*,<p>I</p>
+<p>The dictionary is ...</p>,1,one,
+*,<p>mine</p>
+,<p>my</p>
+,<p>I</p>
+<p>He has not read a book of ...</p>,1,one,
+,<p>me</p>
+*,<p>mine</p>
+,<p>I</p>
+<p>How can you criticize ... poems?</p>,1,one,
+,<p>mine</p>
+,<p>me</p>
+*,<p>my</p>
+<p>... knowledge of the subject is good.</p>,1,one,
+*,<p>My</p>
+,<p>Mine</p>
+,<p>I</p>
+<p>This advice wasn't ...</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>me</p>
+<p>Do you love ...?</p>,1,one,
+,<p>I</p>
+,<p>mine</p>
+*,<p>me</p>

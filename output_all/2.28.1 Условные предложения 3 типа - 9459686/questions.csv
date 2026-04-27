@@ -1,0 +1,49 @@
+HTML
+<p>If the government ____________ (give) more money to the factory it _____________ (not close).</p>,1,one,
+*,<p>had given/wouldn’t have closed</p>
+,<p>gave/wouldn't close</p>
+,<p>give/won't close</p>
+"<p>If the government ___________ (build) flood barriers, we __________ (not have) the floods last year.</p>",1,one,
+,<p>build/will have</p>
+,<p>built/would have</p>
+*,<p>had built/wouldn’t have had </p>
+"<p>If Dan ___________ (know) how to swim, he ____________ (not drown).</p>",1,one,
+,<p>know/won't drown </p>
+*,<p>had known/wouldn’t have drowned </p>
+,<p>knew/wouldn't drown</p>
+"<p>If Molly __________ (listen) to the weather- forecast, she ______________ (know) it was going to rain.</p>",1,one,
+*,<p>had listened/would have known </p>
+,<p>listened/would know</p>
+,<p>listen/will know</p>
+"<p>If Greg _____________ (tell) me he was ill, I  ____________  (be) more sympathetic. </p>",1,one,
+,<p>had told/would be </p>
+,<p>told/would have been </p>
+*,<p>had told/would have been </p>
+"<p>If she __________ (prepare) for the exam, she  __________ (pass) it.</p>",1,one,
+*,<p>had prepared/would have passed </p>
+,<p>had prepared/would pass </p>
+,<p>prepared would have passed </p>
+"<p>If Bill _________ (see) the house, he ________ ( not buy) it.</p>",1,one,
+,<p>had seen/wouldn’t buy  </p>
+,<p>saw/wouldn’t have bought </p>
+*,<p>had seen/wouldn’t have bought </p>
+"<p>These words ___________ (roughly express) Bob’s feelings, if he __________ (be) capable of reasoning.</p>",1,one,
+,<p>would roughly have expressed/ was </p>
+*,<p>would roughly have expressed/had been </p>
+,<p>would roughly express/had been </p>
+"<p>But what ___________ (you do), if you ________ (see) what I saw. </p>",1,one,
+,<p>would you have done/had saw</p>
+,<p>would you do/had seen </p>
+*,<p>would you have done/had seen </p>
+"<p>It ___________ (be) all done though, if Jill __________ (help) at the right time.</p>",1,one,
+,<p>would have been/helped. </p>
+,<p>would be/ had helped. </p>
+*,<p>would have been/had helped. </p>
+"<p>If I _____________ (not use) so much gas, I _____________ (not have) such a big gas bill. </p>",1,one,
+*,<p>Hadn’t used/wouldn’t have had </p>
+,<p>didn't use/wouldn’t have had </p>
+,<p>Hadn’t used/wouldn’t have </p>
+"<p>If I _____________ (not to have) pay my gas bill, I  _____________ (not go) out in the rain.</p>",1,one,
+,<p>Hadn’t have to pay /wouldn’t have gone </p>
+,<p>Hadn’t had to pay/wouldn’t go</p>
+*,<p>Hadn’t had to pay/wouldn’t have gone </p>

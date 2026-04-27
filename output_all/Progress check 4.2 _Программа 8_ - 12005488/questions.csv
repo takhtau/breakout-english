@@ -1,0 +1,47 @@
+HTML
+<p>(Куда) _____ do you go in the evening?</p>,1,one,
+,<p>What</p>
+*,<p>Where</p>
+,<p>When</p>
+<p>(Что) ______ does she read?</p>,1,one,
+,<p>How</p>
+*,<p>What</p>
+,<p>Where</p>
+<p>(Почему)____  is she at home on Mondays?</p>,1,one,
+,<p>Where</p>
+*,<p>Why</p>
+,<p>What</p>
+<p>(Где) ______do you live?</p>,1,one,
+*,<p>Where</p>
+,<p>What</p>
+,<p>Why</p>
+<p>(Где) ____ is she?</p>,1,one,
+,<p>Why</p>
+*,<p>Where</p>
+,<p>When</p>
+<p>What _____ he got?</p>,1,one,
+,<p>have</p>
+*,<p>has</p>
+,<p>did</p>
+<p>_____ you got a house?</p>,1,one,
+*,<p>Have</p>
+,<p>Has</p>
+<p>_____ me that book!</p>,1,one,
+,<p>To give</p>
+*,<p>Give</p>
+<p>____ (Кто?) is he?</p>,1,one,
+,<p>How</p>
+*,<p>Who</p>
+,<p>What</p>
+<p>____ to your brother!</p>,1,one,
+,<p>To run</p>
+*,<p>Run</p>
+,<p>Running</p>
+<p>____ (Сколько лет?) are you?</p>,1,one,
+,<p>How</p>
+*,<p>How old</p>
+,<p>What</p>
+<p>____ the door!</p>,1,one,
+,<p>Closing</p>
+*,<p>Close</p>
+,<p>To close</p>

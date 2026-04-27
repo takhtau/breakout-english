@@ -1,0 +1,44 @@
+HTML
+"<p>""I told Jeremy not to move"", said Rose. - Rose said she ... Jeremy not to move. </p>",1,one,
+,<p>told</p>
+*,<p>had told</p>
+,<p>has told</p>
+"<p>""Look! Rob is on TV now"", my mum said. - My mum said Rob ... on TV at that moment.</p>",1,one,
+*,<p>was</p>
+,<p>is</p>
+,<p>were</p>
+"<p>""He went to Turkey"", said Jill. - Jill said he ... to Turkey. </p>",1,one,
+,<p>went</p>
+,<p>has gone</p>
+*,<p>had gone</p>
+"<p>""I am going to buy these jeans"", said Nancy. - Nancy said she .... those jeans.</p>",1,one,
+,<p>is going to buy</p>
+,<p>were going to buy</p>
+*,<p>was going to buy</p>
+"<p>""Do you often get together with your relatives?"" she said. - She asked him if he often _______together with his relatives. </p>",1,one,
+*,<p>got</p>
+,<p>get</p>
+,<p>had got</p>
+"<p>""Do you work here"" he asked. He asked if I worked____________</p>",1,one,
+*,<p>there</p>
+,<p>here</p>
+,<p>this</p>
+"<p>""Does he drive a car?"" he said. - He wanted to know if he__________a car. </p>",1,one,
+,<p>drive</p>
+,<p>had driven</p>
+*,<p>drove </p>
+"<p>""Does she play computer games?"" she said. She asked if she__________computer games. </p>",1,one,
+,<p>play</p>
+*,<p>played</p>
+,<p>had played</p>
+<p>There are only two options and I’m not interested in _______ of them.</p>,1,one,
+*,<p>Either </p>
+,<p>Neither</p>
+,<p>Both </p>
+<p>____________of your books will be accepted.</p>,1,one,
+,<p>Either </p>
+*,<p>Neither</p>
+,<p>Both </p>
+<p>__________ of my dogs like playing with toys.</p>,1,one,
+,<p>Either </p>
+*,<p>Neither</p>

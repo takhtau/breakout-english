@@ -1,0 +1,31 @@
+HTML
+<p>What kind of ___ do you want to talk about?</p>,1,one,
+,<p>thing</p>
+*,<p>things</p>
+<p>What kind of ___ would you like me to buy?</p>,1,one,
+*,<p>milk</p>
+,<p>milks</p>
+<p>I ate many kinds of ___ yesterday.</p>,1,one,
+*,<p>cheese</p>
+,<p>cheeses</p>
+<p>Do you have some ___ for me?</p>,1,one,
+*,<p>infromation</p>
+,<p>infromation<s>s</s></p>
+<p>I had many horrifying ___ during my travels in Haiti. </p>,1,one,
+,<p>experience</p>
+*,<p>experiences</p>
+<p>Do you know all the ___ of the world?</p>,1,one,
+,<p>capital</p>
+*,<p>capitals</p>
+<p>He had a lot of ___ in him.</p>,1,one,
+,<p>angers</p>
+*,<p>anger</p>
+<p>What did you buy? I bought some ___.</p>,1,one,
+,<p>orange</p>
+*,<p>oranges</p>
+<p>I have to buy some apples and some ___.</p>,1,one,
+*,<p>rice</p>
+,<p>rices</p>
+<p>I left my ___ at the airport.</p>,1,one,
+*,<p>luggage</p>
+,<p>luggages</p>

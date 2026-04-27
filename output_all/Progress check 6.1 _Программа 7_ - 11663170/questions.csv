@@ -1,0 +1,50 @@
+HTML
+<p>My__________brother is my uncle. </p>,1,one,
+*,<p>mother's</p>
+,<p>mothers'</p>
+,<p>mother</p>
+<p>The _________shoes are dirty. </p>,1,one,
+,<p>children</p>
+*,<p>children's </p>
+,<p>childrens'</p>
+<p>___ is my bag.</p>,1,one,
+,<p>These</p>
+*,<p>This</p>
+<p>The _________ room is upstairs. </p>,1,one,
+*,<p>teachers'</p>
+,<p>teacher's </p>
+,<p>teachers</p>
+<p>____ toys are nice. </p>,1,one,
+*,<p>Those</p>
+,<p>This</p>
+,<p>That</p>
+<p>There is ______ milk in the fridge. Can you buy some? </p>,1,one,
+,<p>few</p>
+*,<p>little</p>
+,<p>a few</p>
+"<p>If you want to make pancakes, you need _______ eggs.</p>",~1,one,
+,<p>a little</p>
+,<p>few</p>
+*,<p>a few</p>
+<p>I'd like to drink _______ coffee.</p>,1,one,
+*,<p>a little</p>
+,<p>little</p>
+,<p>a few</p>
+<p>His sister _____ good at geography last year. </p>,1,one,
+*,<p>was</p>
+,<p>were</p>
+<p>The English textbooks _____ on the piano half an hour ago. </p>,1,one,
+,<p>was</p>
+*,<p>were</p>
+<p>The monkeys _____ thirsty yesterday. </p>,1,one,
+*,<p>were</p>
+,<p>was</p>
+<p>Bab _____ very busy two days ago. </p>,1,one,
+,<p>were</p>
+*,<p>was</p>
+<p>He ______ a good pupil many years ago.</p>,1,one,
+*,<p>wasn't</p>
+,<p>weren't</p>
+<p>My sisters ______ at home the day before yesterday. </p>,1,one,
+,<p>wasn't</p>
+*,<p>weren't</p>

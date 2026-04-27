@@ -1,0 +1,60 @@
+HTML
+"<p>Kate, ... sister I used to share a house with, has gone to work in Australia.</p>",1,one,
+,<p>where</p>
+*,<p>whose</p>
+,<p>that</p>
+<p>The lady ... teaches us German lives next door. </p>,1,one,
+*,<p>who</p>
+,<p>which</p>
+,<p>whose</p>
+"<p>That red car, ... is in my garage now, was bought by my sister. </p>",1,one,
+,<p>who</p>
+*,<p>which</p>
+,<p>where</p>
+<p>... will you do on the weekends?</p>,1,one,
+*,<p>What</p>
+,<p>Why</p>
+,<p>Who</p>
+<p>... time does the party start?</p>,1,one,
+,<p>When</p>
+*,<p>What</p>
+,<p>How</p>
+<p>... will you know the result of the exam? </p>,1,one,
+,<p>Who</p>
+,<p>What</p>
+*,<p>When</p>
+<p>... is the Internet cafe?</p>,1,one,
+,<p>Who</p>
+*,<p>Where</p>
+,<p>How</p>
+"<p>I have English books, but not ________.</p>",1,one,
+*,<p>many</p>
+,<p>a little</p>
+,<p>much</p>
+<p>There is _______ homework for tomorrow.</p>,1,one,
+,<p>a no</p>
+*,<p>no</p>
+<p>Did Mike show you ________ stickers?</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+,<p>little</p>
+<p>There are ________ apples on the table.</p>,1,one,
+*,<p>many</p>
+,<p>any</p>
+,<p>much</p>
+<p>There is always _______ light in our living room.</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+,<p>few</p>
+<p>The film was _______.</p>,1,one,
+*,<p>fascinating</p>
+,<p>fascinated</p>
+<p>We were highly ________ when we saw him at the meeting.</p>,1,one,
+*,<p>surprised</p>
+,<p>surprising</p>
+<p>American film (old)</p>,1,one,
+*,<p>an old American film</p>
+,<p>an American old film</p>
+<p>white shorts (cotton)</p>,1,one,
+*,<p>white cotton shorts</p>
+,<p>cotton white shorts</p>

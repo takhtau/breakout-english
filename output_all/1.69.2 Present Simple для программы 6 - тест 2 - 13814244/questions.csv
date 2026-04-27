@@ -1,0 +1,43 @@
+HTML
+<p>I _____ to school every day.</p>,1,one,
+*,<p>go</p>
+,<p>goes</p>
+<p>He ____ work at 8 o'clock.</p>,1,one,
+,<p>start</p>
+*,<p>starts</p>
+<p>I _____ homework in the afternoon.</p>,1,one,
+,<p>doesn't do</p>
+*,<p>don't do</p>
+,<p>doesn't does</p>
+<p>Ben usually _______ a book in the evening.</p>,1,one,
+,<p>read</p>
+*,<p>reads</p>
+<p>She never _____ TV.</p>,1,one,
+,<p>watch</p>
+*,<p>watches</p>
+<p>She _____ PE lessons.</p>,1,one,
+,<p>like</p>
+*,<p>likes</p>
+<p>____ you understand English?</p>,1,one,
+*,<p>Do</p>
+,<p>Does</p>
+<p>____ you sometimes ____ bad marks?</p>,1,one,
+*,<p>Do/get</p>
+,<p>Does/get</p>
+,<p>Do/gets</p>
+<p>____ she ____ for you every day?</p>,1,one,
+*,<p>Does/wait</p>
+,<p>Does/waits</p>
+,<p>Do/wait</p>
+<p>He ____  Chinese.</p>,1,one,
+*,<p>doesn't learn</p>
+,<p>don't learn</p>
+,<p>doesn't learns</p>
+<p>____ they ____ the tests on Mondays?</p>,1,one,
+,<p>Does/take</p>
+*,<p>Do/take</p>
+,<p>Does/takes</p>
+<p>He ____ school at 5 o'clock.</p>,1,one,
+*,<p>doesn't finish</p>
+,<p>don't finish</p>
+,<p>doesn't finishes</p>

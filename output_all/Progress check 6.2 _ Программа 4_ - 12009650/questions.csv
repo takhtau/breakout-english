@@ -1,0 +1,60 @@
+HTML
+<p>I am sorry I couldn’t come yesterday. I ... work late.</p>,1,one,
+*,<p>had to</p>
+,<p>have to</p>
+,<p>will have to</p>
+<p>I ... fly to India next month.</p>,1,one,
+,<p>have to</p>
+,<p>had to</p>
+*,<p>will have to</p>
+<p>Drake ... sign the contract tomorrow.</p>,1,one,
+*,<p>will have to</p>
+,<p>has to</p>
+,<p>had to</p>
+<p>Ann ... go to hospital today. </p>,1,one,
+*,<p>has to</p>
+,<p>had to</p>
+,<p>will have to</p>
+<p>“When does your mother go shopping?” - The neighbour__________when my mother go shopping. </p>,1,one,
+,<p>ask</p>
+,<p>asked</p>
+*,<p>asks</p>
+<p> “I like music.” - Nina says that she___________music. </p>,1,one,
+,<p>liked</p>
+,<p>like</p>
+*,<p>likes</p>
+<p>“Don’t go out before I return.” - Mother tells us not to go out before_________return. </p>,1,one,
+,<p>I</p>
+,<p>her</p>
+*,<p>she</p>
+"<p>""Why do they come late?"" - My grandmother asks why________they come late. </p>",1,one,
+*,<p>do</p>
+,<p>does</p>
+,<p>did</p>
+"<p>You make a serious mistake, ____?</p>",1,one,
+,<p>will you?</p>
+,<p>do you?</p>
+*,<p>don't you?</p>
+"<p>You are a decent person, ____?</p>",1,one,
+,<p>don't you?</p>
+*,<p>aren't you?</p>
+,<p>are you?</p>
+<p>You look tired. You _______ rest for an hour or two.<br/> </p>,1,one,
+,<p>do</p>
+,<p>can</p>
+*,<p>have to</p>
+<p>Your home is ... far. </p>,1,one,
+*,<p>so</p>
+,<p>such</p>
+<p>They are ... smart students. </p>,1,one,
+*,<p>such</p>
+,<p>so</p>
+<p>This boy is ... a liar. </p>,1,one,
+,<p>so</p>
+*,<p>such</p>
+<p>He thinks all girls are ... gossips. </p>,1,one,
+*,<p>such</p>
+,<p>so</p>
+<p>Those cookies are ... tasty. </p>,1,one,
+,<p>such</p>
+*,<p>so</p>

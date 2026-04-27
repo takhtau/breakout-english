@@ -1,0 +1,49 @@
+HTML
+<p>Did she put ________ salt in the soup?</p>,1,one,
+*,<p>a spoon of</p>
+,<p>a loaf</p>
+,<p>cup of</p>
+<p>We only have _______ juice in the fridge.</p>,1,one,
+,<p>a jugs of</p>
+*,<p>a jar of</p>
+,<p>piece of</p>
+"<p>There is only _________ cake on the table,.</p>",1,one,
+,<p>much</p>
+,<p>a piece</p>
+*,<p>a piece of</p>
+"<p>I'm so hungry, I could eat ________ soup.</p>",1,one,
+,<p>a loaf of</p>
+,<p>piece of</p>
+*,<p>a bowl of</p>
+<p>Would you like two _______ of chicken?</p>,1,one,
+,<p>bars</p>
+*,<p>pieces</p>
+,<p>a piece</p>
+<p>She is eating a ________ cake.</p>,1,one,
+*,<p>a piece of</p>
+,<p>a jug of</p>
+,<p>cup </p>
+<p>Would you like ________ Coca-Cola?</p>,1,one,
+*,<p>a bottle of</p>
+,<p>a slice of</p>
+,<p>cup of</p>
+<p>She put two ________ soup on the table.</p>,1,one,
+,<p>cups of</p>
+*,<p>bowls of</p>
+,<p>glass of</p>
+<p>Anna wants another _______ of hot chocolate.</p>,1,one,
+,<p>cups </p>
+,<p>bowl</p>
+*,<p>glass</p>
+<p>I opened ________ of milk yesterday.</p>,1,one,
+,<p>a cup</p>
+,<p>bowls</p>
+*,<p>a packet </p>
+<p>Are you drinking  __________ tea?</p>,1,one,
+,<p>jug of </p>
+*,<p>a cup of </p>
+,<p>a packet</p>
+<p>I'll take a ________ of Coca Cola.</p>,1,one,
+*,<p>can</p>
+,<p>cups</p>
+,<p>slice</p>

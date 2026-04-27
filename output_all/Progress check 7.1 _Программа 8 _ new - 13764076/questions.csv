@@ -1,0 +1,44 @@
+HTML
+<p>I haven’t got ___ food.</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>I have ____ water in my bottle. </p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>I don’t have ____ ideas. </p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+<p>There is ____ pure water in the bottle. </p>,1,one,
+,<p>any</p>
+*,<p>some</p>
+<p>My sister  __________ her homework now. </p>,1,one,
+*,<p>is doing</p>
+,<p>does</p>
+,<p>do</p>
+<p>Don’t cry! The baby  _________ .</p>,1,one,
+,<p>sleeps</p>
+*,<p>is sleeping</p>
+,<p>am sleeping</p>
+<p>The baby always___________ after dinner. </p>,1,one,
+,<p>is sleeping</p>
+,<p>sleep</p>
+*,<p>sleeps</p>
+<p>What_______ you _________ now? </p>,1,one,
+*,<p>are/reading</p>
+,<p>do/read</p>
+,<p>is/reading</p>
+<p>I usually ______ much better.</p>,1,one,
+,<p>am playing</p>
+*,<p>play</p>
+,<p>plays</p>
+<p>His little sister _______ walk already.</p>,1,one,
+*,<p>can</p>
+,<p>may</p>
+,<p>must</p>
+<p>________ I go to the post office with Mike?</p>,1,one,
+*,<p>may</p>
+,<p>must</p>
+<p>You _______ not talk at the lessons.</p>,1,one,
+,<p>can</p>
+,<p>may</p>
+*,<p>must</p>

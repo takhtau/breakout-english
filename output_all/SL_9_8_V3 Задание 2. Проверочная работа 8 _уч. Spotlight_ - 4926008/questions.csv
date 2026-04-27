@@ -1,0 +1,33 @@
+HTML
+"<p>Yesterday she____________up early. She___________breakfast,_________________up,_____________the shirts and__________the kitchen. (GET/COOK/WASH/IRON/CLEAN)</p>",1,,
+*,got/cooked/washed/ironed/cleaned
+<p>Yesterday while she_____________the shirts her husband______________the floor. (IRON/CLEAN)</p>,1,,
+*,was ironing/was cleaning
+<p>She___________a hole in the shirt while she_____________it. (BURN/IRON)</p>,1,,
+*,burnt/was ironing
+<p>He wants her_____________the shirt. (IRON)</p>,1,,
+*,to iron
+<p>He lets her_______________the shirt. (IRON)</p>,1,,
+*,iron
+<p>I saw her_______________the shirts. (IRON)</p>,1,,
+*,ironing
+"<p>If she_____________the shirt, he___________it on. (IRON/PUT)</p>",1,,
+*,irons/will put
+<p>I wonder if she_______________the shirts tomorrow. (IRON)</p>,1,,
+*,will iron
+<p>The shirt must____________ . (IRON)</p>,1,,
+*,be ironed
+<p>She said she_____________the shirts an hour later. (IRON)</p>,1,,
+*,would iron
+<p>Wait a minute. She________________the shirts. She____________________them for tem minutes. (IRON/IRON)</p>,1,,
+*,is ironing/has been ironing
+<p>Wait a minute. The shirt__________________ . (IRON)</p>,1,,
+*,is being ironed
+<p>The shirts__________________tomorrow. (IRON)</p>,1,,
+*,will be ironed
+<p>She_______already_______________the shirts. (IRON)</p>,1,,
+*,has/ironed
+<p>The shirts__________already_______________ . (IRON)</p>,1,,
+*,have/been ironed
+<p>She said the shirts________already_________________ . (IRON)</p>,1,,
+*,had/been ironed

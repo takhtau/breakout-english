@@ -1,0 +1,49 @@
+HTML
+<p>Debbie and Bob are always late. They ____ (to arrive) until eight o'clock. </p>,1,one,
+*,<p>will arrive</p>
+,<p>won't arrive</p>
+,<p>arrive</p>
+<p>_____ you _____ (to speak) with him tomorrow? </p>,1,one,
+,<p>Do/speak</p>
+*,<p>Will/speak</p>
+,<p>Won't/speak</p>
+<p>I _____ (to dance) there next week.</p>,1,one,
+,<p>dance</p>
+,<p>won't dance</p>
+*,<p>will dance</p>
+<p>I _________ (not to help) you tomorrow.</p>,1,one,
+*,<p>won't help</p>
+,<p>will help</p>
+,<p>help</p>
+<p>She _____ (to read) English books tomorrow evening.</p>,1,one,
+,<p>won't read</p>
+*,<p>will read</p>
+,<p>reads</p>
+<p>They ______ (not to go) to the party next week.</p>,1,one,
+,<p>will go</p>
+,<p>go</p>
+*,<p>won't go</p>
+<p>______ they _______ (to invite) their friends?</p>,1,one,
+*,<p>Will/invite</p>
+,<p>Won't/invite</p>
+,<p>Do/invite</p>
+<p>I ______ (not to buy) food there tomorrow.</p>,1,one,
+,<p>will buy</p>
+*,<p>won't buy</p>
+,<p>buy</p>
+<p>_____ we _____ (to grow) vegetables next summer?</p>,~1,one,
+,<p>Won't/grow</p>
+,<p>Do/grow</p>
+*,<p>Will/grow</p>
+<p>I think Nick ______ (to be) a teacher in the future.</p>,1,one,
+*,<p>will be</p>
+,<p>won't be</p>
+,<p>is</p>
+<p>_____ you _____ (to live) in a city or in a village in 5 years?</p>,1,one,
+,<p>Won't/live</p>
+*,<p>Will/live</p>
+,<p>Do/live</p>
+<p>I _____ (not to live) in a city in the future.</p>,1,one,
+,<p>will live</p>
+,<p>don't live</p>
+*,<p>won't live</p>

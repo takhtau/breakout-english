@@ -1,0 +1,63 @@
+HTML
+<p>Ben ______ usually _______ a book every evening.</p>,1,one,
+,<p>don't/read</p>
+,<p>doesn't/reads</p>
+*,<p>doesn't/read</p>
+<p>What _____ you _______ now?</p>,1,one,
+,<p>is doing</p>
+*,<p>are doing</p>
+,<p>doing</p>
+<p>She________ a pen and a ruler.</p>,1,one,
+,<p>have got</p>
+*,<p>has got</p>
+<p>My sisters cannot draw ________ . </p>,1,one,
+*,<p>mice</p>
+,<p>mouses</p>
+,<p>mices</p>
+<p>___ sun is yellow.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>-</p>
+<p>There _______ beautiful trees in the garden. </p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p> _____ are you at home?</p>,1,one,
+,<p>Where</p>
+,<p>What</p>
+*,<p>When</p>
+<p>I haven’t got ___ food.</p>,1,one,
+*,<p>any</p>
+,<p>some</p>
+<p>There aren't________apples in the box. </p>,1,one,
+,<p>much </p>
+*,<p>many </p>
+<p>Writing in English is_____  than speaking.</p>,1,one,
+,<p>most difficult</p>
+*,<p>more difficult</p>
+,<p>difficulter</p>
+<p>I always play with my _______ toys.</p>,1,one,
+,<p>sister</p>
+*,<p>sister's</p>
+,<p>sisters'</p>
+"<p>My parents give me ______ pocket money every week, so I can buy something.</p>",1,one,
+*,<p>a little</p>
+,<p>a few</p>
+<p>_____ the children in the sitting room twenty minutes ago?</p>,1,one,
+*,<p>Were</p>
+,<p>Was</p>
+<p>I ____________ (not to watch) TV last night.</p>,1,one,
+,<p>didn't watched</p>
+,<p>don't watch</p>
+*,<p>didn't watch</p>
+<p>My family ___ to the country next week.</p>,1,one,
+,<p>go</p>
+,<p>is going</p>
+*,<p>will go</p>
+<p>____ I come in?</p>,1,one,
+,<p>Must</p>
+,<p>Can</p>
+*,<p>May</p>
+<p>I like ___ to the cinema.</p>,1,one,
+,<p>goes</p>
+,<p>go</p>
+*,<p>going</p>

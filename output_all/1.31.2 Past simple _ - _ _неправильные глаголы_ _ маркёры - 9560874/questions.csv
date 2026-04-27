@@ -1,0 +1,49 @@
+HTML
+<p>You _______ to the theatre last week. </p>,1,one,
+,<p>go</p>
+*,<p>went </p>
+,<p>goes</p>
+<p>He _____ off the train a minute ago. </p>,1,one,
+*,<p>got</p>
+,<p>get</p>
+,<p>getted </p>
+<p>Carol ___ the plane yesterday morning. </p>,1,one,
+,<p>catch </p>
+,<p>catched</p>
+*,<p>caught </p>
+<p>She ________ coffee in the kitchen five minutes ago. </p>,1,one,
+*,<p>made</p>
+,<p>make</p>
+,<p>maked</p>
+<p>Paul ________ a beautiful picture last week </p>,1,one,
+,<p>draw</p>
+*,<p>drew </p>
+,<p>drawed</p>
+<p>Jack and Mary ________ hide-and-seek yesterday evening </p>,1,one,
+*,<p>didn't play</p>
+,<p>didn't played</p>
+,<p>doesn't play</p>
+<p>She _______ to the swimming pool yesterday afternoon. </p>,1,one,
+,<p>didn't went </p>
+,<p>doesn't go</p>
+*,<p>didn't go</p>
+<p>Our mother _______ breakfast yesterday morning.  </p>,1,one,
+*,<p>didn't have</p>
+,<p>doesn't have</p>
+,<p>didn't had </p>
+<p>She _______ an apple for lunch yesterday. </p>,1,one,
+,<p>didn't ate</p>
+,<p>doesn't eat</p>
+*,<p>didn't eat</p>
+<p>What_______you do yesterday? </p>,1,one,
+*,<p>did </p>
+,<p>do </p>
+,<p>does</p>
+<p>Where_______she go two weeks ago? </p>,1,one,
+,<p>do </p>
+*,<p>did </p>
+,<p>does</p>
+<p>_______he play tennis last week? </p>,1,one,
+,<p>do </p>
+,<p>does</p>
+*,<p>did </p>

@@ -1,0 +1,49 @@
+HTML
+<p>My sister ______ in the garden 20 minutes ago.</p>,1,one,
+*,<p>walked</p>
+,<p>walks</p>
+,<p>walks</p>
+<p>He ______  two minutes ago.</p>,1,one,
+,<p>jumpd</p>
+*,<p>jumped</p>
+,<p>jumps</p>
+<p>They ______ (to visit) their friends last Friday. </p>,1,one,
+,<p>visit</p>
+,<p>visitted</p>
+*,<p>visited</p>
+<p>He ______ (to look) through all magazines yesterday evening.</p>,1,one,
+*,<p>looked</p>
+,<p>looks</p>
+,<p>lookd</p>
+<p>His elder sister ______ (not to lock) the door with a key yesterday evening.</p>,1,one,
+,<p>didn't locked</p>
+*,<p>didn't lock</p>
+,<p>doesn't locked</p>
+<p>I (not to play) any game yesterday.</p>,1,one,
+,<p>didn't played</p>
+,<p>don't play</p>
+*,<p>didn't play</p>
+<p>I (not to visit) my grandmother last summer.</p>,1,one,
+*,<p>didn't visit</p>
+,<p>don't visit</p>
+,<p>didn't visited</p>
+<p>I (not to walk) in the forest yesterday afternoon.</p>,1,one,
+,<p>didn't walked</p>
+*,<p>didn't walk</p>
+,<p>don't walk</p>
+"<p>What ______ you ______ (to do) last night, Lisa? </p>",~1,one,
+,<p>do/do</p>
+,<p>did/did</p>
+*,<p>did/do</p>
+<p>What film _____ you ______ (to watch) yesterday evening? </p>,1,one,
+*,<p>did/watch</p>
+,<p>did/watched</p>
+,<p>do/watch</p>
+<p>______ you ______ (to enjoy) the movie last night?</p>,1,one,
+,<p>Did/liked</p>
+*,<p>Did/like</p>
+,<p>Do/like</p>
+<p>_____ you ______ (to stay) at home last weekend? </p>,1,one,
+,<p>Did/stayed</p>
+,<p>Do/stay</p>
+*,<p>Did/stay</p>

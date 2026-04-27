@@ -1,0 +1,37 @@
+HTML
+<p>_________ Jenny at the party last night?</p>,1,one,
+*,<p>Was</p>
+,<p>Were</p>
+<p>_________ Lumpy angry yesterday?</p>,1,one,
+,<p>Were</p>
+*,<p>Was</p>
+<p>_________ you in Kongo last year?</p>,1,one,
+*,<p>Were</p>
+,<p>Was</p>
+<p>_________ your parents in the gym yesterday?</p>,~1,one,
+,<p>Was</p>
+*,<p>Were</p>
+<p>Your friend _____ at school yesterday.</p>,1,one,
+*,<p>wasn't</p>
+,<p>weren't</p>
+<p>I ______ happy yesterday.</p>,1,one,
+,<p>weren't</p>
+*,<p>wasn't</p>
+<p>My mum _____ tired yesterday evening.</p>,1,one,
+*,<p>wasn't</p>
+,<p>weren't</p>
+<p>They _______ hungry yesterday morning.</p>,1,one,
+,<p>wasn't</p>
+*,<p>weren't</p>
+<p>It _____ cold yesterday.</p>,1,one,
+*,<p>was</p>
+,<p>were</p>
+<p>My teacher ____ sad last week.</p>,1,one,
+,<p>were</p>
+*,<p>was</p>
+<p>My pet _____ hungry yesterday.</p>,1,one,
+*,<p>was</p>
+,<p>were</p>
+<p>The boys _______ in the swimming-pool an hour ago. </p>,1,one,
+,<p>was</p>
+*,<p>were</p>

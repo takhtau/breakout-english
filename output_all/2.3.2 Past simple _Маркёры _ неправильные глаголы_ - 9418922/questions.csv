@@ -1,0 +1,49 @@
+HTML
+<p>Boris (to run) to the bathroom two minutes ago.</p>,1,one,
+*,<p>ran</p>
+,<p>runed</p>
+,<p>runned</p>
+<p>He just (to have) time to take a cold shower last evening.</p>,1,one,
+,<p>has</p>
+*,<p>had</p>
+,<p>haved</p>
+<p>He (to be) in a hurry to catch the 8 am train last morning.</p>,1,one,
+,<p>were</p>
+,<p>is</p>
+*,<p>was</p>
+<p>Yesterday he (to meet) three other boys from his group.</p>,1,one,
+*,<p>met</p>
+,<p>meeted</p>
+,<p>meted</p>
+<p>They (to get off) the train ten minutes ago.</p>,1,one,
+,<p>getted off</p>
+*,<p>got off</p>
+,<p>geted off</p>
+<p>They (to find) themselves on the shore of a large lake an hour ago.</p>,1,one,
+,<p>finded</p>
+,<p>founded</p>
+*,<p>found</p>
+<p>The boys (to spend) a lot of time there last month. </p>,1,one,
+*,<p>spent</p>
+,<p>spended</p>
+,<p>spented</p>
+<p>Yesterday she (to take) a bus.</p>,1,one,
+,<p>taked</p>
+*,<p>took</p>
+,<p>tooked</p>
+<p>You (to come) home at six o’clock yesterday.</p>,1,one,
+,<p>comed</p>
+,<p>come</p>
+*,<p>came</p>
+<p>I (to drink) two cups of tea last morning.</p>,1,one,
+*,<p>drank</p>
+,<p>drinked</p>
+,<p>dranked</p>
+<p>Last week she (to write) a funny story about her pet.</p>,1,one,
+,<p>writed</p>
+*,<p>wrote</p>
+,<p>writted</p>
+<p>You (to tell) your mother the truth about the money yesterday. </p>,1,one,
+,<p>telled</p>
+,<p>tolded</p>
+*,<p>told</p>

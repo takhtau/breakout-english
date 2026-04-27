@@ -1,0 +1,49 @@
+HTML
+<p>This is a cottage cheese. ... cottage cheese is fresh.</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+,<p>-</p>
+<p>She also bought a cake. ... cake was delicious.</p>,1,one,
+,<p>-</p>
+*,<p>The</p>
+,<p>An</p>
+<p>This is my table. On ... table I have two pencils.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>the</p>
+<p>This is a bag. ... bag is brown.</p>,1,one,
+*,<p>The</p>
+,<p>-</p>
+,<p>A</p>
+<p>It is my sister’s ... bag.</p>,1,one,
+,<p>the</p>
+*,<p>-</p>
+,<p>a</p>
+<p>I have two ... sisters.</p>,1,one,
+,<p>a</p>
+,<p>the</p>
+*,<p>-</p>
+<p>We are at ... home.</p>,1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>an</p>
+<p>What’s ... weather like today?</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>... sun is yellow.</p>,1,one,
+,<p>A</p>
+,<p>An</p>
+*,<p>The</p>
+<p>... sky is grey today.</p>,1,one,
+*,<p>The</p>
+,<p>-</p>
+,<p>A</p>
+<p>... Earth is a planet.</p>,1,one,
+,<p>An</p>
+,<p>A</p>
+*,<p>The</p>
+<p>He is at ... home.</p>,1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>a</p>

@@ -1,0 +1,29 @@
+HTML
+<p>A Julie hasn't played water polo for an organised team. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>B It was Tom's idea to start a water polo team. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>C Julie plays volleyball for her school team. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>D Tom isn't looking forward to some aspects of water polo. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>E Tom is going to give up swimming on his own. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>F Some of the people on the list are experienced players. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>G The team's schudle hasn't been decided yet. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>

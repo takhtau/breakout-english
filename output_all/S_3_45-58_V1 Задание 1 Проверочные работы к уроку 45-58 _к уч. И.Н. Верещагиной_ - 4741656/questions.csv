@@ -1,0 +1,41 @@
+HTML
+<p>I like _____ room.</p>,1,one,
+,<p>two</p>
+,<p>second</p>
+*,<p>the second</p>
+<p>Room _____ is nice.</p>,1,one,
+*,<p>two</p>
+,<p>second</p>
+,<p>the second</p>
+<p>You must _____ after your pet.</p>,1,one,
+*,<p>look</p>
+,<p>to look</p>
+,<p>looking</p>
+<p>He _____ to look after his pet.</p>,1,one,
+,<p>can</p>
+,<p>must</p>
+*,<p>likes</p>
+<p>The _____ car is new.</p>,1,one,
+,<p>Brown</p>
+,<p>Brown's</p>
+*,<p>Browns'</p>
+<p>_____ and Mary's room is large.</p>,1,one,
+*,<p>Helen</p>
+,<p>Helen's</p>
+,<p>Her</p>
+<p>Oleg is _____ boy in our class.</p>,1,one,
+,<p>short</p>
+,<p>shorter</p>
+*,<p>the shortest</p>
+<p>This pencil is _____ than that pencil.</p>,1,one,
+,<p>long</p>
+*,<p>longer</p>
+,<p>the longest</p>
+"<p>The hamster is clever,  _____ ?</p>",1,one,
+,<p>is he</p>
+,<p>isn't he</p>
+*,<p>isn't it</p>
+<p>Monkeys are clever _____ hamsters.</p>,1,one,
+*,<p>than</p>
+,<p>then</p>
+,<p>-</p>

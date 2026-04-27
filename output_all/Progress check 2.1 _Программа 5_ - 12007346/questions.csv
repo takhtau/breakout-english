@@ -1,0 +1,53 @@
+HTML
+<p>She _______ home when I saw her.</p>,1,one,
+*,<p>was driving</p>
+,<p>were driving </p>
+,<p>drove </p>
+<p>It _______ all night.</p>,1,one,
+,<p>were raining </p>
+*,<p>was raining</p>
+,<p>rain</p>
+<p>I took a photo when Sue _______ the piano.</p>,1,one,
+,<p>played</p>
+,<p>were playing </p>
+*,<p>was playing</p>
+<p>This time last year Tom _______in London.</p>,1,one,
+*,<p>was living </p>
+,<p>lived</p>
+,<p>were living </p>
+<p>Sarah ________when I called her.</p>,1,one,
+,<p>weren't cooking </p>
+,<p>didn't cook </p>
+*,<p>wasn’t cooking </p>
+<p>It ________ when I woke up.</p>,1,one,
+*,<p>wasn’t raining</p>
+,<p>isn't raining</p>
+,<p>weren't raining </p>
+<p>Gary ______ French at school.</p>,1,one,
+,<p>weren't studying </p>
+,<p>wasn't studying </p>
+*,<p>didn't study </p>
+<p>We ______ a picnic last Saturday.</p>,1,one,
+*,<p>had</p>
+,<p>have</p>
+,<p>were having </p>
+<p>She___________ at 2.45 p.m. yesterday.</p>,1,one,
+,<p>didn't study </p>
+*,<p>wasn't studying </p>
+,<p>weren't studying </p>
+<p>_________ he ______ his project yesterday at 2.45?</p>,1,one,
+,<p>Were/doing </p>
+,<p>Did/do</p>
+*,<p>Was/doing</p>
+<p>They __________ when the phone rang.</p>,1,one,
+*,<p>weren't sleeping </p>
+,<p>didn't sleep</p>
+,<p>wasn't sleeping </p>
+<p>I _______in a bank many years ago</p>,1,one,
+,<p>work </p>
+,<p>was working </p>
+*,<p>worked</p>
+<p>Mary _________ football yesterday</p>,1,one,
+,<p>wasn't playing </p>
+*,<p>didn't play</p>
+,<p>weren't playing </p>

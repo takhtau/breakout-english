@@ -1,0 +1,47 @@
+HTML
+<p>________ a show on a stage. </p>,1,one,
+*,<p>There is</p>
+,<p>There are</p>
+,<p>There</p>
+<p>There _____ no flower on the windowsill.</p>,1,one,
+,<p>a</p>
+*,<p>is</p>
+,<p>are</p>
+<p>_________ no truth in this fairy tale.</p>,1,one,
+,<p>Among</p>
+,<p>There are</p>
+*,<p>There is </p>
+<p>There _____ two birds in the tree.</p>,1,one,
+,<p>over</p>
+,<p>is</p>
+*,<p>are</p>
+<p>_________ animals in the zoo? </p>,1,one,
+,<p>Be there</p>
+,<p>Is there</p>
+*,<p>Are there</p>
+<p>_________ six lines in every poetry. </p>,1,one,
+,<p>Is there</p>
+*,<p>There are</p>
+,<p>Many</p>
+<p>There is a health ______ wealth.</p>,1,one,
+*,<p>above</p>
+,<p>among</p>
+,<p>in front of</p>
+<p>There are too many cars ______ the road. </p>,1,one,
+,<p>inside</p>
+*,<p>on</p>
+,<p>in front of</p>
+<p>There is a side _________ the right angle.</p>,1,one,
+*,<p>opposite</p>
+,<p>between</p>
+<p>Please read ________ the line and the picture.</p>,1,one,
+,<p>opposite</p>
+*,<p>between</p>
+<p>Can I sit ________ you?</p>,1,one,
+,<p>at</p>
+,<p>between</p>
+*,<p>beside</p>
+<p>There was a fog ________ the river.</p>,1,one,
+,<p>inside</p>
+,<p>between</p>
+*,<p>over</p>

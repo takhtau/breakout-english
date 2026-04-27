@@ -1,0 +1,65 @@
+HTML
+<p>He ... always on a business trip.</p>,1,one,
+,<p>were</p>
+,<p>will be</p>
+*,<p>is</p>
+<p>At the moment he ... in Amsterdam.</p>,1,one,
+*,<p>is</p>
+,<p>was</p>
+,<p>were</p>
+<p>Three days ago you ... in Paris.</p>,1,one,
+,<p>was</p>
+,<p>are</p>
+*,<p>were</p>
+<p>Yesterday I ... in Geneva.</p>,1,one,
+*,<p>was</p>
+,<p>will be</p>
+,<p>were</p>
+<p>They ... at the stadium tomorrow.</p>,1,one,
+,<p>am</p>
+*,<p>will be</p>
+,<p>are</p>
+<p>Your friends ... in Italy next week.</p>,1,one,
+,<p>were</p>
+,<p>is</p>
+*,<p>will be</p>
+<p>This is ____ notebook.</p>,~1,one,
+,<p>mine</p>
+*,<p>my</p>
+,<p>me</p>
+<p>Can you stay with ...?</p>,1,one,
+,<p>he</p>
+,<p>we</p>
+*,<p>us</p>
+<p>Don't talk to ...</p>,1,one,
+,<p>I</p>
+*,<p>me</p>
+,<p>mine</p>
+<p>The dress is ...</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>me</p>
+<p>Put your head on ... shoulder. </p>,1,one,
+,<p>me</p>
+,<p>mine</p>
+*,<p>my</p>
+<p>She always ______ light lunches.</p>,1,one,
+,<p>have</p>
+*,<p>has</p>
+,<p>having</p>
+<p>You _____ with your friends every day.</p>,1,one,
+*,<p>meet</p>
+,<p>met</p>
+,<p>meeting</p>
+<p>Kate (to cook) dinner yesterday.</p>,1,one,
+,<p>cook</p>
+*,<p>cooked</p>
+,<p>cooks</p>
+<p>___________fixed his car yesterday morning.</p>,1,one,
+,<p>Nobody</p>
+,<p>Everybody</p>
+*,<p>Somebody</p>
+<p>They (not to take) care of the garden next summer.</p>,1,one,
+*,<p>will not take </p>
+,<p>are not taking </p>
+,<p>don't take</p>

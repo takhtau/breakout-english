@@ -1,0 +1,41 @@
+HTML
+<p>There ___ a toothbrush in the bathroom.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There ___ spoon in the cup.</p>,1,one,
+*,<p>is no</p>
+,<p>are no</p>
+<p>___ there a toilet in the bathroom?</p>,1,one,
+,<p>Are</p>
+*,<p>Is</p>
+<p>There ____ sink in the bathroom.</p>,~1,one,
+*,<p>is no</p>
+,<p>are no</p>
+<p>There is a fridge ____(между) the stove and the cupboard.</p>,1,one,
+,<p>under</p>
+*,<p>between</p>
+,<p>in front of</p>
+<p>There are 3 plates ___ the cupboard. (в)</p>,1,one,
+,<p>between</p>
+*,<p>in</p>
+,<p>in front of</p>
+<p>There are no forks ___ the table. (на)</p>,1,one,
+,<p>under</p>
+,<p>behind</p>
+*,<p>on</p>
+<p>There ____ no knives on the table.</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+<p>There ___ a shower in the bathroom.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There ____ a washing machine under the sink.</p>,1,one,
+,<p>are</p>
+*,<p>is</p>
+<p>Is there a sink ____ (рядом) the toilet?</p>,1,one,
+,<p>between</p>
+*,<p>next to</p>
+,<p>under</p>
+<p>___ there a kettle in the kitchen?</p>,1,one,
+,<p>Are</p>
+*,<p>Is</p>

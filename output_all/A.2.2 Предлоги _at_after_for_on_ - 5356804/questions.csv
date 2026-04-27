@@ -1,0 +1,51 @@
+HTML
+<p>Do you like these trousers? Try them ___.</p>,1,one,
+,<p>at</p>
+,<p>for</p>
+,<p>after</p>
+*,<p>on</p>
+<p>I think this sweater suits ___ you well.</p>,1,one,
+,<p>at</p>
+,<p>for</p>
+*,<p>-</p>
+,<p>on</p>
+<p>I've got two pets. I look ___ them.</p>,1,one,
+,<p>at</p>
+,<p>for</p>
+*,<p>after</p>
+,<p>-</p>
+<p>I'm looking ___ my pen. Can you see it?</p>,1,one,
+,<p>at</p>
+*,<p>for</p>
+,<p>after</p>
+,<p>-</p>
+<p>Who takes care ___ your parrot?</p>,1,one,
+*,<p>of</p>
+,<p>for</p>
+,<p>after</p>
+,<p>-</p>
+<p>When Mother was ill Granny looked ___ my sister and me.</p>,1,one,
+,<p>at</p>
+,<p>for</p>
+*,<p>after</p>
+,<p>-</p>
+<p>When I buy shoes I always try them ___.</p>,1,one,
+,<p>at</p>
+,<p>in</p>
+*,<p>on</p>
+,<p>-</p>
+<p>Ben is looking ___ his puppy again. His puppy always runs away.</p>,1,one,
+*,<p>for</p>
+,<p>after</p>
+,<p>at</p>
+,<p>-</p>
+<p>You must take a good care ___ your pets.</p>,1,one,
+,<p>on</p>
+*,<p>of</p>
+,<p>at</p>
+,<p>after</p>
+<p>This dress doesn't suit ___ Ann at all!</p>,1,one,
+,<p>on</p>
+,<p>for</p>
+,<p>at</p>
+*,<p>-</p>

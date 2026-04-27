@@ -1,0 +1,33 @@
+HTML
+<p>My uncle has got two sons.<br/>My ___ sons are pupils.</p>,1,one,
+,<p>uncles</p>
+*,<p>uncle's</p>
+,<p>uncles'</p>
+<p>My two sisters have got a kitten.<br/>My ___ kitten is very funny.</p>,1,one,
+,<p>sisters</p>
+,<p>sister's</p>
+*,<p>sisters'</p>
+<p>I've got a friend.<br/>My ___ name is Jack.</p>,1,one,
+,<p>friends</p>
+*,<p>friend's</p>
+,<p>friends'</p>
+"<p>Jack has got three friends.<br/>His ___ names are Bob, Tom and Sam.</p>",1,one,
+,<p>friends</p>
+,<p>friend's</p>
+*,<p>friends'</p>
+"<p>Kate has got a dog.<br/>Her dog has got four puppies.<br/>The ___ names are Spot, Dot, Fluffy and Rex.</p>",1,one,
+,<p>puppies</p>
+,<p>puppy's</p>
+*,<p>puppies'</p>
+<p>I see a boy with a very big ball.<br/>The ___ ball is red and blue.</p>,1,one,
+,<p>boys</p>
+*,<p>boy's</p>
+,<p>boys'</p>
+<p>My aunt has got a husband.<br/>Her ___ name is John.</p>,1,one,
+,<p>husbands</p>
+*,<p>husband's</p>
+,<p>husbands'</p>
+<p>My cousins have got many toys.<br/>My ___ toys are very nice.</p>,1,one,
+,<p>cousins</p>
+,<p>cousin's</p>
+*,<p>cousins'</p>

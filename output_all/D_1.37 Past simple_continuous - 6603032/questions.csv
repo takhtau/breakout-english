@@ -1,0 +1,41 @@
+HTML
+<p>At ten o'clock she _____ lunch.</p>,1,one,
+*,<p>was having</p>
+,<p>having</p>
+,<p>was hasing</p>
+<p>What _____ you _____ yesterday at 7 pm?</p>,1,one,
+*,"<p>were, doing</p>"
+,"<p>did, do</p>"
+,"<p>were, do</p>"
+<p>When I came in she _____ in bed.</p>,1,one,
+*,<p>was lying</p>
+,<p>lying</p>
+,<p>were lying</p>
+<p>We _____ down in the lift when it suddenly stopped.</p>,1,one,
+,<p>went</p>
+,<p>was going</p>
+*,<p>were going</p>
+<p>Jane _____ while I was tidying my room.</p>,1,one,
+,<p>cooked</p>
+*,<p>was cooking</p>
+,<p>is cooking</p>
+<p>Nick _____ a black shirt and grey trousers when I saw him.</p>,1,one,
+,<p>wore</p>
+*,<p>was wearing</p>
+,<p>were wearing</p>
+<p>It was a cold winter evening. It _____ hard and I wanted to get back home quickly.</p>,1,one,
+,<p>snows</p>
+*,<p>was snowing</p>
+,<p>was snow</p>
+<p>It _____ hard this morning when I woke up.</p>,1,one,
+*,<p>was raining</p>
+,<p>was rainning</p>
+,<p>rained</p>
+"<p>While I _____ to get my car started, a passing car stopped and the driver offered to help me.</p>",1,one,
+,<p>tried</p>
+,<p>try</p>
+*,<p>was trying</p>
+<p>The sun _____ so brightly that Liz had to put on her sunglasses.</p>,1,one,
+,<p>shines</p>
+,<p>wasn't shining</p>
+*,<p>was shining</p>

@@ -1,0 +1,73 @@
+HTML
+<p>He is in his ... room.</p>,1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>a</p>
+<p>He is sitting at ... table.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>He is doing his homework. ... homework is difficult.</p>,1,one,
+,<p>A</p>
+,<p>An</p>
+*,<p>The</p>
+<p>Our cat is sitting on ... sofa.</p>,1,one,
+*,<p>the</p>
+,<p>-</p>
+,<p>a</p>
+"<p>He was late, I had to wait for him for half … hour.</p>",1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>-</p>
+<p>She ate … ice cream and as … result she got … sore throat.</p>,1,one,
+,<p>a/a/a</p>
+*,<p>an/a/a</p>
+,<p>-/a/a</p>
+<p>Would you like to go for … walk with me in the evening?</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+"<p>Don't leave … iron here, it's hot!</p>",1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>-</p>
+<p>… orange is … my favourite fruit.</p>,1,one,
+,<p>a/-</p>
+*,<p>an/-</p>
+,<p>-/-</p>
+<p>... people like to go there after work.</p>,1,one,
+,<p>The</p>
+*,<p>-</p>
+,<p>A</p>
+<p>In the evening you can hear the sounds of ... music from the parks.</p>,1,one,
+,<p>an</p>
+,<p>the</p>
+*,<p>-</p>
+"<p>I go to ... school in the morning, so I get up early.</p>",1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>an</p>
+<p>We have ... breakfast in the kitchen.</p>,1,one,
+,<p>the</p>
+*,<p>-</p>
+,<p>a</p>
+<p>There is ... little white cloud in ... sky.</p>,1,one,
+,<p>the/a</p>
+*,<p>a/the</p>
+,<p>the/-</p>
+<p>What ... beautiful ... day!</p>,1,one,
+*,<p>a/-</p>
+,<p>the/-</p>
+,<p>-/-</p>
+<p>We have ... large room. There is ... big sofa in ... room. </p>,1,one,
+,<p>-/the/a</p>
+,<p>a/the/the</p>
+*,<p>a/a/the</p>
+<p>These are ... new computers. These ... computers are good.</p>,1,one,
+*,<p>-/-</p>
+,<p>the/the</p>
+,<p>the/-</p>
+"<p>They have ... son, but they have no ... daughter.</p>",1,one,
+,<p>-/-</p>
+*,<p>a/-</p>
+,<p>the/-</p>

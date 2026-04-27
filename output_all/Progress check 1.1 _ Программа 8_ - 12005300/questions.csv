@@ -1,0 +1,43 @@
+HTML
+<p>What ___ your name?</p>,1,one,
+,<p>are</p>
+,<p>am</p>
+*,<p>is</p>
+<p> ___ a dog clever?</p>,1,one,
+,<p>am</p>
+*,<p>is</p>
+,<p>are</p>
+<p>I ___ like an apple.</p>,1,one,
+*,<p>don't</p>
+,<p>doesn't</p>
+<p>___ you go to school?</p>,1,one,
+*,<p>do</p>
+,<p>does</p>
+<p>___ she read a book?</p>,1,one,
+,<p>do</p>
+*,<p>does</p>
+<p>He _____ a dog.</p>,1,one,
+*,<p>likes</p>
+,<p>like</p>
+<p>He ___ play with a cat.</p>,1,one,
+,<p>don't</p>
+*,<p>doesn't</p>
+<p>___ you draw?</p>,1,one,
+*,<p>Do</p>
+,<p>Does</p>
+<p>___ Kate swim?</p>,1,one,
+,<p>Do</p>
+*,<p>Does</p>
+<p>___ they listen to music?</p>,1,one,
+*,<p>Do</p>
+,<p>Does</p>
+<p>I (никогда) ___ go out at night.</p>,1,one,
+,<p>always</p>
+*,<p>never</p>
+<p>He (часто) ____ runs.</p>,1,one,
+,<p>usually</p>
+*,<p>often</p>
+<p>We (всегда) ____ smile.</p>,1,one,
+*,<p>always</p>
+,<p>usually</p>
+,<p>never</p>

@@ -1,0 +1,41 @@
+HTML
+<p>He _____ the city he _____ before his marriage.</p>,1,one,
+,"<p>had remembered, had known</p>"
+*,"<p>remembered, had known</p>"
+,"<p>remembered, know</p>"
+<p>It _____ only an hour since I _____ his place.</p>,1,one,
+,"<p>was, left</p>"
+*,"<p>was, had left</p>"
+,"<p>had been, left</p>"
+<p>That evening I _____ a letter when I _____ dinner.</p>,1,one,
+*,"<p>received, was having</p>"
+,"<p>received, have been had</p>"
+,"<p>received, am having</p>"
+"<p>""Come in, Jane; we _____ you.""</p>",1,one,
+,<p>are expecting</p>
+,<p>expect</p>
+*,<p>have been expecting</p>
+<p>He _____ writing the letters by 7 o'clock.</p>,1,one,
+*,<p>had finished</p>
+,<p>was finishing</p>
+,<p>finished</p>
+<p>We _____ this cottage long before the end of the spring.</p>,1,one,
+,<p>have built</p>
+,<p>are building</p>
+*,<p>have been building</p>
+<p>She _____ from the chair in which she _____ .</p>,1,one,
+,"<p>rose, sat</p>"
+*,"<p>rose, had been sitting</p>"
+,"<p>rose, was sitting</p>"
+"<p>""Hurry up! Your parents _____ about you.""</p>",1,one,
+,<p>are worrying</p>
+,<p>will worry</p>
+*,<p>will be worrying</p>
+"<p>""I _____ you tomorrow if you still _____ help.""</p>",1,one,
+*,"<p>will help, need</p>"
+,"<p>am helping, need</p>"
+,"<p>will help, will need</p>"
+"<p>""I _____ hungry. I _____ anything since yesterday.""</p>",1,one,
+,"<p>am hungry, eat</p>"
+,"<p>have been hungry, have eaten</p>"
+*,"<p>was hungry, hadn't eaten</p>"

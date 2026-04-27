@@ -1,0 +1,73 @@
+HTML
+<p>You (to pass) the test if you (to prepare) for it?</p>,1,one,
+,<p>Would you have passed/prepared </p>
+,<p>Would you pass/had prepared </p>
+*,<p>Would you have passed/had prepared </p>
+"<p>If she (to come), he (to be) happy?</p>",1,one,
+*,<p>had come/would he have been </p>
+,<p>had come/would he be</p>
+,<p>came/would he have been </p>
+<p>I (not to be) hungry if I (to eat) in the morning. </p>,1,one,
+,<p>would not have been/ate</p>
+,<p>would not be/had eaten </p>
+*,<p>would not have been/had eaten </p>
+"<p>If I (not to break) my phone, I (not to be) sad.</p>",1,one,
+*,<p>had not broken/would not have been </p>
+,<p>did not broken/would not have been </p>
+,<p>had not broken/would not be </p>
+<p>He was the (old) in the family.</p>,1,one,
+*,<p>eldest</p>
+,<p>elder</p>
+,<p>as old as</p>
+<p>It is (easy) to swim in the sea than in the river.</p>,1,one,
+,<p>easiest</p>
+*,<p>easier</p>
+,<p>as easy as</p>
+<p>This is the (small) room in our flat.</p>,1,one,
+,<p>as smaller as</p>
+,<p>smaller</p>
+*,<p>smallest</p>
+<p>It’s the (bad) mistake he has ever made.</p>,1,one,
+*,<p>worst</p>
+,<p>worse</p>
+,<p>as bad as</p>
+<p>What ... we ... (to do) if they (to be) late?</p>,1,one,
+*,<p>will we do/are</p>
+,<p>do we do/will be</p>
+,<p>will we do/will be</p>
+<p>... you ... (to be) very angry if we (not to come)?</p>,1,one,
+,<p>Will you be/won't come</p>
+*,<p>Will you be/don't come</p>
+,<p>Do you be/don't come</p>
+<p>... he ... (to be) very displeased if I (not to ring) him up?</p>,1,one,
+,<p>Will he be/won't ring</p>
+,<p>Does he be/don't ring</p>
+*,<p>Will he be/don't ring</p>
+"<p>If you (to heat) snow, it (to melt) easily.</p>",1,one,
+*,<p>heat/melts</p>
+,<p>heat/melt</p>
+,<p>will heat/melts</p>
+"<p>If he did not read so much, he (not to know) English literature so well.</p>",1,one,
+*,<p>wouldn't know</p>
+,<p>won't know</p>
+,<p>doesn't know</p>
+"<p>If he (not to pass) his exam, he will not get a scholarship.</p>",1,one,
+,<p>passed</p>
+,<p>wouldn't pass</p>
+*,<p>doesn't pass</p>
+<p>My father would have more free time if he (not to read) so many newspapers.</p>,1,one,
+*,<p>didn't read</p>
+,<p>wouldn't read</p>
+,<p>won't read</p>
+<p>I wish it (to be) sunny.</p>,1,one,
+,<p>will be</p>
+,<p>is</p>
+*,<p>were</p>
+<p>She wishes she (to live) in the Crimea.</p>,1,one,
+*,<p>lived</p>
+,<p>will live</p>
+,<p>lives</p>
+<p>We .... buy biscuits because our granny had baked a delicious pie.</p>,1,one,
+*,<p>didn't have to</p>
+,<p>don't have to</p>
+,<p>won't have to</p>

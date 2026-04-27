@@ -1,0 +1,49 @@
+HTML
+<p>Landing this type of aircraft is ----- piece of cake for ----- experienced pilot.</p>,1,one,
+,<p>the; the</p>
+,<p>a; a</p>
+*,<p>a; an</p>
+<p>Will you keep ----- eye on my suitcase while I go to get the tickets?</p>,1,one,
+,<p>-</p>
+*,<p>an</p>
+,<p>a</p>
+"<p>If you make ----- mistake, just erase it and start over.</p>",1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>the</p>
+<p>----- American Civil War was between ----- North and ----- South.</p>,1,one,
+,<p>An; the; the</p>
+,<p>The; -; -</p>
+*,<p>The; the; the</p>
+<p>My room looks ----- south.</p>,1,one,
+*,<p>-</p>
+,<p>a</p>
+,<p>the</p>
+<p>They lived in ----- small town in ----- South.</p>,1,one,
+*,<p>a; the</p>
+,<p>the; a</p>
+,<p>-; the</p>
+<p>Give me ----- hand with this ladder.</p>,1,one,
+,<p>-</p>
+,<p>the</p>
+*,<p>a</p>
+"<p>One took ----- taxi, and ----- other walked home.</p>",1,one,
+,<p>-; -</p>
+*,<p>a; the</p>
+,<p>the; the</p>
+<p>This volcano erupts once in ----- while.</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>the</p>
+<p>It's ----- sin to tell ----- lie.</p>,1,one,
+*,<p>a; a</p>
+,<p>the; the</p>
+,<p>a; -</p>
+<p>What is on at ----- Bolshoi Theatre today?</p>,1,one,
+,<p>-</p>
+*,<p>the</p>
+,<p>a</p>
+<p>How shall I address ----- President?</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>the</p>

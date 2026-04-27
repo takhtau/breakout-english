@@ -1,0 +1,41 @@
+HTML
+<p>I've__________had dinner so I can't eat anymore. </p>,1,one,
+*,<p>already </p>
+,<p>yet</p>
+,<p>just</p>
+,<p>ever</p>
+"<p>Have you finished your essay? No, not__________ . </p>",1,one,
+,<p>already </p>
+*,<p>yet</p>
+,<p>just</p>
+,<p>ever</p>
+<p>I am not going on holiday until August but I have__________bought a swimsuit. </p>,1,one,
+*,<p>already </p>
+,<p>yet</p>
+,<p>just</p>
+,<p>ever</p>
+<p>I love reading Treasure Island although I've read it many times__________ . </p>,1,one,
+,<p>already </p>
+,<p>yet</p>
+,<p>just</p>
+*,<p>before</p>
+<p>You should___________be late for a work. </p>,1,one,
+,<p>already </p>
+,<p>ever</p>
+*,<p>never</p>
+,<p>before</p>
+<p>Dad has___________to the office. He'll be back later this afternoon. </p>,1,one,
+*,<p>gone</p>
+,<p>been </p>
+<p>My brother has__________to Italy twice. </p>,1,one,
+,<p>gone</p>
+*,<p>been </p>
+<p>They have never__________to Australia before. </p>,1,one,
+,<p>gone</p>
+*,<p>been </p>
+<p>Mr Brown looks exhausted. He has________to the post office and back three times today. </p>,1,one,
+,<p>gone</p>
+*,<p>been </p>
+<p>Tina and Fay have_________to Kent for the day. </p>,1,one,
+*,<p>gone</p>
+,<p>been </p>

@@ -1,0 +1,49 @@
+HTML
+<p>It ... warm today.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+,<p>am</p>
+<p>The pupils ... at school.</p>,1,one,
+,<p>am</p>
+*,<p>are</p>
+,<p>is</p>
+<p>We ... small.</p>,1,one,
+,<p>isn't</p>
+,<p>am not</p>
+*,<p>aren't</p>
+<p>I ... hungry.</p>,1,one,
+*,<p>am not</p>
+,<p>isn't</p>
+,<p>aren't</p>
+<p>... he at work?</p>,1,one,
+,<p>Are</p>
+*,<p>Is</p>
+,<p>Am</p>
+<p>Our room ... very small. </p>,1,one,
+,<p>am</p>
+,<p>are</p>
+*,<p>is</p>
+<p>... a car white?</p>,1,one,
+*,<p>Is</p>
+,<p>Are</p>
+,<p>Am</p>
+<p>Our father ... tall. </p>,1,one,
+,<p>are</p>
+*,<p>is</p>
+,<p>am</p>
+<p>It ... sunny today. </p>,1,one,
+,<p>am not</p>
+,<p>aren't</p>
+*,<p>isn't</p>
+<p>.... they hungry?</p>,1,one,
+*,<p>Are</p>
+,<p>Am</p>
+,<p>Is</p>
+<p>You .... tall. </p>,1,one,
+,<p>isn't</p>
+*,<p>aren't</p>
+,<p>am not</p>
+<p>I ... at shop.</p>,1,one,
+,<p>aren't</p>
+,<p>isn't</p>
+*,<p>am not</p>

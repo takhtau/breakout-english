@@ -1,0 +1,61 @@
+HTML
+<p>You _____ eat the soup. It's good for you.</p>,1,one,
+*,<p>must</p>
+,<p>mustn't</p>
+,<p>don't have to</p>
+<p>You _____ eat the soup. You can eat anything you like.</p>,1,one,
+,<p>must</p>
+,<p>mustn't</p>
+*,<p>don't have to</p>
+<p>You _____ eat the tomato soup. You are allergic to tomatoes.</p>,1,one,
+,<p>must</p>
+*,<p>mustn't</p>
+,<p>don't have to</p>
+<p>You _____ be rude to your teacher.</p>,1,one,
+,<p>must</p>
+*,<p>mustn't</p>
+,<p>don't have to</p>
+<p>She is making a puppet right _____ .</p>,1,one,
+,<p>yesterday</p>
+,<p>now</p>
+*,<p>at the moment</p>
+<p>Did she make the puppet _____ ?</p>,1,one,
+*,<p>yesterday</p>
+,<p>now</p>
+,<p>at the moment</p>
+<p>Does she _____ puppets?</p>,1,one,
+*,<p>make</p>
+,<p>makes</p>
+,<p>making</p>
+<p>Did she _____ the puppet last Friday?</p>,1,one,
+*,<p>make</p>
+,<p>makes</p>
+,<p>made</p>
+<p>She _____ the puppet last Sunday.</p>,1,one,
+,<p>make</p>
+,<p>makes</p>
+*,<p>made</p>
+"<p>Is she in the classroom? - Yes, she _____ a puppet.</p>",1,one,
+*,<p>is making</p>
+,<p>makes</p>
+,<p>made</p>
+<p>Her puppet is more _____ than mine.</p>,1,one,
+*,<p>beautiful</p>
+,<p>better</p>
+,<p>funny</p>
+<p>Her puppet is _____ than mine.</p>,1,one,
+,<p>beautiful</p>
+*,<p>better</p>
+,<p>funny</p>
+<p>_____ Oleg's classmate. Right?</p>,1,one,
+,<p>You</p>
+*,<p>You're</p>
+,<p>Your</p>
+<p>_____ garage is large.</p>,1,one,
+,<p>They're</p>
+*,<p>Their</p>
+,<p>These</p>
+<p>The _____ names are Anton and Stepan.</p>,1,one,
+,<p>boy's</p>
+,<p>boys</p>
+*,<p>boys'</p>

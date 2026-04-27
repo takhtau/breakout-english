@@ -1,0 +1,44 @@
+HTML
+<p>Абстрактное существительное</p>,1,one,
+*,<p>Magic</p>
+,<p>Dog</p>
+,<p>Picture</p>
+<p>Абстрактное существительное</p>,1,one,
+,<p>Man</p>
+*,<p>Hate</p>
+,<p>Toy</p>
+<p>Абстрактное существительное</p>,1,one,
+,<p>People</p>
+*,<p>happiness</p>
+,<p>Ball</p>
+<p>Абстрактное существительное</p>,1,one,
+,<p>Balloon</p>
+*,<p>Information</p>
+,<p>Ruler</p>
+<p>Абстрактное существительное</p>,1,one,
+*,<p>Fun</p>
+,<p>Pencil</p>
+,<p>Wolf</p>
+<p>Абстрактное существительное</p>,1,one,
+,<p>Flower</p>
+,<p>Bear</p>
+*,<p>Love</p>
+<p>... Sleep ... very important.     ... makes you energetic.</p>,1,one,
+,"<p>a, is, it</p>"
+,"<p>–, are, they</p>"
+*,"<p>–, is, it</p>"
+<p>... Kindness ... the best personal trait. ... makes the world better.</p>,1,one,
+,"<p>–, are, it</p>"
+*,"<p>–, is, it</p>"
+,"<p>an, are, it</p>"
+<p>His hair ... unusual. It ... curly and red.</p>,1,one,
+*,"<p>is, is</p>"
+,"<p>–, is</p>"
+,"<p>is, am</p>"
+<p>There ... ... water in the lake.</p>,1,one,
+,"<p>isn't, a</p>"
+*,"<p>isn't, –</p>"
+,"<p>aren't, –</p>"
+<p>The news ____ good.</p>,1,one,
+,<p>are</p>
+*,<p>is</p>

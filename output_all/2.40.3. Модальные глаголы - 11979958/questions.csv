@@ -1,0 +1,47 @@
+HTML
+"<p>Не может быть, чтобы он уснул во время встречи. </p>",1,one,
+,<p>He mustn't have fallen asleep at the meeting. </p>
+*,<p>He can’t have fallen asleep at the meeting. </p>
+<p>I _____ not go there (50/50)</p>,1,one,
+*,<p>may</p>
+,<p>can</p>
+,<p>need</p>
+<p>He might not come today </p>,1,one,
+,<p>Он не придет</p>
+*,<p>Он скорее всего не придет</p>
+,<p>Он не может прийти</p>
+<p>_____ shout at her! </p>,1,one,
+,<p>Who dare you </p>
+,<p>Which dare you </p>
+*,<p>How dare you </p>
+<p> Навряд ли  Грег не заметил нас.</p>,1,one,
+,<p>Greg can not have noticed us. </p>
+,<p>Greg must not have noticed us.</p>
+*,<p>Greg might not have noticed us.</p>
+<p>Helen _____ have been working all day yesterday. </p>,1,one,
+,<p>can</p>
+*,<p>could</p>
+,<p>need</p>
+<p>Это не возможно чтобы я оставил телефон дома. </p>,1,one,
+,<p>I don't dare left my phone at home. </p>
+*,<p>I can’t have left my phone at home. </p>
+<p>Mike couldn’t have been late for such an important meeting. </p>,1,one,
+,<p> Майк не должен опаздывать на такое важное совещание.</p>
+,<p> Майк не посмеет опоздать на такое важное совещание.</p>
+*,<p>Не может быть чтобы Майк опоздал на такое важное совещание. </p>
+"<p>Это может быть кот наших соседей. (Вы, кажется, слышали, что у соседей есть кот)</p>",1,one,
+,<p>It could be our neighbors' cat </p>
+*,<p>It may be our neighbors' cat </p>
+,<p>It can be our neighbors' cat </p>
+"<p>Возможно, это машина моего соседа, но я не уверен. </p>",1,one,
+*,"<p>This car could be my neighbour’s, but I’m not sure.</p>"
+,"<p>This car might be my neighbour’s, but I’m not sure.</p>"
+,"<p>This car need my neighbour’s, but I’m not sure.</p>"
+<p>It’s ten o’clock. He ______ be in the office now. – Сейчас десять часов. Он должен быть в офисе. </p>,1,one,
+,<p>can</p>
+*,<p>must</p>
+,<p>may</p>
+<p>Ты осмелишься довериться такому подлому человеку? </p>,1,one,
+,<p>Can you trust such a wicked person? </p>
+*,<p>Dare you trust such a wicked person? </p>
+,<p>May you trust such a wicked person? </p>

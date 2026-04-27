@@ -1,0 +1,49 @@
+HTML
+<p>... they ... (to pay) their electric bill this month?</p>,1,one,
+*,<p>Have/paid</p>
+,<p>Are/paying</p>
+,<p>Do/pay</p>
+<p>Your car (to make) strange noises at the moment.</p>,1,one,
+,<p>makes</p>
+*,<p>is making</p>
+,<p>has made</p>
+<p>I (to take) a karate lesson now.</p>,1,one,
+,<p>have taken</p>
+,<p>take</p>
+*,<p>am taking</p>
+<p>Jay ... never ... (to travel) overseas.</p>,1,one,
+*,<p>has/travelled</p>
+,<p>do/travel</p>
+,<p>is/travelling</p>
+<p>We always (to feed) a dog and a cat.</p>,1,one,
+,<p>are feeding</p>
+*,<p>feed</p>
+,<p>have fed</p>
+<p>Larry ... never ... (to own) a sports car.</p>,1,one,
+,<p>does/own</p>
+,<p>is/owning</p>
+*,<p>has/owned</p>
+<p>I (to write) it already.</p>,1,one,
+*,<p>have written</p>
+,<p>am writing</p>
+,<p>write</p>
+<p>She (to cook) dinner every day.</p>,1,one,
+,<p>is cooking</p>
+*,<p>cooks</p>
+,<p>has cooked</p>
+<p>Why ... you ... (to cry) right now?</p>,1,one,
+,<p>have/cried</p>
+,<p>do/cry</p>
+*,<p>are/crying</p>
+<p>He ... just ... (to come) home.</p>,1,one,
+*,<p>has/came</p>
+,<p>is/coming</p>
+,<p>does/come</p>
+<p>He (to take) a shower in the bathroom now.</p>,1,one,
+,<p>takes</p>
+*,<p>is taking</p>
+,<p>has taken</p>
+<p>He (to write) something every week.</p>,1,one,
+,<p>is writing</p>
+,<p>has written</p>
+*,<p>writes</p>

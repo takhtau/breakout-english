@@ -1,0 +1,49 @@
+HTML
+<p>This is a pencil. ... pencil is green.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>An</p>
+<p>I can see a cat. ... cat is sleeping.</p>,~1,one,
+,<p>A</p>
+,<p>-</p>
+*,<p>The</p>
+<p>She has got a ball. ... ball is big.</p>,1,one,
+,<p>-</p>
+,<p>An</p>
+*,<p>The</p>
+<p>This is a pen. ... pen is red.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>-</p>
+<p>This is an apple. ... apple is tasty.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>An</p>
+<p>I go to school in ... morning.</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>the</p>
+<p>It is ... interesting book.</p>,1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>the</p>
+<p>My cat doesn't sleep at ... night.</p>,1,one,
+*,<p>-</p>
+,<p>a</p>
+,<p>the</p>
+<p>She has got ... glue stick in her pencil case.</p>,1,one,
+,<p>-</p>
+*,<p>a</p>
+,<p>the</p>
+<p>It is a rubber. ... rubber is white.</p>,1,one,
+,<p>-</p>
+,<p>A</p>
+*,<p>The</p>
+<p>I haven't got ... glue stick.</p>,1,one,
+,<p>-</p>
+*,<p>a</p>
+,<p>the</p>
+<p>I have lunch in ... afternoon.</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>the</p>

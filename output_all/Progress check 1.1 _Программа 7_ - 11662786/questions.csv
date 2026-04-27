@@ -1,0 +1,65 @@
+HTML
+<p>They ... nice. </p>,1,one,
+*,<p>are</p>
+,<p>am</p>
+,<p>is</p>
+<p>It ... grey. </p>,1,one,
+,<p>aren't </p>
+*,<p>isn't</p>
+,<p>am not</p>
+"<p>They ... red, blue, yellow </p>",1,one,
+,<p>am</p>
+,<p>is</p>
+*,<p>are</p>
+<p>My name ... Bill. </p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+,<p>am</p>
+<p>Look at your trainers. ________ are dirty.</p>,1,one,
+,<p>It</p>
+,<p>She</p>
+*,<p>They</p>
+<p> Don’t sit on that chair. ______ is broken. </p>,1,one,
+,<p>He</p>
+,<p>She</p>
+*,<p>It</p>
+<p>I love Anna. She is ____ best friend.</p>,1,one,
+,<p>she</p>
+*,<p>my</p>
+,<p>It</p>
+<p>Give me some water.__________ am thirsty.</p>,1,one,
+*,<p>I</p>
+,<p>We</p>
+,<p>They</p>
+<p>Where is  ___ book? I can’t see it.</p>,1,one,
+*,<p>my</p>
+,<p>I</p>
+,<p>We</p>
+<p>Bat ________ a sweet now.</p>,1,one,
+,<p>eating</p>
+*,<p>is eating </p>
+,<p>are eating</p>
+<p>What ____the teacher ________ on the blackboard now?</p>,1,one,
+*,<p>is writing </p>
+,<p>writing </p>
+,<p>are writing </p>
+<p>What juice_____ they _______ now?</p>,1,one,
+,<p>is ___drinking</p>
+*,<p>are ____drinking</p>
+,<p>___drinking</p>
+<p>I _________ my cat with fish now.</p>,1,one,
+*,<p>am feeding</p>
+,<p>is feeding</p>
+,<p>feeding</p>
+<p>The sun _______ now. </p>,1,one,
+,<p>am not setting</p>
+,<p>aren't setting</p>
+*,<p>isn't setting</p>
+<p>Ben usually _______ a book every evening.</p>,1,one,
+,<p>don't read</p>
+,<p>doesn't reads</p>
+*,<p>doesn't read</p>
+<p>My brother ________ the bed every day.</p>,1,one,
+*,<p>makes</p>
+,<p>make</p>
+,<p>to makes</p>

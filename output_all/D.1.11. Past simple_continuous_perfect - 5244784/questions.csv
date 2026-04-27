@@ -1,0 +1,31 @@
+HTML
+<p> </p>,1,one,
+*,<p>Betty wrote her theses last night.</p>
+,<p>Betty was writing her theses last night.</p>
+<p> </p>,1,one,
+,<p>John went home after he went to the shops.</p>
+*,<p>John went home after he has gone to the shops.</p>
+<p> </p>,1,one,
+*,<p>What were you doing at 3 o'clock this afternoon?</p>
+,<p>What did you do at 3 o'clock this afternoon?</p>
+<p> </p>,1,one,
+,<p>When John came home his mum made tea.</p>
+*,<p>When John came home his mum was making tea.</p>
+<p> </p>,1,one,
+,<p>She talked on the phone when her husband came in.</p>
+*,<p>She was talking on the phone when her husband came in.</p>
+<p> </p>,1,one,
+*,<p>She did a lot of work for the poor.</p>
+,<p>She had done a lot of work for the poor.</p>
+<p> </p>,1,one,
+,<p>One day a man fished in the lake.</p>
+*,<p>One day a man was fishing in the lake.</p>
+<p> </p>,1,one,
+,<p>We bought the tickets before we went to the cinema.</p>
+*,<p>We had bought the tickets before we went to the cinema.</p>
+<p> </p>,1,one,
+*,<p>When I spoke to the woman I realised I had met her before.</p>
+,<p>When I spoke to the woman I realised I met her before.</p>
+<p> </p>,1,one,
+*,<p>After Betty had washed up she went away.</p>
+,<p>After Betty washed up she went away.</p>

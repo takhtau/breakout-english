@@ -1,0 +1,31 @@
+HTML
+<p>fish - ___.</p>,1,one,
+,<p>fishes</p>
+*,<p>fish</p>
+<p>child - ___.</p>,1,one,
+*,<p>children</p>
+,<p>childs</p>
+<p>toothbrush - ___.</p>,1,one,
+*,<p>toothbrushes</p>
+,<p>toothbrush</p>
+<p>woman - ___.</p>,1,one,
+,<p>womans</p>
+*,<p>women</p>
+<p>man - ___.</p>,1,one,
+,<p>mans</p>
+*,<p>men</p>
+<p>toy - ___.</p>,1,one,
+*,<p>toys</p>
+,<p>toy</p>
+<p>exercise - ___.</p>,1,one,
+*,<p>exericses</p>
+,<p>exericse</p>
+<p>fly - ___.</p>,1,one,
+,<p>flyes</p>
+*,<p>flies</p>
+<p>foot - ___.</p>,1,one,
+*,<p>feet</p>
+,<p>foots</p>
+<p>furniture - ___.</p>,1,one,
+*,<p>furniture</p>
+,<p>furniture<s>s</s></p>

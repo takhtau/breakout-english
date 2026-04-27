@@ -1,0 +1,59 @@
+HTML
+"<p>Do you have _______ white bread in your house? (буханка, батон)</p>",1,one,
+,<p>packet of</p>
+,<p>a piece</p>
+*,<p>a loaf of</p>
+<p>We can share _________ of condensed milk with you. (жестяная банка)</p>,1,one,
+,<p>a jar </p>
+,<p>bottle </p>
+*,<p>a can</p>
+<p>How much are four ____ of chocolate? (плитки)</p>,1,one,
+,<p>cups</p>
+*,<p>bars</p>
+,<p>slices</p>
+<p>Tom eats the last ______ of bread. (тонкий кусочек)</p>,1,one,
+,<p>a loaf</p>
+*,<p>piece of</p>
+,<p>cups</p>
+"<p>She ______ stop crying, because her brother took her toy.</p>",1,one,
+,<p>could</p>
+*,<p>couldn't </p>
+<p>My mother __________ play the piano very well. She was so talented musician.</p>,1,one,
+*,<p>could</p>
+,<p>couldn't </p>
+<p>I have got_______juice.</p>,1,one,
+,<p>many</p>
+*,<p>a lot of</p>
+<p>We haven't got_______olive oil. </p>,1,one,
+*,<p>much</p>
+,<p>many</p>
+<p>I want_________fruits. </p>,1,one,
+,<p>much</p>
+*,<p>a lot of</p>
+<p>There is still _________ bread left.</p>,1,one,
+*,<p>a little</p>
+,<p>a few</p>
+,<p>few</p>
+<p>There are only _________ biscuits left.</p>,1,one,
+,<p>a little</p>
+,<p>little</p>
+*,<p>a few</p>
+<p>I eat _______ meat. I prefer fish. </p>,1,one,
+,<p>few</p>
+,<p>a little</p>
+*,<p>little</p>
+"<p>When I get older,I ____________rich and famous. </p>",1,one,
+*,<p>am going to be</p>
+,<p>will be</p>
+,<p>are being </p>
+<p>They _______ home by car in a day.</p>,1,one,
+,<p>are going</p>
+*,<p>will go</p>
+<p>My father usually ________ to the stadium on Sundays </p>,1,one,
+,<p>went</p>
+*,<p>goes</p>
+,<p>will go</p>
+<p>You often ______ at seven o'clock. </p>,1,one,
+,<p>woke up </p>
+*,<p>wake up </p>
+,<p>will wake up </p>

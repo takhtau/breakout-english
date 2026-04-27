@@ -1,0 +1,45 @@
+HTML
+<p>Kate ________ at six o'clock.</p>,1,one,
+*,<p>doesn't wake up</p>
+,<p>don't wake up</p>
+,<p>doesn't wakes up</p>
+<p>They __________ for a walk in the morning.</p>,1,one,
+,<p>doesn't go</p>
+*,<p>don't go</p>
+,<p>don't goes</p>
+<p>Ben ____________ a book every evening.</p>,1,one,
+,<p>don't read</p>
+,<p>doesn't reads</p>
+*,<p>doesn't read</p>
+<p>My brother ___________ the bed every day.</p>,1,one,
+*,<p>makes</p>
+,<p>make</p>
+,<p>to makes</p>
+<p>We __________ lunch at 2 o'clock.</p>,1,one,
+,<p>has</p>
+*,<p>have</p>
+,<p>haves</p>
+<p>My grandfather _______a letter to his friend in the evening.</p>,1,one,
+,<p>to writes</p>
+,<p>write</p>
+*,<p>writes</p>
+<p>_______ your friends __________ football at three o'clock?</p>,1,one,
+,<p>Does/play</p>
+*,<p>Do/play</p>
+,<p>Do/plays</p>
+<p>His mum ____________ at six o'clock.</p>,1,one,
+,<p>to gets up</p>
+,<p>get up</p>
+*,<p>gets up</p>
+<p>I _______ my homework at four o'clock.</p>,1,one,
+*,<p>do</p>
+,<p>to do</p>
+,<p>does</p>
+<p>______ you ________ in the morning?</p>,1,one,
+,<p>Does/dress</p>
+*,<p>Do/draw</p>
+,<p>Do/dresses</p>
+<p>Dan _________ a shower in the morning.</p>,1,one,
+,<p>to takes</p>
+,<p>take</p>
+*,<p>takes</p>

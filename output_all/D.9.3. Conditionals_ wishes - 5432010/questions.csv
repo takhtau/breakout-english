@@ -1,0 +1,41 @@
+HTML
+<p>If you drop the vase my wife _____ murder you.</p>,1,one,
+,<p>murders</p>
+*,<p>will murder</p>
+,<p>would murder</p>
+<p>If she _____ not so slowly she would enjoy the party.</p>,1,one,
+*,<p>were</p>
+,<p>is</p>
+,<p>will be</p>
+<p>If we had a chicken we _____ it.</p>,1,one,
+,<p>cooked</p>
+*,<p>would cook</p>
+,<p>were cooking</p>
+<p>If you _____ my library book I will have to buy a new one.</p>,1,one,
+,<p>will lose</p>
+,<p>lost</p>
+*,<p>lose</p>
+<p>If she _____ you were in hospital she would have visited you.</p>,1,one,
+*,<p>had known</p>
+,<p>knew</p>
+,<p>would have known</p>
+<p>I wish I _____ rich.</p>,1,one,
+,<p>would be</p>
+,<p>had been</p>
+*,<p>were</p>
+<p>I wish I _____ his opinion before.</p>,1,one,
+,<p>would know</p>
+*,<p>had known</p>
+,<p>knew</p>
+<p>She wishes her parents _____ of her decision now.</p>,1,one,
+,<p>would approve</p>
+*,<p>approved</p>
+,<p>had been approved</p>
+<p>I wish I _____ to the Tower when I was in London.</p>,1,one,
+*,<p>had gone</p>
+,<p>went</p>
+,<p>would go</p>
+<p>I wish I _____ much yesterday.</p>,1,one,
+,<p>did not eat</p>
+,<p>were not eating</p>
+*,<p>had not eaten</p>

@@ -1,0 +1,49 @@
+HTML
+<p> I have got three _______ of milk in the kitchen. (кувшина)</p>,1,one,
+*,<p>jugs</p>
+,<p>bottles</p>
+,<p>glasses</p>
+<p>She is eating the second ________ of ice cream. (картонная упаковка)</p>,1,one,
+,<p>slice</p>
+*,<p>carton</p>
+,<p>bar</p>
+"<p>Do you have _______ white bread in your house? (буханка, батон)</p>",1,one,
+,<p>packet of</p>
+,<p>a piece</p>
+*,<p>a loaf of</p>
+<p>We can share _________ of condensed milk with you. (жестяная банка)</p>,1,one,
+,<p>a jar </p>
+,<p>bottle </p>
+*,<p>a can</p>
+<p>How much are four ____ of chocolate? (плитки)</p>,1,one,
+,<p>cups</p>
+*,<p>bars</p>
+,<p>slices</p>
+<p>I really want a ________ sweet honey. (ложка)</p>,1,one,
+*,<p>spoon of</p>
+,<p>bowl of</p>
+,<p>packet</p>
+<p>I need _______ of lemon to put it in my tea. (тонкий ломтик)</p>,1,one,
+*,<p>a slice</p>
+,<p>pieces</p>
+,<p>a loaf</p>
+<p>Tom eats the last ______ of bread. (тонкий кусочек)</p>,1,one,
+,<p>a loaf</p>
+*,<p>piece of</p>
+,<p>cups</p>
+<p>_________ chocolate is very nice. (плитка)</p>,1,one,
+,<p>Carton of</p>
+,<p>A pieces of</p>
+*,<p>A bar of</p>
+"<p>They have ________ honey here, don't they? (банки)</p>",1,one,
+,<p>cartons </p>
+,<p>cups of</p>
+*,<p>jars of</p>
+<p>________ of bread costs 30 rubles. (батон)</p>,1,one,
+,<p>A slice</p>
+*,<p>A loaf </p>
+,<p>Cups</p>
+"<p>May you give me _________ milk, please? (кувшин)</p>",1,one,
+*,<p>a jug of</p>
+,<p>a cup of</p>
+,<p>piece of</p>

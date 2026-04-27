@@ -1,0 +1,75 @@
+HTML
+<p>I finished college the year ... </p>,1,one,
+,<p>when</p>
+*,<p>before</p>
+,<p>as soon as</p>
+<p>I'll stay here ... you come back. </p>,1,one,
+*,<p>till</p>
+,<p>while</p>
+,<p>when</p>
+<p>How are we going to finish the project ... we have no more time?</p>,1,one,
+,<p>after</p>
+,<p>till</p>
+*,<p>when</p>
+<p>Lucy came into the room ... he was waiting. </p>,1,one,
+,<p>after</p>
+*,<p>while</p>
+,<p>before</p>
+<p>__________ their weakness the group remains active. </p>,1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite  </p>
+,<p>however </p>
+,<p>unless</p>
+<p>He remains a great leader ________being in his mid-70-s. </p>,1,one,
+,<p>although </p>
+,<p>in spite of </p>
+*,<p>despite</p>
+,<p>however </p>
+,<p>unless</p>
+<ol><li>This film takes me back to my ____________. </li></ol>,1,one,
+,<p>child</p>
+*,<p>childhood</p>
+,<p>children</p>
+<ol><li>The war was ______</li></ol>,1,one,
+,<p>endful </p>
+*,<p>endless</p>
+,<p>endfulness</p>
+<ol><li>The ___________was delayed by fog for an hour.</li></ol>,1,one,
+*,<p>flight </p>
+,<p>fly</p>
+,<p>flition</p>
+<p>Many streets in Moscow were _____ after Great October Revolution.</p>,1,one,
+*,<p>renamed</p>
+,<p>misnamed</p>
+,<p>overnamed</p>
+<p>The men tried to _____ each other in their competition.</p>,1,one,
+*,<p>overdo</p>
+,<p>redo</p>
+,<p>undo</p>
+<p>Our teacher looked at us ________ when we interrupted her.</p>,1,one,
+,<p>angry </p>
+,<p>terrible </p>
+*,<p>angrily </p>
+<p>My pronunciation is ________. </p>,1,one,
+,<p>perfectlly </p>
+,<p>perfect </p>
+*,<p>perfectly</p>
+<p>Он работает усердно. </p>,1,one,
+*,<p>He works hard </p>
+,<p>He works overhard </p>
+,<p>He works unhard </p>
+<p>The teacher noticed some students __________ bad language during the breakes.</p>,1,one,
+*,<p>use</p>
+,<p>to use</p>
+"<p>Мы хотим, чтобы ты был счастлив. </p>",1,one,
+,<p>We wanting you to be happy.</p>
+,<p>We want to you to be happy.</p>
+*,<p>We want you to be happy.</p>
+"<p>Я слышу, как моя сестра играет на пианино.</p>",1,one,
+,<p>I can hear my sister to play to the piano.</p>
+,<p>I can hear my sister to playing the piano.</p>
+*,<p>I can hear my sister playing the piano.</p>
+<p>I heard you _____ with my parents.</p>,1,one,
+*,<p>talking</p>
+,<p>to talk</p>

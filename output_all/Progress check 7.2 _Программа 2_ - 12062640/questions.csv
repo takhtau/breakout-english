@@ -1,0 +1,77 @@
+HTML
+"<p>They bought this hose last year, __________? </p>",1,one,
+,<p>did they </p>
+*,<p>didn't they</p>
+,<p>don't they</p>
+"<p> I am a teacher, __________? </p>",1,one,
+,<p>don't I</p>
+,<p>am I</p>
+*,<p>aren't I</p>
+"<p>There are too many people, __________?</p>",1,one,
+*,<p>aren't there</p>
+,<p>are there</p>
+,<p>is there</p>
+"<p>""I will teach online next week"", said Mary. - Mary said she .... online the following week.</p>",1,one,
+*,<p>would teach</p>
+,<p>will teach</p>
+,<p>taught</p>
+"<p>""I am going to buy a new car"", said Jill. - Jill said she ... a new car.</p>",1,one,
+,<p>has bought</p>
+*,<p>was going to buy</p>
+,<p>is going to buy</p>
+"<p>""Your brother can't go to school now"", said mum. - Mum said my brother ... to school at that moment.</p>",1,one,
+,<p>couldn't gone</p>
+,<p>can't go</p>
+*,<p>couldn't go</p>
+"<p>""Does Tim sleep well?"" she asked. - She asked if Tin _________ well.</p>",1,one,
+,<p>sleep</p>
+*,<p>slept </p>
+,<p>had slept</p>
+"<p>""Does she speak Japanese? she said. - She asked if she ___________Japanese. </p>",1,one,
+,<p>speak</p>
+,<p>had spoken </p>
+*,<p>spoke</p>
+"<p>""Do you work here"" he asked. He asked if I worked____________</p>",1,one,
+*,<p>there</p>
+,<p>here</p>
+,<p>this</p>
+<p>Do you think this book is worth ...?</p>,1,one,
+*,<p>reading</p>
+,<p>to read</p>
+,<p>read</p>
+<p>Stop ... about it.</p>,1,one,
+,<p>to talk</p>
+*,<p>talking</p>
+,<p>talk</p>
+<p>I simply love ...</p>,1,one,
+,<p>to cook</p>
+,<p>cook</p>
+*,<p>cooking</p>
+<p>I admit ... a mistake. </p>,1,one,
+,<p>to make</p>
+*,<p>making</p>
+,<p>make</p>
+<p>I didn’t mean ... you cry.</p>,1,one,
+,<p>making</p>
+*,<p>to make</p>
+,<p>make</p>
+<p>... does she like?</p>,1,one,
+,<p>How</p>
+*,<p>What</p>
+,<p>Where</p>
+<p>... will you be here?</p>,1,one,
+*,<p>When</p>
+,<p>How</p>
+,<p>Where</p>
+<p>It’s a bit hard but I ... driving on the left. </p>,1,one,
+,<p>am used to</p>
+,<p>used to</p>
+*,<p>am getting used to</p>
+<p>I ... my new job.</p>,1,one,
+,<p>gets used to</p>
+*,<p>am used to</p>
+,<p>used to</p>
+<p>I ... the place. </p>,1,one,
+,<p>be used to</p>
+*,<p>am getting used to</p>
+,<p>used to</p>

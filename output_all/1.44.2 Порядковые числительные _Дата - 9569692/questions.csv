@@ -1,0 +1,49 @@
+HTML
+<p>July is the _____ month of the year. </p>,1,one,
+*,<p>seventh</p>
+,<p>seven </p>
+,<p>sevened</p>
+<p>August is the ______ month of the year. </p>,1,one,
+,<p>eight</p>
+*,<p>eighth </p>
+,<p>eighted </p>
+<p>Wednesday is the _____ day of the week. </p>,1,one,
+,<p>three </p>
+,<p>threes</p>
+*,<p>third </p>
+<p>Thursday is the ________ day of the week. </p>,1,one,
+,<p>four</p>
+*,<p>fourth</p>
+,<p>fours </p>
+<p>Christmas in Russia is on (06.01). </p>,1,one,
+*,<p>the sixth of January </p>
+,<p>the six of January </p>
+,<p>the sixth in January </p>
+<p>Christmas in America is on (25.12).</p>,1,one,
+,<p>the twenty-fifth in December </p>
+,<p>the twenty-five of December </p>
+*,<p>the twenty-fifth of December </p>
+<p>My granddad was born on (23.06)</p>,1,one,
+*,<p>the twenty-third of June</p>
+,<p>the twenty-three of June</p>
+,<p>the twenty-third in June</p>
+<p>My granny was born in (1963)</p>,1,one,
+,<p>nineteen sixth-three</p>
+,<p>nineteen sixty-third </p>
+*,<p>nineteen sixty-three</p>
+<p>We got married on (15.05.2016) </p>,1,one,
+*,"<p>May of fifteenth, two thousand sixteen </p>"
+,"<p>May in fifteenth, two thousand sixteen </p>"
+,"<p>May of fifteenth, two thousands sixteen </p>"
+<p>I was born on (8.02)</p>,1,one,
+,<p>the eight of February </p>
+*,<p> the eighth of February </p>
+,<p>the eighth in February </p>
+<p>It was discovered in (2003)</p>,1,one,
+*,<p>two thousand and three </p>
+,<p>two thousands and three </p>
+,<p>two thousand and third </p>
+<p>It is________ today. (10.12)</p>,1,one,
+,<p> December ten</p>
+*,<p> December tenth</p>
+,<p> December in tenth</p>

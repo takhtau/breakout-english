@@ -1,0 +1,49 @@
+HTML
+<p>You should (ask) permission. </p>,1,one,
+*,<p>have asked</p>
+,<p>ask</p>
+,<p>be asking</p>
+<p>You should not (worry). </p>,1,one,
+,<p>worry </p>
+*,<p>have worried</p>
+,<p>be worrying </p>
+<p>You should (help) your classmate. </p>,1,one,
+,<p>help </p>
+,<p>be helping </p>
+*,<p>have helped </p>
+<p>You should (take) some medicine.</p>,1,one,
+*,<p>have taken </p>
+,<p>take</p>
+,<p>be taking </p>
+<p>He can't (see) this picture. </p>,1,one,
+,<p>see</p>
+*,<p>have seen </p>
+,<p>be seeing</p>
+<p>You needn't (worry) about us. </p>,1,one,
+*,<p>have worried</p>
+,<p>worry </p>
+,<p>to worry</p>
+<p>You needn't (check) for spelling mistakes. </p>,1,one,
+,<p>check </p>
+,<p>to check </p>
+*,<p>have checked </p>
+<p>They must (finish) their work. </p>,1,one,
+,<p>be finishing </p>
+*,<p>have finished</p>
+,<p>finish</p>
+<p>They must just (come). </p>,1,one,
+*,<p>have come</p>
+,<p>come</p>
+,<p>be coming </p>
+<p>He can't (miss) the train. </p>,1,one,
+,<p>be missing </p>
+*,<p>have missed</p>
+,<p>miss</p>
+<p>He can't (become) a doctor. </p>,1,one,
+,<p>become</p>
+,<p>be becoming </p>
+*,<p>have become</p>
+<p>They may (go) abroad. </p>,1,one,
+*,<p>have gone</p>
+,<p>go</p>
+,<p>be going</p>

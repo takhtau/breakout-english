@@ -1,0 +1,63 @@
+HTML
+<p>... he ... know it?</p>,1,one,
+*,<p>Can/-</p>
+,<p>Is/able to</p>
+,<p>Able/to</p>
+<p>I won't ... take part in the competition.</p>,1,one,
+*,<p>be able to</p>
+,<p>can</p>
+,<p>able to</p>
+<p>We __________not be late.</p>,1,one,
+*,<p>must</p>
+,<p>should</p>
+,<p>ought to </p>
+<p>He __________have a sense of responsibility.</p>,1,one,
+*,<p>should</p>
+,<p>must</p>
+,<p>ought to </p>
+<p>He ___________ be a decent person.</p>,1,one,
+,<p>must</p>
+*,<p>should</p>
+,<p>ought to </p>
+<p>I ___________have trusted you. </p>,1,one,
+,<p>must</p>
+,<p>should</p>
+*,<p>ought to </p>
+"<p>Не может быть, чтобы он уснул во время встречи. </p>",1,one,
+,<p>He mustn't have fallen asleep at the meeting. </p>
+*,<p>He can’t have fallen asleep at the meeting. </p>
+<p>I _____ not go there (50/50)</p>,1,one,
+*,<p>may</p>
+,<p>can</p>
+,<p>need</p>
+<p>He might not come today </p>,1,one,
+,<p>Он не придет</p>
+*,<p>Он скорее всего не придет</p>
+,<p>Он не может прийти</p>
+<p>Это не возможно чтобы я оставил телефон дома. </p>,1,one,
+,<p>I don't dare left my phone at home. </p>
+*,<p>I can’t have left my phone at home. </p>
+<p>Mike couldn’t have been late for such an important meeting. </p>,1,one,
+,<p> Майк не должен опаздывать на такое важное совещание.</p>
+,<p> Майк не посмеет опоздать на такое важное совещание.</p>
+*,<p>Не может быть чтобы Майк опоздал на такое важное совещание. </p>
+<p>Ты осмелишься довериться такому подлому человеку? </p>,1,one,
+,<p>Can you trust such a wicked person? </p>
+*,<p>Dare you trust such a wicked person? </p>
+,<p>May you trust such a wicked person? </p>
+<p>You should (ask) permission. </p>,1,one,
+*,<p>have asked</p>
+,<p>ask</p>
+,<p>be asking</p>
+<p>You should not (worry). </p>,1,one,
+,<p>worry </p>
+*,<p>have worried</p>
+,<p>be worrying </p>
+<p>They must (finish) their work. </p>,1,one,
+,<p>be finishing </p>
+*,<p>have finished</p>
+,<p>finish</p>
+<p>They must just (come). </p>,1,one,
+*,<p>have come</p>
+,<p>come</p>
+,<p>be coming </p>

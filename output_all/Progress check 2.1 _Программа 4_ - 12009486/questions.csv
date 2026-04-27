@@ -1,0 +1,61 @@
+HTML
+<p>The children (to run) at the stadium every day.</p>,1,one,
+*,<p>run</p>
+,<p>are running</p>
+,<p>have run</p>
+<p>They (to sing) merrily at the moment.</p>,1,one,
+,<p>sing</p>
+*,<p>are singing</p>
+,<p>have sung</p>
+<p>We ... just ... (to learn) a new song!</p>,~1,one,
+,<p>do/learn</p>
+,<p>are/learning</p>
+*,<p>have/learned</p>
+<p>... you ... (to work) right now?</p>,1,one,
+*,<p>Are/working</p>
+,<p>Do/work</p>
+,<p>Have/worked</p>
+<p>At seven o’clock yesterday I (to go) to the theatre.</p>,1,one,
+,<p>were going </p>
+*,<p>was going </p>
+,<p>is going </p>
+<p>What you (to do) at 5 o’clock yesterday? — I (to play) the piano.</p>,1,one,
+,<p>What are you doing/am playing </p>
+*,<p>What were you doing/was playing </p>
+,<p>What was you doing/was playing </p>
+<p>We (to play) in the yard the whole evening yesterday.</p>,1,one,
+,<p>is playing </p>
+,<p>was playing </p>
+*,<p>were playing </p>
+<p>I (not to wash) the dishes from six till seven yesterday.</p>,1,one,
+,<p>weren't washing </p>
+*,<p>wasn't washing </p>
+,<p>am not washing </p>
+<p>She (to cook) the whole day yesterday.</p>,1,one,
+,<p>were cooking</p>
+*,<p>was cooking</p>
+,<p>cooked</p>
+<p>We (to wash) the floor in our flat from three till four yesterday.</p>,1,one,
+*,<p>were washing</p>
+,<p>washed</p>
+,<p>was washing</p>
+<p>He (to read) a book the whole evening yesterday.</p>,1,one,
+,<p>read</p>
+*,<p>was reading</p>
+,<p>were reading</p>
+<p>They (to sleep) when you came home.</p>,1,one,
+,<p>slept</p>
+,<p>was sleeping</p>
+*,<p>were sleeping</p>
+<p>Jay never (to travel) overseas.</p>,1,one,
+,<p>have never travelled </p>
+*,<p>has never travelled </p>
+,<p>never travelled </p>
+<p>I (not to see) Pete today.</p>,1,one,
+,<p>hasn't seen</p>
+*,<p>haven't seen</p>
+,<p>didn't see</p>
+<p>Jane _____________ English for two years.</p>,1,one,
+,<p>didn't study</p>
+,<p>doesn't study</p>
+*,<p>hasn't been studying</p>

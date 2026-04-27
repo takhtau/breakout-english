@@ -1,0 +1,41 @@
+HTML
+<p>_____ and Ted's books are on the desk.</p>,1,one,
+*,<p>Sam</p>
+,<p>Sam's</p>
+,<p>His</p>
+<p>You must _____ your hands.</p>,1,one,
+*,<p>wash</p>
+,<p>to wash</p>
+,<p>washing</p>
+<p>He _____ to wash his hands.</p>,1,one,
+,<p>can</p>
+,<p>must</p>
+*,<p>wants</p>
+<p>Dogs are cleverer _____ rabbits.</p>,1,one,
+*,<p>than</p>
+,<p>then</p>
+,<p>-</p>
+<p>This doll is _____ than that doll.</p>,1,one,
+,<p>old</p>
+*,<p>older</p>
+,<p>the oldest</p>
+"<p>The tortoise is funny, _____ ?</p>",1,one,
+,<p>is she</p>
+,<p>isn't she</p>
+*,<p>isn't it</p>
+<p>That apple tree is ____ tree in their garden.</p>,1,one,
+,<p>old</p>
+,<p>older</p>
+*,<p>the oldest</p>
+<p>Let's translate Text ____ .</p>,1,one,
+*,<p>Two</p>
+,<p>second</p>
+,<p>the second</p>
+<p>Is ____ text difficult?</p>,1,one,
+,<p>Two</p>
+,<p>second</p>
+*,<p>the second</p>
+<p>The ____ garden is nice.</p>,1,one,
+,<p>Browns</p>
+,<p>Brown's</p>
+*,<p>Browns'</p>

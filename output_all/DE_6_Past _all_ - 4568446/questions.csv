@@ -1,0 +1,41 @@
+HTML
+<p>My brother and I_________swimming almost every day last summer.</p>,1,one,
+*,<p>went</p>
+,<p>had been going</p>
+,<p>were going</p>
+,<p>had gone</p>
+<p>We__________when someone knocked at the door.</p>,1,one,
+,<p>talked</p>
+,<p>had talked</p>
+*,<p>were talking</p>
+,<p>were talked</p>
+"<p>When the robbery happened, the security guard__________!</p>",1,one,
+,<p>slept</p>
+*,<p>was sleeping</p>
+,<p>had slept</p>
+,<p>was slept</p>
+"<p>Jack_________chess before, so I showed him what to do.</p>",1,one,
+,<p>hadn't been playing</p>
+,<p>didn't play</p>
+,<p>wasn't playing</p>
+*,<p>hadn't played</p>
+<p>I wasn't sure how Belinda would react because I__________her long.</p>,1,one,
+,<p>didn't know</p>
+,<p>wasn't knowing</p>
+,<p>hadn't been knowing</p>
+*,<p>hadn't known</p>
+<p>Ian____________at the factory long when he was made a manager.</p>,1,one,
+*,<p>hadn't been working</p>
+,<p>wasn't working</p>
+,<p>didn't work</p>
+,<p>wasn't worked</p>
+"<p>I wanted to say goodbye to Jerry, but he_________ .</p>",1,one,
+,<p>was already left</p>
+,<p>already left</p>
+,<p>had already been leaving</p>
+*,<p>had already left</p>
+"<p>When we got to the airport, I realised I__________my passport at home!</p>",1,one,
+,<p>was left</p>
+*,<p>had left</p>
+,<p>left</p>
+,<p>had been leaving</p>

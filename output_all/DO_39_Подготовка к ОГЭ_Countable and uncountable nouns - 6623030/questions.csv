@@ -1,0 +1,19 @@
+HTML
+<p>Be careful with that vase because it's made of______________!</p>,1,one,
+*,<p>glass</p>
+,<p>a glass </p>
+<p>I started coughing because I had_____________at the back of my throat. </p>,1,one,
+,<p>hair </p>
+*,<p>a hair </p>
+<p>Don't put your hot cup on my new table! It's_________and I don't want you to bum it. </p>,1,one,
+*,<p>wood </p>
+,<p>a wood</p>
+<p>We should all recycle_____________so that it can be used again. </p>,1,one,
+*,<p>paper </p>
+,<p>a paper </p>
+<p>My dad gets__________every day on his way to work. </p>,1,one,
+,<p>paper </p>
+*,<p>a paper </p>
+<p>Of course you can have some milk. Get___________out of the cupboard. </p>,1,one,
+,<p>glass </p>
+*,<p>a glass </p>

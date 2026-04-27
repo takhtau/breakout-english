@@ -1,0 +1,49 @@
+HTML
+<p>The beds already (make).</p>,1,one,
+*,<p>have been made</p>
+,<p>made</p>
+,<p>has been made</p>
+<p>The mail already (write). </p>,1,one,
+,<p>was written</p>
+,<p>have been written</p>
+*,<p>has been written </p>
+<p>The trees already (planted). </p>,1,one,
+*,<p>have been planted</p>
+,<p>has been planted</p>
+,<p>planted</p>
+<p>The money (spend). </p>,1,one,
+*,<p>has been spent</p>
+,<p>have been spent</p>
+,<p>was spent</p>
+<p>The room (not to book). </p>,1,one,
+,<p>have not been booked</p>
+*,<p>has not been booked</p>
+,<p>wasn't booked</p>
+<p>The rent (not to pay) yet.</p>,1,one,
+,<p>wasn't paid</p>
+*,<p>has not been booked</p>
+,<p>have not been booked</p>
+<p>The people (not to inform).</p>,1,one,
+*,<p>have not been informed</p>
+,<p>has not been informed</p>
+,<p>weren't informed</p>
+<p>The song already (download). </p>,1,one,
+*,<p>has been downloaded</p>
+,<p>have been downloaded</p>
+,<p>downloaded</p>
+<p>The air conditioning (turn on). </p>,1,one,
+,<p>turned on</p>
+*,<p>has been turned on</p>
+,<p>have been turned on</p>
+<p>The meal already (prepare). </p>,1,one,
+*,<p> has been prepared</p>
+,<p>have been prepared</p>
+,<p>was prepared </p>
+<p>New books (order). </p>,1,one,
+,<p>has been ordered</p>
+,<p>ordered</p>
+*,<p>have been ordered</p>
+<p>The report just (finish). </p>,1,one,
+*,<p>has been finished</p>
+,<p>have been finished</p>
+,<p>was finished</p>

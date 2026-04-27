@@ -1,0 +1,49 @@
+HTML
+<p>(Cколько лет)_______ is your dog? </p>,1,one,
+,<p>What</p>
+*,<p>How old</p>
+,<p>Where</p>
+<p>(Где)____is their dad?</p>,1,one,
+,<p>Why</p>
+*,<p>Where</p>
+,<p>When</p>
+<p>(Что) __is it?</p>,1,one,
+,<p>How old</p>
+*,<p>What</p>
+,<p>When</p>
+<p>(Кто)____are those boys?</p>,1,one,
+,<p>Where</p>
+,<p>What</p>
+*,<p>Who</p>
+<p>(Сколько лет)___are those actors?</p>,1,one,
+,<p>What</p>
+,<p>How</p>
+*,<p>How old</p>
+<p>(Что)____ does Rex usually drink?</p>,1,one,
+,<p>When</p>
+*,<p>What</p>
+,<p>Where</p>
+<p>(Как часто )_______does Rex eat?</p>,1,one,
+,<p>How well</p>
+*,<p>How often</p>
+,<p>How old</p>
+<p>(Как хорошо )_____ does Mike paint?</p>,1,one,
+,<p>What well</p>
+*,<p>How well</p>
+,<p>How old</p>
+<p>(Что )____ do you usually do?</p>,1,one,
+*,<p>What</p>
+,<p>Where</p>
+,<p>When</p>
+<p>(Где ) _____ do you usually go? </p>,1,one,
+*,<p>Where</p>
+,<p>When</p>
+,<p>Why</p>
+<p>(Где )___do  you usually wake up? </p>,1,one,
+*,<p>Where</p>
+,<p>When</p>
+,<p>Why</p>
+<p>(Почему )______ does she always cry? </p>,1,one,
+,<p>What</p>
+*,<p>Why</p>
+,<p>Where</p>

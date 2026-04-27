@@ -1,0 +1,35 @@
+HTML
+<p>I want him _____ the mistake. (correct)</p>,1,,
+*,to correct
+<p>I will make him _____ the mistake. (correct)</p>,1,,
+*,correct
+<p>I saw him _____ the mistakes. (correct)</p>,1,,
+*,correcting
+<p>I expect him _____ the mistake. (correct)</p>,1,,
+*,to correct
+<p>I let him _____ the mistake. (correct)</p>,1,,
+*,correct
+"<p>When I _____ him yesterday he _____ the mistakes. (see, correct)</p>",1,,
+*,saw/was correcting
+"<p>He is in his room. He _____ the mistakes. He _____ them since lunch. (correct, correct)</p>",1,,
+*,is correcting/has been correcting
+<p>The mistakes must _____ . (correct)</p>,1,,
+*,be corrected
+"<p>As soon as he _____ the mistakes he _____ the new words. (correct, learn)</p>",1,,
+*,corrects/will learn
+<p>He said he _____ already _____ the mistakes. (correct)</p>,1,,
+*,had/corrected
+<p>Who _____ mistakes? - We do. (correct)</p>,1,,
+*,corrects
+<p>He _____ the mistakes yet. (not correct)</p>,1,,
+*,hasn't corrected
+<p>The mistakes _____ yesterday. (correct)</p>,1,,
+*,were corrected
+<p>He _____ the mistakes yesterday. (correct)</p>,1,,
+*,corrected
+<p>He _____ the mistakes tomorrow. (correct)</p>,1,,
+*,will correct
+<p>The mistakes _____ tomorrow. (correct)</p>,1,,
+*,will be corrected
+<p>He said he _____ the mistakes the next day. (correct)</p>,1,,
+*,would correct

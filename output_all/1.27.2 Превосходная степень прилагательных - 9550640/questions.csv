@@ -1,0 +1,49 @@
+HTML
+<p>Marriott is the _______ (expensive) hotel in the city. </p>,1,one,
+*,<p>most expensive</p>
+,<p>expensivest</p>
+,<p>expensiver</p>
+<p>This is the _______ (old) building in the town. </p>,1,one,
+,<p>most old</p>
+*,<p>oldest</p>
+,<p>olddest</p>
+"<p>Excuse me, where’s the ______ (near) shop?</p>",1,one,
+,<p>most near</p>
+,<p>nearrest</p>
+*,<p>nearest</p>
+<p>This is the ______ (boring) book.</p>,1,one,
+*,<p>most boring</p>
+,<p>boringest</p>
+,<p>the boring</p>
+<p> Who is the ______ (popular) singer in your country? </p>,1,one,
+,<p>popularest</p>
+*,<p>most popular</p>
+,<p>the popular</p>
+<p>July is the ______ (hot) month of the year. </p>,1,one,
+,<p>hotest</p>
+,<p>most hot</p>
+*,<p>hottest</p>
+<p>February is the _______ (short) month of the year. </p>,1,one,
+*,<p>shortest</p>
+,<p>most short</p>
+,<p>shorttest</p>
+<p>Russia is the ______ (large) of all countries.</p>,1,one,
+,<p>most large</p>
+*,<p>largest</p>
+,<p>larggest</p>
+<p>What is the ______ (bad) movie in your opinion?</p>,1,one,
+,<p>most bad</p>
+,<p>baddest</p>
+*,<p>worst</p>
+<p> Joe is the _______ (friendly) person I know. </p>,1,one,
+*,<p>friendliest</p>
+,<p>most friendly</p>
+,<p>friendlyest</p>
+<p>Vatican is the ______ (small) country in the world. </p>,1,one,
+,<p>most small</p>
+*,<p>smallest</p>
+,<p>smalest</p>
+<p>Yakutsk is the world’s ______ (cold) city. </p>,1,one,
+,<p>most cold</p>
+,<p>colddest</p>
+*,<p>coldest</p>

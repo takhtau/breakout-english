@@ -1,0 +1,49 @@
+HTML
+<p>Babies cannot look after ___________</p>,1,one,
+*,<p>themselves</p>
+,<p>ourselves</p>
+,<p>itself</p>
+<p>I tried to control ___________</p>,1,one,
+,<p>yourself</p>
+*,<p>myself</p>
+,<p>himself</p>
+"<p>She got up, washed ___________ and left the house.</p>",1,one,
+,<p>himself</p>
+,<p>itself</p>
+*,<p>herself</p>
+<p>Who went with her? - Nobody. She went by ________</p>,1,one,
+*,<p>herself</p>
+,<p>myself</p>
+,<p>itself</p>
+"<p>Children, take the towel and dry __________</p>",1,one,
+,<p>myself</p>
+*,<p>yourselves</p>
+,<p>yourself</p>
+<p>I'm not angry with him. I'm angry with ______</p>,1,one,
+,<p>himself</p>
+,<p>yourself</p>
+*,<p>myself</p>
+<p>They never think about other people. They only think about ______</p>,1,one,
+*,<p>themselves</p>
+,<p>yourselves</p>
+,<p>herself</p>
+<p>Look at_____________! Your face is dirty.</p>,1,one,
+,<p>himself</p>
+*,<p>yourself</p>
+,<p>ourselves</p>
+<p>She has no reason to blame ___________</p>,1,one,
+,<p>himself</p>
+,<p>myself</p>
+*,<p>herself</p>
+<p>I cooked it _______.</p>,1,one,
+*,<p>myself</p>
+,<p>themselves</p>
+,<p>itself</p>
+<p>We cleaned it ___________.</p>,1,one,
+,<p>themselves</p>
+*,<p>ourselves</p>
+,<p>yourselves</p>
+<p>I washed my clothes _______.</p>,1,one,
+,<p>yourself</p>
+,<p>herself</p>
+*,<p>myself</p>

@@ -1,0 +1,57 @@
+HTML
+<p>_________ house is very large. </p>,1,one,
+,<p>Susan </p>
+,<p>Susans'</p>
+*,<p>Susan's</p>
+<p>We’re meeting in _________ house.</p>,1,one,
+,<p>Jack</p>
+*,<p>Jack's</p>
+,<p>Jacks'</p>
+<p>My__________brother is my uncle. </p>,1,one,
+*,<p>mother's</p>
+,<p>mothers'</p>
+,<p>mother</p>
+<p>The _________shoes are dirty. </p>,1,one,
+,<p>children</p>
+*,<p>children's </p>
+,<p>childrens'</p>
+<p>You ____ not buy the child everything he wants. </p>,1,one,
+*,<p>need</p>
+,<p>needn't</p>
+<p>You ____ not do everything by yourself. You can ask for help.</p>,1,one,
+,<p>needn't</p>
+*,<p>need</p>
+<p>______ I cook? We can go to the restaurant. </p>,1,one,
+,<p>Needn't</p>
+*,<p>Need</p>
+<p>You ______ go at the meeting. You have nothing to do there.</p>,1,one,
+*,<p>needn't</p>
+,<p>need</p>
+<p>Does Sarah _________ go to her mum’s place tomorrow? </p>,1,one,
+,<p>has to</p>
+*,<p>have to </p>
+,<p>must</p>
+<p>Denis ________ wash the dishes every day. </p>,1,one,
+,<p>have to </p>
+*,<p>has to</p>
+,<p>must</p>
+<p>It’s Sunday tomorrow. I … get up early.</p>,1,one,
+*,<p>don't have to </p>
+,<p>have to </p>
+,<p>mustn't </p>
+<p>My little sister _________ wash her clothes. </p>,1,one,
+,<p>mustn't </p>
+*,<p>doesn’t have to</p>
+,<p>don't have to </p>
+<p>Sally ______ work more because she missed some lessons.</p>,1,one,
+*,<p>should</p>
+,<p>shouldn't</p>
+<p>You _______ start smoking. </p>,1,one,
+,<p>should</p>
+*,<p>shouldn't</p>
+"<p>The baby ________ be in bed, because it is very late.</p>",1,one,
+*,<p>should</p>
+,<p>shouldn't</p>
+<p>Mothers_______ shout at their children.</p>,1,one,
+,<p>should</p>
+*,<p>shouldn't</p>

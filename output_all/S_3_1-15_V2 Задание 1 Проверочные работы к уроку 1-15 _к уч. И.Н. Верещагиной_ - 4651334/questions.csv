@@ -1,0 +1,41 @@
+HTML
+<p>He usually _____ grammar exercises.</p>,1,one,
+,<p>write</p>
+*,<p>writes</p>
+,<p>is writing</p>
+<p>He is _____ grammar exercises.</p>,1,one,
+,<p>write</p>
+,<p>writes</p>
+*,<p>writing</p>
+<p>He _____ grammar exercises.</p>,1,one,
+*,<p>will write</p>
+,<p>write</p>
+,<p>writing</p>
+<p>His _____ name is Sveta.</p>,1,one,
+*,<p>sister's</p>
+,<p>sisters'</p>
+,<p>sisters</p>
+<p>Dan wants _____ basketball.</p>,1,one,
+,<p>play</p>
+,<p>plays</p>
+*,<p>to play</p>
+<p>Jane can _____ basketball.</p>,1,one,
+*,<p>play</p>
+,<p>plays</p>
+,<p>to play</p>
+<p>Why _____ so hot in the room?</p>,1,one,
+,<p>it is</p>
+*,<p>is it</p>
+,<p>it</p>
+<p>_____ Smirnovs have got a nice garden.</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+,<p>-</p>
+<p>The women _____ from Kazan.</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+,<p>live</p>
+<p>Has she got _____ uncle?</p>,1,one,
+,<p>a</p>
+*,<p>an</p>
+,<p>the</p>

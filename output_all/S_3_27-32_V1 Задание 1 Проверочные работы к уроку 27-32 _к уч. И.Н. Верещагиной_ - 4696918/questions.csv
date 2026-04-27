@@ -1,0 +1,41 @@
+HTML
+<p>Who _____ the sweets yesterday?</p>,1,one,
+*,<p>ate</p>
+,<p>did eat</p>
+,<p>does eat</p>
+<p>I _____ hungry.</p>,1,one,
+*,<p>am not</p>
+,<p>cannot</p>
+,<p>don't</p>
+<p>What _____ you eat for breakfast?</p>,1,one,
+,<p>are</p>
+*,<p>did</p>
+,<p>have</p>
+<p>The _____ lives in that house.</p>,1,one,
+*,<p>man</p>
+,<p>men</p>
+,<p>children</p>
+<p>How _____ fruit have we got?</p>,1,one,
+*,<p>much</p>
+,<p>many</p>
+,<p>old</p>
+<p>She has got a lot of _____ .</p>,1,one,
+,<p>banana</p>
+,<p>sweet</p>
+*,<p>jam</p>
+<p>_____ is he from?</p>,1,one,
+,<p>when</p>
+*,<p>where</p>
+,<p>why</p>
+<p>Did you bring many _____ ?</p>,1,one,
+,<p>chocolate</p>
+,<p>sweet</p>
+*,<p>sweets</p>
+<p>These are Ann's _____ .</p>,1,one,
+,<p>dress</p>
+*,<p>shoes</p>
+,<p>box</p>
+<p>Do you buy _____ bread?</p>,1,one,
+,<p>a lot</p>
+,<p>many</p>
+*,<p>much</p>

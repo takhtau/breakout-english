@@ -1,0 +1,49 @@
+HTML
+<p>Tom (to return) from the cinema at five o’clock.</p>,1,one,
+*,<p>returned</p>
+,<p>had returned</p>
+,<p>returns</p>
+<p>Tom (to return) from the cinema by five o’clock.</p>,1,one,
+,<p>returned</p>
+*,<p>had returned</p>
+,<p>returns</p>
+<p>I (to finish) my homework at seven o’clock.</p>,1,one,
+,<p>had finished</p>
+,<p>finish</p>
+*,<p>finished</p>
+<p>I (to finish) my homework by seven o’clock.</p>,1,one,
+*,<p>had finished</p>
+,<p>finished</p>
+,<p>finish</p>
+<p>He thought that he (to lose) the money.</p>,1,one,
+,<p>lost</p>
+*,<p>had lost</p>
+,<p>loses</p>
+<p>Ann told me that she (to see) an interesting film.</p>,1,one,
+,<p>saw</p>
+,<p>sees</p>
+*,<p>had seen</p>
+"<p>When I (to come) home, mother had already cooked dinner.</p>",1,one,
+*,<p>came</p>
+,<p>come</p>
+,<p>had come</p>
+"<p>When father (to return) from work, we had already done our homework.</p>",1,one,
+,<p>had returned</p>
+*,<p>returned</p>
+,<p>returns</p>
+"<p>When the teacher entered the classroom, the pupils ... already ... (to open) their books.</p>",1,one,
+,<p>do/open</p>
+,<p>did/open</p>
+*,<p>had/opened</p>
+<p>Kate gave me the book which she (to buy) the day before.</p>,1,one,
+*,<p>had bought</p>
+,<p>bought</p>
+,<p>buys</p>
+<p>Nick (to show) the teacher the picture which he had drawn.</p>,~1,one,
+,<p>had showed</p>
+*,<p>showed</p>
+,<p>shows</p>
+<p>The boy (to give) the goats the grass which he had brought from the field.</p>,1,one,
+,<p>had given</p>
+,<p>gives</p>
+*,<p>gave</p>

@@ -1,0 +1,49 @@
+HTML
+<p>This book is very (interest).</p>,1,one,
+*,<p>interesting</p>
+,<p>interested</p>
+,<p>interest</p>
+<p>She finds her job (exhaust).</p>,1,one,
+,<p>exhausted</p>
+*,<p>exhausting</p>
+,<p>exhaust</p>
+<p>It was an (excite) experience for her. </p>,1,one,
+,<p>excite</p>
+,<p>excited</p>
+*,<p>exciting</p>
+<p>I’m (interest) in landscape design. </p>,1,one,
+*,<p>interested</p>
+,<p>interesting</p>
+,<p>interest</p>
+<p>At the end of the day she is often (exhaust). </p>,1,one,
+,<p>exhausting</p>
+*,<p>exhausted</p>
+,<p>exhaust</p>
+<p>She is (excite) about going to Portugal.</p>,1,one,
+,<p>exciting</p>
+,<p>excite</p>
+*,<p>excited</p>
+<p>I’m (bore). Let’s go home. </p>,1,one,
+*,<p>bored</p>
+,<p>boring</p>
+,<p>bore</p>
+"<p>You are not (bore), you are quite an interesting person. </p>",1,one,
+,<p>bored</p>
+*,<p>boring</p>
+,<p>bore</p>
+<p>Roger lookes (amaze) in the picture. </p>,~1,one,
+,<p>amazed</p>
+,<p>amaze</p>
+*,<p>amazing</p>
+<p>Roger looked (amaze)when he saw me.</p>,1,one,
+*,<p>amazed</p>
+,<p>amazing</p>
+,<p>amaze</p>
+<p>She was (inspire) with his enthusiasm. </p>,1,one,
+,<p>inspiring</p>
+*,<p>inspired</p>
+,<p>inspire</p>
+<p>The weather makes me feel (depress).</p>,1,one,
+,<p>depress</p>
+,<p>depressing</p>
+*,<p>depressed</p>

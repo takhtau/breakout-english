@@ -1,0 +1,37 @@
+HTML
+<p>The weather is ... bad today. </p>,1,one,
+*,<p>so</p>
+,<p>such</p>
+"<p>Let’s order a pizza, I am ... hungry. </p>",1,one,
+,<p>such</p>
+*,<p>so</p>
+<p>Your home is ... far. </p>,1,one,
+*,<p>so</p>
+,<p>such</p>
+<p>They are ... smart students. </p>,1,one,
+*,<p>such</p>
+,<p>so</p>
+<p>This boy is ... a liar. </p>,1,one,
+,<p>so</p>
+*,<p>such</p>
+<p>He thinks all girls are ... gossips. </p>,1,one,
+*,<p>such</p>
+,<p>so</p>
+<p>Those cookies are ... tasty. </p>,1,one,
+,<p>such</p>
+*,<p>so</p>
+<p>They ate ... tasty cookies. </p>,1,one,
+*,<p>such</p>
+,<p>so</p>
+<p>This boy is ... modest. </p>,1,one,
+,<p>such</p>
+*,<p>so</p>
+<p>The film is ... interesting. </p>,1,one,
+*,<p>so</p>
+,<p>such</p>
+<p>A car was ... expensive. </p>,1,one,
+,<p>such</p>
+*,<p>so</p>
+<p>She brought ... a heavy box. </p>,1,one,
+*,<p>such</p>
+,<p>so</p>

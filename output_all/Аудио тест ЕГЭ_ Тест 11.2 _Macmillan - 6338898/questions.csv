@@ -1,0 +1,29 @@
+HTML
+<p>A Eric has still got a lot of packing to do at his house.</p>,1,one,
+,<p>True</p>
+*,<p>False</p>
+,<p>Not stated </p>
+<p>B Eric and his family will help the movers move things. </p>,1,one,
+,<p>True</p>
+,<p>False</p>
+*,<p>Not stated </p>
+<p>C Eric is not happy living at his house at the moment. </p>,1,one,
+*,<p>True</p>
+,<p>False</p>
+,<p>Not stated </p>
+<p>D There's a bus that stops in front of Leila's house. </p>,1,one,
+,<p>True</p>
+*,<p>False</p>
+,<p>Not stated </p>
+<p>E Eric's new neighbourhood has an efficient bus service. </p>,1,one,
+,<p>True</p>
+,<p>False</p>
+*,<p>Not stated </p>
+<p>F Leila's parents haven't moved in several years. </p>,1,one,
+*,<p>True</p>
+,<p>False</p>
+,<p>Not stated </p>
+<p>G Eric pleased to have thrown away lots of stuff. </p>,1,one,
+*,<p>True</p>
+,<p>False</p>
+,<p>Not stated </p>

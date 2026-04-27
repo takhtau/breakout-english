@@ -1,0 +1,73 @@
+HTML
+<p>... it ... be so late now?</p>,1,one,
+,<p>Is/able to</p>
+*,<p>Can/-</p>
+,<p>Able/to</p>
+<p>We will ... finish it next week.</p>,1,one,
+,<p>can</p>
+*,<p>be able to</p>
+,<p>able to</p>
+<p>I think I won't ... to answer that question.</p>,1,one,
+,<p>can</p>
+,<p>able to</p>
+*,<p>be able to</p>
+<p>She_______ be very particular about what she eats.</p>,1,one,
+,<p>should</p>
+*,<p>must</p>
+,<p>ought to </p>
+"<p>You ______not quarrel in the presence of your child. Otherwise, he will not be too shocked when the home is broken up later.</p>",1,one,
+,<p>must</p>
+,<p>ought to </p>
+*,<p>should</p>
+"<p>Anna, you _________ feed those poor kittens. </p>",1,one,
+,<p>must</p>
+*,<p>ought to </p>
+,<p>should</p>
+<p>I _____ not go there (50/50)</p>,1,one,
+*,<p>may</p>
+,<p>can</p>
+,<p>need</p>
+<p>_____ shout at her! </p>,1,one,
+,<p>Who dare you </p>
+,<p>Which dare you </p>
+*,<p>How dare you </p>
+<p> Навряд ли  Грег не заметил нас.</p>,1,one,
+,<p>Greg can not have noticed us. </p>
+,<p>Greg must not have noticed us.</p>
+*,<p>Greg might not have noticed us.</p>
+<p>Helen _____ have been working all day yesterday. </p>,1,one,
+,<p>can</p>
+*,<p>could</p>
+,<p>need</p>
+"<p>Это может быть кот наших соседей. (Вы, кажется, слышали, что у соседей есть кот)</p>",1,one,
+,<p>It could be our neighbors' cat </p>
+*,<p>It may be our neighbors' cat </p>
+,<p>It can be our neighbors' cat </p>
+"<p>Возможно, это машина моего соседа, но я не уверен. </p>",1,one,
+*,"<p>This car could be my neighbour’s, but I’m not sure.</p>"
+,"<p>This car might be my neighbour’s, but I’m not sure.</p>"
+,"<p>This car need my neighbour’s, but I’m not sure.</p>"
+<p>You ... leave your suitcases here. This place is full of thieves. </p>,1,one,
+,<p>might not</p>
+*,<p>mustn't</p>
+,<p>allowed to</p>
+<p>You should (help) your classmate. </p>,1,one,
+,<p>help </p>
+,<p>be helping </p>
+*,<p>have helped </p>
+<p>You should (take) some medicine.</p>,1,one,
+*,<p>have taken </p>
+,<p>take</p>
+,<p>be taking </p>
+<p>He can't (see) this picture. </p>,1,one,
+,<p>see</p>
+*,<p>have seen </p>
+,<p>be seeing</p>
+<p>You needn't (worry) about us. </p>,1,one,
+*,<p>have worried</p>
+,<p>worry </p>
+,<p>to worry</p>
+<p>You needn't (check) for spelling mistakes. </p>,1,one,
+,<p>check </p>
+,<p>to check </p>
+*,<p>have checked </p>

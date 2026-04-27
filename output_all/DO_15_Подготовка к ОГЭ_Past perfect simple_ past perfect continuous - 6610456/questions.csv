@@ -1,0 +1,22 @@
+HTML
+<p>We'd had dinner when Wendy arrived. </p>,1,one,
+,<p>Wendy arrived and then we had dinner. </p>
+*,<p>We had dinner and then Wendy arrived. </p>
+<p>I read the book after I've seen the film. </p>,1,one,
+*,<p>I saw the film and then I read the book. </p>
+,<p>I read the book and then I saw the film. </p>
+"<p>By the time Dad came home, I'd gone to bed. </p>",1,one,
+*,<p>I went to bed before Dad came home. </p>
+,<p>I went to bed after Dad came home. </p>
+<p>She didn't go to bed until her mum had come home. </p>,1,one,
+,<p>She went to bed and then her mum came home. </p>
+*,<p>Her mum came home and then she went to bed. </p>
+<p>Mr Banks hadn't arrived at the office by the time I got there. </p>,1,one,
+*,<p>I arrived before Mr Banks. </p>
+,<p>Mr Banks arrived before me. </p>
+<p>They'd bought the plane tickets before they heard about the cheaper flight. </p>,1,one,
+*,<p>They bought the plane tickets and later they heard about the cheaper flight. </p>
+,<p>They heard about the cheaper flight and then they bought the plane tickets. </p>
+<p>The girls had tidied the house when the visitors arrived. </p>,1,one,
+,<p>The visitors arrived and later the girls tidied the house. </p>
+*,<p>The girls tidied the house and then the visitors arrived. </p>

@@ -1,0 +1,49 @@
+HTML
+<p>I can't tell which are ...</p>,1,one,
+*,<p>mine</p>
+,<p>my</p>
+,<p>me</p>
+<p>This is ... note-book.</p>,~1,one,
+,<p>mine</p>
+*,<p>my</p>
+,<p>me</p>
+<p>Can you stay with ...?</p>,1,one,
+,<p>mine</p>
+,<p>I</p>
+*,<p>me</p>
+<p>... eyes are blue.</p>,1,one,
+*,<p>my</p>
+,<p>mine</p>
+,<p>I</p>
+<p>Don't talk to ...</p>,1,one,
+,<p>I</p>
+*,<p>me</p>
+,<p>mine</p>
+<p>He put his hand in ...</p>,1,one,
+,<p>me</p>
+,<p>I</p>
+*,<p>mine</p>
+<p>... put on a coat.</p>,1,one,
+*,<p>I</p>
+,<p>my</p>
+,<p>me</p>
+<p>The dress is ...</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>me</p>
+<p>... am very happy today.</p>,1,one,
+,<p>my</p>
+,<p>me</p>
+*,<p>I</p>
+<p>He pointed at ...</p>,1,one,
+*,<p>me</p>
+,<p>I</p>
+,<p>mine</p>
+<p>It was in ... envelope. </p>,~1,one,
+,<p>mine</p>
+*,<p>my</p>
+,<p>I</p>
+<p>Put your head on ... shoulder. </p>,1,one,
+,<p>me</p>
+,<p>mine</p>
+*,<p>my</p>

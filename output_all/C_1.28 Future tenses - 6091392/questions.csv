@@ -1,0 +1,31 @@
+HTML
+<p>Tomorrow I ___ all day.</p>,1,one,
+*,<p>will be painting</p>
+,<p>will paint</p>
+"<p>By the time we get there, the store ___. </p>",1,one,
+,<p>will close</p>
+*,<p>will have closed</p>
+<p>I ___ you tomorrow at 3:00 PM.</p>,1,one,
+*,<p>will see</p>
+,<p>see</p>
+"<p>After we finish this video, I ___ all of this director's movies.</p>",1,one,
+,<p>will see</p>
+*,<p>will have seen</p>
+"<p>Can I come over in an hour? No, I ___ the house.</p>",1,one,
+,<p>will clean</p>
+*,<p>will be cleaning</p>
+"<p>This time next week, I ___ wine in Argentina.</p>",1,one,
+*,<p>will be drinking </p>
+,<p>will drink </p>
+"<p>She doesn't realize what kind of person he is, but she ___.</p>",1,one,
+,<p>will be finding </p>
+*,<p>will find out</p>
+"<p>She insulted me, I ___ to her again!</p>",1,one,
+*,<p>will never speak</p>
+,<p>will have never spoken</p>
+"<p>If he continues drinking so fast, he ___ the whole bottle by midnight. </p>",1,one,
+*,<p>will have drunk</p>
+,<p>will be drinking</p>
+<p>She ___ me when her birthday is.</p>,1,one,
+,<p>will not be telling</p>
+*,<p>won't tell</p>

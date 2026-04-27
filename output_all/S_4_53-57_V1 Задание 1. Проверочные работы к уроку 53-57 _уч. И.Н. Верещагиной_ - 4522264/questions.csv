@@ -1,0 +1,41 @@
+HTML
+<p>He had nothing interesting. - ...................... .</p>,1,one,
+*,"<p>No, he didn't</p>"
+,"<p>Yes, he didn't</p>"
+,"<p>No, he hadn't</p>"
+<p>- Who likes to wear jeans?</p><p> - The boys................. .</p>,1,one,
+*,<p>do</p>
+,<p>does</p>
+,<p>like</p>
+"<p>You had a good time, ....................?</p>",1,one,
+,<p>did you</p>
+*,<p>didn't you </p>
+,<p>hadn't you</p>
+"<p>I am a bad singer, .................?</p>",1,one,
+*,<p>aren't I</p>
+,<p>isn't it</p>
+,<p>don't I</p>
+<p>- She lives in Russia.</p><p>- How long.....................in Russia?</p>,1,one,
+,<p>does she live</p>
+*,<p>has she lived</p>
+,<p>did she live</p>
+"<p>It never rains there, .......................?</p>",1,one,
+,<p>is it</p>
+*,<p>does it</p>
+,<p>doesn't it</p>
+<p>He..........................breakfast. Now he is washing up.</p>,1,one,
+,<p>has</p>
+,<p>had</p>
+*,<p>has had</p>
+<p>....................no people in the park.</p>,1,one,
+*,<p>There will be</p>
+,<p>There won't be</p>
+,<p>It will be</p>
+<p>Jim is a......................speaker.</p>,1,one,
+*,<p>slow</p>
+,<p>slowly</p>
+,<p>well</p>
+"<p>I have no key, so I.......................lock the door.</p>",1,one,
+,<p>will have to</p>
+*,<p>won't be able to</p>
+,<p>could</p>

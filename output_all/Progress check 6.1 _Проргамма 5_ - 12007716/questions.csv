@@ -1,0 +1,42 @@
+HTML
+<p>I will go to the shop ... is next to the police station.</p>,1,one,
+,<p>who</p>
+*,<p>which</p>
+,<p>what</p>
+<p>These are the shoes ... I found in the closet.</p>,1,one,
+,<p>who</p>
+,<p>–</p>
+*,<p>that</p>
+<p>“Last Christmas” is the song ... she listens all the time.</p>,1,one,
+,<p>who</p>
+,<p>–</p>
+*,<p>that</p>
+<p>I visited the museum ... my friend recommended.</p>,1,one,
+,<p>who</p>
+*,<p>which</p>
+,<p>why</p>
+<p>They live in Nashville ... is a big city. </p>,1,one,
+,<p>who</p>
+*,<p>which</p>
+,<p>how</p>
+<p>I lost the teddy bear ... was on the bed.</p>,1,one,
+,<p>who</p>
+*,<p>which</p>
+,<p>–</p>
+<p>_____ _____ did it take you to change your life?</p>,1,one,
+*,How long
+,<p>How old</p>
+,<p>How many</p>
+<p>How long does it take from here to your house ___ ______? (на машине)</p>,1,one,
+*,by car
+,<p>a car</p>
+,<p>with car</p>
+<p>It took ___ 10 minutes to come back there. </p>,1,one,
+*,<p>me</p>
+,<p>for me</p>
+<p>It _______ me one day to make a box. (present simple)</p>,1,one,
+*,takes
+,<p>take</p>
+<p>It _______ him such a long time to write a book. (past simple)</p>,1,one,
+*,took
+,<p>takes</p>

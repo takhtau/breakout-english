@@ -1,0 +1,40 @@
+HTML
+<p>There _____ two cups of tea on the table.</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>There _____ milk in the cup.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There _____ six balls in the box.</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>There _____ an orange in the fridge.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There ______ a blue chair at the door.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There _____ five chicks and a hen on the farm.</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>________there any jam on the table?</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>_______there two cups of tea on the table?</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>_______there any biscuits in the cupboard? </p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>There______two puppies in the bathroom </p>,1,one,
+,<p>isn't</p>
+,<p>aren't </p>
+*,<p>are no</p>
+<p>There________ hamster in the hall. </p>,1,one,
+,<p>isn't</p>
+*,<p>is no</p>
+,<p>aren't </p>
+<p>There________ cat near the cupboard. </p>,1,one,
+*,<p>is no</p>
+,<p>are no</p>
+,<p>aren't </p>

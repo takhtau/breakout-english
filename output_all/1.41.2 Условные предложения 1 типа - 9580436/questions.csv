@@ -1,0 +1,45 @@
+HTML
+"<p>If Maria goes abroad, she ______ (to go) to England or America. </p>",1,one,
+*,<p>will go</p>
+,<p>goes</p>
+,<p>go</p>
+<p>She ______ (to visit) London if she goes to England. </p>,1,one,
+,<p>visits</p>
+*,<p>will visit</p>
+,<p>visit</p>
+"<p>If she _______ (stay) in London, she will spend much money. </p>",1,one,
+,<p>will stay</p>
+,<p>stay</p>
+*,<p>stays</p>
+"<p>If her holiday is very short, she ________ (not to practice) her English. </p>",1,one,
+,<p>doesn't practice</p>
+*,<p>won't practice</p>
+,<p>don't practice</p>
+<p>It will be a pity if she _______ (not to try) to speak English.  </p>,1,one,
+,<p>won't try</p>
+,<p>don't try</p>
+*,<p>doesn't try</p>
+"<p>If Molly _______ (to leave) now, she’ll catch the bus. </p>",~1,one,
+*,<p>leaves</p>
+,<p>leave</p>
+,<p>will leave</p>
+"<p>If I stay in bed, I _____ (to feel) better.</p>",1,one,
+,<p>feel</p>
+*,<p>will feel</p>
+,<p>feels</p>
+"<p>Unless I work hard, I ______ (not to get) a job.</p>",1,one,
+,<p>don't get</p>
+,<p>doesn't get</p>
+*,<p>won't get</p>
+"<p>If I _____ (to go) shopping, I will spend much money.</p>",1,one,
+*,<p>go</p>
+,<p>will go</p>
+,<p>goes</p>
+"<p>If you ride a bike, you ______ (to get) there quickly.</p>",1,one,
+,<p>get</p>
+*,<p>will get</p>
+,<p>gets</p>
+"<p>If you come now, we _______ (to go out) together.</p>",1,one,
+,<p>go out</p>
+,<p>goes out</p>
+*,<p>will go out</p>

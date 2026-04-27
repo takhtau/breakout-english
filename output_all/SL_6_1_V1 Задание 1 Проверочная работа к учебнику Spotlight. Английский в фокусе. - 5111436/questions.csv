@@ -1,0 +1,61 @@
+HTML
+<p>_____ is she? - She is Marina's teacher.</p>,1,one,
+*,<p>Who</p>
+,<p>What</p>
+,<p>Whose</p>
+<p>_____ teacher is she? - Marina's.</p>,1,one,
+,<p>Who</p>
+,<p>What</p>
+*,<p>Whose</p>
+<p>_____ apples have you got?</p>,1,one,
+*,<p>How many</p>
+,<p>How</p>
+,<p>How much</p>
+<p>_____ apple jam have you got?</p>,1,one,
+,<p>How many</p>
+*,<p>How much</p>
+,<p>How</p>
+<p>Is there _____ apple jam in the fridge?</p>,1,one,
+,<p>a</p>
+,<p>some</p>
+*,<p>any</p>
+"<p>We haven't got any plums, but we've got _____ apples.</p>",1,one,
+,<p>a</p>
+*,<p>some</p>
+,<p>any</p>
+<p>_____ is at school.</p>,1,one,
+*,<p>Vlad</p>
+,<p>Vlad's</p>
+,<p>His</p>
+<p>You can meet _____ at school.</p>,1,one,
+*,<p>Vlad</p>
+,<p>Vlad's</p>
+,<p>his</p>
+<p>_____ school is next to the museum.</p>,1,one,
+,<p>Vlad</p>
+*,<p>Vlad's</p>
+,<p>Him</p>
+<p>You can take _____ postcard.</p>,1,one,
+,<p>two</p>
+,<p>second</p>
+*,<p>the second</p>
+<p>You can take _____ postcards.</p>,1,one,
+,<p>the second</p>
+,<p>second</p>
+*,<p>two</p>
+<p>Those _____ are good at English.</p>,1,one,
+,<p>student</p>
+*,<p>students</p>
+,<p>students'</p>
+<p>The _____ books are in the bookcase.</p>,1,one,
+,<p>student</p>
+,<p>students</p>
+*,<p>students'</p>
+<p>Are there _____ sandwiches in the fridge?</p>,1,one,
+,<p>some</p>
+*,<p>any</p>
+,<p>a</p>
+<p>Is there _____ sandwich in the fridge?</p>,1,one,
+,<p>some</p>
+,<p>any</p>
+*,<p>a</p>

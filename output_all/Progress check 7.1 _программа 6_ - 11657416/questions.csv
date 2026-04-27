@@ -1,0 +1,61 @@
+HTML
+<p>Is your pet a rabbit or _______?</p>,1,one,
+,<p>a lion</p>
+,<p>a bear </p>
+*,<p>a dog</p>
+<p>Do you like listening to music or _______?</p>,1,one,
+*,<p>watching TV</p>
+,<p>go to school</p>
+,<p>went shopping</p>
+<p>Is she from America or _______?</p>,1,one,
+*,<p>from Russia</p>
+,<p>at home</p>
+,<p>in Tyumen</p>
+<p>Is Michelle baking a cake or _______?</p>,1,one,
+,<p>sweets</p>
+*,<p>pizza</p>
+,<p>ice-cream</p>
+<p>Does a bus or _______ arrive at seven o’clock?</p>,1,one,
+,<p>a plane</p>
+,<p>a road</p>
+*,<p>a train</p>
+<p>My sister was born in (2000)</p>,1,one,
+,<p>twenty thousand</p>
+*,<p>two thousand </p>
+,<p>second thousand </p>
+<p>It was discovered in (1999)</p>,1,one,
+*,<p>nineteen ninety-nine </p>
+,<p>nineteenth ninety-nine </p>
+,<p>nineteen ninety-nineth </p>
+<p>Tuesday is the _______ day of the week. </p>,1,one,
+*,<p>second </p>
+,<p>two </p>
+,<p>twos </p>
+<p>Halloween is on (31.10). </p>,1,one,
+,<p>the thirty-first in October </p>
+,<p>the thirty-one of October </p>
+*,<p>the thirty-first of October </p>
+<p>We got married on (20.05.2017)</p>,1,one,
+*,"<p>May (the) twentieth, twenty seventeen</p>"
+,"<p>May in twentieth, twenty seventeen</p>"
+,"<p>May of twentieth, twenty seventeen</p>"
+<p>It’s half past six.</p>,1,one,
+*,<p>6:30</p>
+,<p>5:30</p>
+,<p>7:30</p>
+<p>It’s ten past five.</p>,1,one,
+,<p>4:50</p>
+*,<p>5:10</p>
+,<p>10:05</p>
+<p>It’s a quarter past seven.</p>,1,one,
+,<p>7:07</p>
+,<p>7:45</p>
+*,<p>7:15</p>
+<p>It’s twenty to one.</p>,1,one,
+*,<p>12:40</p>
+,<p>12:20</p>
+,<p>1:20</p>
+<p>It’s a quarter to five.</p>,1,one,
+,<p>5:45</p>
+,<p>5:15</p>
+*,<p>4:45</p>

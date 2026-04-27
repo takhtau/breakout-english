@@ -1,0 +1,49 @@
+HTML
+<p>They (to move) to their new house by that time.</p>,1,one,
+*,<p>will have moved</p>
+,<p>will move</p>
+,<p>will be moving</p>
+<p>I (to make) the decision by 2 o'clock tomorrow.</p>,1,one,
+,<p>will make</p>
+*,<p>will have made</p>
+,<p>will be making</p>
+<p>They (to finish) writing the test by 10 o'clock tomorrow.</p>,1,one,
+,<p>will finish</p>
+,<p>will be finishing</p>
+*,<p>will have finished</p>
+<p>My brother (to graduate) from university by next autumn.</p>,1,one,
+*,<p>will have graduated</p>
+,<p>will graduate</p>
+,<p>will be graduating</p>
+<p>I (to forget) you by that time.</p>,1,one,
+,<p>will be forgetting</p>
+*,<p>will have forgotten</p>
+,<p>will forget</p>
+<p>He (to leave) for Scotland by next Saturday.</p>,1,one,
+,<p>will be leaving</p>
+,<p>will leave</p>
+*,<p>will have left</p>
+<p>She (to recieve) my letter by 11 o'clock tomorrow.</p>,1,one,
+*,<p>will have recieved</p>
+,<p>will recieve</p>
+,<p>will be recieving</p>
+<p>I (to go) to the swimming pool by the time you come home.</p>,1,one,
+,<p>will be going</p>
+*,<p>will have gone</p>
+,<p>will go</p>
+<p>I (to finish) this task by 4 o'clock tonight.</p>,1,one,
+,<p>will be finishing</p>
+,<p>will finish</p>
+*,<p>will have finished</p>
+<p>They (to go) to the cinema by now.</p>,1,one,
+*,<p>will have gone</p>
+,<p>will go</p>
+,<p>will be going</p>
+<p>She (to cook) dinner by 8 o'clock tonight. </p>,1,one,
+,<p>will be cooking</p>
+*,<p>will have cooked</p>
+,<p>will cook</p>
+<p>You (to study) the English tenses by 10 o'clock tonight.</p>,1,one,
+,<p>will study</p>
+,<p>will be studying</p>
+*,<p>will have studied</p>

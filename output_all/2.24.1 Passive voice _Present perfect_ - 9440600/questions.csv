@@ -1,0 +1,49 @@
+HTML
+<p>Vegetables (to buy) by him recently </p>,1,one,
+,<p>has been bought</p>
+,<p>bought</p>
+*,<p>have been bought </p>
+<p>The song (listen)  to many times. </p>,1,one,
+*,<p>has been listened </p>
+,<p>listened </p>
+,<p>have been listened </p>
+<p>The door (lock)  by someone. </p>,1,one,
+,<p>have been locked</p>
+*,<p>has been locked </p>
+,<p>locked</p>
+<p>The flowers (water)  by me. </p>,1,one,
+*,<p>have been watered </p>
+,<p>has been watered</p>
+,<p>watered</p>
+<p>The keys (find)  by Kate. </p>,1,one,
+,<p>has been found</p>
+,<p>found </p>
+*,<p>have been found</p>
+<p>Mike (see) by his friends.</p>,1,one,
+*,<p>has been seen </p>
+,<p>have been seen</p>
+,<p>saw</p>
+<p>The book already (discuss) by the students</p>,1,one,
+,<p>have been discussed </p>
+,<p>discussed </p>
+*,<p>has been discussed</p>
+<p>These documents (bring) by your secretary </p>,1,one,
+*,<p>have been brought</p>
+,<p>brought</p>
+,<p>has been brought </p>
+"<p>My sister (give) many sweets, she is happy </p>",1,one,
+,<p>have been given</p>
+*,<p>has been given</p>
+,<p>gave</p>
+<p>The flowers already (to water)</p>,1,one,
+*,<p>have been watered</p>
+,<p>has been watered</p>
+,<p>were watered</p>
+<p>His letter (send) to the wrong address. </p>,1,one,
+,<p>have been sent </p>
+*,<p>has been sent</p>
+,<p>sent</p>
+<p>The homework  just (finish).  </p>,1,one,
+*,<p>has been finished</p>
+,<p>have been finished </p>
+,<p>finished</p>

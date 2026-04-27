@@ -1,0 +1,49 @@
+HTML
+<p>The pupils ________ a race at the stadium last week. </p>,1,one,
+*,<p>ran </p>
+,<p>run</p>
+,<p>runed</p>
+<p>Their family ________ to the seaside a month ago.</p>,1,one,
+,<p>go</p>
+*,<p>went </p>
+,<p>goes</p>
+<p>Al __________ black shoes three days ago.</p>,1,one,
+*,<p>bought</p>
+,<p>buy </p>
+,<p>buyed  </p>
+<p>I ________ a call to Sam five minutes ago. </p>,1,one,
+,<p>gived </p>
+,<p>give</p>
+*,<p>gave</p>
+<p>Alice _______ a warm sweater last month. </p>,1,one,
+*,<p>knit </p>
+,<p>knited</p>
+,<p>knits </p>
+<p>My niece _______ supper yesterday. </p>,1,one,
+,<p>didn't had</p>
+*,<p>didn't have</p>
+,<p>doesn't have</p>
+<p>Her husband ______ a shower yesterday morning. </p>,1,one,
+*,<p>didn't take</p>
+,<p>doesn't take</p>
+,<p>didn't took </p>
+<p>Their grandson______ his homework yesterday. </p>,1,one,
+,<p>doesn't do</p>
+,<p>didn't did </p>
+*,<p>didn't do </p>
+<p>His sister_______for a walk last Thursday </p>,1,one,
+*,<p>didn't go</p>
+,<p>didn't went </p>
+,<p>doesn't go </p>
+<p>Where _______the girls live last year?</p>,1,one,
+*,<p>did</p>
+,<p>do</p>
+,<p>does</p>
+<p>Did they ____ to school two month ago?</p>,1,one,
+*,<p>go</p>
+,<p>went</p>
+,<p>goes</p>
+<p>Where did the girls ___ last month?</p>,1,one,
+*,<p>go</p>
+,<p>went</p>
+,<p>goes</p>

@@ -1,0 +1,29 @@
+HTML
+<p>A Amy is on her way to do some studying. </p>,1,one,
+,<p>True</p>
+*,<p>False</p>
+,<p>Not stated</p>
+<p>B Amy had to knock on her brother's door more than once. </p>,1,one,
+*,<p>True</p>
+,<p>False</p>
+,<p>Not stated</p>
+<p>C Amy's brother refused to turn down his music when she asked him to. </p>,1,one,
+,<p>True</p>
+*,<p>False</p>
+,<p>Not stated</p>
+<p>D Amy didn't like the kind of music her brother was playing. </p>,1,one,
+,<p>True</p>
+,<p>False</p>
+*,<p>Not stated</p>
+<p>E Amy's mum is always home when Amy gets home from school. </p>,1,one,
+,<p>True</p>
+*,<p>False</p>
+,<p>Not stated</p>
+<p>F Amy's parents don't do anything to help the situation. </p>,1,one,
+,<p>True</p>
+*,<p>False</p>
+,<p>Not stated</p>
+<p>G There's only one bathroom in George's home. </p>,1,one,
+,<p>True</p>
+*,<p>False</p>
+,<p>Not stated</p>

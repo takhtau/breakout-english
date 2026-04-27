@@ -1,0 +1,60 @@
+HTML
+<p>There is one room ___ their flat. (в)</p>,1,one,
+*,<p>in</p>
+,<p>on</p>
+,<p>next to</p>
+<p>There is a piano ____ the wall. (рядом с)</p>,1,one,
+,<p>on</p>
+*,<p>next to</p>
+,<p>behind</p>
+<p>There is a French book _____ the shelf. (на)</p>,1,one,
+,<p>in</p>
+,<p>under</p>
+*,<p>on</p>
+<p>There is a big balcony ___ his flat. (в)</p>,~1,one,
+*,<p>in</p>
+,<p>under</p>
+,<p>between</p>
+<p>Bat ________ a sweet now.</p>,1,one,
+,<p>eating</p>
+*,<p>is eating </p>
+,<p>are eating</p>
+<p>Jack is drawing on the desk _______. </p>,1,one,
+*,<p>now</p>
+,<p>usually</p>
+,<p>often</p>
+<p>What ____the teacher ________ on the blackboard now?</p>,1,one,
+*,<p>is  / writing </p>
+,<p>does / writing </p>
+,<p>are / writing </p>
+<p>What _____ you _______ now?</p>,1,one,
+,<p>is doing</p>
+*,<p>are doing</p>
+,<p>doing</p>
+<p>She________a notebook.</p>,1,one,
+,<p>have got</p>
+*,<p>has got</p>
+<p>Tom_________a scissors. </p>,1,one,
+,<p>have got</p>
+*,<p>has got</p>
+<p>I_________a paper. </p>,1,one,
+*,<p>have got</p>
+,<p>has got</p>
+<p>They______a flag. </p>,1,one,
+*,<p>have got</p>
+,<p>has got</p>
+<p>________you______a cat?</p>,1,one,
+*,<p>Have you got</p>
+,<p>Has you got</p>
+<p>There are ________ in the fridge. </p>,1,one,
+,<p>carrot </p>
+*,<p>carrots </p>
+,<p>carrotes </p>
+<p>My sisters cannot draw ________ . </p>,1,one,
+*,<p>mice</p>
+,<p>mouses</p>
+,<p>mices</p>
+<p> I like to play with_________ . </p>,1,one,
+,<p>cat</p>
+,<p>cates</p>
+*,<p>cats</p>

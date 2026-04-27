@@ -1,0 +1,61 @@
+HTML
+<p>_______ weather is fine today. </p>,1,one,
+,<p>a</p>
+,<p>-</p>
+*,<p>the</p>
+<p>He has got a phone. __phone is red.</p>,1,one,
+*,<p>the</p>
+,<p>a</p>
+,<p>-</p>
+<p>She goes to school in __ morning.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>____ sky is blue.</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>My brother is _____ pupil.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>an</p>
+<p>My father is ______ teacher.</p>,1,one,
+,<p>the</p>
+,<p>an</p>
+*,<p>a</p>
+<p>I play __piano. </p>,1,one,
+*,<p>the</p>
+,<p>-</p>
+,<p>a</p>
+<p>I always cook dinner in ____ evening.</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>the</p>
+<p>My__________brother is my uncle. </p>,1,one,
+*,<p>mother's</p>
+,<p>mothers'</p>
+,<p>mother</p>
+<p>The _________shoes are dirty. </p>,1,one,
+,<p>children</p>
+*,<p>children's </p>
+,<p>childrens'</p>
+<p>________ favourite food is pasta. </p>,1,one,
+,<p>Jake</p>
+,<p>Jakes'</p>
+*,<p>Jake's</p>
+<p>What is this ________ name? </p>,1,one,
+,<p>boy </p>
+,<p>boys' </p>
+*,<p>boy's</p>
+<p>We have ___ big dog.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>an</p>
+<p>I ___ jump and run.</p>,1,one,
+,<p>not</p>
+,<p>do</p>
+*,<p>can</p>
+<p>____ a dog swim? </p>,1,one,
+,<p>is</p>
+,<p>do</p>
+*,<p>can</p>

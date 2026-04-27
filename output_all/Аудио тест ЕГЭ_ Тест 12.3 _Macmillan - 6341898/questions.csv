@@ -1,0 +1,29 @@
+HTML
+<p>What is true about the art in Karen's gallery? </p>,1,one,
+,<p>Nothing in the basement was undamaged. </p>
+,<p>Most of the art on the main floor was undamaged. </p>
+*,<p>Some basement collections were undamaged. </p>
+<p>Some of the damaged paintings in Karen's basement can be repaired</p>,1,one,
+,<p>by Karen herself. </p>
+*,<p>by experts. </p>
+,<p>by the artists. </p>
+<p>Which option does Karen prefer for recovering the cost of the art? </p>,1,one,
+,<p>Repairing it and selling it at a discount. </p>
+*,<p>Waiting for her insurance company to pay in full. </p>
+,<p>Asking the artists to claim on their insurance. </p>
+<p>An artist that Karen knows</p>,1,one,
+,<p>luckily had her work insured. </p>
+,<p>will need two years to repair the damage. </p>
+*,<p>couldn't afford insurance. </p>
+<p>What happened to some public works of art? </p>,1,one,
+,<p>They were damaged in the storm. </p>
+,<p>They were completely lost in the storm. </p>
+*,<p>They were placed under protective material. </p>
+<p>The institute for art conservation</p>,1,one,
+*,<p>was extremely busy round the time of the storm. </p>
+,<p>received flood damage as a result of the storm. </p>
+,<p>was physically removing structures from a centres. </p>
+<p>What does Karen hope will result from the storm? </p>,1,one,
+,<p>The art world will help communities rebuild. </p>
+*,<p>Artists may draw inspiration from the storm's effect. </p>
+,<p>People will value art more highly. </p>

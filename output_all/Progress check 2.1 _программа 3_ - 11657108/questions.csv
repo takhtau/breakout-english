@@ -1,0 +1,77 @@
+HTML
+"<p>When I rang up my friend, he __________.</p>",1,one,
+*,<p>was sleeping </p>
+,<p>were sleeping </p>
+,<p>is sleeping </p>
+<p>What you _______ at six o’clock yesterday?</p>,1,one,
+*,<p>were you doing </p>
+,<p>is you doing </p>
+,<p>was you doing  </p>
+<p>I _________ a book at six o’clock yesterday.</p>,1,one,
+,<p>read</p>
+*,<p>was reading </p>
+,<p>am reading </p>
+<p>I _________ the dishes from six till seven yesterday.</p>,1,one,
+,<p>weren't washing </p>
+*,<p>wasn't washing </p>
+,<p>didn't wash</p>
+<p>He ______ a book the whole evening yesterday.</p>,1,one,
+,<p>read</p>
+*,<p>was reading</p>
+,<p>were reading</p>
+<p>He _________ tennis the day before yesterday.</p>,1,one,
+,<p>was playing</p>
+,<p>were playing</p>
+*,<p>played</p>
+"<p>When I came into the kitchen, mother (to cook).</p>",1,one,
+*,<p>was cooking</p>
+,<p>were cooking</p>
+,<p>cooked</p>
+<p>Have you already _______ tomorrow’s weather forecast?</p>,1,one,
+,<p>hear</p>
+*,<p>heard </p>
+,<p>hearing </p>
+<p>They ____just ____ you a pay rise.</p>,1,one,
+*,<p>have /given </p>
+,<p>have /gave</p>
+,<p>has /given</p>
+<p>____________ a piece of cake? You ________ much.</p>,1,one,
+*,<p>Have you only had/haven't eaten </p>
+,<p>Has you only had/hasn't eaten </p>
+,<p>Are you only having/aren't eating </p>
+<p>__________ any good movies recently?</p>,1,one,
+,<p>Has you seen </p>
+,<p>Did you see</p>
+*,<p>Have you seen</p>
+<p>_____they ______ their electric bill this month?</p>,1,one,
+*,<p>Have/paid</p>
+,<p>Are/paying</p>
+,<p>Do/pay</p>
+<p>Larry ______ never ______ a sports car.</p>,1,one,
+,<p>does/own</p>
+,<p>is/owning</p>
+*,<p>has/owned</p>
+<p>I _______ for you a long time.</p>,1,one,
+*,<p>have been waiting</p>
+,<p>waited</p>
+,<p>waiting</p>
+<p>I ________ with them for two weeks now.</p>,1,one,
+*,<p>have been talking</p>
+,<p>talking</p>
+,<p>have talked</p>
+"<p>He opened his eyes, looked around and tried to remember what __________to him.</p>",1,one,
+*,<p>had happened</p>
+,<p>happened</p>
+,<p>have happened</p>
+<p>All the passengers ______ at once that the old man had travelled a great deal in his life.</p>,1,one,
+,<p>had seen</p>
+*,<p>saw</p>
+,<p>have seen</p>
+<p>Mother saw that Nick (not to wash) his hands.</p>,1,one,
+*,<p>hadn't washed</p>
+,<p>didn't wash</p>
+,<p>doesn't wash</p>
+<p>They (to play) since breakfast time.</p>,1,one,
+,<p>played</p>
+*,<p>have been playing</p>
+,<p>have played</p>

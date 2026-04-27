@@ -1,0 +1,49 @@
+HTML
+<p>The school board ----- the budget by next Wednesday.</p>,1,one,
+,<p>will approve</p>
+*,<p>will have approved</p>
+,<p>will be approving</p>
+<p>What time ----- at the hotel?</p>,1,one,
+*,<p>will we be arriving</p>
+,<p>will we have arrived</p>
+,<p>will we be arrive</p>
+<p>The pupils ----- for breaking the school rules.</p>,1,one,
+,<p>will be apologise</p>
+,<p>will have apologised</p>
+*,<p>will apologise</p>
+"<p>As early as this winter, athletes ----- advantage of the state-of-the-art training facilities.</p>",1,one,
+,<p>will taking</p>
+*,<p>will be taking</p>
+,<p>will have taken</p>
+<p>----- the difficult topic again?</p>,1,one,
+*,<p>Will the teacher explain</p>
+,<p>Will the teacher be explain</p>
+,<p>Will the teacher have explained</p>
+"<p>Owing to the new surveillance equipment, students ----- during the exam.</p>",1,one,
+,<p>will not have cheat</p>
+*,<p>will not be cheating</p>
+,<p>will cheat</p>
+<p>----- you feel ashamed of lying to your parents?</p>,1,one,
+,<p>Aren’t</p>
+,<p>Haven’t</p>
+*,<p>Won’t</p>
+<p>They promise that the updated app ----- different from the old version.</p>,1,one,
+*,<p>won’t be</p>
+,<p>don’t be</p>
+,<p>isn’t</p>
+"<p>By the end of the week, they ----- on their vacation destination.</p>",1,one,
+,<p>will decide</p>
+,<p>will be deciding</p>
+*,<p>will have decided</p>
+"<p>This time next week, I ----- the wonders of Bali.</p>",1,one,
+,<p>will have explored</p>
+*,<p>will be exploring</p>
+,<p>will explore</p>
+<p>We ----- to unknown devices in the future.</p>,1,one,
+*,<p>won’t connect</p>
+,<p>don’t connect</p>
+,<p>won’t have connected</p>
+<p>----- the gym into a meeting space during the conference?</p>,1,one,
+,<p>Will the school have changed</p>
+,<p>Will the school changing</p>
+*,<p>Will the school be changing</p>

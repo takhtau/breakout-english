@@ -1,0 +1,61 @@
+HTML
+<p>Alice was late because she ______ the bus.</p>,1,one,
+,<p>had been missed</p>
+,<p>had been missing</p>
+*,<p>had missed</p>
+<p>By the time I get home my wife _____ the whole cake.</p>,1,one,
+*,<p>will have eaten</p>
+,<p>will eat</p>
+,<p>will be eating</p>
+<p>He fell down and hurt _____.</p>,1,one,
+,<p>myself</p>
+,<p>yourself</p>
+*,<p>himself</p>
+<p>Last year she _____ to Cambridge.</p>,1,one,
+,<p>is sent</p>
+*,<p>was sent</p>
+,<p>will be sent</p>
+<p>There is ____ little white cloud in ____ sky.</p>,1,one,
+,<p>the/the</p>
+,<p>a/-</p>
+*,<p>a/the</p>
+"<p>If you ____ your glasses, you ____ better.</p>",1,one,
+,<p>will put on/see</p>
+,<p>put on/would see</p>
+*,<p>put on/will see</p>
+<p>He was one of the (experienced) workers in the factory.</p>,1,one,
+,<p>as experienced as</p>
+,<p>the more</p>
+*,<p>the most</p>
+<p>I wish I ______ give up smoking.</p>,1,one,
+*,<p>could</p>
+,<p>can</p>
+,<p>would</p>
+"<p>I (not to be late), if I (wake up) in time.</p>",1,one,
+,<p>would not have been late/woke up</p>
+,<p>would not be late/had woken up</p>
+*,<p>would not have been late/had woken up</p>
+<p>He _____ have a sense of responsibility.</p>,1,one,
+,<p>must</p>
+*,<p>ought to</p>
+,<p>can</p>
+"<p>She won't do this for him, _____?</p>",1,one,
+,<p>is she</p>
+,<p>won't she</p>
+*,<p>will she</p>
+<p>The bus journey was ______.</p>,1,one,
+,<p>exhausted</p>
+*,<p>exhausting</p>
+,<p>unexhausted</p>
+"<p>______ his fear, he told his request.</p>",1,one,
+,<p>Unless</p>
+*,<p>In spite of</p>
+,<p>Despite</p>
+"<p>""Don't you help her"" she said. - She asked me if I _____ her.</p>",1,one,
+*,<p>didn't help</p>
+,<p>don't help</p>
+,<p>hadn't helped</p>
+<p>When Sam returned home we ______ that TV programme for a quarter of an hour already.</p>,1,one,
+,<p>had been watched</p>
+,<p>had watched</p>
+*,<p>had been watching</p>

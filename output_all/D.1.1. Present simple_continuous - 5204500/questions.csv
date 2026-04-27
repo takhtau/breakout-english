@@ -1,0 +1,43 @@
+HTML
+<p>Water _____ at 100'C.</p>,1,one,
+*,<p>boils</p>
+,<p>is boiling</p>
+<p>When _____ up?</p>,1,one,
+*,<p>do you get</p>
+,<p>are you getting</p>
+<p>We _____ English classes every day?</p>,1,one,
+*,<p>have</p>
+,<p>are having</p>
+"<p>""_____ a new hat?"" ...</p>",1,one,
+,<p>Do you wear</p>
+*,<p>Are you wearing</p>
+"<p>... ""Yes, _____ it?""</p>",1,one,
+*,<p>do you like</p>
+,<p>are you liking</p>
+"<p>""Look! She _____ .""</p>",1,one,
+,<p>comes</p>
+*,<p>is coming</p>
+"<p>""Where is Paul?"" ""He _____ football with Derek.""</p>",1,one,
+,<p>plays</p>
+*,<p>is playing</p>
+"<p>""Where is mum?"" ""She is in the bathroom. She _____ the laundry.""</p>",1,one,
+,<p>does</p>
+*,<p>is doing</p>
+"<p>""I _____ to visit Laura tonight. ...</p>",1,one,
+,<p>go</p>
+*,<p>am going</p>
+"<p>... She _____ to New York in the morning."" ...</p>",1,one,
+,<p>leaves</p>
+*,<p>is leaving</p>
+"<p>... When _____ back?"" ""I don't know.""</p>",1,one,
+,<p>does she come</p>
+*,<p>is she coming</p>
+<p>We _____ holidays in Spain.</p>,1,one,
+*,<p>spend</p>
+,<p>are spending</p>
+"<p>Laura usually _____ to school by bus, but ...</p>",1,one,
+*,<p>goes</p>
+,<p>is going</p>
+<p>... today her mum _____ her to school.</p>,1,one,
+,<p>drives</p>
+*,<p>is driving</p>

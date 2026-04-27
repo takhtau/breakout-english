@@ -1,0 +1,42 @@
+HTML
+<p>There ___ a towel in the bathroom.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There ___ 4 toothbrushes in the glass.</p>,1,one,
+,<p>is</p>
+*,<p>are</p>
+<p>___ there soap in the bathroom?</p>,1,one,
+,<p>Are</p>
+*,<p>Is</p>
+<p>There ____ shower in the bathroom.</p>,~1,one,
+*,<p>is no</p>
+,<p>are no</p>
+<p>There is a stove ____(между) the fridge and the cupboard.</p>,1,one,
+,<p>under</p>
+*,<p>between</p>
+,<p>in front of</p>
+<p>There is a big table ____ (напротив) the window.</p>,1,one,
+,<p>on</p>
+*,<p>in front of</p>
+,<p>in</p>
+<p>There is a little cup of coffee on the table ____ the living room. (в)</p>,1,one,
+*,<p>in</p>
+,<p>on</p>
+,<p>behind</p>
+<p>There is a plate ___ the cupboard. (в)</p>,1,one,
+,<p>between</p>
+*,<p>in</p>
+,<p>in front of</p>
+<p>There are three forks ___ the table (на)</p>,1,one,
+,<p>under</p>
+,<p>behind</p>
+*,<p>on</p>
+<p>There ____ no glasses on the table.</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+<p>There ___ a big bath in the bathroom.</p>,1,one,
+*,<p>is</p>
+,<p>are</p>
+<p>There ____ washing machine under the sink.</p>,1,one,
+,<p>are no</p>
+*,<p>is no</p>

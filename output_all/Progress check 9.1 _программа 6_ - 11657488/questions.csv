@@ -1,0 +1,48 @@
+HTML
+<p>... house is this?</p>,1,one,
+*,<p>Whose</p>
+,<p>Who</p>
+,<p>Who's</p>
+<p>... uncle is he?</p>,1,one,
+,<p>Who</p>
+*,<p>Whose</p>
+,<p>Who's</p>
+<p>... left the city?</p>,1,one,
+*,<p>Who</p>
+,<p>Whose</p>
+,<p>Who's</p>
+<p>... was outside last night?</p>,1,one,
+*,<p>Who</p>
+,<p>Who's</p>
+,<p>Whose</p>
+"<p>John doesn't repair cars, ________?</p>",1,one,
+*,<p>does he</p>
+,<p>don't he</p>
+,<p>do he</p>
+"<p>You know this man, ________?</p>",1,one,
+*,<p>don't you</p>
+,<p>doesn't you</p>
+,<p>are you</p>
+"<p>We can't build a new house, ________?</p>",1,one,
+*,<p>can we</p>
+,<p>doesn't we</p>
+,<p>are we</p>
+"<p>The flower is beautiful, ________?</p>",1,one,
+*,<p>isn't it</p>
+,<p>is it</p>
+,<p>does it</p>
+<p>It took him three months ______ learn to ski. (чтобы)</p>,1,one,
+*,<p>to</p>
+,<p>-</p>
+<p>How long ______ it take to learn to drive? (present simple)</p>,1,one,
+*,<p>does</p>
+,<p>do</p>
+<p>_____ it sunny today?</p>,1,one,
+*,<p>is</p>
+,<p>does</p>
+<p>In summer it is often _______. (солнечно)</p>,1,one,
+*,<p>sunny</p>
+,<p>cold</p>
+<p>What's the weather ___ today?</p>,1,one,
+*,<p>like</p>
+,<p>is</p>

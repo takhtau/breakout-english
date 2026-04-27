@@ -1,0 +1,65 @@
+HTML
+"<p>Instead, millions of pounds had been wasted on _______________.</p>",1,one,
+*,<p>a new building</p>
+,<p>new cars</p>
+,<p>new computers</p>
+"<p>She _______________ Helen Robertson, the police doctor, among a group of police officers near wall some metres below the level of the road.</p>",1,one,
+,<p>didn't meet</p>
+,<p>didn't recognise</p>
+*,<p>recognised</p>
+"<p>As she ____________, Logan turned and looked up towards the Nelson Monument and the City Observatory.</p>",1,one,
+,<p>went to the car</p>
+*,<p>got out of the car</p>
+,<p>sat in the car</p>
+"<p>Helen Robertson, who had been _________________ the body examining it.</p>",1,one,
+*,<p>bending over</p>
+,<p>touching</p>
+,<p>pointing to</p>
+<p>Robertson had __________ and was wearing _________________ and a light blue blouse.</p>,1,one,
+*,<p>dark hair/ black trousers</p>
+,<p>blond hair/ black trousers</p>
+,<p>blond hair/ blue trousers</p>
+"<p>""Young women, _______________, possibly a bit younger, ""- said Robertson.</p>",1,one,
+,<p>mid-fourties</p>
+,<p>mid-thirties</p>
+*,<p>mid-twenties</p>
+<p>The body was _______________ here sometime after death.</p>,1,one,
+,<p>cut</p>
+*,<p>brought</p>
+,<p>taken</p>
+"<p>""She was also _____________ at some time, and hands have been tied."" </p>",1,one,
+,<p>cut</p>
+,<p>caught</p>
+*,<p>hit on the head</p>
+"<p>""...and I find anything interesting I'll give you ________"" said Robertson.</p>",1,one,
+*,<p>a call</p>
+,<p>a sign</p>
+,<p>a message</p>
+"<p>""Do we know who she is?""</p><p>""I""m afraid not,""said Graham. ""No bag. No ___________. No ID of any kind.""</p>",1,one,
+,<p>photo</p>
+*,<p>wallet</p>
+,<p>passport</p>
+"<p>""As I was driving past I noticed something ________ down here. It looked kind of odd."" said Davy Graham.</p>",1,one,
+*,<p>pink</p>
+,<p>grey</p>
+,<p>red</p>
+"<p>""Has anyone been allowed to __________ since you found the body?""- she asked.</p>",1,one,
+*,<p>leave</p>
+,<p>stay</p>
+,<p>watch</p>
+<p>Talk to everybody up there. ______________ if anybody saw anything.</p>,1,one,
+,<p>Tell</p>
+*,<p>Find out</p>
+,<p>Ask</p>
+"<p>Logan turned to take a last look at the body of the unknown girl and, as she did so, an icy feeling ran down her _____________. </p>",1,one,
+*,<p>back</p>
+,<p>hands</p>
+,<p>legs</p>
+<p>A young life had been needlessly _____________.</p>,1,one,
+*,<p>taken way</p>
+,<p>flown away</p>
+,<p>run away</p>
+<p>Or was it just complete chance that a body had been found on Calton Hill ten minutes after he had _______killing someone there?</p>,1,one,
+,<p>wanted</p>
+,<p>suggested</p>
+*,<p>admitted</p>

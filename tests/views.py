@@ -476,13 +476,23 @@ def tags_list(request):
 
 @staff_member_required
 def tag_add(request):
+    if request.user.role != 'admin':
+        messages.error(request, 'Нет доступа')
+        return redirect('teacher_home')
+
     if request.method == 'POST':
         name = request.POST.get('name')
         color = request.POST.get('color')
-        Tag.objects.create(name=name, color=color)
-        messages.success(request, f'Тег "{name}" создан!')
-        return redirect('tags_list')
-    return render(request, 'tests/tag_form.html', {'tag': None})
+
+        if not name:
+            messages.error(request, 'Введите название тега')
+        elif Tag.objects.filter(name=name).exists():
+            messages.error(request, 'Такой тег уже есть')
+        else:
+            Tag.objects.create(name=name, color=color or '#e0e0e0')
+            messages.success(request, f'Тег "{name}" создан!')
+
+    return redirect('teacher_home')
 
 @staff_member_required
 def tag_edit(request, tag_id):

@@ -1,0 +1,50 @@
+HTML
+<p>Go ______! (направо)</p>,1,one,
+,<p>straight</p>
+,<p>left</p>
+*,<p>right</p>
+<p>______ left!</p>,1,one,
+,<p>Going</p>
+,<p>To go</p>
+*,<p>Go</p>
+<p>______ football!</p>,1,one,
+,<p>To play</p>
+*,<p>Play</p>
+,<p>Playing</p>
+"<p>________, please!</p>",1,one,
+*,<p>Stand up</p>
+,<p>Standing</p>
+,<p>To stand up</p>
+<p>_____the dishes!</p>,1,one,
+*,<p>Wash</p>
+,<p>To wash</p>
+,<p>Washing</p>
+<p>_______ the chocolate for me!</p>,1,one,
+,<p>Buying</p>
+*,<p>Buy</p>
+,<p>To buy</p>
+<p>______ much sweet!</p>,1,one,
+*,<p>Don't eat</p>
+,<p>Not to eat</p>
+,<p>Not eat</p>
+<p>_______ at school!</p>,1,one,
+,<p>Not to sleep</p>
+*,<p>Don't sleep</p>
+,<p>Not sleep</p>
+<p>Let's ______ to the park!</p>,1,one,
+*,<p>go</p>
+,<p>going</p>
+,<p>to go</p>
+<p>Let's ______ with the cat!</p>,1,one,
+*,<p>play</p>
+,<p>playing</p>
+,<p>to play</p>
+<p>Let's ______ cacao and _____ cookies! </p>,1,one,
+*,<p>drink\eat</p>
+,<p>drinking\eating</p>
+,<p>to drink\to eat</p>
+,Choice 4
+<p>_______ computer games till night!</p>,1,one,
+,<p>Not play</p>
+,<p>Not to play</p>
+*,<p>Don't play</p>

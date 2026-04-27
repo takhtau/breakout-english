@@ -1,0 +1,29 @@
+HTML
+<p>Mike's brother doesn't live in Mike's home. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>Mike is used to eating homemade spaghetti sauce. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>Tracy prefers spaghetti sauce from a jar to homemade sauce. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>Tracy has learnt some basic cooking tips. </p>,1,one,
+*,<p>True </p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>Mike's mum wishes he'd gone to cookery school like his brother. </p>,1,one,
+,<p>True </p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>Mike found preparing the chicken dinner easy to do. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>Mike made a mess of the dinner he made with his brother. </p>,1,one,
+,<p>True </p>
+*,<p>False </p>
+,<p>Not stated </p>

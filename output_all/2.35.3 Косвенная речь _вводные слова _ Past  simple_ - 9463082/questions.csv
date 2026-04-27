@@ -1,0 +1,49 @@
+HTML
+"<p>""You ate the whole pizza"", said Dan. - Dan said I ... the whole pizza.</p>",1,one,
+*,<p>had eaten</p>
+,<p>ate</p>
+,<p>has eaten</p>
+"<p>""It is breaking!"", said Henry. - Henry said it ...  </p>",1,one,
+,<p>broke</p>
+*,<p>was breaking</p>
+,<p>were breaking</p>
+"<p>""I finished my homework"", said Alex. - Alex said he ... his homework.</p>",1,one,
+,<p>finished</p>
+,<p>has finished</p>
+*,<p>had finished</p>
+"<p>""I will teach online next week"", said Mary. - Mary said she .... online the following week.</p>",1,one,
+*,<p>would teach</p>
+,<p>will teach</p>
+,<p>taught</p>
+"<p>""I am going to buy a new car"", said Jill. - Jill said she ... a new car.</p>",1,one,
+,<p>has bought</p>
+*,<p>was going to buy</p>
+,<p>is going to buy</p>
+"<p>""Your brother can't go to school now"", said mum. - Mum said my brother ... to school at that moment.</p>",1,one,
+,<p>couldn't gone</p>
+,<p>can't go</p>
+*,<p>couldn't go</p>
+"<p>""I am watching this show at the moment"", said Rose. - Rose said she ... that show at that moment..</p>",1,one,
+*,<p>was watching</p>
+,<p>watched</p>
+,<p>is watching</p>
+"<p>""Jack may go to the party with Alice"", said Hazel. - Hazel said Jack ... to the party with Alice.</p>",1,one,
+,<p>may go</p>
+,<p>can go</p>
+*,<p>might go</p>
+"<p>""I brought a cat to the house"", said Danny. - Danny said he ... a cat to the house.</p>",1,one,
+*,<p>had brought</p>
+,<p>has brought</p>
+,<p>brought</p>
+"<p>""I took it home with me yesterday"", said Jecky. - Jecky said she ... it home with her the day before.</p>",1,one,
+,<p>took</p>
+*,<p>had taken</p>
+,<p>has taken</p>
+"<p>""The kids had a day off school"", said mum. - Mum said the kids ... a day off school.</p>",1,one,
+,<p>had</p>
+,<p>have had</p>
+*,<p>had had</p>
+"<p>""I took them ice-skating"", said dad. - Dad said he ... them ice-skating. </p>",1,one,
+*,<p>had taken</p>
+,<p>has taken</p>
+,<p>took</p>

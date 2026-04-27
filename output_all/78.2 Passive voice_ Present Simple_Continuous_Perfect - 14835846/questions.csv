@@ -1,0 +1,49 @@
+HTML
+<p>What shall we do? Our flight -----.</p>,1,one,
+,<p>has just cancelled</p>
+,<p>is just cancelled</p>
+*,<p>has just been cancelled</p>
+<p>The book ----- into several languages already.</p>,1,one,
+,<p>is being translated</p>
+,<p>has translated</p>
+*,<p>has been translated</p>
+<p>The technique ----- in classrooms at the moment.</p>,1,one,
+,<p>is tried</p>
+*,<p>is being tried</p>
+,<p>has been tried</p>
+"<p>As it is known, heat ----- into the atmosphere by cars.</p>",1,one,
+,<p>has been released</p>
+,<p>is releasing</p>
+*,<p>is released</p>
+<p>Our essays ----- now.</p>,1,one,
+*,<p>are being checked</p>
+,<p>have been checked</p>
+,<p>are checked</p>
+<p>Our small seaside town ----- often ----- by celebrities.</p>,1,one,
+,<p>are; visited</p>
+,<p>has; visited</p>
+*,<p>is; visited</p>
+<p>The walls in the building ----- by children’s pictures. It is so nice.</p>,1,one,
+,<p>are being decorated</p>
+*,<p>are decorated</p>
+,<p>have been decorated</p>
+<p>A huge Christmas tree ----- in the main square now. Let’s go and see!</p>,1,one,
+,<p>has been decorated</p>
+,<p>is decorated</p>
+*,<p>is being decorated</p>
+<p>Our baggage ----- yet.</p>,1,one,
+,<p>isn’t examined</p>
+*,<p>hasn’t been examined</p>
+,<p>isn’t being examined</p>
+<p>Passengers ----- always ----- to fasten their seatbelts before taking off and landing.</p>,1,one,
+*,<p>are; requested</p>
+,<p>have; requested</p>
+,<p>is; requested</p>
+<p>The water supply ----- for contamination at the moment.</p>,1,one,
+,<p>is tested</p>
+,<p>has been tested</p>
+*,<p>is being tested</p>
+<p>We’re proud of the fact that our students ----- with the best possible accommodation.</p>,1,one,
+*,<p>are provided</p>
+,<p>are being provided</p>
+,<p>have been provided</p>

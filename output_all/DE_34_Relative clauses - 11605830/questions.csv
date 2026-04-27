@@ -1,0 +1,37 @@
+HTML
+"<p>The minister, ________ was appointed just last week, made no comment on the situation.</p>",1,one,
+*,<p>who</p>
+,<p>which</p>
+<p>Isn't that the spot ________ the accident happened last night?</p>,1,one,
+,<p>which</p>
+*,<p>where</p>
+"<p>The human brain, ________ weighs about 1400 grammes, is ten times the size of a baboon's.</p>",1,one,
+*,<p>which</p>
+,<p>who</p>
+<p>There are several reasons ________ I don't want to see Michael tonight.</p>,1,one,
+,<p>which</p>
+*,<p>why</p>
+<p>This is the office ________ I work.</p>,1,one,
+,<p>which</p>
+*,<p>where</p>
+"<p>The new girl in our class, ________name is Alexandra, seems really nice.</p>",1,one,
+,<p>who's</p>
+*,<p>whose</p>
+"<p>The Titanic, ________ people said was unsinkable, sank on her maiden voyage.</p>",1,one,
+*,<p>which</p>
+,<p>that</p>
+<p>All the people to ________the e-mail was sent replied.</p>,1,one,
+,<p>who</p>
+*,<p>whom</p>
+"<p>April 1st, ________ we play tricks on people, is known as April Fools' Day.</p>",1,one,
+,<p>which</p>
+*,<p>when</p>
+"<p>Harry Hill, ________ new series starts next week, is one of my favourite comedians.</p>",1,one,
+,<p>who</p>
+*,<p>whose</p>
+"<p>A very popular breed of dog is the German Shepherd, ________ is often used as a guard dog.</p>",1,one,
+*,<p>which</p>
+,<p>who</p>
+"<p>Blackpool Tower, ________ was modelled on the Eiffel Tower, is a very well-known landmark. </p>",1,one,
+*,<p>which</p>
+,<p>that</p>

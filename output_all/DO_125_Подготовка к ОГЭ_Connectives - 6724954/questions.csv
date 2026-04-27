@@ -1,0 +1,13 @@
+HTML
+<p>We'll have something to eat when we <strong>will get</strong> home. </p>,1,,
+*,get
+<p>I won't book the tickets until you <strong>will tell </strong>me to. </p>,1,,
+*,tell
+<p>I'll come home as soon as the concert <strong>will finish. </strong></p>,1,,
+*,finishes
+"<p>After you a<strong>re going to do t</strong>his test, we'll play a game. </p>",1,,
+*,do
+<p>He'll send you a text message before he <strong>is going to leave. </strong></p>,1,,
+*,leaves
+<p>Will you go to St. Petersburg while you <strong>will be</strong> in Russia? </p>,1,,
+*,are

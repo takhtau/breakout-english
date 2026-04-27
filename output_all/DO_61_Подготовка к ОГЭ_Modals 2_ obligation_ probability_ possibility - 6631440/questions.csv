@@ -1,0 +1,25 @@
+HTML
+<p>Smoking isn't allowed in the airport. You ______ smoke in the airport.</p>,1,one,
+*,<p>mustn't</p>
+,<p>don't have to</p>
+<p>It's not necessary to come to the train station to meet me. You _____ meet her at the train station.</p>,1,one,
+,<p>have to</p>
+*,<p>don't have to</p>
+<p>We were forced to wait for over two hours in the rain! They _____ wait for over two hours in the rain.</p>,1,one,
+*,<p>had to</p>
+,<p>didn't need to</p>
+<p>The instructions tell you to write in pencil. You _____ write in pencil. </p>,1,one,
+*,<p>must</p>
+,<p>needn't</p>
+<p>You can contact us by either phone or email. You _____ phone them.</p>,1,one,
+,<p>mustn't</p>
+*,<p>don't have to</p>
+"<p>In my country, you can carry your passport with you if you want, but it's not necessary. In her country, you _____ carry your passport with you. </p>",1,one,
+*,<p>don't need to</p>
+,<p>mustn't</p>
+<p>My grandfather was made to start work when he was just fourteen years old. He ____- start work when he was just fourteen years old. </p>,1,one,
+*,<p>had to</p>
+,<p>must</p>
+<p>It's not necessary to book a hotel; you can stay in our spare room. You ______ stay in a hotel.</p>,1,one,
+,<p>mustn't</p>
+*,<p>don't have to</p>

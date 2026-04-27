@@ -1,0 +1,36 @@
+HTML
+<p>The shop assistant finally agreed_________a full refund.</p>,1,one,
+,<p>giving me </p>
+*,<p>to give me </p>
+,<p>give to me</p>
+,<p>to me to give</p>
+<p>Bill asked me why___________to go shopping with me. </p>,1,one,
+*,<p>I hadn't invited him</p>
+,<p>hadn't I invited him </p>
+,<p>I hadn't him invited </p>
+,<p>hadn't I him invited </p>
+<p>Ellie asked Stan__________to look at the new catalogue. </p>,1,one,
+,<p>did he want </p>
+,<p>do you want </p>
+,<p>whether he wants </p>
+*,<p>if he wanted </p>
+<p>Stephen___________me he'd bought that suit in a sale.</p>,1,one,
+,<p>said</p>
+,<p>spoke</p>
+*,<p>told</p>
+,<p>claimed </p>
+"<p>""What did the man say when you challenged him?""</p><p>"" He said he _____________pay for the things in his bag, but I didn't believe him!""</p>",1,one,
+,<p>is going to</p>
+,<p>has been going to</p>
+,<p>goes to</p>
+*,<p>was going to</p>
+"<p>When I last saw Carrie, she told me she_________________of buying a house, but now she's changed her mind.</p>",1,one,
+,<p>thought</p>
+,<p>is thinking</p>
+*,<p>was thinking </p>
+,<p>has been thinking </p>
+"<p>""What did they say when they realised you weren't a shoplifter?""</p><p>""They apologised___________me.""</p>",1,one,
+,<p>to doubt</p>
+,<p>they had doubted </p>
+*,<p>for doubting </p>
+,<p>the doubt of </p>

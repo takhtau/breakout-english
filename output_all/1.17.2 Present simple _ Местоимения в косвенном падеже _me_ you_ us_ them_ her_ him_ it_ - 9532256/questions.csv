@@ -1,0 +1,49 @@
+HTML
+<p>I talk about you. - Do you talk about ___? </p>,1,one,
+*,<p>me</p>
+,<p>you</p>
+,<p>it</p>
+<p>He is a good boy. Do you know ___? </p>,1,one,
+,<p>it</p>
+*,<p>him</p>
+,<p>he</p>
+<p>It is bad! Don’t take ___! </p>,1,one,
+,<p>him</p>
+,<p>her</p>
+*,<p>it</p>
+<p>He gives his girlfriend a beautiful bracelet. - He gives ___ a beautiful bracelet. </p>,1,one,
+*,<p>her</p>
+,<p>she</p>
+,<p>us</p>
+<p>I ask him for advice. - He gives ___ good advice. </p>,1,one,
+,<p>my</p>
+*,<p>me</p>
+,<p>them</p>
+<p>We are in front of him. He looks at ___. </p>,1,one,
+,<p>we</p>
+,<p>them</p>
+*,<p>us</p>
+<p>I am in the street. He sees ___. </p>,1,one,
+*,<p>me</p>
+,<p>I</p>
+,<p>him</p>
+<p>Do you like this dress? I want to buy this dress for ___.</p>,1,one,
+,<p>yours</p>
+*,<p>you</p>
+,<p>it</p>
+<p>He is a good man. I know ___ very well. </p>,1,one,
+,<p>he</p>
+,<p>her</p>
+*,<p>him</p>
+<p>You are beautiful! I love ___. </p>,1,one,
+*,<p>you</p>
+,<p>your</p>
+,<p>me</p>
+<p>I write a letter to my parents. I write a letter to ___. </p>,1,one,
+,<p>him</p>
+*,<p>them</p>
+,<p>they</p>
+<p>Where do you go? I want to go with ___.</p>,1,one,
+,<p>us</p>
+,<p>them</p>
+*,<p>you</p>

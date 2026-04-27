@@ -1,0 +1,49 @@
+HTML
+<p>They know our ... address.</p>,1,one,
+,<p>a</p>
+,<p>an</p>
+*,<p>-</p>
+<p>We have got ... car.</p>,1,one,
+*,<p>a</p>
+,<p>an</p>
+,<p>-</p>
+<p>My granny has got ... headache. She has no ... idea what to do.</p>,1,one,
+*,<p>a/-</p>
+,<p>an/a</p>
+,<p>-/a</p>
+<p>I have ... friend. His name is Mike. My ... friend is very good.</p>,1,one,
+,<p>an/a</p>
+*,<p>a/-</p>
+,<p>-/a</p>
+"<p>Give me ... chair, please.</p>",1,one,
+,<p>-</p>
+*,<p>a</p>
+,<p>an</p>
+<p>Would you like ... orange?</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>an</p>
+<p>Mr Smith is ... artist. Mrs Smith is ... poetess.</p>,1,one,
+,<p>-/-</p>
+,<p>a/an</p>
+*,<p>an/a</p>
+<p>He hasn’t got ... car. But he’s got ... computer.</p>,1,one,
+,<p>-/-</p>
+*,<p>a/a</p>
+,<p>an/a</p>
+<p>It’s ...cat. Its ... tail is long and bushy. It’s Mike’s ... cat.</p>,1,one,
+*,<p>a/-/-</p>
+,<p>-/-/-</p>
+,<p>an/a/-</p>
+<p>I have... sister. My sister is ... engineer.</p>,1,one,
+,<p>a/a</p>
+*,<p>a/an</p>
+,<p>an/a</p>
+"<p>I have ...spoon in my soup plate, but I have no ... soup in it.</p>",1,one,
+*,<p>a/-</p>
+,<p>a/an</p>
+,<p>an/a</p>
+<p>My ... friend says he is going to be ... millionaire one day.</p>,1,one,
+,<p>a/-</p>
+*,<p>-/a</p>
+,<p>-/-</p>

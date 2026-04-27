@@ -1,0 +1,49 @@
+HTML
+<p>(Сколько лет) ______ is your uncle?</p>,1,one,
+,<p>What old</p>
+*,<p>How old</p>
+,<p>How</p>
+<p>(Откуда)_____ are their friends ___?</p>,1,one,
+,<p>When_____from</p>
+*,<p>Where ___from</p>
+,<p>What_____from</p>
+<p>(Что )____ do you do after school?</p>,1,one,
+,<p>When</p>
+,<p>Where</p>
+*,<p>What</p>
+<p>(Где )_____ is my bag?</p>,1,one,
+,<p>How</p>
+*,<p>Where</p>
+,<p>When</p>
+<p>(Какого цвета) ____is it?</p>,1,one,
+,<p>What</p>
+*,<p>What colour</p>
+,<p>How colour</p>
+<p>(Куда )_______ does she go to?</p>,1,one,
+,<p>Why</p>
+*,<p>Where</p>
+,<p>When</p>
+<p>(Как часто)____ do you play tennis?</p>,1,one,
+*,<p>How often</p>
+,<p>What often</p>
+,<p>Where</p>
+<p>Сколько книг ___have you got ?</p>,1,one,
+,<p>What books</p>
+*,<p>How many books</p>
+,<p>How books</p>
+<p>(Что )  _____ does Rex usually eat?</p>,1,one,
+,<p>How</p>
+*,<p>What</p>
+,<p>Where</p>
+<p>(Куда )_____ do they go to every weekend?</p>,1,one,
+*,<p>Where</p>
+,<p>When</p>
+,<p>What</p>
+<p>(Почему )_____ does he never play?</p>,1,one,
+,<p>When</p>
+*,<p>Why</p>
+,<p>What</p>
+<p>(Когда )  _____ do you go to school? </p>,1,one,
+*,<p>When</p>
+,<p>Where</p>
+,<p>What</p>

@@ -1,0 +1,29 @@
+HTML
+<p>A A lot of people went to Michael's photography exhibition. </p>,1,one,
+*,<p>True</p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>B Michael has paid for lessons in photography. </p>,1,one,
+,<p>True</p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>C Michael is not found of colour photography. </p>,1,one,
+*,<p>True</p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>D Denise doesn't know how to use the camera on her phone. </p>,1,one,
+,<p>True</p>
+*,<p>False </p>
+,<p>Not stated </p>
+<p>E Michael uses a camera phone to take a lot of photos. </p>,1,one,
+,<p>True</p>
+,<p>False </p>
+*,<p>Not stated </p>
+<p>F Michael's mum has stopped using traditional film. </p>,1,one,
+*,<p>True</p>
+,<p>False </p>
+,<p>Not stated </p>
+<p>G Michael's mum wants him to learn how to develop photos from film. </p>,1,one,
+,<p>True</p>
+,<p>False </p>
+*,<p>Not stated </p>

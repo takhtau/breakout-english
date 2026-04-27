@@ -1,0 +1,49 @@
+HTML
+<p>The bill already (pay) by Kerrie. </p>,1,one,
+,<p>paid</p>
+*,<p>has been paid</p>
+,<p>have been paid</p>
+<p> A hamburger (eat) by me.</p>,1,one,
+*,<p>has been eaten</p>
+,<p>have been eaten</p>
+,<p>ate</p>
+<p>Five miles (cycle) by us.</p>,1,one,
+*,<p>have been cycled</p>
+,<p>has been cycled </p>
+,<p>cycled </p>
+<p> The present (open) by me.</p>,1,one,
+,<p>opened</p>
+*,<p>has been opened</p>
+,<p>have been opened</p>
+<p>The book (read) by them.</p>,1,one,
+*,<p>has not been read </p>
+,<p>have not been read</p>
+,<p>read</p>
+<p>The parcel (send) by you. </p>,1,one,
+*,<p> has not been sent</p>
+,<p> have not been sent</p>
+,<p>sent</p>
+<p>This issue (agree) to by us yet.</p>,1,one,
+*,<p>has not been agreed</p>
+,<p>agreed</p>
+,<p>have not been agreed</p>
+<p>The thieves (catch) by them.</p>,1,one,
+*,<p>have not been caught</p>
+,<p>has not been caught</p>
+,<p>caught </p>
+<p>He (to phone) by her?</p>,1,one,
+*,<p>Has he been phoned</p>
+,<p>Have he been phoned</p>
+,<p>Did he phone</p>
+<p>We just (notice) by them?</p>,1,one,
+,<p>Were we noticed </p>
+,<p>Has we just been noticed</p>
+*,<p>Have we just been noticed</p>
+<p>The pencils (count). </p>,1,one,
+*,<p>have been counted</p>
+,<p>has been counted</p>
+,<p>was counted </p>
+<p>The door just (close). </p>,1,one,
+*,<p>has been closed</p>
+,<p>have been closed</p>
+,<p>was closed </p>

@@ -1,0 +1,49 @@
+HTML
+<p>I (to sit) in the waiting room at the doctor’s now.</p>,1,one,
+,<p>sit</p>
+*,<p>am sitting </p>
+,<p>sits </p>
+<p>I (not to work) in my office now.</p>,1,one,
+*,<p>am not working</p>
+,<p>isn't working </p>
+,<p>don't work </p>
+<p>My cousin (not to live) in Moscow.</p>,1,one,
+*,<p>doesn't live </p>
+,<p>don't live </p>
+,<p>isn't living</p>
+<p>The children (not to sleep) now.</p>,1,one,
+*,<p>aren't sleeping </p>
+,<p>isn't sleeping </p>
+,<p>don't sleep </p>
+<p>They usually (not to go) to the stadium on Monday.</p>,1,one,
+,<p>doesn't go </p>
+*,<p>don't go </p>
+,<p>didn't go</p>
+<p>I always (to go) for a walk after dinner.</p>,1,one,
+,<p>went</p>
+*,<p>go</p>
+,<p>goes</p>
+<p>I (not to drink) milk now.</p>,1,one,
+,<p>don't drink </p>
+,<p>aren't drinking </p>
+*,<p>am not drinking  </p>
+<p>I (not to go) to the theatre every Sunday.</p>,1,one,
+*,<p>don't go </p>
+,<p>didn't go </p>
+,<p>am not going </p>
+<p>He (not to work) now.</p>,1,one,
+,<p>doesn't work </p>
+*,<p>isn't working</p>
+,<p>aren't working </p>
+<p>My mother (to work) in a factory.</p>,1,one,
+,<p>ia working </p>
+*,<p>works</p>
+,<p>worked </p>
+<p>Henry usually (to wear) glasses and now he (to wear) sunglasses.</p>,1,one,
+*,<p>wears/ is wearing </p>
+,<p>wear/ wear </p>
+,<p>is wearing/wears</p>
+<p>My aunt (not to work) in a shop.</p>,1,one,
+,<p>didn't work </p>
+*,<p>doesn't work </p>
+,<p>isn't working</p>

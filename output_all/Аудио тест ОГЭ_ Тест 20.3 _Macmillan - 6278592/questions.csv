@@ -1,0 +1,25 @@
+HTML
+<p>Sean thought Paul was going to arrive on </p>,1,one,
+,<p>Friday </p>
+*,<p>Saturday </p>
+,<p>Sunday </p>
+<p>Sean tells Paul to bring </p>,1,one,
+,<p>his football boots </p>
+,<p>a coat </p>
+*,<p>a fishing rod</p>
+<p>The last time Paul saw Uncle Andy was</p>,1,one,
+,<p>at Easter </p>
+,<p>on Christmas Day </p>
+*,<p>six month ago</p>
+<p>Paul wants to spend Saturday evening</p>,1,one,
+,<p>playing table tennis</p>
+*,<p>watching films</p>
+,<p>at a restaurant </p>
+<p>The Sunday meal will be cooked by </p>,1,one,
+,<p>Sean's mum</p>
+,<p>Sean's dad </p>
+*,<p>Uncle Andy </p>
+<p>Paul's mum ill pick him up from the station at </p>,1,one,
+,"<p>9,30 am </p>"
+*,"<p>10,15 pm </p>"
+,"<p>10,30 pm </p>"

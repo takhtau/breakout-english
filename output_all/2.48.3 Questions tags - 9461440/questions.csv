@@ -1,0 +1,49 @@
+HTML
+"<p>They won't go to the party, ___________?</p>",1,one,
+*,<p>will they</p>
+,<p>won't they</p>
+,<p>are they</p>
+"<p>I'm your doctor, ___________?</p>",1,one,
+,<p>do I</p>
+*,<p>aren't I</p>
+,<p>don't I</p>
+"<p>She won’t do this to him, _________? </p>",1,one,
+*,<p>will she</p>
+,<p>won't she</p>
+,<p>is she </p>
+"<p>They bought this hose last year, __________? </p>",1,one,
+,<p>did they </p>
+*,<p>didn't they</p>
+,<p>don't they</p>
+"<p> I am a teacher, __________? </p>",1,one,
+,<p>don't I</p>
+,<p>am I</p>
+*,<p>aren't I</p>
+"<p>There are too many people, __________?</p>",1,one,
+*,<p>aren't there</p>
+,<p>are there</p>
+,<p>is there</p>
+"<p>There are no chances that he can get here in an hour, _________? </p>",1,one,
+,<p>aren't there</p>
+*,<p>are there</p>
+,<p>is there</p>
+"<p>He never hands in his writing in time, __________? </p>",1,one,
+*,<p>does he</p>
+,<p>doesn't he</p>
+,<p>is he</p>
+"<p>They have found a place to stay for the night, ___________? </p>",1,one,
+,<p>have they</p>
+*,<p>haven't they</p>
+,<p>aren't they</p>
+"<p>They had to buy a new car , _________? </p>",1,one,
+*,<p>didn't they</p>
+,<p>did they</p>
+,<p>are they</p>
+"<p>His lesson is boring, __________? </p>",1,one,
+,<p>is it </p>
+*,<p>isn't it</p>
+,<p>doesn't it </p>
+"<p> We did our best, ___________?</p>",1,one,
+*,<p>didn't we</p>
+,<p>did we</p>
+,<p>don't we</p>

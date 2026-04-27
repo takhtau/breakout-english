@@ -1,0 +1,53 @@
+HTML
+<p>----- internet has changed the way we live.</p>,1,one,
+,<p>An</p>
+*,<p>The</p>
+,<p>-</p>
+"<p>I tried to park my car, but ----- space was too small.</p>",1,one,
+*,<p>the</p>
+,<p>a</p>
+,<p>-</p>
+<p>Our train leaves from ----- platform 5.</p>,1,one,
+,<p>the</p>
+*,<p>-</p>
+,<p>a</p>
+<p>Do you have these shoes in ----- size 43?</p>,1,one,
+*,<p>-</p>
+,<p>the</p>
+,<p>a</p>
+<p>We spent all our money because we stayed at ----- most expensive hotel in town.</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>the</p>
+<p>Helen ----- to invite lots of people before she ----- to Max.</p>,1,one,
+,<p>has already decided; spoke</p>
+*,<p>had already decided; spoke</p>
+,<p>already decided; had spoken</p>
+"<p>‘Gary has been trying to contact you.’ ‘Has he? OK, I ----- him.’</p>",1,one,
+,<p>’ll be calling</p>
+,<p>’m going to call</p>
+*,<p>’ll call</p>
+"<p>‘Gary has been trying to contact you.’ ‘Yes, I know. I ----- him.’</p>",1,one,
+*,<p>’m going to call</p>
+,<p>’ll be calling</p>
+,<p>’ll call</p>
+<p>Why are you filling that bucket with water? I ----- the car.</p>,1,one,
+,<p>’ll wash</p>
+*,<p>’m going to wash</p>
+,<p>’ll have washed</p>
+<p>Why don’t you come to the party with us? You ----- it.</p>,1,one,
+*,<p>’ll enjoy</p>
+,<p>’re going to enjoy</p>
+,<p>’ll have enjoyed</p>
+<p>Don’t phone between 7 and 8. We -----.</p>,1,one,
+*,<p>’ll be eating</p>
+,<p>’ll eat</p>
+,<p>’ll have eaten</p>
+<p>Let’s wait for Liz to arrive and then we -----.</p>,1,one,
+*,<p>’ll eat</p>
+,<p>’ll have eaten</p>
+,<p>’re eating</p>
+<p>----- highest mountain in ----- Andes is ----- Mount Aconcagua.</p>,1,one,
+,<p>The; - ; -</p>
+,<p>The; -; the</p>
+*,<p>The; the; -</p>

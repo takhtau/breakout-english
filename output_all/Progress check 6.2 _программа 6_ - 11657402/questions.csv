@@ -1,0 +1,57 @@
+HTML
+<p>We have ___ large room.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>an</p>
+<p>There is ___ little brown coffee table in our room.</p>,1,one,
+*,<p>a</p>
+,<p>the</p>
+,<p>-</p>
+<p>Bye! Have __ good time!</p>,1,one,
+,<p>the</p>
+,<p>-</p>
+*,<p>a</p>
+<p>___ orange is very tasty.</p>,1,one,
+*,<p>An</p>
+,<p>A</p>
+,<p>The</p>
+<p>Will he go to work in ______ future?</p>,1,one,
+,<p>a</p>
+*,<p>the</p>
+,<p>-</p>
+<p>Piano in_______middle of the room. </p>,1,one,
+*,<p>the</p>
+,<p>-</p>
+,<p>a</p>
+<p>I always cook dinner in ____ evening.</p>,1,one,
+,<p>-</p>
+,<p>a</p>
+*,<p>the</p>
+<p>Yesterday I bought ______pair of shoes </p>,1,one,
+*,<p>a</p>
+,<p>the</p>
+,<p>-</p>
+<p>He waited _____ for the girlfriend. </p>,1,one,
+,<p>silentlly</p>
+,<p>silent</p>
+*,<p>silently</p>
+<p>The orchestra played too_________ . </p>,1,one,
+*,<p>loudly </p>
+,<p>loud</p>
+,<p>loudlly </p>
+<p>I don't feel very ______ . </p>,1,one,
+,<p>good</p>
+,<p>welly</p>
+*,<p>well</p>
+<p>Ted wrote the test________ . </p>,1,one,
+,<p>bad</p>
+,<p>badlly </p>
+*,<p>badly </p>
+<p>I'm going ___ the stairs.</p>,1,one,
+*,<p>up</p>
+,<p>over</p>
+,<p>under</p>
+<p>We are walking _____ the road.</p>,1,one,
+,<p>out of</p>
+,<p>over</p>
+*,<p>across</p>

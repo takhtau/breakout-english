@@ -1,0 +1,41 @@
+HTML
+<p>John __ in San Diego for the past 3 years.</p>,1,one,
+,<p>lived</p>
+,<p>was lived</p>
+*,<p>has lived</p>
+<p>My brother ___ in San Diego up until last year.</p>,1,one,
+,<p>was lived</p>
+*,<p>was living</p>
+,<p>has lived</p>
+<p>I worked as a graphic designer before I ___ to England.</p>,1,one,
+*,<p>came</p>
+,<p>have come</p>
+,<p>did come</p>
+<p>___ reading the paper yet?</p>,1,one,
+,<p>Were you finished</p>
+*,<p>Have you finished</p>
+,<p>Are you finishing</p>
+<p>I ___ in love three times in my life.</p>,1,one,
+,<p>was being</p>
+,<p>was</p>
+*,<p>have been</p>
+"<p>I ___ in love with Mary, but she left me for another man.</p>",1,one,
+,<p>have been</p>
+,<p>was being</p>
+*,<p>was</p>
+<p>Frank ___ tennis for three years when he was at  school.</p>,1,one,
+,<p>played</p>
+,<p>has played</p>
+*,<p>was playing</p>
+<p>___ me last night?</p>,1,one,
+,<p>Have you called</p>
+*,<p>Did you call</p>
+,<p>Were you called</p>
+"<p>I was at the club yesterday, but I ___ you.</p>",1,one,
+,<p>haven't seen</p>
+,<p>did not saw</p>
+*,<p>did not see</p>
+<p>I ___ so upset for many years!</p>,1,one,
+*,<p>haven't been</p>
+,<p>was not</p>
+,<p>was not being</p>

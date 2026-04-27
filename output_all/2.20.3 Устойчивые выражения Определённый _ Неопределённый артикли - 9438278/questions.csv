@@ -1,0 +1,49 @@
+HTML
+<p>There is ... little white cloud in ... sky.</p>,1,one,
+,<p>the/a</p>
+*,<p>a/the</p>
+,<p>the/-</p>
+<p>What ... beautiful ... day!</p>,1,one,
+*,<p>a/-</p>
+,<p>the/-</p>
+,<p>-/-</p>
+<p>We have ... large room. There is ... big sofa in ... room. </p>,1,one,
+,<p>-/the/a</p>
+,<p>a/the/the</p>
+*,<p>a/a/the</p>
+<p>These are ... new computers. These ... computers are good.</p>,1,one,
+*,<p>-/-</p>
+,<p>the/the</p>
+,<p>the/-</p>
+<p>He works in ... big factory. He is ... engineer.</p>,1,one,
+,<p>-/-</p>
+,<p>the/the</p>
+*,<p>a/a</p>
+<p>Is there ... bus stop near ...building?</p>,1,one,
+*,<p>a/the</p>
+,<p>the/the</p>
+,<p>the/-</p>
+<p>There is ... large piano in ... hall.</p>,1,one,
+,<p>-/-</p>
+*,<p>a/the</p>
+,<p>the/-</p>
+<p>I can see ... nice coffee table in ... middle of ... room. </p>,1,one,
+*,<p>a/the/the</p>
+,<p>the/-/a</p>
+,<p>the/the/the</p>
+<p>They have no ... piano in their ... living room.</p>,1,one,
+*,<p>-/-</p>
+,<p>the/the</p>
+,<p>the/-</p>
+<p>My uncle is ...married. He has ... beautiful wife.</p>,1,one,
+,<p>-/-</p>
+*,<p>-/a</p>
+,<p>the/-</p>
+"<p>They have ... son, but they have no ... daughter.</p>",1,one,
+,<p>-/-</p>
+*,<p>a/-</p>
+,<p>the/-</p>
+<p>There are ... several pictures on... pale green walls.</p>,1,one,
+,<p>-/-</p>
+*,<p>-/the</p>
+,<p>the/-</p>

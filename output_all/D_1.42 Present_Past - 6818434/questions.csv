@@ -1,0 +1,41 @@
+HTML
+<p>I am sorry Ann can't come to the phone right now because she _____ a shower.</p>,~1,one,
+*,<p>is taking</p>
+,<p>has taken</p>
+,<p>takes</p>
+<p>Carol and I are old friends. I _____ her since we studied in high school together.</p>,~1,one,
+,<p>know</p>
+*,<p>have known</p>
+,<p>are knowing</p>
+"<p>Susan is a fashion designer. Now, she _____ at a new set of clothes to be shown at a fashion show in March.</p>",~1,one,
+,<p>works</p>
+*,<p>is working</p>
+,<p>has worked</p>
+<p>Nick is a good footballer. Do you know how long _____ football?</p>,~1,one,
+*,<p>he has been playing</p>
+,<p>he plays</p>
+,<p>has he been playing</p>
+<p>_____ you a ride home yet since he started working in your department?</p>,~1,one,
+,<p>Is Jake giving</p>
+,<p>Does Jake give</p>
+*,<p>Has Jake given</p>
+<p>For many years American schools _____ federal aid for special purposes.</p>,~1,one,
+,<p>receive</p>
+,<p>have received</p>
+*,<p>have been receiving</p>
+<p>Jim _____ basketball this season; he wants to concentrate on his studies.</p>,~1,one,
+,<p>doesn't play</p>
+,<p>hasn't been playing</p>
+*,<p>isn't playing</p>
+"<p>As far as I know Mike _____ Italian for quite some time, but he still doesn't understand very much.</p>",~1,one,
+,<p>is learning</p>
+*,<p>has been learning</p>
+,<p>has learnt</p>
+<p>Linda's apartment looks nice and tidy because she _____ it every two years.</p>,~1,one,
+*,<p>redecorates</p>
+,<p>is redecorating</p>
+,<p>has redecorated</p>
+<p>The government is worried because the number of people without jobs _____ lately.</p>,~1,one,
+,<p>increases</p>
+*,<p>has increased</p>
+,<p>is increasing</p>

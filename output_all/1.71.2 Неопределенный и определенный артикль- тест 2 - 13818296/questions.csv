@@ -1,0 +1,49 @@
+HTML
+<p>He has got a computer. ... computer is new.</p>,1,one,
+*,<p>The</p>
+,<p>A</p>
+,<p>An</p>
+<p>This is a pen. ... pen is green.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>An</p>
+<p>I can see a boy. ... boy is playing.</p>,~1,one,
+,<p>A</p>
+,<p>-</p>
+*,<p>The</p>
+<p>She has got a ruler. ... ruler is long.</p>,1,one,
+,<p>-</p>
+,<p>An</p>
+*,<p>The</p>
+<p>This is a notebook. ... notebook is red.</p>,1,one,
+,<p>A</p>
+*,<p>The</p>
+,<p>-</p>
+<p>My sister goes to school in ... morning.</p>,1,one,
+,<p>a</p>
+,<p>-</p>
+*,<p>the</p>
+<p>This is ... desk.</p>,1,one,
+,<p>the</p>
+*,<p>a</p>
+,<p>-</p>
+<p>Ann is ... interesting girl.</p>,1,one,
+,<p>a</p>
+,<p>the</p>
+*,<p>an</p>
+<p>She has got ... crayon.</p>,1,one,
+,<p>the</p>
+,<p>an</p>
+*,<p>a</p>
+<p>I have got ... pencil case in my schoolbag.</p>,1,one,
+,<p>the</p>
+,<p>an</p>
+*,<p>a</p>
+<p>This is a sharpener. ... sharpener is yellow.</p>,1,one,
+*,<p>The</p>
+,<p>An</p>
+,<p>A</p>
+<p>She plays in ... afternoon.</p>,1,one,
+,<p>an</p>
+,<p>a</p>
+*,<p>the</p>

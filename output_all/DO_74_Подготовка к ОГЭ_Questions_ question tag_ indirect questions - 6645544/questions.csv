@@ -1,0 +1,16 @@
+HTML
+"<p>Excuse me. Could you tell me how much___________, please? </p>",1,one,
+,<p>are these jeans </p>
+*,<p>these jeans are </p>
+<p>Can you let me know what time______________? </p>,1,one,
+,<p>does the train arrive </p>
+*,<p>the train arrives </p>
+<p>Do you know if____________at seven o'clock? </p>,1,one,
+*,<p>the shows stars </p>
+,<p>does the show start </p>
+<p>I wonder if you could tell me what____________.</p>,1,one,
+,<p>is the difference </p>
+*,<p>the difference is </p>
+<p>I wonder if you know who___________ask. </p>,1,one,
+*,<p>I should </p>
+,<p>should I</p>

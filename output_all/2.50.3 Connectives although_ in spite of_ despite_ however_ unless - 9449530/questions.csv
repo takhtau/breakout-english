@@ -1,0 +1,73 @@
+HTML
+"<p>___________ I can't help admiring the man's courage, I do not approve of his methods.  </p>",1,one,
+*,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+,<p>however </p>
+,<p>unless</p>
+"<p>We decided to take rooms in Longwood House, _________ we knew we could not really afford the rent. </p>",1,one,
+*,<p>although </p>
+,<p>in spite of </p>
+,<p>despite </p>
+,<p>however </p>
+,<p>unless</p>
+"<p>_________ his fear, he told his request.</p>",1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite </p>
+,<p>however </p>
+,<p>unless</p>
+<p>He never succeeded ___________ repeated attempts. </p>,1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite </p>
+,<p>however </p>
+,<p>unless</p>
+<p>__________ their weakness the group remains active. </p>,1,one,
+,<p>although </p>
+*,<p>in spite of </p>
+,<p>despite  </p>
+,<p>however </p>
+,<p>unless</p>
+"<p>The Austrian team lost the game, ___________ the fact they had practiced a lot. </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+*,<p>despite</p>
+,<p>however </p>
+,<p>unless</p>
+<p>He remains a great leader ________being in his mid-70-s. </p>,1,one,
+,<p>although </p>
+,<p>in spite of </p>
+*,<p>despite</p>
+,<p>however </p>
+,<p>unless</p>
+<p>his is a cheap and simple process. _________ there are dangers. </p>,1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite</p>
+*,<p>however </p>
+,<p>unless</p>
+"<p>Although I'm a little afraid, ____________ I'd like to try it </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite</p>
+*,<p>however </p>
+,<p>unless</p>
+"<p>You should report any incident, _________ minor it is. </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite</p>
+*,<p>however </p>
+,<p>unless</p>
+"<p>I think you should complain - _________, of course, you are happy with the way things are. </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite</p>
+,<p>however </p>
+*,<p>unless</p>
+"<p>They say nothing ___________ a mere ""yes, Sir"" or ""no, Madam"". </p>",1,one,
+,<p>although </p>
+,<p>in spite of </p>
+,<p>despite</p>
+,<p>however </p>
+*,<p>unless</p>

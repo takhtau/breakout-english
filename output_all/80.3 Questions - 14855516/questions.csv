@@ -1,0 +1,49 @@
+HTML
+<p>----- further is it? (Сколько ещё идти / ехать?)</p>,1,one,
+*,<p>How much</p>
+,<p>How many</p>
+,<p>How far</p>
+<p>Whose turn ----- to set the table?</p>,1,one,
+,<p>does it</p>
+,<p>has it</p>
+*,<p>is it</p>
+"<p>----- we go out to the cinema or stay at home? (Ну что, пойдём в кино или ….?)</p>",1,one,
+,<p>Are</p>
+,<p>Have</p>
+*,<p>Shall</p>
+<p>What size shoes ----- you take? (Какой у вас размер обуви?)</p>,1,one,
+,<p>can</p>
+,<p>are</p>
+*,<p>do</p>
+<p>----- must attend to this matter?</p>,1,one,
+,<p>How</p>
+*,<p>Who</p>
+,<p>Whom</p>
+<p>----- would you feel about working with Nicole for a while?</p>,1,one,
+*,<p>How</p>
+,<p>Who</p>
+,<p>What</p>
+"<p>Your cousin ----- an exclusive private school, didn’t she?</p>",1,one,
+*,<p>attended</p>
+,<p>did attended</p>
+,<p>didn't attend</p>
+<p>----- you going to the prom?</p>,1,one,
+,<p>Will</p>
+,<p>Do</p>
+*,<p>Are</p>
+<p>----- they row about money all the time? (Они ссорились…)</p>,1,one,
+,<p>Had</p>
+*,<p>Did</p>
+,<p>Were</p>
+"<p>She's led an eventful life, -----?</p>",1,one,
+,<p>didn't she</p>
+,<p>is she</p>
+*,<p>hasn't she</p>
+<p>----- you fall or ----- you pushed?</p>,1,one,
+,<p>Were; did</p>
+,<p>Do; were</p>
+*,<p>Did; were</p>
+<p>How ----- go? (Как прошли экзамены?)</p>,1,one,
+,<p>your exams</p>
+*,<p>did your exams</p>
+,<p>were your exams</p>

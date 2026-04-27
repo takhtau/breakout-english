@@ -1,0 +1,101 @@
+HTML
+<p>__ of the hotels in the city have a swimming pool?</p>,1,one,
+,<p>what</p>
+,<p>who</p>
+*,<p>which</p>
+,<p>whose</p>
+"<p>After Mr Barnett __ the letters, I typed them.</p>",1,one,
+*,<p>dictated</p>
+,<p>has dictated</p>
+,<p>will dictate</p>
+,<p>have dictated</p>
+<p>Who was the last person __ today?</p>,1,one,
+,<p>you spoke</p>
+*,<p>you spoke to</p>
+,<p>spoke to you</p>
+,<p>whom you spoke</p>
+<p>I'm looking forward __ you again.</p>,1,one,
+,<p>to meet</p>
+,<p>meeting</p>
+*,<p>to meeting</p>
+,<p>met</p>
+<p>__ in my group likes our guide.</p>,1,one,
+,<p>All persons</p>
+,<p>All people</p>
+*,<p>Everyone</p>
+,<p>All the tourists</p>
+<p>I can never keep her from __ pop music programmes on the radio.</p>,1,one,
+,<p>to listen</p>
+*,<p>listening to</p>
+,<p>listen to</p>
+,<p>listening</p>
+<p>How __ clothes are you going to take with you?</p>,1,one,
+,<p>much</p>
+,<p>little</p>
+*,<p>many</p>
+,<p>few</p>
+<p>Robert is asking the waiter __ a coffee.</p>,1,one,
+,<p>to</p>
+,<p>-</p>
+*,<p>for</p>
+,<p>of</p>
+"<p>I've been sailing __ , so I've got a lot of experience.</p>",1,one,
+*,<p>since fifteen</p>
+,<p>fifteen years ago</p>
+,<p>fifteen years old</p>
+,<p>after fifteen years</p>
+<p>I haven't taken enough water with me. Next time I'm going to take __.</p>,1,one,
+,<p>much</p>
+,<p>enough</p>
+*,<p>more</p>
+,<p>less</p>
+<p>I don't think __ him now.</p>,1,one,
+,<p>it is necessary bothering</p>
+,<p>there is necessary bothering</p>
+*,<p>it is necessary to bother</p>
+,<p>there is necessary to bother</p>
+<p>The Head expected about 40 students but there were __ people in the hall.</p>,1,one,
+,<p>little</p>
+*,<p>fewer</p>
+,<p>much</p>
+,<p>others</p>
+<p>I __ to visit this beautiful country.</p>,1,one,
+,<p>always wants</p>
+,<p>had always been</p>
+,<p>always had wanted</p>
+*,<p>have always wanted</p>
+<p>He always drives __ a speed of 100 miles an hour.</p>,1,one,
+,<p>on</p>
+*,<p>at</p>
+,<p>onto</p>
+,<p>to</p>
+"<p>There are four lakes in this locality, __?</p>",1,one,
+,<p>is it</p>
+,<p>aren't they</p>
+,<p>are there</p>
+*,<p>aren't there</p>
+<p>Ellen is a bad typist. She types __.</p>,1,one,
+,<p>careless</p>
+,<p>careful</p>
+,<p>carefully</p>
+*,<p>carelessly</p>
+<p>__ Great Britain is the name of the largest island of the British Isles.</p>,1,one,
+,<p>The</p>
+,<p>An </p>
+,<p>A</p>
+*,<p>-</p>
+<p>What is __ smallest room in this hotel?</p>,1,one,
+*,<p>the</p>
+,<p>an</p>
+,<p>a</p>
+,<p>-</p>
+<p>I would like you to let me __ the project myself.</p>,1,one,
+,<p>to finish</p>
+,<p>finishing</p>
+,<p>finished</p>
+*,<p>finish</p>
+"<p>Let's finish the translation today, __?</p>",1,one,
+*,<p>shall we</p>
+,<p>will we</p>
+,<p>shall I</p>
+,<p>will I</p>

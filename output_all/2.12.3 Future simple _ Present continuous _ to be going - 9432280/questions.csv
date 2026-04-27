@@ -1,0 +1,49 @@
+HTML
+<p>We (not to send) them the message tomorrow. </p>,1,one,
+,<p>are sending </p>
+*,<p>will not send</p>
+,<p>send</p>
+<p>She (not to get) up at 6 o'clock tomorrow. </p>,1,one,
+*,<p>will not get</p>
+,<p>gets</p>
+,<p>is getting </p>
+<p>He (to go) to the gym next week </p>,1,one,
+*,<p>will go</p>
+,<p>is going </p>
+,<p>goes</p>
+<p>Our neighbors (to move) to Germany next month.</p>,1,one,
+*,<p>will move </p>
+,<p>are moving </p>
+,<p>move</p>
+<p>Look! Jane (to swim) across the lake.</p>,1,one,
+,<p>swims</p>
+,<p>will swim</p>
+*,<p>is swimming </p>
+<p>My cousin (to look) for a job. </p>,1,one,
+,<p>looks</p>
+*,<p>is looking </p>
+,<p>will look</p>
+<p>I (to have) dinner with my friends at the moment and I am very happy to see them again.</p>,1,one,
+,<p>have</p>
+*,<p>am having </p>
+,<p>will have</p>
+<p>They (to have) a meeting now.</p>,1,one,
+*,<p>are having</p>
+,<p>have</p>
+,<p>will have</p>
+<p>Look at the dog. It (to go) to bite you.</p>,1,one,
+*,<p>‘s going</p>
+,<p>will go</p>
+,<p>goes</p>
+<p>Get back! The bomb (to go) to explode.</p>,1,one,
+*,<p>is going</p>
+,<p>goes</p>
+,<p>will go</p>
+<p>I (to go) to get some milk.</p>,1,one,
+,<p>is going</p>
+*,<p>am going</p>
+,<p>will go</p>
+<p>I (to go) to wear my new skirt for the party.</p>,1,one,
+*,<p>am going </p>
+,<p>go</p>
+,<p>will go</p>

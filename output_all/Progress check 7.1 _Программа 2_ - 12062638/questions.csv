@@ -1,0 +1,77 @@
+HTML
+"<p>They won't go to the party, ___________?</p>",1,one,
+*,<p>will they</p>
+,<p>won't they</p>
+,<p>are they</p>
+"<p>I'm your doctor, ___________?</p>",1,one,
+,<p>do I</p>
+*,<p>aren't I</p>
+,<p>don't I</p>
+"<p>She won’t do this to him, _________? </p>",1,one,
+*,<p>will she</p>
+,<p>won't she</p>
+,<p>is she </p>
+"<p>His lesson is boring, __________? </p>",1,one,
+,<p>is it </p>
+*,<p>isn't it</p>
+,<p>doesn't it </p>
+"<p>""You ate the whole pizza"", said Dan. - Dan said I ... the whole pizza.</p>",1,one,
+*,<p>had eaten</p>
+,<p>ate</p>
+,<p>has eaten</p>
+"<p>""It is breaking!"", said Henry. - Henry said it ...  </p>",1,one,
+,<p>broke</p>
+*,<p>was breaking</p>
+,<p>were breaking</p>
+"<p>""I finished my homework"", said Alex. - Alex said he ... his homework.</p>",1,one,
+,<p>finished</p>
+,<p>has finished</p>
+*,<p>had finished</p>
+"<p>""The kids had a day off school"", said mum. - Mum said the kids ... a day off school.</p>",1,one,
+,<p>had</p>
+,<p>have had</p>
+*,<p>had had</p>
+"<p>""I took them ice-skating"", said dad. - Dad said he ... them ice-skating. </p>",1,one,
+*,<p>had taken</p>
+,<p>has taken</p>
+,<p>took</p>
+"<p>""Don't you help her?"" she said. - She asked me if I _________her. </p>",1,one,
+*,<p>didn't help</p>
+,<p>don't help</p>
+,<p>hadn't helped</p>
+"<p>""Does she always sit here?"" he said. - He asked if she always sat _______</p>",1,one,
+,<p>here</p>
+*,<p>there</p>
+,<p>this</p>
+<p>I don't enjoy ... letters.</p>,1,one,
+*,<p>writing</p>
+,<p>to write</p>
+,<p>write</p>
+"<p>I considered ... the job, but in the end I decided against it.</p>",1,one,
+,<p>to take</p>
+*,<p>taking</p>
+,<p>take</p>
+<p>I don't fancy ... this evening.</p>,1,one,
+,<p>to go out</p>
+,<p>go out</p>
+*,<p>going out</p>
+<p>We stopped ... some water at the motorway service area. </p>,1,one,
+,<p>buying</p>
+,<p>buy</p>
+*,<p>to buy</p>
+<p>... can I do to help?</p>,1,one,
+*,<p>What</p>
+,<p>When</p>
+,<p>Why</p>
+<p>... will the show start?</p>,1,one,
+,<p>Who</p>
+,<p>What</p>
+*,<p>When</p>
+<p>... is the doctor's office? </p>,1,one,
+,<p>What</p>
+,<p>How</p>
+*,<p>Where</p>
+<p>He told me he ... the cold weather. </p>,1,one,
+*,<p>was used to</p>
+,<p>used to</p>
+,<p>get used to</p>

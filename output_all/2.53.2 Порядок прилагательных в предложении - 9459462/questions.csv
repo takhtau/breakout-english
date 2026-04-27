@@ -1,0 +1,49 @@
+HTML
+<p>kitchen cupboard (oak)</p>,1,one,
+*,<p>an oak kitchen cupboard</p>
+,<p>a oak kitchen cupboard</p>
+,<p>a kitchen oak cupboard</p>
+<p>brown bag (leather)</p>,1,one,
+,<p>a leather brown bag</p>
+*,<p>a brown leather bag</p>
+,<p>an brown leather bag</p>
+<p>American film (old)</p>,1,one,
+,<p>an American old film</p>
+,<p>a American old film</p>
+*,<p>an old American film</p>
+<p>red car (old/little)</p>,1,one,
+*,<p>a little old red car</p>
+,<p>an old red little car</p>
+,<p>a red little old car</p>
+<p>long eye-lashes (black/thick)</p>,1,one,
+,<p>a thick long black eye-lashes</p>
+*,<p>long thick black eye-lashes</p>
+,<p>black thick long eye-lashes</p>
+<p>oak wardrobe (French)</p>,1,one,
+,<p>an oak French wardrobe</p>
+,<p>an French oak wardrobe</p>
+*,<p>a French oak wardrobe</p>
+<p>sports car (well-maintained)</p>,1,one,
+*,<p>a well-maintained sports car</p>
+,<p>a sports well-maintained car</p>
+,<p>an well-maintained sports car</p>
+<p>small cottage (stone-built)</p>,1,one,
+,<p>the stone-built small cottage</p>
+,<p>a stone-built small cottage</p>
+*,<p>a small stone-built cottage</p>
+<p>white shorts (cotton)</p>,1,one,
+*,<p>white cotton shorts</p>
+,<p>cotton white shorts</p>
+,<p>a cotton white shorts</p>
+<p>green dress (ugly)</p>,1,one,
+,<p>a green ugly dress</p>
+*,<p>an ugly green dress</p>
+,<p>a ugly green dress</p>
+<p>French painting (old)</p>,1,one,
+,<p>a old French painting</p>
+,<p>a French old painting</p>
+*,<p>an old French painting</p>
+<p>two-day trip (unforgettable)</p>,1,one,
+*,<p>an unforgettable two-day trip</p>
+,<p>a two-day unforgettable trip</p>
+,<p>a unforgettable two-day trip</p>

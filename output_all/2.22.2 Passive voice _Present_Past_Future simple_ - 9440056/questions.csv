@@ -1,0 +1,49 @@
+HTML
+<p>Lost time (to find) again.</p>,1,one,
+*,<p>is never found</p>
+,<p>never find</p>
+,<p>was never found</p>
+<p>Rome (not to build) in a day.</p>,1,one,
+,<p>isn't built </p>
+,<p>didn't build </p>
+*,<p>was not built</p>
+<p>My question (to answer) two days ago.</p>,1,one,
+*,<p>was answered </p>
+,<p>is answered </p>
+,<p>answered </p>
+<p>Hockey (to play) in winter.</p>,1,one,
+,<p>plays</p>
+*,<p>is played</p>
+,<p>will be played</p>
+<p>Mushrooms (to gather) in autumn.</p>,1,one,
+*,<p>are gathered </p>
+,<p>will be gathered </p>
+,<p>gather </p>
+<p>Thousands of houses (to destroy) during the Great Fire of London.</p>,1,one,
+,<p>is destroyed </p>
+*,<p>were destroyed </p>
+,<p>destroyed</p>
+<p>His new book (to finish) next year.</p>,1,one,
+,<p>will finish</p>
+*,<p>will be finished </p>
+,<p>is finished</p>
+<p>Flowers (to sell) in shops and in the streets.</p>,1,one,
+*,<p>are sold</p>
+,<p>was sold</p>
+,<p>sell</p>
+<p>St Petersburg (to found) in 1703.</p>,1,one,
+,<p>founded</p>
+,<p>is founded</p>
+*,<p>was founded</p>
+<p>At the station they (to meet) by a man from the travel bureau.</p>,1,one,
+*,<p>will be met</p>
+,<p>will meet</p>
+,<p>meet</p>
+<p>Your bag (to bring) up in the lift.</p>,1,one,
+,<p>are brought </p>
+*,<p>will be brought</p>
+,<p>will bring</p>
+<p>From the station they (to take) straight to the hotel.</p>,1,one,
+,<p>is taken</p>
+,<p>take</p>
+*,<p>will be taken</p>

@@ -1,0 +1,19 @@
+HTML
+<p>Is that my milkshake or yours milkshake? </p>,1,,
+*,milkshake
+<p>Look where the dog has put its bone! </p>,1,,
+*,+
+<p>I haven't got a camera with me because I've lent mine to my brother. </p>,1,,
+*,+
+<p>Your DVD player is just the same as theirs is. </p>,1,,
+*,+
+<p>Was it your decision or hers decision? </p>,1,,
+*,decision
+"<p>You can borrow my laptop, but why aren't you using yours laptop? </p>",1,,
+*,laptop
+<p>I think those are your CDs and these are ours. </p>,1,,
+*,+
+"<p>This is her book, these are your books and these two are mine books. </p>",1,,
+*,books
+"<p>That video belongs to Carol and Doug - at least, I think it's theirs video. </p>",1,,
+*,video

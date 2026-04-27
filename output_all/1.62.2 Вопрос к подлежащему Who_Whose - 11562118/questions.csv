@@ -1,0 +1,49 @@
+HTML
+<p>... was in the supemarket?</p>,1,one,
+*,<p>Who</p>
+,<p>Who's</p>
+,<p>Whose</p>
+<p>... went to school yesterday?</p>,1,one,
+*,<p>Who</p>
+,<p>Whose</p>
+,<p>Who's</p>
+<p>... speaks English?</p>,1,one,
+,<p>Whose</p>
+*,<p>Who</p>
+,<p>Who's</p>
+<p>... knows Ann?</p>,1,one,
+*,<p>Who</p>
+,<p>Who's</p>
+,<p>Whose</p>
+<p>... bought bread?</p>,1,one,
+*,<p>Who</p>
+,<p>Whose</p>
+,<p>Who's</p>
+<p>... at home?</p>,1,one,
+,<p>Whose</p>
+,<p>Who</p>
+*,<p>Who's</p>
+<p>... driving the car?</p>,1,one,
+,<p>Who</p>
+,<p>Whose</p>
+*,<p>Who is</p>
+<p>... she?</p>,1,one,
+,<p>Whose</p>
+,<p>Who</p>
+*,<p>Who's</p>
+<p>... apple is this?</p>,1,one,
+,<p>Who</p>
+,<p>Who's</p>
+*,<p>Whose</p>
+<p>... ruler is this?</p>,1,one,
+,<p>Who</p>
+*,<p>Whose</p>
+,<p>Who's</p>
+<p>... son is he?</p>,1,one,
+,<p>Who</p>
+,<p>Who's</p>
+*,<p>Whose</p>
+<p>... house is this?</p>,1,one,
+*,<p>Whose</p>
+,<p>Who's</p>
+,<p>Who</p>

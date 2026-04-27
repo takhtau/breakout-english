@@ -1,0 +1,61 @@
+HTML
+<p>Mother saw that Nick __________ his hands.</p>,1,one,
+*,<p>hadn't washed</p>
+,<p>didn't wash</p>
+,<p>doesn't wash</p>
+<p>The teacher _________ that Lena hadn't done her homework.</p>,1,one,
+,<p>had understood</p>
+*,<p>understood</p>
+,<p>understands</p>
+<p>I knew that my friend _______ yet.</p>,1,one,
+,<p>didn't come</p>
+,<p>come</p>
+*,<p>hadn't come</p>
+"<p>When I __________ up yesterday, father had already gone to work.</p>",1,one,
+*,<p>woke up</p>
+,<p>had woken up</p>
+,<p>wake up</p>
+<p>Poor Oliver ______ unconscious on the spot where Sikes had left him.</p>,1,one,
+,<p>had lain</p>
+,<p>lies</p>
+*,<p>lay</p>
+<p>Ron’s collection of coins was valuable as he _______ them since he was a schoolboy.</p>,1,one,
+,<p>had been collected</p>
+*,<p>had been collecting </p>
+,<p>had collected</p>
+<p>When Sam returned home we _______ that TV programme for a quarter of an hour already.</p>,1,one,
+*,<p>had been watching </p>
+,<p>had watched</p>
+,<p>had been watched</p>
+<p>Bill’s coat and mittens were wet because he ______ snowballs with his friends in the yard.</p>,1,one,
+,<p>had played</p>
+,<p>had been played</p>
+*,<p>had been playing</p>
+<p>He went to meet his friends after he _______ his homework. </p>,1,one,
+,<p>had been doing </p>
+*,<p>had done</p>
+,<p>had been done</p>
+<p>By 8 o’clock the rain _______. </p>,1,one,
+,<p>stopped</p>
+,<p>had been stopping</p>
+*,<p>had stopped</p>
+<p>Alice was late because she _______ the bus.</p>,1,one,
+*,<p>had missed</p>
+,<p>had been missing </p>
+,<p>had been missed</p>
+<p>She went to the post-office after she ______ the letter.</p>,1,one,
+,<p>had been writing</p>
+*,<p>had written</p>
+,<p>had been written </p>
+<p>Nick _________ his friends last week.</p>,1,one,
+*,<p>didn't meet </p>
+,<p>wasn't meeting </p>
+,<p>weren't meeting </p>
+<p>Gary ______ French at school.</p>,1,one,
+,<p>weren't studying </p>
+,<p>wasn't studying </p>
+*,<p>didn't study </p>
+<p>We ______ a picnic last Saturday.</p>,1,one,
+*,<p>had</p>
+,<p>have</p>
+,<p>were having </p>

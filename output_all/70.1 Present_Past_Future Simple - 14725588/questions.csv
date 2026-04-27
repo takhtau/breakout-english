@@ -1,0 +1,49 @@
+HTML
+<p>The sun ----- in the east.</p>,1,one,
+,<p>rise</p>
+*,<p>rises</p>
+,<p>is rise</p>
+<p>The dinosaurs ----- extinct millions of years ago.</p>,1,one,
+*,<p>went</p>
+,<p>go</p>
+,<p>goes</p>
+<p>I ----- Paris last summer.</p>,1,one,
+,<p>visits</p>
+,<p>visit</p>
+*,<p>visited</p>
+"<p>I ----- you with Math, if you like.</p>",1,one,
+,<p>helps</p>
+*,<p>‘ll help</p>
+,<p>helped</p>
+"<p>In the future, everyone ----- their own flying car.</p>",1,one,
+*,<p>will have</p>
+,<p>will has</p>
+,<p>haves</p>
+<p>What ----- when you are sad?</p>,1,one,
+,<p>did you do</p>
+,<p>are you do</p>
+*,<p>do you do</p>
+<p>When I ----- sad I listen to music.</p>,1,one,
+,<p>were</p>
+*,<p>am</p>
+,<p>is</p>
+<p>What ----- when you saw the star?</p>,1,one,
+,<p>you did feel</p>
+,<p>did feel you</p>
+*,<p>did you feel</p>
+<p>I ----- really excited!</p>,1,one,
+,<p>felts</p>
+,<p>feels</p>
+*,<p>felt</p>
+<p>----- our grandparents next weekend?</p>,1,one,
+*,<p>Shall we visit</p>
+,<p>We shall visit</p>
+,<p>Shall visit we</p>
+<p>The Earth ----- around the sun.</p>,1,one,
+,<p>revolvs</p>
+,<p>revolve</p>
+*,<p>revolves</p>
+<p> ----- they watch a movie 2 days ago?</p>,1,one,
+,<p>Were</p>
+,<p>Was</p>
+*,<p>Did</p>

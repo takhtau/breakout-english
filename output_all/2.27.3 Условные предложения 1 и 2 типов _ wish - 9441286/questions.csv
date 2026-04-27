@@ -1,0 +1,49 @@
+HTML
+"<p>If these shoes were not too big for me, I (to buy) them.</p>",1,one,
+*,<p>would buy</p>
+,<p>bought</p>
+,<p>will buy</p>
+"<p>If you (to ring) me up, I will tell you a secret.</p>",1,one,
+,<p>would ring</p>
+*,<p>ring</p>
+,<p>will ring</p>
+"<p>If you (to be) a poet, you would write beautiful poetry.</p>",1,one,
+,<p>are</p>
+,<p>will be</p>
+*,<p>were</p>
+"<p>If he did not read so much, he (not to know) English literature so well.</p>",1,one,
+*,<p>wouldn't know</p>
+,<p>won't know</p>
+,<p>doesn't know</p>
+"<p>If he (not to pass) his exam, he will not get a scholarship.</p>",1,one,
+,<p>passed</p>
+,<p>wouldn't pass</p>
+*,<p>doesn't pass</p>
+<p>My father would have more free time if he (not to read) so many newspapers.</p>,1,one,
+*,<p>didn't read</p>
+,<p>wouldn't read</p>
+,<p>won't read</p>
+"<p>If I were a famous singer, I (to get) a lot of flowers every day.</p>",1,one,
+,<p>got</p>
+*,<p>would get</p>
+,<p>will get</p>
+"<p>If my brother (to be) in trouble, I will help him, of course.</p>",1,one,
+,<p>was</p>
+,<p>would be</p>
+*,<p>is</p>
+<p>I wish I (can) give up smoking.</p>,1,one,
+*,<p>could</p>
+,<p>would can</p>
+,<p>can</p>
+<p>He wishes he (to know) something about cars.</p>,1,one,
+,<p>would know</p>
+*,<p>knew</p>
+,<p>will know</p>
+<p>I wish it (to be) sunny.</p>,1,one,
+,<p>will be</p>
+,<p>is</p>
+*,<p>were</p>
+<p>She wishes she (to live) in the Crimea.</p>,1,one,
+*,<p>lived</p>
+,<p>will live</p>
+,<p>lives</p>

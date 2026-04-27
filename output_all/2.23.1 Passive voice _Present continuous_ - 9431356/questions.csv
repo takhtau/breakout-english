@@ -1,0 +1,49 @@
+HTML
+<p>I (give) a cup of tea now.</p>,1,one,
+,<p>am given</p>
+*,<p>am being given</p>
+,<p>are given</p>
+<p>A new big house (build) opposite my office now.</p>,1,one,
+*,<p>is being built</p>
+,<p>is built</p>
+,<p>are built</p>
+<p>My report (print) at the moment.</p>,1,one,
+,<p>am printed</p>
+,<p>is printed</p>
+*,<p>is being printed</p>
+<p>The door (close) now.</p>,1,one,
+*,<p>is being closed</p>
+,<p>are closed</p>
+,<p>is closed</p>
+<p>The watches (repair) now. </p>,1,one,
+,<p>am repaired</p>
+*,<p>are being repaired</p>
+,<p>are repaired</p>
+<p>The new contract (discuss) at the moment. </p>,1,one,
+,<p>is discussed</p>
+,<p>are discussed</p>
+*,<p>is being discussed</p>
+<p>The highest tower (build) now.</p>,1,one,
+*,<p>is being built</p>
+,<p>am being built</p>
+,<p>is built</p>
+<p>TV (watch) in the living room now.</p>,1,one,
+,<p>is watched</p>
+*,<p>is being watched</p>
+,<p>are being watched</p>
+<p>The cakes (cook) at the moment.</p>,1,one,
+,<p>am cooked</p>
+,<p>are cooked</p>
+*,<p>are being cooked</p>
+<p>The floor (not to wash) now.</p>,1,one,
+*,<p>is not being washed</p>
+,<p>is not washed</p>
+,<p>are not being washed</p>
+<p>Cheats (not to use) at the moment. </p>,1,one,
+,<p>is not used</p>
+*,<p>are not being used</p>
+,<p>are not used</p>
+<p>This experiment (conduct) right now.</p>,1,one,
+,<p>are conducted</p>
+,<p>is conducted</p>
+*,<p>is being conducted</p>

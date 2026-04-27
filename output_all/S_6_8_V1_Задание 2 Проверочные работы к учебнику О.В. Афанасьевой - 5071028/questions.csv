@@ -1,0 +1,35 @@
+HTML
+<p>I am sure we can believe their reports. The information _____ always _____ . (check)</p>,1,,
+*,is/checked
+<p>The information _____ tomorrow. (check)</p>,1,,
+*,will be checked
+<p>The information must _____ tomorrow. (check)</p>,1,,
+*,be checked
+<p>He _____ the information tomorrow. (check)</p>,1,,
+*,will check
+"<p>If he _____ the information tomorrow, the article _____ next week. (check, publish)</p>",1,,
+*,check/will be published
+<p>_____ he already _____ the information? (check)</p>,1,,
+*,has/checked
+"<p>He is in the library. He _____ the information. He _____ it since lunch. (check, check)</p>",1,,
+*,is checking/has been checking
+<p>He _____ the information yet. (not check)</p>,1,,
+*,hasn't checked
+<p>The information _____ a week ago. (check)</p>,1,,
+*,was checked
+<p>I want you _____ the information. (check)</p>,1,,
+*,to check
+<p>The teacher made him _____ the information. (check)</p>,1,,
+*,check
+<p>The teacher expected him _____ the information. (check)</p>,1,,
+*,to check
+"<p>Yesterday when the teacher _____ the classroom we _____ the information. (enter, check)</p>",1,,
+*,entered/are checking
+<p>I saw the teacher _____ the information. (check)</p>,1,,
+*,checking
+<p>The teacher said he _____ already _____ the information. (check)</p>,1,,
+*,had/checked
+<p>The teacher said he _____ the information the next day. (check)</p>,1,,
+*,would check
+<p>The teacher let us _____ the information. (check)</p>,1,,
+*,check

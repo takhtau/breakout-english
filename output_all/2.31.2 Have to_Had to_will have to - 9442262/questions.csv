@@ -1,0 +1,49 @@
+HTML
+<p>They ... call the doctor because the grandmother was ill.</p>,1,one,
+*,<p>had to</p>
+,<p>have to</p>
+,<p>will have to</p>
+<p>My parents were not at home and I ... look after my little sister.</p>,1,one,
+,<p>have to</p>
+*,<p>had to</p>
+,<p>will have to</p>
+"<p>It was Sunday yesterday, so he ... be at work.</p>",1,one,
+,<p>won't have to</p>
+,<p>doesn't have to</p>
+*,<p>didn't have to</p>
+<p>I am sorry I couldn’t come yesterday. I ... work late.</p>,1,one,
+*,<p>had to</p>
+,<p>have to</p>
+,<p>will have to</p>
+<p>We ... take any exams at the end of this term.</p>,1,one,
+,<p>don't have to</p>
+*,<p>won't have to</p>
+,<p>didn't have to</p>
+<p>I ... fly to India next month.</p>,1,one,
+,<p>have to</p>
+,<p>had to</p>
+*,<p>will have to</p>
+<p>Drake ... sign the contract tomorrow.</p>,1,one,
+*,<p>will have to</p>
+,<p>has to</p>
+,<p>had to</p>
+<p>He ... fix a broken window tomorrow morning.</p>,1,one,
+,<p>has to</p>
+*,<p>will have to</p>
+,<p>had to</p>
+<p>I ... get up at five every Sunday. </p>,1,one,
+,<p>had to</p>
+,<p>will have to</p>
+*,<p>have to</p>
+<p>Ann ... go to hospital today. </p>,1,one,
+*,<p>has to</p>
+,<p>had to</p>
+,<p>will have to</p>
+<p>We ... walk all the way home because we can’t catch a taxi. </p>,~1,one,
+,<p>will have to</p>
+*,<p>have to</p>
+,<p>had to</p>
+<p>We ... be in a hurry. We still have plenty of time.</p>,1,one,
+,<p>won't have to</p>
+,<p>didn't have to</p>
+*,<p>don't have to</p>

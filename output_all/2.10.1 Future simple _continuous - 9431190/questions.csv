@@ -1,0 +1,49 @@
+HTML
+<p>I (to do) my homework tomorrow.</p>,1,one,
+*,<p>will do </p>
+,<p>will be doing </p>
+,<p>do</p>
+<p>I (to do) my homework at six o’clock tomorrow.</p>,1,one,
+,<p>will do </p>
+*,<p>will be doing </p>
+,<p>do</p>
+<p>I (to do) my homework from three till six.</p>,1,one,
+*,<p>will be doing </p>
+,<p>do</p>
+,<p>will do</p>
+<p>My father (to come) home tomorrow.</p>,1,one,
+*,<p>will come </p>
+,<p>will be coming </p>
+,<p>come</p>
+"<p>When I come home tomorrow, my family (to have) supper.</p>",1,one,
+,<p>have </p>
+*,<p>will be having </p>
+,<p>will have </p>
+"<p>When you come to my place tomorrow, I (to read) your book.</p>",1,one,
+*,<p>will be reading </p>
+,<p>read</p>
+,<p>will read</p>
+<p>Don’t come to my place tomorrow. I (to write) an essay the whole evening.</p>,1,one,
+,<p>will write </p>
+*,<p>will be writing </p>
+,<p>write </p>
+<p>I (not to go) to the cinema tomorrow. I (to watch) TV the whole evening.</p>,1,one,
+,<p>will not be going/will watch </p>
+*,<p>will not go/will be watching </p>
+,<p>don't go/watch</p>
+<p>What you (to do) tomorrow?</p>,1,one,
+*,<p>will you do </p>
+,<p>will you be doing</p>
+,<p>are you doing</p>
+<p>You (to play) volleyball tomorrow?</p>,1,one,
+,<p>will you be playing </p>
+*,<p>will you play</p>
+,<p>are you playing </p>
+<p>What you (to do) at eight o’clock tomorrow?</p>,1,one,
+,<p>will you do </p>
+*,<p>will you be doing</p>
+,<p>are you doing</p>
+<p>When you (to go) to see your friend next time?</p>,1,one,<p>Type explanation here...</p>
+*,<p>will you go</p>
+,<p>will you be going </p>
+,<p>are you going</p>

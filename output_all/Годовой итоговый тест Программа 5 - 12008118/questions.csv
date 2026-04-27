@@ -1,0 +1,49 @@
+HTML
+"<p>When he........, I'll give him the cassette.</p>",1,one,
+,<p>come</p>
+*,<p>comes</p>
+,<p>will come</p>
+<p>I've just found a pencil. Is it........?</p>,1,one,
+,<p>your</p>
+*,<p>yours</p>
+,<p>her</p>
+"<p>Mary, you can make the cake......... .</p>",1,one,
+*,<p>yourself</p>
+,<p>yourselves </p>
+,<p>herself</p>
+<p>The books.......... to the library.</p>,1,one,
+,<p>returned</p>
+,<p>have returned </p>
+*,<p>were returned </p>
+"<p>This is your house, ........?</p>",1,one,
+*,<p>isn't it</p>
+,<p>isn't this</p>
+,<p>isn't there</p>
+<p>Thank you very much. You.........very kind to me lately.</p>,1,one,
+,<p>always were</p>
+*,<p>have been</p>
+<p>Mother asks Tom when he........back.</p>,1,one,
+,<p>come</p>
+,<p>comes</p>
+*,<p>will come</p>
+<p>Reading is _______ than watching TV for you.</p>,1,one,
+*,<p>better</p>
+,<p>good</p>
+,<p>the best</p>
+<p>Can you see..........bird in the tree?</p>,1,one,
+,<p>this</p>
+*,<p>that</p>
+,<p>those</p>
+<p>How long does it ______ you to go school?</p>,1,one,
+*,<p>take</p>
+,<p>takes</p>
+,<p>took</p>
+<p>There ____ some books on the shelf.</p>,1,one,
+*,<p>are</p>
+,<p>is</p>
+<p>How _____ sugar do you need?</p>,1,one,
+,<p>many</p>
+*,<p>much</p>
+<p>They ran _____ the house.</p>,1,one,
+*,<p>out of</p>
+,<p>under</p>

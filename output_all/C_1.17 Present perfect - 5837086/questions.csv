@@ -1,0 +1,31 @@
+HTML
+<p>I am speaking to you. I have ___ to you.</p>,1,one,
+,<p>spoked</p>
+*,<p>spoken</p>
+<p>That man is driving a car. That man has ___ a car.</p>,1,one,
+,<p>drived</p>
+*,<p>driven</p>
+<p>My friend is sleeping. My friend has ___.</p>,1,one,
+*,<p>slept</p>
+,<p>sleepen</p>
+<p>She is in Prague. She has ___ in Prague.</p>,1,one,
+*,<p>been</p>
+,<p>was</p>
+<p>They are arguing about money. They have ___ money.</p>,1,one,
+*,<p>argued</p>
+,<p>argue</p>
+<p>They are taking a test. They have ___ a test.</p>,1,one,
+,<p>taked</p>
+*,<p>taken</p>
+<p>She is eating. She has ___.</p>,1,one,
+,<p>ate</p>
+*,<p>eaten</p>
+<p>I am listening to music. I have ___ to music.</p>,1,one,
+*,<p>listened </p>
+,<p>listen </p>
+<p>The musician is playing a song. The musician has ___ a song.</p>,1,one,
+*,<p>played</p>
+,<p>play</p>
+<p>She is flying to Berlin. She has ___ to Berlin. </p>,1,one,
+*,<p>flown</p>
+,<p>fly</p>

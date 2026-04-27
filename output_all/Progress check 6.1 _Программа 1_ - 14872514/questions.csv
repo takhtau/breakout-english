@@ -1,0 +1,53 @@
+HTML
+<p>Paul and Karen ----- while they were travelling.</p>,1,one,
+,<p>have their bags steal</p>
+*,<p>had their bags stolen</p>
+,<p>had their bags stealing</p>
+<p>Our neighbour is -----. He likes their work so much that he never stops ----- the workers.</p>,1,one,
+,<p>having a garage building; praise   </p>
+,<p>has a garage built; to praise</p>
+*,<p>having a garage built; praising</p>
+<p>When are you going to -----?</p>,1,one,
+*,<p>get the roof repaired</p>
+,<p>be the roof repaired</p>
+,<p>have the roof repair</p>
+"<p>I'll be there at six ----- I get delayed. Hopefully, I’ll make it.</p>",1,one,
+,<p>if</p>
+*,<p>unless</p>
+,<p>on condition that</p>
+<p>Let's take our wellies ----- it's muddy.</p>,1,one,
+*,<p>in case</p>
+,<p>on condition that</p>
+,<p>unless</p>
+"<p>If you ----- a beard, you ----- just like Charles Dickens!</p>",1,one,
+*,<p>had; would look</p>
+,<p>have; would look</p>
+,<p>had; will look</p>
+"<p>If I ----- you, I ----- very carefully about my future.</p>",1,one,
+,<p>will be; would think</p>
+,<p>was you; will think</p>
+*,<p>were; would think</p>
+"<p>If I ----- some revision, I ----- the exam.</p>",1,one,
+,<p>do; could have passed</p>
+*,<p>had done; could have passed</p>
+,<p>have done; could have passed </p>
+"<p>If I ----- to my parents, I ----- in so much trouble now. </p>",1,one,
+,<p>have listened; wouldn’t have been</p>
+,<p>listen; wouldn't be</p>
+*,<p>had listened; wouldn't be</p>
+<p>Do you wish you ----- science instead of languages?</p>,1,one,
+*,<p>’d studied</p>
+,<p>’ve studied</p>
+,<p>will study</p>
+"<p>I wish I ----- to work tomorrow, but unfortunately   I do.</p>",1,one,
+*,<p>didn’t have</p>
+,<p>hadn’t had</p>
+,<p>don’t have</p>
+<p>The phone has been ringing for five minutes. I wish somebody ----- it.</p>,1,one,
+,<p>answered</p>
+*,<p>would answer</p>
+,<p>had answered</p>
+<p>The police officer said to us ‘Where are you going?’ </p>,1,one,
+,<p>The police officer asked us where we are going.</p>
+*,<p>The police officer asked us where we were going.</p>
+,<p>The police officer asked us where were we going.</p>

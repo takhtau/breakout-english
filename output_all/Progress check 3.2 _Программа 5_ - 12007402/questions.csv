@@ -1,0 +1,53 @@
+HTML
+<p>He ... with his family now.</p>,1,one,
+,<p>are</p>
+*,<p>is</p>
+,<p>will be</p>
+<p>Her children ... not at school yesterday.</p>,1,one,
+,<p>are</p>
+,<p>was</p>
+*,<p>were</p>
+<p>There ... an interesting exhibition there.</p>,1,one,
+*,<p>will be</p>
+,<p>are</p>
+,<p>were</p>
+<p>They ... at the stadium tomorrow.</p>,1,one,
+,<p>am</p>
+*,<p>will be</p>
+,<p>are</p>
+<p>... eyes are blue.</p>,1,one,
+*,<p>my</p>
+,<p>mine</p>
+,<p>I</p>
+<p>He put his hand in ...</p>,1,one,
+,<p>me</p>
+,<p>I</p>
+*,<p>mine</p>
+<p>The dress is ...</p>,1,one,
+,<p>my</p>
+*,<p>mine</p>
+,<p>me</p>
+<p>He ______ on the TV to watch cartoons every morning.</p>,1,one,
+,<p>turn</p>
+*,<p>turns </p>
+,<p>turned </p>
+<p>Mr Smith (to fix) his car yesterday morning.</p>,1,one,
+,<p>fix</p>
+,<p>fixing</p>
+*,<p>fixed </p>
+<p>His wife (to water) her lovely flowers yesterday.</p>,1,one,
+,<p>watering </p>
+*,<p>watered </p>
+,<p>waters </p>
+<p>They (not to take) care of the garden next summer.</p>,1,one,
+*,<p>will not take </p>
+,<p>are not taking </p>
+,<p>don't take</p>
+<p>____ will go to the zoo tomorrow.</p>,1,one,
+,<p>Nothing</p>
+*,<p>Nobody</p>
+,<p>Nowhere</p>
+<p>Our football team (to win) many games next year.</p>,1,one,
+,<p>win</p>
+*,<p>will win</p>
+,<p>won</p>

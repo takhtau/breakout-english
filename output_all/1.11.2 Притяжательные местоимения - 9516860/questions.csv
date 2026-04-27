@@ -1,0 +1,49 @@
+HTML
+<p>These are my sisters. _______ names are Tina and Nina.</p>,1,one,
+*,<p>Their</p>
+,<p>Yours</p>
+,<p>My</p>
+<p>Emy has a brother.  _____ name is Bred.</p>,1,one,
+,<p>Their</p>
+*,<p>His</p>
+,<p>Our</p>
+<p>Emy and Bred have got two children. ______ names are Kevin and Evi. </p>,1,one,
+,<p>Your</p>
+,<p>His</p>
+*,<p>Their</p>
+<p>I have a cat. _____ name is Fluffy.</p>,1,one,
+*,<p>Its</p>
+,<p>Our</p>
+,<p>My</p>
+<p>Are these _____ shoes? (её туфли)</p>,1,one,
+,<p>his</p>
+*,<p>her</p>
+,<p>my</p>
+<p>We know _____ address (их адрес)</p>,1,one,
+,<p>his</p>
+,<p>your</p>
+*,<p>their</p>
+<p>That's not ____ (моя) toy. My toy is in my bag.</p>,1,one,
+*,<p>my</p>
+,<p>your</p>
+,<p>our</p>
+"<p>My parents live in Tyumen, and where do ____ (ваши) parents live?</p>",1,one,
+*,<p>your</p>
+,<p>their</p>
+,<p>my</p>
+"<p>Does she like it? - No, she doesn't. But _____ (её) parents love it. </p>",1,one,
+,<p>their</p>
+,<p>his</p>
+*,<p>her</p>
+<p> That is _______ (его) CD.</p>,1,one,
+*,<p>his</p>
+,<p>our</p>
+,<p>my</p>
+<p>Jill and Jack write texts for ______ (их) school.</p>,1,one,
+,<p>ours</p>
+*,<p>their</p>
+,<p>yours</p>
+<p>I like____ (моя) new car. I am so happy!</p>,~1,one,
+,<p>his</p>
+,<p>their</p>
+*,<p>my</p>
