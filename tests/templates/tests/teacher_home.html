@@ -99,27 +99,30 @@
             gap: 10px;
         }
 
-                /* === Кнопки действий - светло-серые === */
+                       /* Очень светло-серые кнопки */
         .btn-small {
             padding: 8px 14px;
             font-size: 13px;
             border-radius: 6px;
             text-decoration: none;
-            background: #6c757d;        /* светло-серый (был тёмный) */
-            color: white;
+            background: #a0a8b0;        /* ещё светлее */
+            color: #2c2c2c;             /* тёмный текст, чтобы было читаемо */
             transition: all 0.2s ease;
-            border: none;
+            border: 1px solid #c1c7d0;
             white-space: nowrap;
         }
 
         .btn-small:hover {
-            background: #5a6268;        /* чуть темнее при наведении */
+            background: #8e979f;
+            color: #2c2c2c;
             transform: translateY(-1px);
         }
 
-        /* Красная кнопка "Удалить" */
+        /* Кнопка Удалить остаётся красной */
         .btn-small.delete-btn {
-            background: #E5543F !important;   /* оранжево-красный из брендбука */
+            background: #E5543F !important;
+            color: white !important;
+            border: none;
         }
 
         .btn-small.delete-btn:hover {
