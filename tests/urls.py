@@ -24,5 +24,6 @@ urlpatterns = [
     path('users/', views.users_list, name='users_list'),
     path('users/change-role/<int:user_id>/', views.change_role, name='change_role'),
     path('users/delete/<int:user_id>/', views.delete_user, name='delete_user'),
-    path('tags/add-inline/', views.tag_add_inline, name='tag_add_inline')
+    path('tags/add-inline/', views.tag_add_inline, name='tag_add_inline'),
+    path('invite/delete/<int:invite_id>/', views.delete_invite, name='delete_invite'),
 ]

@@ -580,3 +580,13 @@ def tag_add_inline(request):
             )
 
     return redirect('teacher_home')
+@staff_member_required
+def delete_invite(request, invite_id):
+    if request.user.role != 'admin':
+        return redirect('teacher_home')
+
+    invite = get_object_or_404(Invitation, id=invite_id)
+    invite.delete()
+
+    messages.success(request, 'Ссылка удалена')
+    return redirect('admin_panel')

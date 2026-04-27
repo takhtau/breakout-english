@@ -18,8 +18,6 @@
             margin-bottom: 25px;
         }
 
-        /* BUTTONS */
-
         .btn {
             background: #389bd9;
             color: white;
@@ -39,16 +37,12 @@
             background: #E5543F;
         }
 
-        /* HEADER */
-
         .header {
             display: flex;
             justify-content: space-between;
             align-items: center;
             margin-bottom: 25px;
         }
-
-        /* SECTION */
 
         .section {
             background: white;
@@ -62,8 +56,6 @@
             font-size: 18px;
             margin-bottom: 15px;
         }
-
-        /* TAG LIST */
 
         .tag-list {
             display: flex;
@@ -118,8 +110,6 @@
             filter: brightness(0.9);
         }
 
-        /* INVITES */
-
         .invite-item {
             display: flex;
             justify-content: space-between;
@@ -141,7 +131,6 @@
             text-align: center;
             padding: 20px 0;
         }
-
     </style>
 </head>
 <body>
@@ -186,42 +175,54 @@
     <!-- INVITES -->
 
     <div class="section">
-       <div class="section-title">🔗 Пригласительные ссылки</div>
-               <form method="post" style="margin-bottom: 15px;">
-                 {% csrf_token %}
+        <div class="section-title">🔗 Пригласительные ссылки</div>
 
-                <select name="role" style="padding:8px; border-radius:8px;">
-                    <option value="teacher">Учитель</option>
-                    <option value="moderator">Модератор</option>
-                 </select>
+        <!-- СОЗДАНИЕ -->
+        <form method="post" style="margin-bottom: 15px;">
+            {% csrf_token %}
 
-                 <button class="btn">➕ Создать ссылку</button>
-            </form>
+            <select name="role" style="padding:8px; border-radius:8px;">
+                <option value="teacher">Учитель</option>
+                <option value="moderator">Модератор</option>
+            </select>
+
+            <button class="btn">➕ Создать ссылку</button>
+        </form>
+
+        <!-- СПИСОК -->
         {% for invite in invitations %}
-        <div class="invite-item">
 
-            <div class="invite-link">
-    {{ request.build_absolute_uri }}/register/invite/{{ invite.code }}/
-</div>
+            {% with invite_url=request.scheme|add:"://"|add:request.get_host|add:"/register/invite/"|add:invite.code|add:"/" %}
 
-<div style="display:flex; gap:8px;">
-    <a href="#" class="btn-small copy-link"
-       data-url="{{ request.build_absolute_uri }}/register/invite/{{ invite.code }}/">
-       📋
-    </a>
+            <div class="invite-item">
 
-    {% if invite.used %}
-        <span class="btn-small" style="background:#ccc;">Использована</span>
-    {% endif %}
+                <div class="invite-link">
+                    {{ invite_url }}
+                </div>
 
-    <a href="{% url 'delete_invite' invite.id %}"
-       class="btn-small delete"
-       onclick="return confirm('Удалить ссылку?')">
-        🗑️
-    </a>
-</div>
+                <div style="display:flex; gap:8px;">
 
-        </div>
+                    <a href="#" class="btn-small copy-link"
+                       data-url="{{ invite_url }}">
+                       📋
+                    </a>
+
+                    {% if invite.used %}
+                        <span class="btn-small" style="background:#ccc;">Использована</span>
+                    {% endif %}
+
+                    <a href="{% url 'delete_invite' invite.id %}"
+                       class="btn-small delete"
+                       onclick="return confirm('Удалить ссылку?')">
+                        🗑️
+                    </a>
+
+                </div>
+
+            </div>
+
+            {% endwith %}
+
         {% empty %}
             <div class="empty">Нет ссылок</div>
         {% endfor %}
