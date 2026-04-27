@@ -2,170 +2,196 @@
 <html>
 <head>
     <title>Панель учителя</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
-            background: #f0f2f5;
-            padding: 30px;
-        }
-        .container { max-width: 1400px; margin: 0 auto; }
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin-bottom: 30px;
-        }
-        h1 { font-size: 28px; color: #1a1a2e; }
-        .btn {
-            background: #4CAF50;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 8px;
-            font-weight: 500;
-            transition: 0.2s;
-        }
-        .btn:hover {
-            background: red !important;
-        }
-        .stats-bar {
-            background: white;
-            padding: 12px 20px;
-            border-radius: 12px;
-            margin-bottom: 25px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 15px;
-        }
-        .search-box input {
-            padding: 10px 15px;
-            width: 280px;
-            border: 1px solid #ddd;
-            border-radius: 25px;
-            font-size: 14px;
-        }
-        .filters {
-            display: flex;
-            gap: 8px;
-            flex-wrap: wrap;
-        }
-        .filter-tag {
-            padding: 6px 14px;
-            border-radius: 20px;
-            background: white;
-            border: 1px solid #ddd;
-            cursor: pointer;
-            font-size: 13px;
-            transition: 0.2s;
-        }
-        .filter-tag:hover {
-            transform: translateY(-1px);
-        }
-        .filter-tag.active {
-            background: #4CAF50;
-            color: white;
-            border-color: #4CAF50;
-        }
-        .tests-list {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-            margin-bottom: 30px;
-        }
-        .test-card {
-            background: white;
-            border-radius: 12px;
-            padding: 15px 20px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 15px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-        }
-        .test-title {
-            flex: 2;
-            min-width: 200px;
-            font-size: 18px;
-            font-weight: 600;
-        }
-        .test-meta {
-            flex: 1;
-            display: flex;
-            gap: 15px;
-            font-size: 13px;
-            color: #666;
-        }
-        .test-actions {
-            display: flex;
-            gap: 10px;
-        }
+<style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
-                     /* Очень-очень светлые серые кнопки */
-        .btn-small {
-            padding: 8px 14px;
-            font-size: 13px;
-            border-radius: 6px;
-            text-decoration: none;
-            background: #e9ecef;        /* очень светлый серый */
-            color: #2c2c2c;             /* тёмный текст */
-            transition: all 0.2s ease;
-            border: 1px solid #ced4da;
-            white-space: nowrap;
-        }
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+        background: #f0f2f5;
+        padding: 30px;
+    }
 
-        .btn-small:hover {
-            background: #dee2e6;
-            border-color: #adb5bd;
-            transform: translateY(-1px);
-        }
+    .container { max-width: 1400px; margin: 0 auto; }
 
-        /* Кнопка "Удалить" — красная */
-        .btn-small.delete-btn {
-            background: #E5543F !important;
-            color: white !important;
-            border: none;
-        }
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 15px;
+        margin-bottom: 30px;
+    }
 
-        .btn-small.delete-btn:hover {
-            background: #d43d2a !important;
-        }
-        .tags-list {
-            flex: 1;
-            display: flex;
-            gap: 5px;
-            flex-wrap: wrap;
-        }
-        .tag {
-            padding: 4px 10px;
-            border-radius: 20px;
-            font-size: 11px;
-            font-weight: 500;
-            color: white;
-        }
-        .pagination {
-            display: flex;
-            justify-content: center;
-            gap: 8px;
-            margin-top: 20px;
-        }
-        .pagination a, .pagination span {
-            padding: 8px 12px;
-            border-radius: 6px;
-            text-decoration: none;
-            color: #333;
-            background: white;
-        }
-        .pagination .current {
-            background: #4CAF50;
-            color: white;
-        }
-    </style>
+    h1 { font-size: 28px; color: #1a1a2e; }
+
+    /* 🔵 КНОПКИ */
+    .btn {
+        background: #2C408D;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: 500;
+        transition: all 0.2s ease;
+    }
+
+    .btn:hover {
+        background: #008DD2;
+        transform: translateY(-1px);
+    }
+
+    /* 🔹 СТАТ БАР */
+    .stats-bar {
+        background: white;
+        padding: 12px 20px;
+        border-radius: 12px;
+        margin-bottom: 25px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .search-box input {
+        padding: 10px 15px;
+        width: 280px;
+        border: 1px solid #ddd;
+        border-radius: 25px;
+        font-size: 14px;
+    }
+
+    .filters {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    .filter-tag {
+        padding: 6px 14px;
+        border-radius: 20px;
+        background: white;
+        border: 1px solid #ddd;
+        cursor: pointer;
+        font-size: 13px;
+        transition: 0.2s;
+    }
+
+    .filter-tag:hover {
+        transform: translateY(-1px);
+    }
+
+    .filter-tag.active {
+        background: #2C408D;
+        color: white;
+        border-color: #2C408D;
+    }
+
+    /* 📦 КАРТОЧКИ ТЕСТОВ */
+    .tests-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-bottom: 30px;
+    }
+
+    .test-card {
+        background: white;
+        border-radius: 12px;
+        padding: 15px 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 15px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        transition: all 0.2s ease;
+    }
+
+    .test-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 16px rgba(44, 64, 141, 0.2);
+    }
+
+    .test-title {
+        flex: 2;
+        min-width: 200px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .test-actions {
+        display: flex;
+        gap: 10px;
+    }
+
+    /* 🔘 МАЛЕНЬКИЕ КНОПКИ */
+    .btn-small {
+        padding: 8px 14px;
+        font-size: 13px;
+        border-radius: 6px;
+        text-decoration: none;
+        background: #e9ecef;
+        color: #2c2c2c;
+        border: 1px solid #ced4da;
+        transition: all 0.2s ease;
+        white-space: nowrap;
+    }
+
+    .btn-small:hover {
+        background: #dee2e6;
+        border-color: #adb5bd;
+        transform: translateY(-1px);
+    }
+
+    /* 🔴 УДАЛЕНИЕ */
+    .btn-small.delete-btn {
+        background: #E5543F !important;
+        color: white !important;
+        border: none;
+    }
+
+    .btn-small.delete-btn:hover {
+        background: #d43d2a !important;
+    }
+
+    /* 🏷️ ТЕГИ */
+    .tags-list {
+        flex: 1;
+        display: flex;
+        gap: 5px;
+        flex-wrap: wrap;
+    }
+
+    .tag {
+        padding: 4px 10px;
+        border-radius: 20px;
+        font-size: 11px;
+        font-weight: 500;
+        color: white;
+    }
+
+    /* 📄 ПАГИНАЦИЯ */
+    .pagination {
+        display: flex;
+        justify-content: center;
+        gap: 8px;
+        margin-top: 20px;
+    }
+
+    .pagination a, .pagination span {
+        padding: 8px 12px;
+        border-radius: 6px;
+        text-decoration: none;
+        color: #333;
+        background: white;
+    }
+
+    .pagination .current {
+        background: #2C408D;
+        color: white;
+    }
+</style>
 </head>
 <body>
 <div class="container">
