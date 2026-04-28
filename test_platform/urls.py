@@ -10,5 +10,4 @@ urlpatterns = [
     path('accounts/', include('accounts.urls')),
     path('', lambda request: redirect('/tests/login/')),
     path('tests/', include('tests.urls')),
-    path('register/invite/<str:code>/', tests_views.register_by_invite, name='register_by_invite'),
 ]

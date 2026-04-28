@@ -6,7 +6,6 @@ urlpatterns = [
     path('', views.login_page, name='login_page'),
     path('teacher/', views.teacher_home, name='teacher_home'),
     path('admin-panel/', views.admin_panel, name='admin_panel'),
-    path('login/', views.login_page, name='login_page'),
 
     # ── Тесты ──
     path('test/<int:test_id>/', views.test_entry, name='test_entry'),
