@@ -136,9 +136,6 @@
             gap: 10px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.05);
             transition: all 0.2s ease;
-            text-decoration: none;
-            color: inherit;
-            cursor: pointer;
         }
 
         .test-card:hover {
@@ -165,7 +162,6 @@
             font-size: 12px;
             color: white;
             text-decoration: none;
-            pointer-events: none;
         }
 
         .actions {
@@ -278,7 +274,7 @@
 
     <div class="tests-list">
         {% for test in page_obj %}
-        <a href="{% url 'test_results' test.id %}" class="test-card">
+        <div class="test-card">
 
             <div>
                 <div class="test-title">{{ test.title }}</div>
@@ -296,25 +292,26 @@
             </div>
 
             <div class="actions">
-                <a href="{% url 'test_results' test.id %}" class="btn-small" onclick="event.stopPropagation()">📊</a>
-                <a href="{% url 'test_entry' test.id %}" class="btn-small" onclick="event.stopPropagation()">📋</a>
-                <span class="btn-small copy-link"
+                <a href="{% url 'test_results' test.id %}" class="btn-small" title="Результаты">📊</a>
+                <a href="{% url 'test_entry' test.id %}" class="btn-small" title="Пройти тест">📋</a>
+                <a href="#" class="btn-small copy-link"
                    data-url="{{ request.scheme }}://{{ request.get_host }}{% url 'test_entry' test.id %}"
-                   onclick="event.stopPropagation()">🔗</span>
+                   title="Скопировать ссылку">🔗</a>
 
                 {% if user.role == 'admin' %}
-                    <a href="{% url 'edit_test' test.id %}" class="btn-small" onclick="event.stopPropagation()">✏️</a>
+                    <a href="{% url 'edit_test' test.id %}" class="btn-small" title="Редактировать">✏️</a>
                     <a href="{% url 'delete_test' test.id %}"
                        class="btn-small delete-btn"
-                       onclick="event.stopPropagation(); return confirm('Удалить тест «{{ test.title|escapejs }}»? Это действие необратимо!')">🗑️</a>
+                       title="Удалить"
+                       onclick="return confirm('Удалить тест «{{ test.title|escapejs }}»? Это действие необратимо!')">🗑️</a>
                 {% endif %}
             </div>
-        </a>
+
+        </div>
         {% empty %}
             <p class="empty-state">Нет тестов</p>
         {% endfor %}
     </div>
-
     <div class="pagination">
         {% if page_obj.has_previous %}
             <a href="?page={{ page_obj.previous_page_number }}&search={{ search_query }}&tag={{ current_tag }}" class="btn">
@@ -336,7 +333,6 @@
 <script>
 document.querySelectorAll('.copy-link').forEach(btn => {
     btn.addEventListener('click', function(e) {
-        e.stopPropagation();
         e.preventDefault();
         navigator.clipboard.writeText(this.dataset.url).then(() => {
             this.innerHTML = '✅';
