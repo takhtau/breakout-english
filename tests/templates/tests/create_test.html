@@ -3,93 +3,138 @@
 <head>
     <title>Создание теста</title>
     <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: Arial, sans-serif;
-            max-width: 600px;
-            margin: 50px auto;
-            padding: 20px;
-            background: #f5f5f5;
-        }
-        .form-container {
-            background: white;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            background: #f0f4f8;
             padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .header {
+            margin-bottom: 25px;
         }
         h1 {
-            text-align: center;
-            margin-bottom: 30px;
+            font-size: 28px;
+            margin-bottom: 10px;
         }
-        input, select, textarea {
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 14px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        label {
+            font-weight: 600;
+            font-size: 14px;
+            color: #555;
+            display: block;
+            margin-top: 15px;
+            margin-bottom: 5px;
+        }
+        input[type="text"],
+        textarea {
             width: 100%;
-            padding: 10px;
-            margin: 10px 0;
+            padding: 10px 14px;
             border: 1px solid #ddd;
-            border-radius: 5px;
-            font-size: 16px;
+            border-radius: 10px;
+            font-size: 15px;
+            font-family: inherit;
         }
-        button {
-            background: #4CAF50;
+        textarea {
+            resize: vertical;
+            min-height: 80px;
+        }
+        .tags-group {
+            margin-top: 15px;
+        }
+        .tags-group label {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-right: 12px;
+            margin-bottom: 8px;
+            font-weight: 400;
+            cursor: pointer;
+        }
+        .tag-badge {
+            padding: 4px 10px;
+            border-radius: 20px;
+            color: white;
+            font-size: 12px;
+        }
+        .btn {
+            background: #389bd9;
             color: white;
             padding: 12px 20px;
+            border-radius: 10px;
             border: none;
-            border-radius: 5px;
             cursor: pointer;
             font-size: 16px;
             width: 100%;
+            margin-top: 20px;
+            transition: 0.2s;
         }
-        button:hover {
-            background: #45a049;
+        .btn:hover {
+            transform: translateY(-2px);
+            filter: brightness(0.95);
         }
         .back-link {
             display: inline-block;
-            margin-top: 20px;
-            color: #666;
-        }
-        .errorlist {
-            color: red;
+            margin-top: 15px;
+            color: #389bd9;
+            text-decoration: none;
             font-size: 14px;
+            transition: 0.2s;
         }
-        .tags-group {
-            margin: 15px 0;
-            padding: 10px;
-            background: #f9f9f9;
-            border-radius: 8px;
-        }
-        .tags-group label {
-            display: inline-block;
-            margin-right: 15px;
-            margin-bottom: 10px;
+        .back-link:hover { filter: brightness(0.8); }
+        .errorlist {
+            color: #E5543F;
+            font-size: 13px;
+            list-style: none;
+            padding: 0;
+            margin: 4px 0;
         }
     </style>
 </head>
 <body>
-    <div class="form-container">
+
+<div class="container">
+    <div class="header">
         <h1>📝 Создание нового теста</h1>
+        <a href="{% url 'teacher_home' %}" class="back-link">← Назад</a>
+    </div>
+
+    <div class="card">
         <form method="post">
             {% csrf_token %}
-            
-            <label>Название теста:</label>
+
+            <label>Название теста</label>
             {{ form.title }}
-            
-            <label>Описание:</label>
+
+            <label>Описание</label>
             {{ form.description }}
-            
+
             <div class="tags-group">
-                <label>Теги:</label><br>
-                {% for tag in all_tags %}
-                    <label style="display: inline-block; margin-right: 15px;">
-                        <input type="checkbox" name="tags" value="{{ tag.id }}">
-                        <span style="background: {{ tag.color }}; padding: 2px 8px; border-radius: 12px; color: white;">
-                            {{ tag.name }}
-                        </span>
-                    </label>
-                {% endfor %}
+                <label>Теги</label>
+                <div style="margin-top: 5px;">
+                    {% for tag in all_tags %}
+                        <label>
+                            <input type="checkbox" name="tags" value="{{ tag.id }}">
+                            <span class="tag-badge" style="background: {{ tag.color }};">
+                                {{ tag.name }}
+                            </span>
+                        </label>
+                    {% endfor %}
+                </div>
             </div>
-            
-            <button type="submit">Создать тест и продолжить</button>
+
+            <button type="submit" class="btn">Создать тест и продолжить</button>
         </form>
-        <a href="{% url 'teacher_home' %}" class="back-link">← Назад к списку тестов</a>
     </div>
+</div>
+
 </body>
 </html>
