@@ -71,6 +71,24 @@
         {{ student_form.as_p }}
         <button type="submit" name="student_login">Начать</button>
     </form>
+
+    <div style="text-align: center; margin-top: 20px; padding-top: 15px; border-top: 1px solid #eef3f7;">
+        {% if user.is_authenticated and user.is_staff %}
+            <a href="{% url 'test_results' test.id %}"
+               style="background: transparent; color: #bbb; padding: 8px 16px; border-radius: 10px; border: 1px solid #e0e0e0; text-decoration: none; font-size: 13px; transition: 0.2s; display: inline-block;"
+               onmouseover="this.style.color='#999'; this.style.borderColor='#ccc'"
+               onmouseout="this.style.color='#bbb'; this.style.borderColor='#e0e0e0'">
+                👨‍🏫 Результаты теста
+            </a>
+        {% else %}
+            <a href="{% url 'teacher_results_redirect' test.id %}"
+               style="background: transparent; color: #ccc; padding: 8px 16px; border-radius: 10px; border: 1px solid #eee; text-decoration: none; font-size: 13px; transition: 0.2s; display: inline-block;"
+               onmouseover="this.style.color='#aaa'; this.style.borderColor='#ddd'"
+               onmouseout="this.style.color='#ccc'; this.style.borderColor='#eee'">
+                👨‍🏫 Войти как преподаватель
+            </a>
+        {% endif %}
+    </div>
 </div>
 
 </body>

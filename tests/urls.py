@@ -17,6 +17,7 @@ urlpatterns = [
     path('test/<int:test_id>/edit/', views.edit_test, name='edit_test'),
     path('test/<int:test_id>/delete/', views.delete_test, name='delete_test'),
     path('test/<int:test_id>/delete-results/', views.delete_test_results, name='delete_test_results'),
+    path('test/<int:test_id>/teacher-results/', views.teacher_results_redirect, name='teacher_results_redirect'),
 
     # ── Создание ──
     path('create/', views.create_test, name='create_test'),

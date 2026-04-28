@@ -18,6 +18,12 @@ User = get_user_model()
 # ──────────────────────────────────────────────
 # 🔐 СТРАНИЦА ЛОГИНА
 # ──────────────────────────────────────────────
+def teacher_results_redirect(request, test_id):
+    """Если залогинен staff — сразу на результаты теста, иначе на логин с возвратом"""
+    if request.user.is_authenticated and request.user.is_staff:
+        return redirect('test_results', test_id=test_id)
+    return redirect(f'/tests/login/?next=/tests/test/{test_id}/results/')
+
 def login_page(request):
     if request.user.is_authenticated and request.user.is_staff:
         return redirect('teacher_home')
@@ -31,12 +37,14 @@ def login_page(request):
             user = authenticate(request, username=username, password=password)
             if user is not None and user.is_staff:
                 login(request, user)
+                next_url = request.GET.get('next')
+                if next_url:
+                    return redirect(next_url)
                 return redirect('teacher_home')
             else:
                 form.add_error(None, 'Неверный логин, пароль или недостаточно прав.')
 
     return render(request, 'tests/login_page.html', {'form': form})
-
 
 # ──────────────────────────────────────────────
 # 📋 ПУБЛИЧНОЕ
