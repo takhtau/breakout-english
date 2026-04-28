@@ -143,28 +143,22 @@
     </div>
 
     <!-- TAGS -->
-
     <div class="section">
         <div class="section-title">🏷️ Теги</div>
-
         <a href="{% url 'tags_list' %}" class="btn" style="margin-bottom: 15px;">
             Управление тегами
         </a>
-
         <div class="tag-list">
             {% for tag in tags %}
             <div class="tag-item">
-
                 <span class="tag-name" style="background: {{ tag.color }};">
                     {{ tag.name }}
                 </span>
-
                 <div class="tag-actions">
                     <a href="{% url 'tag_edit' tag.id %}" class="btn-small">✏️</a>
                     <a href="{% url 'tag_delete' tag.id %}" class="btn-small delete"
                        onclick="return confirm('Удалить тег?')">🗑️</a>
                 </div>
-
             </div>
             {% empty %}
                 <div class="empty">Нет тегов</div>
@@ -173,58 +167,47 @@
     </div>
 
     <!-- INVITES -->
-
     <div class="section">
         <div class="section-title">🔗 Пригласительные ссылки</div>
 
-        <!-- СОЗДАНИЕ -->
         <form method="post" style="margin-bottom: 15px;">
             {% csrf_token %}
-
             <select name="role" style="padding:8px; border-radius:8px;">
                 <option value="teacher">Учитель</option>
                 <option value="moderator">Модератор</option>
             </select>
-
             <button class="btn">➕ Создать ссылку</button>
         </form>
 
-        <!-- СПИСОК -->
         {% for invite in invitations %}
-
             <div class="invite-item">
-
-                <div class="invite-link">
-                    {{ invite.url }}
-                </div>
-
+                <div class="invite-link">{{ invite.url }}</div>
                 <div style="display:flex; gap:8px;">
-
-                    <a href="#" class="btn-small copy-link"
-                       data-url="{{ invite.url }}">
-                       📋
-                    </a>
-
+                    <a href="#" class="btn-small copy-link" data-url="{{ invite.url }}">📋</a>
                     {% if invite.used %}
                         <span class="btn-small" style="background:#ccc;">Использована</span>
                     {% endif %}
-
                     <a href="{% url 'delete_invite' invite.id %}"
                        class="btn-small delete"
-                       onclick="return confirm('Удалить ссылку?')">
-                        🗑️
-                    </a>
-
+                       onclick="return confirm('Удалить ссылку?')">🗑️</a>
                 </div>
-
             </div>
-
         {% empty %}
             <div class="empty">Нет ссылок</div>
         {% endfor %}
     </div>
 
-</div>
+    <!-- ОПАСНАЯ ЗОНА -->
+    <div class="section">
+        <div class="section-title">⚠️ Опасная зона</div>
+        <a href="{% url 'delete_all_results' %}"
+           class="btn btn-danger"
+           onclick="return confirm('Удалить ВСЕ результаты всех учеников? Это необратимо!')">
+            🗑️ Удалить все результаты
+        </a>
+    </div>
+
+</div>  <!-- container -->
 
 <script>
 document.querySelectorAll('.copy-link').forEach(btn => {
