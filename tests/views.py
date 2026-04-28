@@ -41,12 +41,6 @@ def login_page(request):
 # ──────────────────────────────────────────────
 # 📋 ПУБЛИЧНОЕ
 # ──────────────────────────────────────────────
-def test_list(request):
-    storage = messages.get_messages(request)
-    storage.used = True
-    tests = Test.objects.all()
-    return render(request, 'tests/test_list.html', {'tests': tests})
-
 
 def test_entry(request, test_id):
     test = get_object_or_404(Test, id=test_id)
