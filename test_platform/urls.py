@@ -2,7 +2,6 @@ from django.contrib import admin
 from django.urls import path, include
 from django.shortcuts import redirect
 from django.contrib.auth.views import LogoutView
-from tests import views as tests_views
 
 urlpatterns = [
     path('accounts/logout/', LogoutView.as_view(next_page='/'), name='logout'),
