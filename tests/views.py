@@ -214,7 +214,18 @@ def test_result(request, result_id):
 # ──────────────────────────────────────────────
 @staff_member_required
 def teacher_home(request):
+    from django.db.models import Count, Q
+
     tests = Test.objects.all().order_by('-last_activity')
+
+    # Аннотация: уникальные ученики для каждого теста
+    tests = tests.annotate(
+        students_count=Count(
+            'result',
+            filter=~Q(result__first_name='') & ~Q(result__last_name=''),
+            distinct=True
+        )
+    )
 
     search_query = request.GET.get('search', '')
     if search_query:
@@ -234,7 +245,6 @@ def teacher_home(request):
         'all_tags': Tag.objects.all(),
         'current_tag': tag_filter,
     })
-
 
 # ──────────────────────────────────────────────
 # 🔗 РЕЗУЛЬТАТЫ ТЕСТА (список попыток)
