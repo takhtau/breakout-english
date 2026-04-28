@@ -642,6 +642,24 @@ def admin_panel(request):
             'url': request.build_absolute_uri(f'/register/invite/{inv.code}/'),
         })
 
+    # Счётчики
+    total_students = (
+        Result.objects
+        .exclude(first_name='', last_name='')
+        .values('first_name', 'last_name')
+        .distinct()
+        .count()
+    )
+    total_teachers = User.objects.filter(role='teacher').count()
+    total_moderators = User.objects.filter(role='moderator').count()
+
+    return render(request, 'tests/admin_panel.html', {
+        'invitations': invitations_with_urls,
+        'tags': Tag.objects.all(),
+        'total_students': total_students,
+        'total_teachers': total_teachers,
+        'total_moderators': total_moderators,
+    })
     return render(request, 'tests/admin_panel.html', {
         'invitations': invitations_with_urls,
         'tags': Tag.objects.all(),

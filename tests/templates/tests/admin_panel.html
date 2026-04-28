@@ -191,11 +191,23 @@
 
     <!-- БЫСТРЫЕ ДЕЙСТВИЯ -->
     <div class="section">
-        <div class="section-title">📋 Быстрые действия</div>
+        <div class="section-title">📋 Общая статистика</div>
         <div class="quick-actions">
+            <div class="quick-action-card">
+                <div class="quick-action-icon">🧑‍🎓</div>
+                <div class="quick-action-label">{{ total_students }} учеников</div>
+            </div>
+            <div class="quick-action-card">
+                <div class="quick-action-icon">👨‍🏫</div>
+                <div class="quick-action-label">{{ total_teachers }} учителей</div>
+            </div>
+            <div class="quick-action-card">
+                <div class="quick-action-icon">🛡️</div>
+                <div class="quick-action-label">{{ total_moderators }} модераторов</div>
+            </div>
             <a href="{% url 'users_list' %}" class="quick-action-card">
                 <div class="quick-action-icon">👥</div>
-                <div class="quick-action-label">Пользователи</div>
+                <div class="quick-action-label">Все пользователи</div>
             </a>
             <a href="{% url 'tags_list' %}" class="quick-action-card">
                 <div class="quick-action-icon">🏷️</div>
@@ -207,8 +219,7 @@
             </a>
         </div>
     </div>
-
-       <!-- ТЕГИ -->
+           <!-- ТЕГИ -->
     <div class="section">
         <div class="section-title">🏷️ Теги <span class="count-badge">{{ tags|length }}</span></div>
         <div class="tag-list">
