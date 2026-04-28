@@ -20,7 +20,7 @@
 
         h1 {
             text-align: center;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
 
         .student-block {
@@ -113,20 +113,77 @@
             transform: translateY(-1px);
             filter: brightness(0.95);
         }
+
+        .top-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .btn-back {
+            background: #389bd9;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-size: 14px;
+            transition: 0.2s;
+            display: inline-block;
+        }
+
+        .btn-back:hover {
+            transform: translateY(-1px);
+            filter: brightness(0.95);
+        }
+
+        .btn-delete {
+            background: #E5543F;
+            color: white;
+            padding: 8px 14px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-size: 13px;
+            transition: 0.2s;
+        }
+
+        .btn-delete:hover {
+            filter: brightness(0.9);
+            transform: translateY(-1px);
+        }
+
+        .students-count {
+            background: #f9fbfd;
+            border: 1px solid #e6edf3;
+            padding: 8px 14px;
+            border-radius: 10px;
+            font-size: 14px;
+            color: #555;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
     <h1>📊 {{ test.title }}</h1>
-     <div style="text-align:right; margin-bottom:10px;">
-       <a href="{% url 'delete_test_results' test.id %}"
-          class="btn-small delete"
-          onclick="return confirm('Удалить ВСЕ результаты этого теста?')">
-            🗑️ Очистить все результаты
-       </a>
+
+    <div class="top-bar">
+        <a href="{% url 'teacher_home' %}" class="btn-back">← Назад</a>
+
+        <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+            <div class="students-count">
+                🧑‍🎓 Прошли тест: <strong>{{ students|length }}</strong>
+            </div>
+            <a href="{% url 'delete_test_results' test.id %}"
+               class="btn-delete"
+               onclick="return confirm('Удалить ВСЕ результаты этого теста?')">
+                🗑️ Очистить
+            </a>
+        </div>
     </div>
-   
+
     {% for name, attempts in students.items %}
     <div class="student-block">
 
@@ -159,7 +216,7 @@
         <div class="empty">Пока нет результатов</div>
     {% endfor %}
 
-    <div style="text-align:center;">
+    <div style="margin-top: 25px;">
         <a href="{% url 'teacher_home' %}" class="back-link">
             ← Назад
         </a>

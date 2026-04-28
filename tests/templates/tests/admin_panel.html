@@ -208,14 +208,11 @@
         </div>
     </div>
 
-    <!-- ТЕГИ -->
+       <!-- ТЕГИ -->
     <div class="section">
         <div class="section-title">🏷️ Теги <span class="count-badge">{{ tags|length }}</span></div>
-        <a href="{% url 'tags_list' %}" class="btn btn-outline" style="margin-bottom: 15px;">
-            Все теги
-        </a>
         <div class="tag-list">
-            {% for tag in tags %}
+            {% for tag in tags|slice:":5" %}
             <div class="tag-item">
                 <span class="tag-name" style="background: {{ tag.color }};">
                     {{ tag.name }}
@@ -230,6 +227,16 @@
                 <div class="empty">Нет тегов</div>
             {% endfor %}
         </div>
+        {% if tags|length > 5 %}
+            <a href="{% url 'tags_list' %}" class="btn btn-outline" style="margin-top: 12px;">
+                Все теги ({{ tags|length }})
+            </a>
+        {% endif %}
+        {% if tags|length == 0 %}
+            <a href="{% url 'tags_list' %}" class="btn btn-outline" style="margin-top: 12px;">
+                Управление тегами
+            </a>
+        {% endif %}
     </div>
 
     <!-- ИНВАЙТЫ -->
