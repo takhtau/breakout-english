@@ -136,6 +136,9 @@
             gap: 10px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.05);
             transition: all 0.2s ease;
+            text-decoration: none;
+            color: inherit;
+            cursor: pointer;
         }
 
         .test-card:hover {
@@ -161,6 +164,8 @@
             border-radius: 20px;
             font-size: 12px;
             color: white;
+            text-decoration: none;
+            pointer-events: none;
         }
 
         .actions {
@@ -222,7 +227,7 @@
         </div>
 
         <div>
-                    {% if user.role == 'moderator' or user.role == 'admin' %}
+            {% if user.role == 'moderator' or user.role == 'admin' %}
                 <a href="{% url 'create_test' %}" class="btn">➕ Создать тест</a>
             {% endif %}
 
@@ -272,8 +277,8 @@
     {% endif %}
 
     <div class="tests-list">
-                {% for test in page_obj %}
-        <div class="test-card">
+        {% for test in page_obj %}
+        <a href="{% url 'test_results' test.id %}" class="test-card">
 
             <div>
                 <div class="test-title">{{ test.title }}</div>
@@ -284,33 +289,27 @@
                 {% endif %}
             </div>
 
-                <div class="tags-list">
-                    {% for tag in test.tags.all %}
-                    <a href="{% url 'test_results' test.id %}"
-                       class="tag"
-                       style="background: {{ tag.color }}; text-decoration: none; cursor: pointer;">
-                        {{ tag.name }}
-                    </a>
+            <div class="tags-list">
+                {% for tag in test.tags.all %}
+                    <span class="tag" style="background: {{ tag.color }}">{{ tag.name }}</span>
                 {% endfor %}
             </div>
 
             <div class="actions">
-                <a href="{% url 'test_results' test.id %}" class="btn-small" title="Результаты">📊</a>
-                <a href="{% url 'test_entry' test.id %}" class="btn-small" title="Пройти тест">📋</a>
-                <a href="#" class="btn-small copy-link"
+                <span class="btn-small" onclick="event.stopPropagation(); window.location.href='{% url 'test_results' test.id %}'">📊</span>
+                <span class="btn-small" onclick="event.stopPropagation(); window.location.href='{% url 'test_entry' test.id %}'">📋</span>
+                <span class="btn-small copy-link"
                    data-url="{{ request.scheme }}://{{ request.get_host }}{% url 'test_entry' test.id %}"
-                   title="Скопировать ссылку">🔗</a>
+                   onclick="event.stopPropagation()">🔗</span>
 
                 {% if user.role == 'admin' %}
-                    <a href="{% url 'edit_test' test.id %}" class="btn-small" title="Редактировать">✏️</a>
-                    <a href="{% url 'delete_test' test.id %}"
-                        class="btn-small delete-btn"
-                        title="Удалить"
-                        onclick="return confirm('Удалить тест «{{ test.title|escapejs }}»? Это действие необратимо!')">🗑️</a>
+                    <span class="btn-small" onclick="event.stopPropagation(); window.location.href='{% url 'edit_test' test.id %}'">✏️</span>
+                    <span class="btn-small delete-btn"
+                          onclick="event.stopPropagation(); if(confirm('Удалить тест «{{ test.title|escapejs }}»? Это действие необратимо!')) window.location.href='{% url 'delete_test' test.id %}'">🗑️</span>
                 {% endif %}
             </div>
 
-        </div>
+        </a>
         {% empty %}
             <p class="empty-state">Нет тестов</p>
         {% endfor %}
@@ -337,6 +336,7 @@
 <script>
 document.querySelectorAll('.copy-link').forEach(btn => {
     btn.addEventListener('click', function(e) {
+        e.stopPropagation();
         e.preventDefault();
         navigator.clipboard.writeText(this.dataset.url).then(() => {
             this.innerHTML = '✅';
