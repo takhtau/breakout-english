@@ -37,6 +37,12 @@
             background: #E5543F;
         }
 
+        .btn-outline {
+            background: transparent;
+            color: #389bd9;
+            border: 2px solid #389bd9;
+        }
+
         .header {
             display: flex;
             justify-content: space-between;
@@ -131,6 +137,47 @@
             text-align: center;
             padding: 20px 0;
         }
+
+        .quick-actions {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 10px;
+        }
+
+        .quick-action-card {
+            background: #f9fbfd;
+            border: 1px solid #e6edf3;
+            border-radius: 12px;
+            padding: 15px;
+            text-align: center;
+            text-decoration: none;
+            color: #333;
+            transition: 0.2s;
+        }
+
+        .quick-action-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+
+        .quick-action-icon {
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+
+        .quick-action-label {
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .count-badge {
+            background: #389bd9;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            margin-left: 6px;
+        }
     </style>
 </head>
 <body>
@@ -138,15 +185,34 @@
 <div class="container">
 
     <div class="header">
-        <h1>⚙️ Управление</h1>
+        <h1>⚙️ Панель управления</h1>
         <a href="{% url 'teacher_home' %}" class="btn">← Назад</a>
     </div>
 
-    <!-- TAGS -->
+    <!-- БЫСТРЫЕ ДЕЙСТВИЯ -->
     <div class="section">
-        <div class="section-title">🏷️ Теги</div>
-        <a href="{% url 'tags_list' %}" class="btn" style="margin-bottom: 15px;">
-            Управление тегами
+        <div class="section-title">📋 Быстрые действия</div>
+        <div class="quick-actions">
+            <a href="{% url 'users_list' %}" class="quick-action-card">
+                <div class="quick-action-icon">👥</div>
+                <div class="quick-action-label">Пользователи</div>
+            </a>
+            <a href="{% url 'tags_list' %}" class="quick-action-card">
+                <div class="quick-action-icon">🏷️</div>
+                <div class="quick-action-label">Управление тегами</div>
+            </a>
+            <a href="{% url 'teacher_home' %}" class="quick-action-card">
+                <div class="quick-action-icon">📚</div>
+                <div class="quick-action-label">Библиотека тестов</div>
+            </a>
+        </div>
+    </div>
+
+    <!-- ТЕГИ -->
+    <div class="section">
+        <div class="section-title">🏷️ Теги <span class="count-badge">{{ tags|length }}</span></div>
+        <a href="{% url 'tags_list' %}" class="btn btn-outline" style="margin-bottom: 15px;">
+            Все теги
         </a>
         <div class="tag-list">
             {% for tag in tags %}
@@ -166,9 +232,9 @@
         </div>
     </div>
 
-    <!-- INVITES -->
+    <!-- ИНВАЙТЫ -->
     <div class="section">
-        <div class="section-title">🔗 Пригласительные ссылки</div>
+        <div class="section-title">🔗 Пригласительные ссылки <span class="count-badge">{{ invitations|length }}</span></div>
 
         <form method="post" style="margin-bottom: 15px;">
             {% csrf_token %}
@@ -207,7 +273,7 @@
         </a>
     </div>
 
-</div>  <!-- container -->
+</div>
 
 <script>
 document.querySelectorAll('.copy-link').forEach(btn => {
