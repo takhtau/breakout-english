@@ -296,19 +296,19 @@
             </div>
 
             <div class="actions">
-                <span class="btn-small" onclick="event.stopPropagation(); window.location.href='{% url 'test_results' test.id %}'">📊</span>
-                <span class="btn-small" onclick="event.stopPropagation(); window.location.href='{% url 'test_entry' test.id %}'">📋</span>
+                <a href="{% url 'test_results' test.id %}" class="btn-small" onclick="event.stopPropagation()">📊</a>
+                <a href="{% url 'test_entry' test.id %}" class="btn-small" onclick="event.stopPropagation()">📋</a>
                 <span class="btn-small copy-link"
                    data-url="{{ request.scheme }}://{{ request.get_host }}{% url 'test_entry' test.id %}"
                    onclick="event.stopPropagation()">🔗</span>
 
                 {% if user.role == 'admin' %}
-                    <span class="btn-small" onclick="event.stopPropagation(); window.location.href='{% url 'edit_test' test.id %}'">✏️</span>
-                    <span class="btn-small delete-btn"
-                          onclick="event.stopPropagation(); if(confirm('Удалить тест «{{ test.title|escapejs }}»? Это действие необратимо!')) window.location.href='{% url 'delete_test' test.id %}'">🗑️</span>
+                    <a href="{% url 'edit_test' test.id %}" class="btn-small" onclick="event.stopPropagation()">✏️</a>
+                    <a href="{% url 'delete_test' test.id %}"
+                       class="btn-small delete-btn"
+                       onclick="event.stopPropagation(); return confirm('Удалить тест «{{ test.title|escapejs }}»? Это действие необратимо!')">🗑️</a>
                 {% endif %}
             </div>
-
         </a>
         {% empty %}
             <p class="empty-state">Нет тестов</p>
