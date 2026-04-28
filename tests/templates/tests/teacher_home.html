@@ -131,7 +131,7 @@
             border-radius: 14px;
             display: flex;
             justify-content: space-between;
-            align-items: center;
+            align-items: flex-start;
             flex-wrap: wrap;
             gap: 10px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.05);
@@ -152,6 +152,8 @@
             display: flex;
             gap: 6px;
             flex-wrap: wrap;
+            min-width: 80px;
+            justify-content: flex-end;
         }
 
         .tag {
@@ -282,11 +284,13 @@
                 {% endif %}
             </div>
 
-            <div class="tags-list">
-                {% for tag in test.tags.all %}
-                    <span class="tag" style="background: {{ tag.color }}">
+                <div class="tags-list">
+                    {% for tag in test.tags.all %}
+                    <a href="{% url 'test_results' test.id %}"
+                       class="tag"
+                       style="background: {{ tag.color }}; text-decoration: none; cursor: pointer;">
                         {{ tag.name }}
-                    </span>
+                    </a>
                 {% endfor %}
             </div>
 
