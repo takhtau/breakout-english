@@ -12,6 +12,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-ine_yw@gf&hmv!!dqegp2
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '186.246.5.96',
     '147.45.143.127',
     'localhost',
     '127.0.0.1',
@@ -68,11 +69,14 @@ WSGI_APPLICATION = 'test_platform.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': '/app/data/db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'breakout_english',
+        'USER': 'breakout_admin',
+        'PASSWORD': 'твой_пароль',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
-
 # PostgreSQL (если есть переменные окружения)
 if os.environ.get('DB_NAME'):
     DATABASES = {
