@@ -111,8 +111,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 AUTH_USER_MODEL = 'accounts.User'
 LOGIN_URL = '/accounts/login/'
-LOGIN_REDIRECT_URL = '/'
-LOGOUT_REDIRECT_URL = '/'
+LOGIN_REDIRECT_URL = '/tests/teacher/'
+LOGOUT_REDIRECT_URL = '/tests/login/'
 
 # Для продакшена (если задана переменная окружения)
 if os.environ.get('DJANGO_PRODUCTION') == 'True':
