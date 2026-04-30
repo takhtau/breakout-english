@@ -231,10 +231,9 @@
                 <a href="{% url 'admin_panel' %}" class="btn">⚙️ Управление</a>
             {% endif %}
 
-            <form action="{% url 'logout' %}" method="post" style="display:inline;">
-                {% csrf_token %}
-                <button class="btn btn-danger">🚪 Выйти</button>
-            </form>
+                     
+             <a href="{% url 'logout' %}" class="btn btn-danger">🚪 Выйти</a>
+           
         </div>
     </div>
 
