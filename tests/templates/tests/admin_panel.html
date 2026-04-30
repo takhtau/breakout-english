@@ -255,11 +255,11 @@
                 <div class="invite-link">{{ invite.url }}</div>
                 <div style="display:flex; gap:8px;">
                     <a href="#" class="btn-small copy-link" data-url="{{ invite.url }}">📋</a>
-                                        {% if invite.expires_at and invite.expires_at < now %}
+                                                           {% if invite.expires_at and invite.expires_at < now %}
                         <span class="btn-small" style="background:#E5543F; color:white;">❌ Истекла</span>
                     {% else %}
                         <span class="btn-small" style="background:#4CAF50; color:white;">✅ Активна</span>
-                        <span style="font-size:11px; color:#999;">до {{ invite.expires_at|date:"d.m.Y" }}</span>
+                        <div style="font-size:10px; color:#999; margin-top:2px;">до {{ invite.expires_at|date:"d.m.Y" }}</div>
                     {% endif %}
                     <a href="{% url 'delete_invite' invite.id %}"
                        class="btn-small delete"
