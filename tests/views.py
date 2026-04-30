@@ -7,6 +7,7 @@ from django.core.paginator import Paginator
 from django.utils import timezone
 from django.db import transaction
 from django.contrib.auth import get_user_model
+from datetime import timedelta
 
 from .forms import StudentLoginForm, TeacherLoginForm, CreateTestForm, QuestionForm
 from .models import Test, Question, Answer, Result, StudentAnswer, Tag, Invitation
@@ -181,7 +182,7 @@ def test_result(request, result_id):
 
     if result.student and result.student != request.user:
         messages.error(request, 'Это не ваш результат!')
-        return redirect('test_list')
+        return redirect('teacher_home')
 
     percent = int(result.score / result.total * 100) if result.total > 0 else 0
 
@@ -602,14 +603,19 @@ def tag_add_inline(request):
 
 
 # ──────────────────────────────────────────────
-# 🔗 ИНВАЙТ-СИСТЕМА
+# 🔗 ИНВАЙТ-СИСТЕМА (МНОГОРАЗОВАЯ, 7 ДНЕЙ)
 # ──────────────────────────────────────────────
 def register_by_invite(request, code):
     try:
-        invitation = Invitation.objects.get(code=code, used=False)
+        invitation = Invitation.objects.get(code=code)
     except Invitation.DoesNotExist:
         return render(request, 'tests/invite_invalid.html', {
-            'error': 'Недействительная или уже использованная ссылка.'
+            'error': 'Недействительная ссылка.'
+        })
+
+    if invitation.expires_at and invitation.expires_at < timezone.now():
+        return render(request, 'tests/invite_invalid.html', {
+            'error': 'Срок действия ссылки истёк.'
         })
 
     if request.method == 'POST':
@@ -618,11 +624,8 @@ def register_by_invite(request, code):
             user = form.save(commit=False)
             user.role = invitation.role
             user.save()
-            invitation.used = True
-            invitation.save()
-            invitation.delete()
             login(request, user)
-            messages.success(request, 'Вы успешно зарегистрированы и вошли в систему!')
+            messages.success(request, '✅ Вы успешно зарегистрированы и вошли в систему!')
             return redirect('teacher_home')
     else:
         form = RegisterForm()
@@ -643,7 +646,10 @@ def admin_panel(request):
         if role not in ['teacher', 'moderator']:
             messages.error(request, 'Недопустимая роль')
             return redirect('admin_panel')
-        invitation = Invitation.objects.create(role=role)
+        invitation = Invitation.objects.create(
+            role=role,
+            expires_at=timezone.now() + timedelta(days=7)
+        )
         invite_url = request.build_absolute_uri(f'/register/invite/{invitation.code}/')
         messages.success(request, f'✅ Ссылка создана: {invite_url}')
         return redirect('admin_panel')
@@ -657,6 +663,7 @@ def admin_panel(request):
             'role': inv.role,
             'used': inv.used,
             'created_at': inv.created_at,
+            'expires_at': inv.expires_at,
             'url': request.build_absolute_uri(f'/register/invite/{inv.code}/'),
         })
 
@@ -677,10 +684,7 @@ def admin_panel(request):
         'total_students': total_students,
         'total_teachers': total_teachers,
         'total_moderators': total_moderators,
-    })
-    return render(request, 'tests/admin_panel.html', {
-        'invitations': invitations_with_urls,
-        'tags': Tag.objects.all(),
+        'now': timezone.now(),
     })
 
 
