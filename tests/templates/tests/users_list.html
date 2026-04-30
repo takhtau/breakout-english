@@ -115,19 +115,18 @@
             <tr>
                 <td>{{ user.username }}</td>
                 <td>{{ user.email }}</td>
-                <td>
-                    <form method="post" action="{% url 'change_role' user.id %}" style="display:inline;">
-                        {% csrf_token %}
-                        <select name="role" class="role-select" onchange="this.form.submit()">
-                            <option value="teacher" {% if user.role == 'teacher' %}selected{% endif %}>Учитель</option>
-                            <option value="moderator" {% if user.role == 'moderator' %}selected{% endif %}>Модератор</option>
-                        </select>
-                    </form>
-                </td>
-                <td>
-                    <a href="{% url 'delete_user' user.id %}"
-                       class="btn-small delete"
-                       onclick="return confirm('Удалить пользователя {{ user.username }}?')">🗑️</a>
+                 <td>
+                    {% if user.role == 'admin' %}
+                        <span>Администратор</span>
+                    {% else %}
+                        <form method="post" action="{% url 'change_role' user.id %}" style="display:inline;">
+                            {% csrf_token %}
+                            <select name="role" class="role-select" onchange="this.form.submit()">
+                                <option value="teacher" {% if user.role == 'teacher' %}selected{% endif %}>Учитель</option>
+                                <option value="moderator" {% if user.role == 'moderator' %}selected{% endif %}>Модератор</option>
+                            </select>
+                        </form>
+                    {% endif %}
                 </td>
             </tr>
             {% empty %}

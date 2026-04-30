@@ -687,6 +687,25 @@ def admin_panel(request):
         'now': timezone.now(),
     })
 
+@staff_member_required
+def change_role(request, user_id):
+    if request.user.role != 'admin':
+        messages.error(request, 'Доступ запрещён.')
+        return redirect('teacher_home')
+
+    user = get_object_or_404(User, id=user_id)
+    
+    # Защита админов от смены роли
+    if user.role == 'admin':
+        messages.error(request, 'Нельзя изменить роль администратора.')
+        return redirect('users_list')
+    
+    new_role = request.POST.get('role')
+    if new_role in ['teacher', 'moderator']:
+        user.role = new_role
+        user.save()
+        messages.success(request, f'Роль пользователя {user.username} изменена на {user.get_role_display()}')
+    return redirect('users_list')
 
 @staff_member_required
 def delete_invite(request, invite_id):
