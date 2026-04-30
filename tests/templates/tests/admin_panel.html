@@ -189,7 +189,7 @@
         <a href="{% url 'teacher_home' %}" class="btn">← Назад</a>
     </div>
 
-        <!-- СТАТИСТИКА + ДЕЙСТВИЯ -->
+    <!-- СТАТИСТИКА + ДЕЙСТВИЯ -->
     <div class="section">
         <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 15px; flex-wrap: wrap;">
             <span style="font-size: 14px; color: #555;">
@@ -202,11 +202,11 @@
         <div style="display: flex; gap: 10px; flex-wrap: wrap;">
             <a href="{% url 'users_list' %}" class="btn">👥 Пользователи</a>
             <a href="{% url 'tags_list' %}" class="btn">🏷️ Теги</a>
-            <a href="{% url 'teacher_home' %}" class="btn">📚 Библиотека тестов</a>
+            <a href="{% url 'teacher_home' %}" class="btn">📚 Библиотека</a>
         </div>
     </div>
-    
-           <!-- ТЕГИ -->
+
+    <!-- ТЕГИ -->
     <div class="section">
         <div class="section-title">🏷️ Теги <span class="count-badge">{{ tags|length }}</span></div>
         <div class="tag-list">
@@ -237,7 +237,7 @@
         {% endif %}
     </div>
 
-    <!-- ИНВАЙТЫ -->
+    <!-- INVITES -->
     <div class="section">
         <div class="section-title">🔗 Пригласительные ссылки <span class="count-badge">{{ invitations|length }}</span></div>
 
@@ -255,7 +255,7 @@
                 <div class="invite-link">{{ invite.url }}</div>
                 <div style="display:flex; gap:8px;">
                     <a href="#" class="btn-small copy-link" data-url="{{ invite.url }}">📋</a>
-                        {% if invite.expires_at and invite.expires_at < now %}
+                    {% if invite.expires_at and invite.expires_at < now %}
                         <span class="btn-small" style="background:#E5543F; color:white;">❌ Истекла</span>
                     {% else %}
                         <span class="btn-small" style="background:#4CAF50; color:white;">✅ Активна</span>
@@ -286,7 +286,13 @@
 document.querySelectorAll('.copy-link').forEach(btn => {
     btn.addEventListener('click', function(e) {
         e.preventDefault();
-        navigator.clipboard.writeText(this.dataset.url);
+        const url = this.dataset.url;
+        const textArea = document.createElement('textarea');
+        textArea.value = url;
+        document.body.appendChild(textArea);
+        textArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textArea);
         this.innerHTML = '✅';
         setTimeout(() => this.innerHTML = '📋', 1500);
     });
