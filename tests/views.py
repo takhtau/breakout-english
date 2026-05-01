@@ -624,7 +624,8 @@ def register_by_invite(request, code):
             user = form.save(commit=False)
             user.role = invitation.role
             user.save()
-            login(request, user)
+            from django.contrib.auth import login as auth_login
+            auth_login(request, user, backend='django.contrib.auth.backends.ModelBackend')
             messages.success(request, '✅ Вы успешно зарегистрированы и вошли в систему!')
             return redirect('teacher_home')
     else:
