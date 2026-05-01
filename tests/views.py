@@ -624,8 +624,7 @@ def register_by_invite(request, code):
             user = form.save(commit=False)
             user.role = invitation.role
             user.save()
-            from django.contrib.auth import login as auth_login
-            auth_login(request, user, backend='django.contrib.auth.backends.ModelBackend')
+            login(request, user, backend='django.contrib.auth.backends.ModelBackend')
             messages.success(request, '✅ Вы успешно зарегистрированы и вошли в систему!')
             return redirect('teacher_home')
     else:
@@ -635,7 +634,6 @@ def register_by_invite(request, code):
         'form': form,
         'role': invitation.get_role_display(),
     })
-
 
 @staff_member_required
 def admin_panel(request):
