@@ -235,7 +235,6 @@
                 {% csrf_token %}
                 <button class="btn btn-danger">🚪 Выйти</button>
             </form>
-           
         </div>
     </div>
 
@@ -300,7 +299,7 @@
                    title="Скопировать ссылку">🔗</a>
 
                 {% if user.role == 'admin' or user.role == 'moderator' %}
-                   <a href="{% url 'edit_test' test.id %}" class="btn-small" title="Редактировать">✏️</a>
+                    <a href="{% url 'edit_test' test.id %}" class="btn-small" title="Редактировать">✏️</a>
                 {% endif %}
                 {% if user.role == 'admin' %}
                     <a href="{% url 'delete_test' test.id %}"
@@ -308,6 +307,7 @@
                        title="Удалить"
                        onclick="return confirm('Удалить тест «{{ test.title|escapejs }}»? Это действие необратимо!')">🗑️</a>
                 {% endif %}
+            </div>
         </div>
         {% empty %}
             <p class="empty-state">Нет тестов</p>
