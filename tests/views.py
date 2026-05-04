@@ -620,14 +620,7 @@ def register_by_invite(request, code):
 
     if request.method == 'POST':
         form = RegisterForm(request.POST)
-        if request.method == 'POST':
-        form = RegisterForm(request.POST)
-        print("FORM DATA:", request.POST)
-        print("FORM VALID:", form.is_valid())
-        print("FORM ERRORS:", form.errors)
         if form.is_valid():
-        if form.is_valid():
-            print("ERRORS:", form.errors)
             user = form.save(commit=False)
             user.role = invitation.role
             user.set_password(form.cleaned_data['password'])
@@ -636,7 +629,7 @@ def register_by_invite(request, code):
             messages.success(request, '✅ Вы успешно зарегистрированы и вошли в систему!')
             return redirect('teacher_home')
     else:
-        form = RegisterForm()
+        form = RegisterForm()        form = RegisterForm()
 
     return render(request, 'tests/register_by_invite.html', {
         'form': form,
