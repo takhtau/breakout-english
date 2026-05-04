@@ -623,6 +623,7 @@ def register_by_invite(request, code):
         if form.is_valid():
             user = form.save(commit=False)
             user.role = invitation.role
+            user.set_password(form.cleaned_data['password'])
             user.save()
             login(request, user, backend='django.contrib.auth.backends.ModelBackend')
             messages.success(request, '✅ Вы успешно зарегистрированы и вошли в систему!')
