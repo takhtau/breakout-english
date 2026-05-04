@@ -33,7 +33,6 @@ def login_page(request):
     if request.method == 'POST':
         form = TeacherLoginForm(request.POST)
         if form.is_valid():
-            print("PASSWORD:", form.cleaned_data.get('password'))
             username = form.cleaned_data['username']
             password = form.cleaned_data['password']
             user = authenticate(request, username=username, password=password)
@@ -622,6 +621,7 @@ def register_by_invite(request, code):
     if request.method == 'POST':
         form = RegisterForm(request.POST)
         if form.is_valid():
+            print("ERRORS:", form.errors)
             user = form.save(commit=False)
             user.role = invitation.role
             user.set_password(form.cleaned_data['password'])
