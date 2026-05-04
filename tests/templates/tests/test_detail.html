@@ -105,6 +105,9 @@
 <div class="container">
     <div class="header">
         <h1>{{ test.title }}</h1>
+        {% if test.description %}
+    <p class="description">{{ test.description }}</p>
+   {% endif %}
     </div>
 
     <div class="card">
