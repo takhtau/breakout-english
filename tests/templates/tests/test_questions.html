@@ -129,7 +129,7 @@
             </ul>
             <div class="actions">
                 <a href="{% url 'edit_question' question.id %}" class="btn-small">✏️ Редактировать</a>
-                <a href="#" class="btn-small delete" onclick="return confirm('Удалить вопрос?')">🗑️ Удалить</a>
+                <a href="{% url 'delete_question' question.id %}" class="btn-small delete" onclick="return confirm('Удалить вопрос?')">🗑️ Удалить</a>
             </div>
         </div>
         {% endfor %}

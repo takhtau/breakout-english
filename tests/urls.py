@@ -23,6 +23,7 @@ urlpatterns = [
     path('create/', views.create_test, name='create_test'),
     path('add-questions/<int:test_id>/', views.add_questions, name='add_questions'),
 
+
     # ── Результаты ──
     path('result/<int:result_id>/', views.test_result, name='test_result'),
     path('result/<int:result_id>/detail/', views.result_detail, name='result_detail'),
@@ -31,6 +32,7 @@ urlpatterns = [
 
     # ── Вопросы ──
     path('question/<int:question_id>/edit/', views.edit_question, name='edit_question'),
+    path('question/<int:question_id>/delete/', views.delete_question, name='delete_question'),
 
     # ── Теги ──
     path('tags/', views.tags_list, name='tags_list'),

@@ -497,7 +497,14 @@ def admin_panel(request):
         'now': timezone.now(),
     })
 
-
+@staff_member_required
+def delete_question(request, question_id):
+    question = get_object_or_404(Question, id=question_id)
+    test_id = question.test.id
+    question.delete()
+    messages.success(request, 'Вопрос удалён.')
+    return redirect('test_questions', test_id=test_id)
+    
 @staff_member_required
 def delete_invite(request, invite_id):
     if request.user.role != 'admin':
