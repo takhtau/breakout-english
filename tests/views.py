@@ -19,7 +19,7 @@ User = get_user_model()
 def teacher_results_redirect(request, test_id):
     if request.user.is_authenticated and request.user.is_staff:
         return redirect('test_results', test_id=test_id)
-    return redirect(f'/tests/login/?next=/tests/test/{test_id}/results/')
+        return redirect(f'/tests/login/?next=/tests/test/{test_id}/results/')
 
 def login_page(request):
     if request.user.is_authenticated and request.user.is_staff:
@@ -62,18 +62,27 @@ def test_detail(request, test_id):
     last_name = request.session.get('student_last_name', '')
     if not first_name and not last_name:
         return redirect('test_entry', test_id=test_id)
+
     test = get_object_or_404(Test, id=test_id)
-    questions = Question.objects.filter(test=test)
+    questions = list(Question.objects.filter(test=test))
+    
+    # Перемешиваем вопросы
+    import random
+    random.shuffle(questions)
+
     questions_list = []
     for question in questions:
         answers = Answer.objects.filter(question=question)
-        questions_list.append({'question': question, 'answers': answers})
+        questions_list.append({
+            'question': question,
+            'answers': answers,
+        })
+
     return render(request, 'tests/test_detail.html', {
         'test': test,
         'questions_list': questions_list,
     })
-
-
+    
 @transaction.atomic
 def submit_test(request, test_id):
     test = get_object_or_404(Test, id=test_id)
