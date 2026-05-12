@@ -290,16 +290,29 @@ def create_test(request):
 @staff_member_required
 def add_questions(request, test_id):
     test = get_object_or_404(Test, id=test_id)
+    
+    # Запоминаем количество ответов из прошлого запроса
+    last_num_answers = request.POST.get('num_answers', request.session.get('num_answers', 4))
+    
     if request.method == 'POST':
         form = QuestionForm(request.POST)
         if form.is_valid():
-            question = Question.objects.create(test=test, text=form.cleaned_data['question_text'])
+            question = Question.objects.create(
+                test=test,
+                text=form.cleaned_data['question_text']
+            )
             num_answers = int(request.POST.get('num_answers', 4))
+            # Сохраняем в сессию
+            request.session['num_answers'] = num_answers
             correct_index = int(request.POST.get('correct_answer'))
             for i in range(1, num_answers + 1):
                 answer_text = request.POST.get(f'answer_{i}')
                 if answer_text:
-                    Answer.objects.create(question=question, text=answer_text, is_correct=(i == correct_index))
+                    Answer.objects.create(
+                        question=question,
+                        text=answer_text,
+                        is_correct=(i == correct_index)
+                    )
             messages.success(request, 'Вопрос добавлен!')
             if 'add_another' in request.POST:
                 return redirect('add_questions', test_id=test.id)
@@ -308,7 +321,13 @@ def add_questions(request, test_id):
             return redirect('teacher_home')
     else:
         form = QuestionForm()
-    return render(request, 'tests/add_questions.html', {'form': form, 'test': test})
+        last_num_answers = 4
+
+    return render(request, 'tests/add_questions.html', {
+        'form': form,
+        'test': test,
+        'last_num_answers': int(last_num_answers),
+    })
 
 
 @staff_member_required

@@ -130,11 +130,11 @@
             <div class="num-select">
                 <label>Количество вариантов ответа</label>
                 <select name="num_answers" id="num_answers">
-                    <option value="2">2</option>
-                    <option value="3">3</option>
-                    <option value="4" selected>4</option>
-                    <option value="5">5</option>
-                    <option value="6">6</option>
+                   <option value="2" {% if last_num_answers == 2 %}selected{% endif %}>2</option>
+                   <option value="3" {% if last_num_answers == 3 %}selected{% endif %}>3</option>
+                   <option value="4" {% if last_num_answers == 4 %}selected{% endif %}>4</option>
+                   <option value="5" {% if last_num_answers == 5 %}selected{% endif %}>5</option>
+                   <option value="6" {% if last_num_answers == 6 %}selected{% endif %}>6</option>
                 </select>
             </div>
 
