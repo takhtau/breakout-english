@@ -19,7 +19,7 @@ User = get_user_model()
 def teacher_results_redirect(request, test_id):
     if request.user.is_authenticated and request.user.is_staff:
         return redirect('test_results', test_id=test_id)
-        return redirect(f'/tests/login/?next=/tests/test/{test_id}/results/')
+    return redirect(f'/tests/login/?next=/tests/test/{test_id}/results/')
 
 def login_page(request):
     if request.user.is_authenticated and request.user.is_staff:
